@@ -6023,6 +6023,225 @@ div.surveyContainer > div:last-of-type{
 
 /************** end texSecs *************************/
 
+/************** sliderIcons ********************/
+
+ .sliderContainer{
+
+            /* width: 1395px;
+            height: 720px; */
+            overflow: hidden;
+            position: relative;
+            font-family: calibri;
+
+            & .sliderImgContainer{
+                width: 154.121%;
+                position: relative;
+
+                & img{
+                    display: block;
+                    width: 100%;
+                }
+
+                & div:nth-of-type(1){
+                    position: absolute;
+                    left: 6rem;
+                    top: 3rem;
+                    width: 20rem;
+                    font-size: 1.5rem;
+                }
+
+                 & div:nth-of-type(2){
+                    position: absolute;
+                    right: 6rem;
+                    top: 3rem;
+                    width: 20rem;
+                }
+            }   
+
+            & .sliderOuterContentContainer{
+                position: absolute;
+                top:0;
+                left:0;
+                background-color: #004f71;
+                width: 100%;
+                height: 100%;
+                opacity:0;
+                visibility: hidden;
+            }
+            
+            & .sliderIconContainer{
+
+                display: grid;
+                grid-template-columns: .9fr repeat(5, 1fr);
+                grid-template-rows: 0.6fr 1fr 1fr;
+                place-items: center;
+                height: 100%;
+                width: 100%;
+
+                & > p{
+                    grid-row: 3;
+                    grid-column: 3 / 5;                    
+                    place-self: normal;
+                    position: relative;
+                    top: -1.5rem;
+                    width: auto;
+                    text-align: center;
+                    color: #fff;
+                    font-size: 1.25rem;
+                    text-transform: uppercase;
+                    letter-spacing: .06rem;
+                }                
+
+                 & .sliderIcon{
+                    width: 14rem;
+                    height: 14rem;
+                    border-radius: 50%;
+                    cursor: pointer;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    flex-direction: column;
+                    position: relative;
+                    top: 0.5rem;
+
+                    &:hover{
+                        background-color: #ffffff33;
+                    }
+
+                    & > img:first-of-type{
+                        width: 8rem;
+                    }     
+                    
+                    & > img:nth-of-type(2){
+                        width: 1rem;
+                        visibility: hidden;
+                    }  
+                    
+                    & > p{
+                        text-align: center;
+                        width: 6rem;
+                        color: #efb94e;
+                    }
+                }
+
+                & .sliderIcon:nth-of-type(1){
+                    grid-row: 2;
+                    grid-column: 3;
+                }
+
+                & .sliderIcon:nth-of-type(2){
+                    grid-row: 2;
+                    grid-column: 4;
+                }
+            }
+
+            & .sliderInnerContentContainer{
+
+                position: absolute;
+                top:0;
+                left:0;
+                display: grid;
+                grid-template-areas: "stack";
+                
+
+                & .sliderContent{
+
+                    display: none;
+                    grid-area: stack;
+                    translate: .25px;
+
+                    &>img{
+                        display: block;
+                    }
+
+                    & .sliderRoundShape{
+                        height: 150%;
+                        width: 75%;
+                        background-color: #4846465c;
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        translate: 77% -16%;
+                        border-radius: 50%;
+                        -webkit-backdrop-filter: blur(.5rem);
+                        backdrop-filter: blur(.5rem);
+                    }
+
+                    & > .sliderVerticalBar{
+                        font-size: 0;
+                        width: 0.55rem;
+                        height: 30rem;
+                        background-color: #ffffff55;
+                        position: absolute;
+                        top: 9.5rem;
+                        right: 3rem;
+                        border-radius: 0.5rem;
+                        translate: .25px;
+                    }
+
+                    & > img.slClose{
+                        position: absolute;
+                        top: 2rem;
+                        right: 2.2rem;
+                        width: 2rem;
+                        cursor: pointer;
+                        translate: .25px;
+                    }
+
+                    & .sliderTextContainer{
+
+                        padding: 0 4rem;
+                        margin-top: 8rem;
+                        position: absolute;
+                        top: 0;
+                        right: 3rem;
+                        width: 24rem;
+                        height: 36rem;
+                        overflow-y: auto;
+                        /* overflow-x: clip; */
+                        /* background-color: red; */
+
+                        & > p{
+                            color: #fff;
+                        }
+
+                        & > p:first-of-type{
+                            text-transform: uppercase;
+                            font-size: 1.25rem;
+                        }
+                    }                    
+                }
+
+                & .sliderContent.slLeft{
+
+                     & .sliderTextContainer{
+                        right: auto;
+                        left: 3rem;                       
+                     }
+
+                    & > .sliderVerticalBar{
+                        right: auto;
+                        left: 3rem;
+                    }
+
+                    & > img.slClose{
+                        right: auto;
+                        left: 2.2rem;
+                    }
+
+                    & .sliderRoundShape{
+                        left: auto;
+                        right:0;
+                        translate: -77% -16%;
+                    }
+                    
+                }
+            }
+                   
+        }
+
+/************** end sliderIcons *****************/
+
 /************** overrides **********************/
 
 div.screen#C_1>img.fullscreenImg+div {
@@ -6036,105 +6255,36 @@ div.screen#C_1>img.fullscreenImg+div {
 	font-size: 2.4rem;
 	line-height: 1.15;
 	margin-top: 3.375rem;
+	color: #fff;
 }
 
 div.screen#C_1>img.fullscreenImg+div {
 	width: 18rem;
 }
 
-.toc2Lhs{
-	top: -1.4rem;
-}
-
-.topicBar:last-of-type{
-	padding-bottom: 1rem;;
-}
-
-#C_3 > div,
-#C_4 > div,
-#C_9 > div,
-#C_10 > div,
-#C_14 > div,
-#C_21 > div,
-#C_22 > div,
-#C_36 > div,
-#C_45 > div,
-#C_47 > div,
-#C_51 > div,
-#C_53 > div,
-#C_60 > div,
-#C_61 > div,
-#C_62 > div,
-#C_63 > div
+#C_7 > div,
+#C_6 > div,
+#C_5 > div,
+#C_2 > div
 {
 	color: #fff;
 }
 
-#C_3 > div,
-#C_8 > div,
-#C_9 > div,
-#C_23 > div,
-#C_27 > div,
-#C_50 > div,
-#C_51 > div
+
+#C_51x > div
 {
 	left: auto;
     right: 0;
 }
 
-#C_24 > div > p{
+#C_24x > div > p{
 	font-size: 1rem;
 	font-family: Calibri, sans-serif;
 }
 
-#C_31 .newsScreen{
-	background-color: #eee5de;
-}
-
-#C_35 .newsScreen{
-	background-color: #D8D8E2;
-}
-
-#C_49 .newsScreen{
-	background-color: #f8f8fa;
-}
-
-#C_50 .newsScreen{
-	background-color: #cbd8e0;
-}
 
 
-/*#C_7 > div,
-#C_9 > div,
-#C_10 > div,
-#C_12 > div,
-#C_14 > div,
-#C_16 > div,
-#C_18 > div,
-#C_22 > div,
-#C_29 > div,
-#C_35 > div,
-#C_36 > div,
-#C_37 > div,
-#C_38 > div,
-#C_39 > div,
-#C_40 > div
-{
-	color: #fff;
-}
 
-#C_7 > div,
-#C_21 > div,
-#C_22 > div,
-#C_28 > div,
-#C_36 > div,
-#C_38 > div
-{
-	left: auto;
-    right: 0;
-}
-
- */
 
 /************ end overrides **********************/
 

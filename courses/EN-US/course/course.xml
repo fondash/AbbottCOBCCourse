@@ -2,7 +2,7 @@
 <course framework="2"
         helpId="C_200"
         id="iwc"
-        noaudio="false"
+        noaudio="true"
         homeId="C_4"
         version="1"
         alwayshowRef="C_200"
@@ -125,7 +125,7 @@
                <div class="topicBar">
                   <p>1</p>
                   <p>Welcome</p>
-                  <p>0</p>
+                  <p>1 minute</p>
                   <hr/>
                   <hr class="greenProgLine"/>
                   <div class="toc2ImgCon">
@@ -135,7 +135,7 @@
                <div class="topicBar">
                   <p>2</p>
                   <p>The Importance of Abbott’s Code of Business Conduct </p>
-                  <p>0</p>
+                  <p>2 minutes</p>
                   <hr/>
                   <hr class="greenProgLine"/>
                   <div class="toc2ImgCon">
@@ -145,7 +145,7 @@
                <div class="topicBar">
                   <p>3</p>
                   <p>Our Code</p>
-                  <p>0</p>
+                  <p>18 minutes</p>
                   <hr/>
                   <hr class="greenProgLine"/>
                   <div class="toc2ImgCon">
@@ -155,7 +155,7 @@
                <div class="topicBar">
                   <p>4</p>
                   <p>Your Commitment </p>
-                  <p>0</p>
+                  <p>1 minute</p>
                   <hr/>
                   <hr class="greenProgLine"/>
                   <div class="toc2ImgCon">
@@ -165,7 +165,7 @@
                <div class="topicBar">
                   <p>5</p>
                   <p>Knowledge Check</p>
-                  <p>0</p>
+                  <p>5 minutes</p>
                   <hr/>
                   <hr class="greenProgLine"/>
                   <div class="toc2ImgCon">
@@ -213,7 +213,6 @@
       <div id="C_7" class="screen" data-autoAudio="3_1_1">
          <img src="images/3_1_1.jpg" class="fullscreenImg"/>
          <div>
-            <p>Section 1: Overview </p>
             <p>Understanding the Code is everyone’s responsibility.</p>
             <p>Each of us has a role in applying the Code of Business Conduct to our daily work and decision-making. It’s not just a document—it’s a guide that helps us navigate challenges with integrity and confidence. </p>
             <p>In the sections ahead, we’ll explore the key principles of the Code and see how they come to life in our everyday actions and choices. </p>
