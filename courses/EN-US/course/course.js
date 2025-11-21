@@ -1451,7 +1451,8 @@ lnx.nav = {
         "verticalParallax": true,
         "quickCheck": true,
         "animVer": true,
-        "clickAndAnimateText": true
+        "clickAndAnimateText": true,
+        "sliderIcons": true
     },
     screenLocked: false,
     currNode: null,
@@ -2529,7 +2530,8 @@ lnx.view = {
             "confirmation": lnx.confirmation,
             "quickCheck": lnx.quickCheck,
             "animVer": lnx.animVer,
-            "clickAndAnimateText": lnx.clickAndAnimateText
+            "clickAndAnimateText": lnx.clickAndAnimateText,
+            "sliderIcons": lnx.sliderIcons
         };
 
         this.topicNav = document.querySelectorAll(".navProg > p");
@@ -10373,6 +10375,205 @@ lnx.clickAndAnimateText = {
         this.hasAudio = false;
     }
 };
+
+lnx.sliderIcons = {
+
+    screen: 0,
+    numScreens: 3,
+
+    init : function( node, screenElm, frameElm, origNavId){
+        screenElm = node = document.querySelector(".sliderContainer");
+        
+        var self = this;
+        this.complete = false;
+        this.message = screenElm.querySelector(".userNotice");
+        this.id = screenElm.getAttribute("id");    
+        this.resId = node.getAttribute("resId");
+        this.screen = 0;
+
+        let tl = null;
+        let slContent = null;
+        this.intro = screenElm.querySelector('.sliderImgContainer');
+        this.main = screenElm.querySelector('.sliderOuterContentContainer');
+        this.iconContainer = screenElm.querySelector('.sliderIconContainer');     
+        this.items =  this.iconContainer.querySelectorAll('.sliderIcon');
+        this.iconContainer.addEventListener('click', onIconClick);
+        setTimeout(()=> self.insertVirtualScreen("next")); 
+
+        function onIconClick(e){
+
+            let tg = null;
+            if(e.target.classList.contains('sliderIcon')){
+                tg = e.target;
+            } else {
+                let t = e.target;
+                while(t !== e.currentTarget){
+                    t = t.parentNode;
+                    if(t.classList.contains('sliderIcon')){
+                        tg = t;
+                        break;
+                    }
+                }
+            }
+            if(tg){
+                tg.setAttribute("data-complete", "true");
+                tg.querySelectorAll("img")[1].style.visibility = "visible";
+                let num = parseInt(tg.getAttribute("data-target"));
+                slContent = screenElm.querySelectorAll('.sliderContent')[num-1];
+                let outer = 1200;
+                let bcr = tg.getBoundingClientRect();
+                let r = bcr.width/2;
+                let x = bcr.x + bcr.width /2;
+                let y = bcr.y + bcr.height /2;
+
+                tl = gsap.timeline();
+                tl.set(slContent, {autoAlpha: 1});
+                tl.fromTo(slContent, {display: "block", clipPath: `circle(${r}px at ${x}px ${y}px)` }, {clipPath: `circle(${outer}px at ${x}px ${y}px)`, duration: 1.5, ease: "power3.in", onComplete: onComplete, onReverseComplete: onReverseComplete});
+
+                let rs = slContent.querySelector('.sliderRoundShape');
+                let tx = slContent.querySelector('.sliderTextContainer');
+                let close = slContent.querySelector('img.slClose');
+                let vBar = slContent.querySelector('.sliderVerticalBar');
+                close.onclick = onClose;
+                let tl2 = gsap.timeline();
+                let dx = .25;
+                tl2.set([tx,close,vBar], {x: `${dx}%`, opacity: 0}); // fix to force browser  render text
+                let dir = (slContent.classList.contains('slLeft') === true) ? "" : "-";
+                tl2.from(rs, {scale: 1.3, x: `${dir}120%`, delay: 1.6, duration: 1, ease: "power3.out"});
+                tl2.to([tx,close,vBar], {opacity: 1, duration: 1});
+
+                checkForCompletion();
+            }
+        }
+
+        function onClose(e){
+            tl.reverse();
+        }
+
+        function onComplete(e){
+            console.log('complete');                    
+        }
+
+        function onReverseComplete(e){
+            console.log('reversecomplete');
+            let tl3 = gsap.timeline();
+            tl3.to(slContent, {autoAlpha: 0});
+            tl3.set(slContent, {display: "none"});
+        }
+
+        function checkForCompletion(){
+            var complete = true;
+            for(var i=0;i<self.items.length;i++){
+                if(self.items[i].getAttribute("data-complete") !== "true"){
+                    complete = false;
+                    break;
+                }
+            }
+            if(complete){
+                self.complete = complete;
+                lnx.cache.setValue("complete", self.scrId, true);
+                lnx.view.onScreenComplete();
+            }
+            return complete;
+        }
+            
+    },
+
+    insertVirtualScreen: function(dir, showFinalReverse){        
+        if(showFinalReverse){
+            // screen will be decrimented to correct value below in "prev" conditional
+            this.screen = this.numScreens + 1;            
+        }
+        
+        if(dir === "next"){
+                if(this.screen < this.numScreens){
+                    this.screen++;
+                    this.updateVirtualScreen(dir);
+                    return true;
+                }else{
+                    return false;
+                }
+        }else if(dir === "prev"){
+            if(this.screen <= 1){
+                return false;
+            }else{
+                this.screen--;
+                this.updateVirtualScreen(dir);
+                return true;
+            }       
+        }else{
+            return false;
+        }
+    },
+
+    updateVirtualScreen: function(dir){
+    
+        var right = this.isRhs ? "Right" : "";
+        if(dir === "next"){
+            switch(this.screen){
+                case 1:{
+                    //nothing to do
+                    break;
+                }
+                case 2:{
+                    let tl = gsap.timeline();
+                    tl.to(this.intro, {x: "-35%"});
+                    break;
+                }
+                case 3:{
+                    let tl = gsap.timeline();
+                    tl.to(this.main, {autoAlpha: 1});
+                    let icons = this.iconContainer.querySelectorAll(".sliderIcon");
+                    let p = this.iconContainer.querySelectorAll(":scope > p");
+                    tl.from([icons,p], {opacity: 0, stagger: .5, duration: 1});
+                    break;
+                }
+            }
+        } else {
+            switch(this.screen){
+                case 1:{
+                    //nothing to do
+                    break;
+                }
+                case 2:{
+
+                }
+                case 3:{
+
+                }
+            }
+        }
+        
+        this.playAudio();
+    },
+
+    getResId: function(){
+        return this.resId + "_" + this.screen;
+    },
+
+    playAudio: function(){
+        var delay = this.screen === 1 ? 1500 : 0;
+        //lnx.audio.playAudio(this.getResId(), delay);
+    },
+    
+    hasContent : function(){		
+        return false;
+    },
+
+    isComplete: function(){
+        return true;
+    },
+
+    OnNavEventRejectedNotice: function(dir){
+        this.message.classList.add("showUserNotice");
+    },
+    
+    destroy : function( type ){
+        this.items = [];
+    }	
+};
+
+       
 
 
 // handle window events
