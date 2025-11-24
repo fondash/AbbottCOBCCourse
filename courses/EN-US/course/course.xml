@@ -301,7 +301,7 @@
                      <p>Click each of the icons to learn more.</p>
                   </div>
                   <div class="sliderInnerContentContainer">
-                     <div class="sliderContent slLeft">
+                     <div class="sliderContent">
                         <img src="images/3_3_1_2.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -414,7 +414,7 @@
          <div class="sliderContainer">
             <div class="sliderImgContainer">
                   <div>
-                     <p>At Abbott, we foster a culture of openness, diversity, and respect—because it drives creativity and innovation.</p>>
+                     <p>At Abbott, we foster a culture of openness, diversity, and respect—because it drives creativity and innovation.</p>
                   </div>
                   <div>
                      <p>We each have a responsibility to live the Code every day: treating others with respect, creating a safe and inclusive workplace, and ensuring equal opportunity for all.</p>
@@ -470,7 +470,7 @@
             <p>To make a meaningful impact on global health, we listen to one another, value every voice, and work together with purpose.</p>            
                         </div>                        
                      </div>
-                     <div class="sliderContent slLeft">
+                     <div class="sliderContent">
                         <img src="images/3_5_1_3.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -482,7 +482,7 @@
             <p>Managers and supervisors have a special responsibility as leaders—they must model our values, promote ethical behavior, and create a safe space where employees feel comfortable asking questions and raising concerns without fear of retaliation.</p>
                         </div>                        
                      </div>
-                     <div class="sliderContent slLeft">
+                     <div class="sliderContent">
                         <img src="images/3_5_1_4.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -695,7 +695,7 @@
             <p>We are each responsible for our work and the decisions we make in our roles. In every professional interaction—whether with coworkers, customers, suppliers, healthcare professionals, competitors, or others—we must be fair and honest about how Abbott does business. </p>        
                         </div>                        
                      </div>
-                     <div class="sliderContent slLeft">
+                     <div class="sliderContent">
                         <img src="images/3_7_1_3.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -759,7 +759,7 @@
             <p>We follow anti-bribery, anti-corruption, and anti-kickback laws globally, including the U.S. Foreign Corrupt Practices Act. Everyone at Abbott must carefully manage relationships with service providers—such as distributors, consultants, and speakers—by conducting due diligence, paying fair market value, and properly documenting payments to ensure compliance with laws and company standards.</p>
                         </div>                        
                      </div>
-                     <div class="sliderContent">
+                     <div class="sliderContent slLeft">
                         <img src="images/3_7_1_8.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>

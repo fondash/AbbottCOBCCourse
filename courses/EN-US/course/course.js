@@ -10530,7 +10530,7 @@ lnx.sliderIcons = {
                     tl.to(this.main, {autoAlpha: 1});
                     let icons = this.iconContainer.querySelectorAll(".sliderIcon");
                     let p = this.iconContainer.querySelectorAll(":scope > p");
-                    tl.from([icons,p], {opacity: 0, stagger:{amount: 1, from: "random"}, duration: 1});
+                    tl.from([icons,p], {opacity: 0, stagger:{amount: .7, from: "random"}, duration: 1});
                     break;
                 }
             }
@@ -10554,7 +10554,7 @@ lnx.sliderIcons = {
                     tl.to(this.main, {autoAlpha: 1});
                     let icons = this.iconContainer.querySelectorAll(".sliderIcon");
                     let p = this.iconContainer.querySelectorAll(":scope > p");
-                    tl.from([icons,p], {opacity: 0, stagger: .5, duration: 1});
+                    tl.from([icons,p], {opacity: 0, stagger:{amount: .7, from: "random"}, duration: 1});
                     break;
                 }
             }
