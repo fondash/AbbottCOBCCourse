@@ -301,7 +301,7 @@
                      <p>Click each of the icons to learn more.</p>
                   </div>
                   <div class="sliderInnerContentContainer">
-                     <div class="sliderContent">
+                     <div class="sliderContent slLeft">
                         <img src="images/3_3_1_2.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -314,7 +314,7 @@
             <p>We take steps to prevent counterfeiting, illegal diversion, and theft of our products. We follow trade regulations, including export and import controls rules, and comply with government restrictions and sanctions to protect national security and public health.</p>                   
                         </div>                        
                      </div>
-                     <div class="sliderContent slLeft">
+                     <div class="sliderContent">
                         <img src="images/3_3_1_3.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -325,7 +325,7 @@
             <p>Our product communications are truthful, balanced, and aligned with approved labeling, scientific evidence, and medical best practices in the countries where we operate.  </p>
                         </div>
                      </div>
-                     <div class="sliderContent">
+                     <div class="sliderContent slLeft">
                         <img src="images/3_3_1_4.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -371,7 +371,7 @@
                      <p>Click each of the icons to learn more.</p>
                   </div>
                   <div class="sliderInnerContentContainer">
-                     <div class="sliderContent">
+                     <div class="sliderContent slLeft">
                         <img src="images/3_4_1_2.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -382,7 +382,7 @@
             <p>We respond to human needs by pioneering breakthrough treatments, life-saving devices, and innovative products that support health in new ways. Through cutting-edge science and technology, we strive to improve outcomes and empower people to live their fullest lives—creating meaningful innovations for every stage of life.</p>        
                         </div>                        
                      </div>
-                     <div class="sliderContent slLeft">
+                     <div class="sliderContent">
                         <img src="images/3_4_1_3.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -446,7 +446,7 @@
                         <img src="images/whiteComplete.svg"/>
                      </div>
                      <div class="sliderIcon" data-target="5">
-                        <img src="images/Icon_Partnership_Large_White.png"/>
+                        <img src="images/Icon_Partnership Giving_Large_White.png"/>
                          <p>Fair Treatment</p>
                         <img src="images/whiteComplete.svg"/>
                      </div>
@@ -458,7 +458,7 @@
                      <p>Click each of the icons to learn more.</p>
                   </div>
                   <div class="sliderInnerContentContainer">
-                     <div class="sliderContent">
+                     <div class="sliderContent slLeft">
                         <img src="images/3_5_1_2.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -470,7 +470,7 @@
             <p>To make a meaningful impact on global health, we listen to one another, value every voice, and work together with purpose.</p>            
                         </div>                        
                      </div>
-                     <div class="sliderContent">
+                     <div class="sliderContent slLeft">
                         <img src="images/3_5_1_3.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -505,7 +505,7 @@
             <p>Retaliation is never acceptable. If you believe retaliation has occurred, report it to the Office of Ethics and Compliance or Human Resources.</p>
                         </div>
                      </div>
-                     <div class="sliderContent">
+                     <div class="sliderContent slLeft">
                         <img src="images/3_5_1_5.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -578,7 +578,7 @@
                      <p>Click each of the icons to learn more.</p>
                   </div>
                   <div class="sliderInnerContentContainer">
-                     <div class="sliderContent">
+                     <div class="sliderContent slLeft">
                         <img src="images/3_6_1_2.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -684,7 +684,7 @@
                      <p>Click each of the icons to learn more.</p>
                   </div>
                   <div class="sliderInnerContentContainer">
-                     <div class="sliderContent">
+                     <div class="sliderContent slLeft">
                         <img src="images/3_7_1_2.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -695,7 +695,7 @@
             <p>We are each responsible for our work and the decisions we make in our roles. In every professional interaction—whether with coworkers, customers, suppliers, healthcare professionals, competitors, or others—we must be fair and honest about how Abbott does business. </p>        
                         </div>                        
                      </div>
-                     <div class="sliderContent">
+                     <div class="sliderContent slLeft">
                         <img src="images/3_7_1_3.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -706,7 +706,7 @@
             <p>A conflict of interest happens when personal interests interfere—or appear to interfere—with what’s best for Abbott. Business decisions must be based on Abbott’s needs, not personal gain or the interests of family or friends. We are expected to use good judgment and avoid situations that could lead to a real or perceived conflict. If personal relationships, interests, or outside activities affect your ability to act fairly and effectively—or could benefit you or a family member—you must disclose the potential conflict and remove yourself from the situation, following Abbott’s guidelines.</p>
                         </div>                        
                      </div>
-                     <div class="sliderContent slLeft">
+                     <div class="sliderContent">
                         <img src="images/3_7_1_4.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>

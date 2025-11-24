@@ -6204,8 +6204,6 @@ div.surveyContainer > div:last-of-type{
                         width: 16rem;
                         height: 24rem;
                         overflow-y: auto;
-                        /* overflow-x: clip; */
-                        /* background-color: red; */
 
                         & > p{
                             color: #fff;
@@ -6268,17 +6266,21 @@ div.screen#C_1>img.fullscreenImg+div {
 	width: 18rem;
 }
 
+#C_9 .sliderImgContainer > div,
+#C_13 .sliderImgContainer > div,
 #C_8 .sliderImgContainer > div,
+#C_11 .sliderImgContainer > div,
 #C_7 > div,
 #C_6 > div,
 #C_5 > div,
+#C_3 > div,
 #C_2 > div
 {
 	color: #fff;
 }
 
 
-#C_51x > div
+#C_3 > div
 {
 	left: auto;
     right: 0;
@@ -6288,6 +6290,87 @@ div.screen#C_1>img.fullscreenImg+div {
 	font-size: 1rem;
 	font-family: Calibri, sans-serif;
 }
+
+#C_12 div.sliderIconContainer,
+#C_10 div.sliderIconContainer,
+#C_9 div.sliderIconContainer{
+	grid-template-columns: .9fr repeat(6, 1fr);
+    grid-template-rows: 0.6fr 1fr 1fr;
+
+	& > p {
+		grid-column: 3 / 6;
+	}
+
+	& div.sliderIcon:nth-of-type(1) {
+		grid-column: 3;
+	}
+
+	& div.sliderIcon:nth-of-type(2) {
+		position: relative;
+		top: -1.3rem;
+		}
+
+	& div.sliderIcon:nth-of-type(3) {
+		grid-row: 2;
+		grid-column: 5;
+	}
+}
+
+#C_11 div.sliderIconContainer{
+	grid-template-columns: repeat(5, 20%);
+	grid-template-rows: 12% 1fr 1fr 30%;
+	
+	& > p {
+		grid-column: 2 / 5;
+		grid-row: 4;
+		position: relative;
+		top: 1rem;
+	}
+
+	& div.sliderIcon:nth-of-type(1) {
+		grid-row: 2;
+		grid-column: 2;
+	}
+
+	& div.sliderIcon:nth-of-type(2) {
+		grid-row: 2;
+		grid-column: 3;
+	}
+
+	& div.sliderIcon:nth-of-type(3) {
+		grid-row: 2;
+		grid-column: 4;
+	}
+
+	& div.sliderIcon:nth-of-type(4) {
+		grid-row: 3;
+		grid-column: 2;
+	}
+
+	& div.sliderIcon:nth-of-type(5) {
+		grid-row: 3;
+		grid-column: 3;
+	}
+
+	& div.sliderIcon:nth-of-type(6) {
+		grid-row: 3;
+		grid-column: 4;
+	}
+} 
+
+#C_11 div.sliderIconContainer{
+	grid-template-columns: repeat(10, 10%);
+    grid-template-rows: repeat(4, 25%);
+	
+	& > p {
+		grid-column: 2 / 5;
+		grid-row: 4;
+		position: relative;
+		top: 1rem;
+	}
+}
+
+    
 
 
 

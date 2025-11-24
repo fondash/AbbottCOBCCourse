@@ -10425,7 +10425,7 @@ lnx.sliderIcons = {
                 let num = parseInt(tg.getAttribute("data-target"));
                 slContent = screenElm.querySelectorAll('.sliderContent')[num-1];
                 let bcr1 = slContent.parentNode.getBoundingClientRect();
-                console.log(bcr1);
+                
                 let outer = 1200;
                 let bcr = tg.getBoundingClientRect();
                 let r = bcr.width/2;
@@ -10457,11 +10457,10 @@ lnx.sliderIcons = {
         }
 
         function onComplete(e){
-            console.log('complete');                    
+            //console.log('complete');                    
         }
 
         function onReverseComplete(e){
-            console.log('reversecomplete');
             let tl3 = gsap.timeline();
             tl3.to(slContent, {autoAlpha: 0});
             tl3.set(slContent, {display: "none"});
@@ -10531,21 +10530,32 @@ lnx.sliderIcons = {
                     tl.to(this.main, {autoAlpha: 1});
                     let icons = this.iconContainer.querySelectorAll(".sliderIcon");
                     let p = this.iconContainer.querySelectorAll(":scope > p");
-                    tl.from([icons,p], {opacity: 0, stagger: .5, duration: 1});
+                    tl.from([icons,p], {opacity: 0, stagger:{amount: 1, from: "random"}, duration: 1});
                     break;
                 }
             }
         } else {
             switch(this.screen){
                 case 1:{
-                    //nothing to do
+                    let tl = gsap.timeline();
+                    tl.to(this.intro, {x: 0});
                     break;
                 }
                 case 2:{
-
+                    let tl = gsap.timeline();
+                    tl.set(this.intro, {x: "-35%"});
+                    tl.to(this.main, {autoAlpha: 0});
+                    let icons = this.iconContainer.querySelectorAll(".sliderIcon");
+                    let p = this.iconContainer.querySelectorAll(":scope > p");                   
+                    break;
                 }
                 case 3:{
-
+                    let tl = gsap.timeline();
+                    tl.to(this.main, {autoAlpha: 1});
+                    let icons = this.iconContainer.querySelectorAll(".sliderIcon");
+                    let p = this.iconContainer.querySelectorAll(":scope > p");
+                    tl.from([icons,p], {opacity: 0, stagger: .5, duration: 1});
+                    break;
                 }
             }
         }
