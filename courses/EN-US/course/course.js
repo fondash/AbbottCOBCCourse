@@ -10398,7 +10398,11 @@ lnx.sliderIcons = {
         this.iconContainer = screenElm.querySelector('.sliderIconContainer');     
         this.items =  this.iconContainer.querySelectorAll('.sliderIcon');
         this.iconContainer.addEventListener('click', onIconClick);
-        setTimeout(()=> self.insertVirtualScreen("next")); 
+
+        var reverseIn = origNavId === "prev"; // must be reversing into activity so show last virtual screen
+        var dir = reverseIn ? "prev" : "next";
+
+        setTimeout(()=> self.insertVirtualScreen(dir, reverseIn));
 
         function onIconClick(e){
 
@@ -10420,11 +10424,13 @@ lnx.sliderIcons = {
                 tg.querySelectorAll("img")[1].style.visibility = "visible";
                 let num = parseInt(tg.getAttribute("data-target"));
                 slContent = screenElm.querySelectorAll('.sliderContent')[num-1];
+                let bcr1 = slContent.parentNode.getBoundingClientRect();
+                console.log(bcr1);
                 let outer = 1200;
                 let bcr = tg.getBoundingClientRect();
                 let r = bcr.width/2;
-                let x = bcr.x + bcr.width /2;
-                let y = bcr.y + bcr.height /2;
+                let x = (bcr.x + bcr.width /2) - bcr1.x;
+                let y = (bcr.y + bcr.height /2) - bcr1.y;
 
                 tl = gsap.timeline();
                 tl.set(slContent, {autoAlpha: 1});

@@ -6027,8 +6027,8 @@ div.surveyContainer > div:last-of-type{
 
  .sliderContainer{
 
-            /* width: 1395px;
-            height: 720px; */
+            width: 58.125rem;
+			height: 30rem;
             overflow: hidden;
             position: relative;
             font-family: calibri;
@@ -6042,19 +6042,22 @@ div.surveyContainer > div:last-of-type{
                     width: 100%;
                 }
 
-                & div:nth-of-type(1){
+                & > div{
                     position: absolute;
-                    left: 6rem;
-                    top: 3rem;
-                    width: 20rem;
-                    font-size: 1.5rem;
+                    top: 0;
+					left: 0;
+					margin: 4.875rem 3.125rem 1.25rem;
+                    font-size: 1.375rem;
+    				font-family: var(--ff-serif);
+					width: 25rem;
+					line-height: 1.2;	
                 }
 
-                 & div:nth-of-type(2){
-                    position: absolute;
-                    right: 6rem;
-                    top: 3rem;
-                    width: 20rem;
+                 & > div:nth-of-type(2){
+					left: auto;
+                    right: 0rem;
+					font-size: 1rem;
+					font-family: calibri, sans-serif;
                 }
             }   
 
@@ -6083,18 +6086,18 @@ div.surveyContainer > div:last-of-type{
                     grid-column: 3 / 5;                    
                     place-self: normal;
                     position: relative;
-                    top: -1.5rem;
+                    top: -.7rem;
                     width: auto;
                     text-align: center;
                     color: #fff;
-                    font-size: 1.25rem;
+                    font-size: .9rem;
                     text-transform: uppercase;
                     letter-spacing: .06rem;
                 }                
 
                  & .sliderIcon{
-                    width: 14rem;
-                    height: 14rem;
+                    width: 9.3rem;
+                    height: 9.3rem;
                     border-radius: 50%;
                     cursor: pointer;
                     display: flex;
@@ -6102,18 +6105,19 @@ div.surveyContainer > div:last-of-type{
                     justify-content: center;
                     flex-direction: column;
                     position: relative;
-                    top: 0.5rem;
+                    top: 0.33rem;
 
                     &:hover{
                         background-color: #ffffff33;
                     }
 
                     & > img:first-of-type{
-                        width: 8rem;
+                        width: 5.33rem;
+						margin-bottom: 0.4rem;
                     }     
                     
                     & > img:nth-of-type(2){
-                        width: 1rem;
+                        width: .66rem;
                         visibility: hidden;
                     }  
                     
@@ -6121,6 +6125,7 @@ div.surveyContainer > div:last-of-type{
                         text-align: center;
                         width: 6rem;
                         color: #efb94e;
+						font-size: 0.8rem;
                     }
                 }
 
@@ -6152,6 +6157,7 @@ div.surveyContainer > div:last-of-type{
 
                     &>img{
                         display: block;
+						width: 100%;
                     }
 
                     & .sliderRoundShape{
@@ -6169,34 +6175,34 @@ div.surveyContainer > div:last-of-type{
 
                     & > .sliderVerticalBar{
                         font-size: 0;
-                        width: 0.55rem;
-                        height: 30rem;
+                        width: 0.4rem;
+                        height: 20rem;
                         background-color: #ffffff55;
                         position: absolute;
-                        top: 9.5rem;
-                        right: 3rem;
+                        top: 5.7rem;
+                        right: 2rem;
                         border-radius: 0.5rem;
                         translate: .25px;
                     }
 
                     & > img.slClose{
                         position: absolute;
-                        top: 2rem;
-                        right: 2.2rem;
-                        width: 2rem;
+                        top: 1.66rem;
+                        right: 1.5rem;
+                        width: 1.4rem;
                         cursor: pointer;
                         translate: .25px;
                     }
 
                     & .sliderTextContainer{
 
-                        padding: 0 4rem;
-                        margin-top: 8rem;
+                        padding: 0 2.5rem;
+                        margin-top: 5.5rem;
                         position: absolute;
                         top: 0;
-                        right: 3rem;
-                        width: 24rem;
-                        height: 36rem;
+                        right: 2rem;
+                        width: 16rem;
+                        height: 24rem;
                         overflow-y: auto;
                         /* overflow-x: clip; */
                         /* background-color: red; */
@@ -6216,17 +6222,17 @@ div.surveyContainer > div:last-of-type{
 
                      & .sliderTextContainer{
                         right: auto;
-                        left: 3rem;                       
+                        left: 2rem;                       
                      }
 
                     & > .sliderVerticalBar{
                         right: auto;
-                        left: 3rem;
+                        left: 2rem;
                     }
 
                     & > img.slClose{
                         right: auto;
-                        left: 2.2rem;
+                        left: 1.7rem;
                     }
 
                     & .sliderRoundShape{
@@ -6262,6 +6268,7 @@ div.screen#C_1>img.fullscreenImg+div {
 	width: 18rem;
 }
 
+#C_8 .sliderImgContainer > div,
 #C_7 > div,
 #C_6 > div,
 #C_5 > div,
