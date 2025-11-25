@@ -6083,10 +6083,10 @@ div.surveyContainer > div:last-of-type{
 
                 & > p{
                     grid-row: 3;
-                    grid-column: 3 / 5;                    
+                    grid-column: 3 / 5;
                     place-self: normal;
                     position: relative;
-                    top: -.7rem;
+                    top: -0.4rem;
                     width: auto;
                     text-align: center;
                     color: #fff;
@@ -6096,8 +6096,8 @@ div.surveyContainer > div:last-of-type{
                 }                
 
                  & .sliderIcon{
-                    width: 9.3rem;
-                    height: 9.3rem;
+                    width: 9.5rem;
+                    height: 9.5rem;
                     border-radius: 50%;
                     cursor: pointer;
                     display: flex;
@@ -6106,6 +6106,14 @@ div.surveyContainer > div:last-of-type{
                     flex-direction: column;
                     position: relative;
                     top: 0.33rem;
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
                     
                     
                     
@@ -6188,7 +6196,7 @@ div.surveyContainer > div:last-of-type{
                         background-color: #ffffff55;
                         position: absolute;
                         top: 5.5rem;
-                        right: 1.4rem;
+                        right: 1.41rem;
                         border-radius: 0.5rem;
                         translate: .25px;
                     }
@@ -6203,7 +6211,7 @@ div.surveyContainer > div:last-of-type{
                     }
 
                     & .sliderTextContainer{
-						padding: 0 1.5rem;
+						padding: 0 1.1rem;
 						margin-top: 5.5rem;
 						position: absolute;
 						top: 0;
@@ -6212,15 +6220,8 @@ div.surveyContainer > div:last-of-type{
 						height: 20rem;
 						overflow-y: auto;
 						scrollbar-width: thin;
-						scrollbar-color: #cec8bd22 #afaca622;
-						/* scrollbar-color: #9b9ea5 #7e838f; */
+						scrollbar-color: #c9c9c9aa #afaca622;
 						color: #fff;
-						
-						
-						
-						
-						
-						
 
                         & > p:first-of-type{
                             text-transform: uppercase;
@@ -6452,6 +6453,10 @@ div.screen#C_1>img.fullscreenImg+div {
 		grid-column: 11;
 		position: relative;
 		top: 1.7rem;
+
+		& > img:first-of-type{
+			width: 4.9rem;
+		}
 	}
 
 	& div.sliderIcon:nth-of-type(9) {

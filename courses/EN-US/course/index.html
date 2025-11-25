@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+	<title>Code of Business Conduct</title>
+	<link rel="stylesheet" href="reset.css" media="all" />
+	<link rel="stylesheet" href="course.css" media="all" />
+    <!-- <link rel="stylesheet" href="translations.css" media="all" /> -->
+    <link rel="stylesheet" href="overrides.css" media="all" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Adamina|Inter|Archivo+Narrow:wght@700&display=swap" />
+    <script src="gsap/gsap.min.js"></script>
+	<script src="SCORM_12_APIWrapper.js"></script>
+	<script src="preload.js"></script>
+	<script src="course.js"></script>
+    <!-- <script src="gsap/GSDevTools.min.js"></script> -->
+</head>
+<body id="body">
+	<div id="toc">
+        <div class="popUnderlay"><p>.</p></div>
+        <div class="tocHeader">
+    		<img src="images/logo.png"/>
+            <img src="images/menu_close.png"/>
+        </div>
+		<div class="tocContainer">			
+		</div>
+	</div>
+    <div id="player">
+        <div id="titleBar">
+            <img id="tocBtn" src="images/toc.svg" data-show="true" title="Menu"/>
+            <img id="exitBtn" src="images/exit.svg" class="titleIcon" title="Exit"/>    
+            <img id="audioBtn" src="images/audio_on.svg" data-audioOn="images/audio_on.svg" data-audioOff="images/audio_off.svg" class="titleIcon" title="Audio"/>  
+            <img id="helpBtn" src="images/ref.svg" class="titleIcon" title="Resources"/>            
+            <div id='courseTitle'>Code of Business Conduct</div>
+            <div id="debugBox"></div>
+        </div>
+        <div id="header">
+        	<p id="moduleTitle"> </p>
+        	<p id="contentTitle"> </p>
+        	<div id="fwdBtn" class="navBtn" data-navId="next"></div>
+            <div class="navProg"><p></p><div class="navProgBarBtm"></div><div class="navProgBar"></div></div>
+        	<div id="backBtn" class="navBtn" data-navId="prev"></div>
+        	<hr class="headerLine"/>
+        </div>        
+       	<div id="screenFrame">
+        	<!-- <div class="loader"><img alt="loading" src="images/LoadingAnimation_v02d.gif" /></div> -->
+        </div>
+        <div id="footer">
+        	<div id="fwdBtnF" class="navBtn" data-navId="next"></div>
+            <div class="navProg"><p></p><div class="navProgBarBtm"></div><div class="navProgBar"></div></div>
+        	<div id="backBtnF" class="navBtn" data-navId="prev"></div>
+        	<hr id="progressBar"/>
+            <img id="progBtn" src="images/prog.svg"/>
+            <div id="screenNum">1</div>
+        </div>
+        <!-- <div><textarea id="debugOutput" readonly="true"></textarea></div> -->        
+    </div>
+    <div id="overlayToc">
+        <div class="popUnderlay"><p>.</p></div>
+		<div class="overlayTocContainer">			
+		</div>
+	</div>
+</body>
+</html>
