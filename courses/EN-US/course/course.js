@@ -10445,7 +10445,7 @@ lnx.sliderIcons = {
                 let dx = .25;
                 tl2.set([tx,close,vBar], {x: `${dx}%`, opacity: 0}); // fix to force browser  render text
                 let dir = (slContent.classList.contains('slLeft') === true) ? "" : "-";
-                tl2.from(rs, {scale: 1.3, x: `${dir}120%`, delay: 1.6, duration: 1, ease: "power3.out"});
+                tl2.from(rs, {scale: 1.3, x: `${dir}120%`, delay: 1.6, duration: 1.2, ease: "power2.inOut"});
                 tl2.to([tx,close,vBar], {opacity: 1, duration: 1});
 
                 checkForCompletion();
@@ -10522,7 +10522,7 @@ lnx.sliderIcons = {
                 }
                 case 2:{
                     let tl = gsap.timeline();
-                    tl.to(this.intro, {x: "-35%"});
+                    tl.to(this.intro, {x: "-35%", ease:"power1.inOut", duration: 1});
                     break;
                 }
                 case 3:{
@@ -10538,7 +10538,7 @@ lnx.sliderIcons = {
             switch(this.screen){
                 case 1:{
                     let tl = gsap.timeline();
-                    tl.to(this.intro, {x: 0});
+                    tl.to(this.intro, {x: 0, ease:"power2.inOut", duration: 1.2});
                     break;
                 }
                 case 2:{
@@ -10569,7 +10569,7 @@ lnx.sliderIcons = {
 
     playAudio: function(){
         var delay = this.screen === 1 ? 1500 : 0;
-        //lnx.audio.playAudio(this.getResId(), delay);
+        lnx.audio.playAudio(this.getResId(), delay);
     },
     
     hasContent : function(){		
@@ -10581,7 +10581,7 @@ lnx.sliderIcons = {
     },
 
     OnNavEventRejectedNotice: function(dir){
-        this.message.classList.add("showUserNotice");
+        //this.message.classList.add("showUserNotice");
     },
     
     destroy : function( type ){

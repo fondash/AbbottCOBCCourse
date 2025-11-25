@@ -6031,7 +6031,7 @@ div.surveyContainer > div:last-of-type{
 			height: 30rem;
             overflow: hidden;
             position: relative;
-            font-family: calibri;
+            font-family: calibri, sans-serif;
 
             & .sliderImgContainer{
                 width: 154.121%;
@@ -6180,15 +6180,15 @@ div.surveyContainer > div:last-of-type{
                         background-color: #ffffff55;
                         position: absolute;
                         top: 5.5rem;
-                        right: 1.6rem;
+                        right: 1.4rem;
                         border-radius: 0.5rem;
                         translate: .25px;
                     }
 
                     & > img.slClose{
                         position: absolute;
-                        top: 1.66rem;
-                        right: 1.1rem;
+                        top: 1rem;
+                        right: 0.9rem;
                         width: 1.4rem;
                         cursor: pointer;
                         translate: .25px;
@@ -6199,14 +6199,20 @@ div.surveyContainer > div:last-of-type{
 						margin-top: 5.5rem;
 						position: absolute;
 						top: 0;
-						right: 1.5rem;
+						right: 1.4rem;
 						width: 18rem;
-						height: 24rem;
+						height: 20rem;
 						overflow-y: auto;
-						scrollbar-width: thin;						
-                		scrollbar-color: #cec8bd22 #afaca622;
+						scrollbar-width: thin;
+						scrollbar-color: #cec8bd22 #afaca622;
 						/* scrollbar-color: #9b9ea5 #7e838f; */
 						color: #fff;
+						
+						
+						
+						
+						
+						
 
                         & > p:first-of-type{
                             text-transform: uppercase;
@@ -6219,14 +6225,13 @@ div.surveyContainer > div:last-of-type{
 
                      & .sliderTextContainer{
                         right: auto;
-                        left: 1.5rem;
-                        font-size: .9rem;
+                        left: 1.4rem;
                         line-height: 1.2;
                      }
 
                     & > .sliderVerticalBar{
                         right: auto;
-                        left: 1.5rem;
+                        left: 1.4rem;
                     }
 
                     & > img.slClose{
@@ -6333,31 +6338,48 @@ div.screen#C_1>img.fullscreenImg+div {
 	& div.sliderIcon:nth-of-type(1) {
 		grid-row: 2;
 		grid-column: 2;
+		position: relative;
+		top: 1.3rem;
+		left: 1rem;
 	}
 
 	& div.sliderIcon:nth-of-type(2) {
 		grid-row: 2;
 		grid-column: 3;
+		position: relative;
+		right: 1rem;
+		top: -0.5rem;
 	}
 
 	& div.sliderIcon:nth-of-type(3) {
 		grid-row: 2;
 		grid-column: 4;
+		position: relative;
+		right: 4rem;
+		top: 2rem;
 	}
 
 	& div.sliderIcon:nth-of-type(4) {
 		grid-row: 3;
 		grid-column: 2;
+		position: relative;
+		left: 3rem;
+		top: -1rem;
 	}
 
 	& div.sliderIcon:nth-of-type(5) {
 		grid-row: 3;
 		grid-column: 3;
+		position: relative;
+		left: 1rem;
+		top: 1rem;
 	}
 
 	& div.sliderIcon:nth-of-type(6) {
 		grid-row: 3;
 		grid-column: 4;
+		position: relative;
+		top: -1rem;
 	}
 } 
 

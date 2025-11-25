@@ -31,11 +31,11 @@
            description="2 minutes"
            timing="0"
            required="true">
-         <nav navId="B_5" title="Section 1">
+         <nav navId="B_5" title="Our Everyday Commitments">
             <nav navId="C_5" type="basic" resId="2_1_1" classType="f"/>
          </nav>
          <nav navId="B_6"
-              title="The Importance of Code of Business Conduct to our business">
+              title="The Importance of the Code to Our Business">
             <nav navId="C_6" type="basic" resId="2_2_1" classType="f"/>
          </nav>
       </nav>
@@ -48,22 +48,22 @@
             <nav navId="C_7" type="basic" resId="3_1_1" classType="f"/>
          </nav>
          <nav navId="B_8" title="Our Customers">
-            <nav navId="C_8" type="sliderIcons" resId="3_2_1" classType="x"/>
+            <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="false"/>
          </nav>
          <nav navId="B_9" title="Our Products">
-            <nav navId="C_9" type="sliderIcons" resId="3_3_1" classType="x"/>
+            <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="false"/>
          </nav>
          <nav navId="B_10" title="Advancing Science">
-            <nav navId="C_10" type="sliderIcons" resId="3_4_1" classType="x"/>
+            <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="false"/>
          </nav>
          <nav navId="B_11" title="Our People">
-            <nav navId="C_11" type="sliderIcons" resId="3_5_1" classType="x"/>
+            <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="false"/>
          </nav>
          <nav navId="B_12" title="Our Communities">
-            <nav navId="C_12" type="sliderIcons" resId="3_6_1" classType="x"/>
+            <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="false"/>
          </nav>
-         <nav navId="B_13" title="How we operate">
-            <nav navId="C_13" type="sliderIcons" resId="3_7_1" classType="x"/>
+         <nav navId="B_13" title="How we Operate">
+            <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="false"/>
          </nav>
       </nav>
       <nav navId="A_4"
@@ -72,7 +72,7 @@
            timing="0"
            required="true">
          <nav navId="B_14" title="Your Commitment">
-            <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con"/>
+            <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con"  mustComplete="true"/>
          </nav>
       </nav>
       <nav navId="A_5"
@@ -244,7 +244,7 @@
                      <p>Click each of the icons to learn more.</p>
                   </div>
                   <div class="sliderInnerContentContainer">
-                     <div class="sliderContent">
+                     <div class="sliderContent slLeft">
                         <img src="images/3_2_1_2.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -254,7 +254,7 @@
                               <p>Caring for people is at the heart of what we do. We put the health and well-being of patients and consumers first. Every day, we can make a meaningful difference—helping people live healthier lives and contributing to stronger, healthier communities.</p>                        
                         </div>                        
                      </div>
-                     <div class="sliderContent slLeft">
+                     <div class="sliderContent">
                         <img src="images/3_2_1_3.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -314,7 +314,7 @@
             <p>We take steps to prevent counterfeiting, illegal diversion, and theft of our products. We follow trade regulations, including export and import controls rules, and comply with government restrictions and sanctions to protect national security and public health.</p>                   
                         </div>                        
                      </div>
-                     <div class="sliderContent">
+                     <div class="sliderContent slLeft">
                         <img src="images/3_3_1_3.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -325,7 +325,7 @@
             <p>Our product communications are truthful, balanced, and aligned with approved labeling, scientific evidence, and medical best practices in the countries where we operate.  </p>
                         </div>
                      </div>
-                     <div class="sliderContent slLeft">
+                     <div class="sliderContent">
                         <img src="images/3_3_1_4.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -382,7 +382,7 @@
             <p>We respond to human needs by pioneering breakthrough treatments, life-saving devices, and innovative products that support health in new ways. Through cutting-edge science and technology, we strive to improve outcomes and empower people to live their fullest lives—creating meaningful innovations for every stage of life.</p>        
                         </div>                        
                      </div>
-                     <div class="sliderContent">
+                     <div class="sliderContent slLeft">
                         <img src="images/3_4_1_3.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -466,8 +466,7 @@
                         <div class="sliderTextContainer">
                               <p>COLLABORATION </p>
             <p>We value openness and collaboration because diverse ideas lead to better solutions.</p>
-            <p>We embrace diversity because it fuels creativity, energy, and progress.</p>
-            <p>To make a meaningful impact on global health, we listen to one another, value every voice, and work together with purpose.</p>            
+            <p>We embrace diversity because it fuels creativity, energy, and progress. To make a meaningful impact on global health, we listen to one another, value every voice, and work together with purpose.</p>            
                         </div>                        
                      </div>
                      <div class="sliderContent">
@@ -505,7 +504,7 @@
             <p>Retaliation is never acceptable. If you believe retaliation has occurred, report it to the Office of Ethics and Compliance or Human Resources.</p>
                         </div>
                      </div>
-                     <div class="sliderContent slLeft">
+                     <div class="sliderContent">
                         <img src="images/3_5_1_5.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -578,7 +577,7 @@
                      <p>Click each of the icons to learn more.</p>
                   </div>
                   <div class="sliderInnerContentContainer">
-                     <div class="sliderContent slLeft">
+                     <div class="sliderContent">
                         <img src="images/3_6_1_2.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
@@ -602,7 +601,7 @@
             <p>We take steps to use less energy and fewer natural resources. We support clean energy projects at work and in our communities. We look for ways to reduce waste, recycle more, and lower environmental risks. We also follow environmental laws and regulations that apply to our operations.</p>
                         </div>                        
                      </div>
-                     <div class="sliderContent slLeft">
+                     <div class="sliderContent">
                         <img src="images/3_6_1_4.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
