@@ -10434,7 +10434,7 @@ lnx.sliderIcons = {
 
                 tl = gsap.timeline();
                 tl.set(slContent, {autoAlpha: 1});
-                tl.fromTo(slContent, {display: "block", clipPath: `circle(${r}px at ${x}px ${y}px)` }, {clipPath: `circle(${outer}px at ${x}px ${y}px)`, duration: 1.5, ease: "power3.in", onComplete: onComplete, onReverseComplete: onReverseComplete});
+                tl.fromTo(slContent, {display: "block", clipPath: `circle(${r}px at ${x}px ${y}px)`, filter: "grayscale(1)" }, {clipPath: `circle(${outer}px at ${x}px ${y}px)`, filter: "grayscale(0)", duration: 1.5, ease: "power3.in", onComplete: onComplete, onReverseComplete: onReverseComplete});
 
                 let rs = slContent.querySelector('.sliderRoundShape');
                 let tx = slContent.querySelector('.sliderTextContainer');
