@@ -253,7 +253,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>PATIENTS AND CONSUMERS</p>
                               <p>Caring for people is at the heart of what we do. We put the health and well-being of patients and consumers first. Every day, we can make a meaningful difference—helping people live healthier lives and contributing to stronger, healthier communities.</p>                        
                         </div>                        
@@ -263,7 +263,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>HEALTHCARE PROFESSIONALS</p>
                               <p>We work with HCPs to support better health. We respect the knowledge and independent judgment of healthcare professionals - whether they’re doctors, nurses, pharmacists, researchers, or lab staff. Their role in guiding patients toward better health is essential.</p>
                               <p>At Abbott, we’re committed to supporting them with accurate, timely information so they can make the best decisions. By working together, we can achieve our shared goal of improving health and well-being around the world.</p>
@@ -311,7 +311,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>PRODUCT QUALITY</p>
             <p>Safe, effective and trusted. Our products make a difference.</p>
             <p>We’re committed to quality at every stage—from sourcing and production to how we market, sell, and deliver our products, including through our partners. Every step matters because people count on us for safety .</p>
@@ -324,7 +324,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>PRODUCT PROMOTION I</p>
             <p>We promote and sell our products with honesty and respect for those who rely on them. </p>
             <p>Our product communications are truthful, balanced, and aligned with approved labeling, scientific evidence, and medical best practices in the countries where we operate.  </p>
@@ -335,7 +335,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>PRODUCT PROMOTION II</p>
             <p>We promote our products for their intended and approved uses. </p>
             <p>We operate in alignment with the licenses and approvals granted by health authorities in the countries we operate. Our product promotion, sales, and distribution follow strict trade laws and country-specific regulations. Through strong internal policies and procedures, we ensure compliance and uphold our commitment to ethical, safe, and responsible business practices.</p>                    
@@ -382,7 +382,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>INNOVATION I</p>
             <p>We create innovative healthcare solutions to help people live healthier lives and improve outcomes around the world.</p>
             <p>We respond to human needs by pioneering breakthrough treatments, life-saving devices, and innovative products that support health in new ways. Through cutting-edge science and technology, we strive to improve outcomes and empower people to live their fullest lives—creating meaningful innovations for every stage of life.</p>        
@@ -393,7 +393,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>INNOVATION II </p>
             <p>We cultivate a culture of innovation by exploring new possibilities and plan for contingencies. </p>
             <p>While progress often involves risk, we take thoughtful, responsible steps to anticipate challenges and minimize them in advance—always guided by the Code and our policies.</p>
@@ -404,7 +404,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>ADVANCING SCIENCE</p>
             <p>We conduct research to generate accurate, objective data that drives innovation, improves treatments, and advances healthcare.</p>
             <p>When conducting research, we treat study participants with dignity, protect them from unnecessary risk, and ensure they understand the nature and purpose of the research and the associated risks. Obtaining informed consent from study participants is an essential part of our research process.</p>
@@ -470,7 +470,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>COLLABORATION </p>
             <p>We value openness and collaboration because diverse ideas lead to better solutions.</p>
             <p>We embrace diversity because it fuels creativity, energy, and progress. To make a meaningful impact on global health, we listen to one another, value every voice, and work together with purpose.</p>            
@@ -481,7 +481,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>OUR CONNECTION TO EACH OTHER </p>
             <p>We all share the responsibility to live Abbott’s values every day.</p>
             <p>By acting ethically, we strengthen our culture. Everyone must understand how the Code applies to their role and work.</p>
@@ -493,7 +493,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                                <p>REPORTING CONCERNS </p>
             <p>We ask questions when something isn’t clear or doesn’t feel right. We also speak up and report any possible violations of the Code.</p>
             <p>It’s our responsibility to ask questions when direction is unclear and to challenge and report suspected unethical business conduct, violations of the Code, or breaches of Abbott’s policies. </p>
@@ -516,7 +516,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>EQUAL OPPORTUNITY</p>
             <p>We provide equal opportunities for all employees.</p>
             <p>We make employment decisions based on business needs, skills, experience, and performance. Discrimination of any kind is not tolerated. We follow all laws that govern our relationships with employees around the world.</p>
@@ -528,7 +528,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>FAIR TREATMENT </p>
             <p>We foster a respectful, inclusive, and safe workplace.</p>
             <p>We work to ensure everyone feels welcome, supported, and empowered.</p>
@@ -541,7 +541,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>WORK ENVIRONMENT</p>
             <p>We prioritize safety and fair working conditions.</p>
             <p>Accidents or unsafe situations must be reported to management right away. Abbott also takes steps to prevent and prohibit illegal, inappropriate labor practices and any form of cruel or inhumane treatment in our business activities worldwide.</p>
@@ -590,7 +590,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>COMMUNITY INVOLVEMENT </p>
             <p>We support community well-being.</p>
             <p>At Abbott, we support the well-being of communities through our products, our work, and our actions and we have a long history of giving back to the places where we live and work, because we believe healthy communities thrive.</p>
@@ -602,7 +602,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>ENVIRONMENTAL RESPONSIBILITY</p>
             <p>We take part in sustainable development and work to reduce our impact on the environment.</p>
             <p>We work to protect the environment in everything we do—from how we source materials to how we make, ship, and use our products.</p>
@@ -614,7 +614,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                                <p>POLITICAL CONTRIBUTIONS</p>
             <p>We encourage appropriate engagement in the political process and support community involvement. </p>
             <p>Abbott supports public policies that align with our mission and values. When appropriate, we may also support political candidates or interest groups.</p>
@@ -697,7 +697,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>FAIR DEALING</p>
             <p>We conduct business with integrity and follow through on our commitments in every aspect of our work.</p>
             <p>We are each responsible for our work and the decisions we make in our roles. In every professional interaction—whether with coworkers, customers, suppliers, healthcare professionals, competitors, or others—we must be fair and honest about how Abbott does business. </p>        
@@ -708,7 +708,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>AVOIDING CONFLICTS OF INTEREST I</p>
             <p>We identify and address conflicts of interest before moving forward.  </p>
             <p>A conflict of interest happens when personal interests interfere—or appear to interfere—with what’s best for Abbott. Business decisions must be based on Abbott’s needs, not personal gain or the interests of family or friends. We are expected to use good judgment and avoid situations that could lead to a real or perceived conflict. If personal relationships, interests, or outside activities affect your ability to act fairly and effectively—or could benefit you or a family member—you must disclose the potential conflict and remove yourself from the situation, following Abbott’s guidelines.</p>
@@ -719,7 +719,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                                <p>AVOIDING CONFLICTS OF INTEREST II</p>
             <p>We put Abbott’s interests first when making work-related decisions. </p>
             <p>That means prioritizing the company’s goals over those of a specific team, group, or individual. Any opportunities or resources we access through our roles at Abbott should be used to benefit the company—not for personal gain. We should not compete with Abbott or help others do so. When opportunities arise, our focus must be on advancing Abbott’s interests.</p>
@@ -730,7 +730,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>PROTECTION OF ABBOTT ASSETS &amp; REPUTATION</p>
             <p>We are caretakers of our company.  </p>
             <p>We all share the responsibility to protect and use Abbott’s assets wisely. This includes everything from physical items like vehicles and computers, to valuable information such as intellectual property, trade secrets, and specialized knowledge.</p>
@@ -745,7 +745,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>CONFIDENTIAL INFORMATION</p>
             <p>We are committed to respecting and protecting all confidential information, including personal data. </p>
             <p>Confidential information is one of Abbott’s most valuable assets. It includes non-public details like research, trade secrets, business plans, pricing, contracts, financial results, and other data that could benefit competitors or harm Abbott if disclosed. </p>
@@ -759,7 +759,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>ANTI-BRIBERY</p>
             <p>We actively oppose fraud, bribery, and corruption. We get business the right way.</p>
             <p>As individuals, we expect healthcare professionals to make decisions based on what’s best for patients—not influenced by incentives from companies. Likewise, we expect government officials to act in the public’s interest, free from corporate pressure. </p>
@@ -772,7 +772,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>GIFTS, MEALS &amp; ENTERTAINMENT </p>
             <p>We do not offer or provide anything of value to gain a business advantage, directly or indirectly, in line with anti-bribery principles.</p>
             <p>To prevent improper influence in business decisions, we set limits surrounding gifts, meals, and entertainment. Abbott’s policies help ensure that brand reminders, cultural courtesies, hospitality, and other benefits never interfere with professional judgment. </p>
@@ -783,7 +783,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>ACCURATE BOOKS &amp; RECORDS</p>
             <p>We measure achievements accurately.</p>
             <p>Abbott’s records and public statements must accurately reflect our actions, with enough context to show the true nature of our work. Financial records must follow accounting standards, laws, and Abbott’s internal policies. </p>
@@ -795,7 +795,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>COMPLIANCE WITH LAWS</p>
             <p>We follow all laws, regulations and Abbott requirements that apply to our work.  </p>
             <p>Every Abbott employee is expected to follow all applicable laws, as well as Abbott’s policies, procedures, and the Code. This is a basic condition of employment. Abbott’s policies cover key areas like healthcare compliance, quality, finance, trade, security, and more, helping us meet legal requirements and prevent non-compliance. </p>
@@ -807,7 +807,7 @@
                         <div class="sliderRoundShape">.</div>
                         <div class="sliderVerticalBar">.</div>
                         <img class="slClose" src="images/close.svg"/>
-                        <div class="sliderTextContainer">
+                        <div class="sliderTextContainer" data-break="true">
                               <p>FAIR COMPETITION</p>
             <p>We ensure that any interactions that we have with competitors are appropriate. </p>
             <p>At Abbott we are committed to following competition laws everywhere we operate. These laws prohibit agreements or actions that discourage fair market practices—especially in pricing, sales terms, and interactions with competitors. </p>
