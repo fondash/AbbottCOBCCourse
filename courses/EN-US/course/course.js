@@ -2110,6 +2110,25 @@ lnx.nav = {
             }
         }
 
+        // potentially ignore navigation event if screen is 'must complete' with value of 'request'
+        // if((!isPriorNode()) && 
+        //         this.isLinearNav && 
+        //         (prevNode && prevNode.getAttribute("mustComplete") === "request")
+        // ){
+        //     if(prevNode && !this.isScreenComplete(prevNode.getAttribute("navId"))){
+                
+        //         var screen = lnx.view.getCurrentScreen();
+        //         if(screen){
+        //             if(screen.requestMustComplete()){
+        //                 screen.OnNavEventRejectedNotice(navId);
+        //                 this.navIndex = idx;
+        //                 return;
+        //             }
+        //         }                
+        //     }
+        // }
+
+
         // check if nav action should be ignored - screen will display content as a virtual screen/nav event
         if(navId === "next" && this.insertVirtual(prevType, navId)){
     		this.navIndex = idx;
@@ -2207,6 +2226,14 @@ lnx.nav = {
         }
 
     },
+
+    // setMustComplete: function(navId){
+    //     let n = node = this.navNodeMap[navId];
+    //     if(n){
+    //         n.setAttribute("mustComplete", "true");
+    //         this.setIsScreenLocked(true);
+    //     }
+    // },
 
     insertVirtual: function(type, dir){
     	if(!this.mustCompleteMap[type]) return false;
@@ -10384,11 +10411,11 @@ lnx.sliderIcons = {
     init : function( node, screenElm, frameElm, origNavId){
         screenElm = node = document.querySelector(".sliderContainer");
         
-        var self = this;
-        this.complete = false;
+        var self = this;        
         this.message = screenElm.querySelector(".userNotice");
-        this.id = screenElm.getAttribute("id");    
+        this.scrId = screenElm.getAttribute("id");    
         this.resId = node.getAttribute("resId");
+        this.complete = lnx.cache.getValue("complete", this.scrId) === true;
         this.screen = 0;
 
         let tl = null;
@@ -10496,6 +10523,10 @@ lnx.sliderIcons = {
                     this.updateVirtualScreen(dir);
                     return true;
                 }else{
+                    // if(!this.complete){
+                    //     this.OnNavEventRejectedNotice();
+                    //     return true;
+                    // }
                     return false;
                 }
         }else if(dir === "prev"){
@@ -10581,6 +10612,7 @@ lnx.sliderIcons = {
     },
 
     OnNavEventRejectedNotice: function(dir){
+        console.log('navreject',dir);
         //this.message.classList.add("showUserNotice");
     },
     

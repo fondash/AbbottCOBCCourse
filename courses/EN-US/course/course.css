@@ -6533,82 +6533,84 @@ div.screen#C_1 > img.fullscreenImg + div {
 }
 
 #C_13 div.sliderIconContainer {
-  grid-template-columns: repeat(20, 5%);
-  grid-template-rows: repeat(10, 10%);
+  display: block;
+  place-items: unset;
+  position: relative;
 
-  & > p {
-    grid-column: 7 / 15;
-    grid-row: 10;
-    position: relative;
-    top: -0.5rem;
+  & > p{
+	position:absolute;
+	top: auto;
+	bottom: 10%;
+	width: 100%;
+	}
+
+  & div.sliderIcon > p{
+	font-size: .7rem;
   }
 
-  & div.sliderIcon {
-    grid-row: 3;
+  & div.sliderIcon > img:nth-of-type(1){
+	width: 4.9rem;
   }
 
-  & div.sliderIcon:nth-of-type(1) {
-    grid-column: 4;
-    grid-row: 4;
-    /* position: relative; */
-    /* top: -1rem; */
-  }
+  & div.sliderIcon:nth-of-type(1){
+	position:absolute;
+	top: 43%;
+	left: 9%;
+	}
 
-  & div.sliderIcon:nth-of-type(2) {
-    grid-column: 7;
-  }
+  & div.sliderIcon:nth-of-type(2){
+	position:absolute;
+	top: 50%;
+	left: 39%;
+	}
 
-  & div.sliderIcon:nth-of-type(3) {
-    grid-column: 10;
-    position: relative;
-    top: -1rem;
-  }
+  & div.sliderIcon:nth-of-type(3){
+	position:absolute;
+	top: 39%;
+	left: 51%;
+	}
 
-  & div.sliderIcon:nth-of-type(4) {
-    grid-column: 13;
-  }
+  & div.sliderIcon:nth-of-type(4){
+	position:absolute;
+	top: 16%;
+	left: 63%;
+	}
 
-  & div.sliderIcon:nth-of-type(5) {
-    grid-column: 16;
-    grid-row: 4;
-  }
+  & div.sliderIcon:nth-of-type(5){
+	position:absolute;
+	top: 53%;
+	left: 23%;
+	}
 
-  & div.sliderIcon:nth-of-type(6) {
-    grid-row: 6;
-    grid-column: 5;
-    position: relative;
-    top: 1.5rem;
-  }
+  & div.sliderIcon:nth-of-type(6){
+	position:absolute;
+	top: 28%;
+	left: 30%;
+	}
 
-  & div.sliderIcon:nth-of-type(7) {
-    grid-row: 7;
-    grid-column: 8;
-    position: relative;
-    top: 0.5rem;
-  }
+  & div.sliderIcon:nth-of-type(7){
+	position:absolute;
+	top: 39%;
+	left: 74%;
+	}
 
-  & div.sliderIcon:nth-of-type(8) {
-    grid-row: 7;
-    grid-column: 11;
-    position: relative;
-    top: 1.7rem;
+  & div.sliderIcon:nth-of-type(8){
+	position:absolute;
+	top: 12%;
+	left: 43%;
+	}
 
-    & > img:first-of-type {
-      width: 4.9rem;
-    }
-  }
+  & div.sliderIcon:nth-of-type(9){
+	position:absolute;
+	top: 21%;
+	left: 17%;
+	}
 
-  & div.sliderIcon:nth-of-type(9) {
-    grid-row: 7;
-    grid-column: 14;
-  }
-
-  & div.sliderIcon:nth-of-type(10) {
-    grid-row: 6;
-    grid-column: 17;
-    position: relative;
-    top: 1.7rem;
-  }
+	& div.sliderIcon:nth-of-type(10){
+	position:absolute;
+	top: 50%;
+	left: 63%;
+	}
 }
 
 /************ end overrides **********************/
