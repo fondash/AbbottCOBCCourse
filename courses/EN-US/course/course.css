@@ -6445,6 +6445,10 @@ div.screen#C_1 > img.fullscreenImg + div {
   font-family: Calibri, sans-serif;
 }
 
+.userNoticeGen, .userNotice{
+	right: 2.5rem;
+}
+
 #C_12 div.sliderIconContainer,
 #C_10 div.sliderIconContainer,
 #C_9 div.sliderIconContainer {
