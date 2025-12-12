@@ -6,7 +6,7 @@
         homeId="C_4"
         version="1"
         alwayshowRef="C_200"
-        linearnav="false">
+        linearnav="true">
    <toc>
       <nav navId="A_1"
            title="Welcome"
