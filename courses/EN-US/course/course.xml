@@ -2,11 +2,11 @@
 <course framework="2"
         helpId="C_200"
         id="iwc"
-        noaudio="true"
+        noaudio="false"
         homeId="C_4"
         version="1"
         alwayshowRef="C_200"
-        linearnav="true">
+        linearnav="false">
    <toc>
       <nav navId="A_1"
            title="Welcome"
@@ -221,7 +221,7 @@
             <p>In the sections ahead, we’ll explore the key principles of the Code and see how they come to life in our everyday actions and choices. </p>
          </div>
       </div>
-      <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div id="C_8" class="screen" data-autoAudio="0">
          <div class="sliderContainer">
             <p class="userNotice">You must view all content before moving forward.</p>
             <div class="sliderImgContainer">

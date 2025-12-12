@@ -10467,11 +10467,20 @@ lnx.sliderIcons = {
                 tl2.from(rs, {scale: 1.3, x: `${dir}120%`, delay: 1.6, duration: 1.2, ease: "power2.inOut"});
                 tl2.to([tx,close,vBar], {opacity: 1, duration: 1});
 
+                playIconAudio(num);
                 checkForCompletion();
+            }
+
+            function playIconAudio(num){
+                let skip2 = 2;
+                let delay = 3000;
+                var audioId = self.resId + "_" + (skip2 + num);
+                lnx.audio.playAudio(audioId, delay);
             }
         }
 
         function onClose(e){
+            lnx.audio.stopAudio();
             self.message.classList.remove("showUserNotice");
             tl.reverse();
         }
@@ -10594,11 +10603,14 @@ lnx.sliderIcons = {
     },
 
     getResId: function(){
+        if(this.screen === 3){
+            return "inst";
+        }
         return this.resId + "_" + this.screen;
     },
 
     playAudio: function(){
-        var delay = this.screen === 1 ? 1500 : 0;
+        var delay = this.screen === 2 ? 1000 : 0;
         lnx.audio.playAudio(this.getResId(), delay);
     },
     
