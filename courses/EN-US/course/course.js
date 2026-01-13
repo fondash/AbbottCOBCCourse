@@ -10445,7 +10445,7 @@ lnx.sliderIcons = {
                 slContent = screenElm.querySelectorAll('.sliderContent')[num-1];
                 let bcr1 = slContent.parentNode.getBoundingClientRect();
                 
-                let outer = 1200;
+                let outer = 1400;
                 let bcr = tg.getBoundingClientRect();
                 let r = bcr.width/2;
                 let x = (bcr.x + bcr.width /2) - bcr1.x;
