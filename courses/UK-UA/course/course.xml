@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="Привітання" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="Кодекс ділової поведінки">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="Наша філософія">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="Цілі">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="Зміст">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="Важливість Кодексу ділової поведінки компанії Abbott" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="Наші щоденні зобов’язання">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="Важливість Кодексу для нашого бізнесу">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="Наш Кодекс" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="Огляд">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="Наші клієнти">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="Наші продукти">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="Передова наука">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="Наші люди">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="Наші громади">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="Як ми працюємо">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="Ваші зобов’язання" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="Ваші зобов’язання">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="Перевірка знань" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="Вступ">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="Оцінювання">
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="Відгук">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="Опитування">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>Кодекс ділової поведінки</p>
+      </div>
+      <p class="startInstruction">Натисніть стрілку вперед.</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Як світовий лідер у сфері охорони здоров’я, те, що ми робимо щодня, є дуже важливим.</p>
+        <p>Наш Кодекс ділової поведінки — це потужний орієнтир, який дає нам змогу діяти чесно, керувати цілеспрямовано та робити вибір, що відображає найкращі наші якості. Саме так ми будуємо довіру, підтримуємо наші цінності та продовжуємо робити вагомий внесок у розбудову світу.</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Після закінчення цього курсу ви:</p>
+        <ul>
+          <li>зрозумієте важливість Кодексу ділової поведінки для нашого бізнесу;</li>
+          <li>зможете визначати основні принципи Кодексу ділової поведінки та розуміти, як вони застосовуються в щоденній роботі;</li>
+          <li>розумітимете очікування компанії Abbott щодо належного ведення бізнесу в усьому світі.</li>
+          <li>Знатимете, куди звертатися по допомогу та підтримку.</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>Привітання</p>
+            <p>1 хвилина</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>Важливість Кодексу ділової поведінки компанії Abbott</p>
+            <p>2 хвилини</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>Наш Кодекс</p>
+            <p>18 хвилин</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>Ваші зобов’язання</p>
+            <p>1 хвилина</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>Перевірка знань</p>
+            <p>5 хвилин</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>Перебіг навчання</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">Ця тема вже доступна.</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Ми керуємося принципами чесності, справедливості та сумлінності. Усі. Щодня.</p>
+        <p>Наш Кодекс ділової поведінки нагадує нам, що чесність, справедливість і сумлінність — це не просто ідеали, а щоденні зобов’язання. Хоча Кодекс не може передбачити кожен виклик, з яким ми можемо зіткнутися, він пропонує міцну основу цінностей, якими ми можемо керуватися.</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Ми прагнемо дотримуватися найвищих стандартів.</p>
+        <p>Кодекс ділової поведінки є життєво важливим для успіху компанії Abbott, оскільки він встановлює стандарт нашої роботи — працювати чесно, справедливо та сумлінно. Він допомагає нам ухвалювати етичні рішення, особливо у складних ситуаціях, і гарантує, що ми залишаємося вірними нашим цінностям. Дотримуючись Кодексу, ми захищаємо свою репутацію, зміцнюємо довіру тих, заради кого ми працюємо, і створюємо корпоративну культуру, в якій правильна поведінка має першочергове значення.</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Розуміння Кодексу — відповідальність кожного.</p>
+        <p>Кожен із нас відіграє певну роль у застосуванні Кодексу ділової поведінки до нашої щоденної роботи та ухвалення рішень. Це не просто документ — це посібник, який допомагає нам долати труднощі чесно та впевнено.</p>
+        <p>У подальших розділах ми розглянемо ключові принципи Кодексу та побачимо, як вони втілюються в життя в наших повсякденних діях і виборі.</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Ви маєте переглянути весь уміст, перш ніж перейти до наступного розділу.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>У компанії Abbott ми прагнемо покращувати здоров’я та благополуччя людей, які покладаються на нашу продукцію.</p>
+          </div>
+          <div>
+            <p>Це нагадування про те, що за кожним рішенням, кожною інновацією та кожною дією стоїть мета — покращити життя.</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>Пацієнти і споживачі</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>Медичні працівники</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Щоб дізнатися більше, натисніть на кожен зі значків.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ПАЦІЄНТИ І СПОЖИВАЧІ</p>
+                <p>Турбота про людей — основа нашої діяльності. Ми ставимо здоров’я та благополуччя пацієнтів і споживачів на перше місце. Щодня ми можемо робити вагомі зміни — допомагаючи людям жити здоровішим життям і роблячи свій внесок у розбудову сильнішого та здоровішого суспільства.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>МЕДИЧНІ ПРАЦІВНИКИ</p>
+                <p>Ми співпрацюємо з МП для підтримки кращого здоров’я. Ми поважаємо знання та незалежні судження медичних працівників — будь то лікарі, медсестри, фармацевти, дослідники чи персонал лабораторій. Їхня роль у сприянні пацієнтам у покращенні їхнього здоров’я є надзвичайно важливою.</p>
+                <p>У компанії Abbott ми зобов’язуємося підтримувати їх шляхом надання точної та своєчасної інформації, щоб вони мали змогу ухвалювати найкращі рішення. Працюючи разом, ми можемо досягти нашої спільної мети — покращувати здоров’я та благополуччя в усьому світі.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Ви маєте переглянути весь уміст, перш ніж перейти до наступного розділу.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>У компанії Abbott ми переконуємося, що кожен продукт, який ми пропонуємо, є безпечним, ефективним і гідним довіри, яку люди нам виявляють.</p>
+          </div>
+          <div>
+            <p>Ми вживаємо заходів, щоб бути впевненими у безпечності та ефективності наших продуктів — від етапу вибору належних матеріалів до етапів їхнього просування, продажу та доставки. На кожному етапі ми дотримуємося високих стандартів якості.</p>
+            <p>Ми також зобов’язуємося вчасно виявляти, оцінювати та вирішувати проблеми безпечності продукції, а також вживати заходів для запобігання розповсюдженню підробок, роботі нелегальних каналів і крадіжкам нашої продукції.</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>Якість продукції</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>Просування продукції I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>Просування продукції II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Щоб дізнатися більше, натисніть на кожен зі значків.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ЯКІСТЬ ПРОДУКЦІЇ</p>
+                <p>Безпечна, ефективна та надійна. Наша продукція дуже важлива.</p>
+                <p>Ми прагнемо якості на кожному етапі — від етапів пошуку джерел ресурсів і виробництва до етапів просування, продажу та доставки нашої продукції, зокрема через наших партнерів. Кожен етап має значення, оскільки люди розраховують на безпечність нашої продукції.</p>
+                <p>Ми зобов’язуємося своєчасно виявляти, оцінювати та усувати проблеми безпечності продукції. Ми забезпечуємо медичних працівників й установи інформацією, яка необхідна їм для безпечного та ефективного використання нашої продукції, а також підтримуємо зв’язок з регуляторними органами та органами охорони здоров’я у разі виникнення потенційних проблем з безпекою.</p>
+                <p>Ми вживаємо заходів для запобігання розповсюдженню підробок, роботі нелегальних каналів і крадіжкам нашої продукції. Ми дотримуємося правил торгівлі, включно із правилами експортно-імпортного контролю, та дотримуємося урядових обмежень і санкцій для захисту національної безпеки та громадського здоров’я.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ПРОСУВАННЯ ПРОДУКЦІЇ I</p>
+                <p>Ми просуваємо та продаємо нашу продукцію у чесний спосіб і з повагою до тих, хто на неї покладається.</p>
+                <p>Наша інформація про продукцію є правдивою, збалансованою; вона узгоджується із затвердженим маркуванням, науковими доказами та найкращими медичними практиками у країнах, де ми працюємо.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ПРОСУВАННЯ ПРОДУКЦІЇ II</p>
+                <p>Ми просуваємо нашу продукцію для її передбаченого та схваленого використання.</p>
+                <p>Ми здійснюємо свою діяльність відповідно до ліцензій і дозволів, наданих органами охорони здоров’я в країнах, де ми працюємо. Просування, продаж і розповсюдження нашої продукції здійснюється у суворій відповідності до торговельного законодавства та норм, що діють у конкретній країні. Завдяки суворим внутрішнім політикам і процедурам ми забезпечуємо дотримання вимог і виконуємо наші зобов’язання щодо етичних, безпечних і відповідальних методів ведення бізнесу.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Ви маєте переглянути весь уміст, перш ніж перейти до наступного розділу.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>У компанії Abbott ми зобов’язуємося розвивати науку чесно та цілеспрямовано.</p>
+          </div>
+          <div>
+            <p>Ми прагнемо інновацій, визнаючи важливість передбачення ризиків і відповідального реагування на них. Ми поважаємо гідність кожного учасника досліджень і дотримуємося найвищих стандартів прозорості та об’єктивності в наукових дослідженнях.</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>Інновації I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>Інновації II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>Передова наука</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Щоб дізнатися більше, натисніть на кожен зі значків.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ІННОВАЦІЇ I</p>
+                <p>Ми створюємо інноваційні рішення в галузі охорони здоров’я, щоб допомагати людям жити здоровішим життям і покращувати результати лікування в усьому світі.</p>
+                <p>Ми реагуємо на потреби людей, розробляючи новаторські методи лікування, пристрої, що рятують життя, та інноваційні продукти, які підтримують здоров’я у новий спосіб. Завдяки передовій науці та технологіям ми прагнемо покращити результати лікування та надати людям можливість жити повноцінним життям, створюючи значимі інновації для кожного етапу життя.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ІННОВАЦІЇ II</p>
+                <p>Ми культивуємо культуру інновацій, досліджуючи нові можливості, та плануємо непередбачувані ситуації.</p>
+                <p>Хоча прогрес часто пов’язаний із ризиком, ми вживаємо продуманих і відповідальних заходів, щоб передбачити труднощі та мінімізувати їх заздалегідь, завжди керуючись цим Кодексом і нашими політиками.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ПЕРЕДОВА НАУКА</p>
+                <p>Ми проводимо дослідження з метою отримання точних й об’єктивних даних, які стимулюють інновації, вдосконалюють методи лікування та сприяють розвитку галузі охорони здоров’я.</p>
+                <p>Під час проведення досліджень ми ставимося до учасників дослідження з гідністю, захищаємо їх від непотрібного ризику та гарантуємо, що вони розуміють характер і мету дослідження, а також пов’язані з ним ризики. Отримання інформованої згоди від учасників дослідження є важливою частиною нашого дослідницького процесу.</p>
+                <p>Ми цінуємо прозорість у наукових дослідженнях і не будемо намагатися неналежним чином впливати на їхні результати. Ми переконуємося в точності даних наукових досліджень і зобов’язуємося своєчасно та точно надавати результати досліджень, пов’язані з нашою продукцією, незалежно від того, позитивні вони чи негативні.</p>
+                <p>Коли дослідження проводиться для компанії Abbott або публікується від нашого імені, ми співпрацюємо з експертами, які мають вагомий науковий і медичний досвід. Ми очікуємо, що вони розкриють будь-які зв’язки з компанією Abbott, включно з фінансовими та іншими відносинами.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Ви маєте переглянути весь уміст, перш ніж перейти до наступного розділу.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>У компанії Abbott ми сприяємо розвитку культури відкритості, різноманітності й поваги, оскільки це стимулює творчість та інновації.</p>
+          </div>
+          <div>
+            <p>Кожен із нас зобов’язаний щодня дотримуватися цього Кодексу: ставитися до інших із повагою, створювати безпечне та інклюзивне робоче середовище та забезпечувати рівні можливості для всіх.</p>
+            <p>Ми ставимо запитання, коли щось незрозуміло, і висловлюємося, коли щось здається неправильним.</p>
+            <p>У цьому розділі підкреслюються наші зобов’язання щодо забезпечення рівних можливостей і гарантування безпечного робочого середовища, а також нагадується про необхідність розуміти, застосовувати та дотримуватися Кодексу у всьому, що ми робимо.</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>Співробітництво</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>Наш зв'язок один з одним</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>Повідомлення про проблему</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>Рівні можливості</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>Справедливе ставлення</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>Умови праці</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Щоб дізнатися більше, натисніть на кожен зі значків.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>СПІВРОБІТНИЦТВО</p>
+                <p>Ми цінуємо відкритість і співпрацю, оскільки різні ідеї призводять до кращих рішень.</p>
+                <p>Ми цінуємо різноманітність, оскільки вона стимулює творчість, енергію та прогрес. Щоб зробити вагомий вплив на глобальне здоров’я, ми прислухаємося одне до одного, цінуємо кожну думку та співпрацюємо для досягнення спільної мети.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>НАШ ЗВ’ЯЗОК ОДИН З ОДНИМ</p>
+                <p>Ми всі несемо спільну відповідальність за щоденне дотримання цінностей компанії Abbott.</p>
+                <p>Діючи етично, ми зміцнюємо нашу культуру. Кожен повинен розуміти, як Кодекс застосовується до його функцій та роботи.</p>
+                <p>Менеджери та керівники несуть особливу відповідальність як лідери — вони повинні бути взірцем наших цінностей, сприяти етичній поведінці та створювати безпечний простір, де співробітники почуваються комфортно, маючи можливість ставити запитання та повідомляти про проблеми, не боючись помсти.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ПОВІДОМЛЕННЯ ПРО ПРОБЛЕМУ</p>
+                <p>Ми ставимо запитання, коли щось незрозуміло або здається неправильним. Ми також висловлюємося та повідомляємо про будь-які можливі порушення Кодексу.</p>
+                <p>Ми зобов’язані ставити запитання, коли вказівки незрозумілі, а також ставити під сумнів і повідомляти про підозри у неетичній діловій поведінці, а також про випадки порушення Кодексу чи політик компанії Abbott.</p>
+                <p>Якщо ви не впевнені щодо правильності вибору чи дії, поговоріть зі своїм керівником або зверніться до Департаменту етики та дотримання вимог.</p>
+                <p>Менеджери та керівники повинні подавати приклад і забезпечувати розуміння та дотримання Кодексу співробітниками. Керівники несуть більшу відповідальність за доведення до відома співробітників очікувань компанії Abbott і повинні звертатися до Департаменту етики та дотримання вимог з приводу будь-яких потенційних порушень Кодексу.</p>
+                <p>Усі повідомлення про можливі порушення Кодексу розглядаються з максимальною серйозністю. У разі потреби Департамент етики та дотримання вимог вживатиме подальших заходів, включно з розслідування та коригувальними діями. Ви не повинні проводити розслідування самостійно. Усі повинні співпрацювати та зберігати конфіденційність розслідувань.</p>
+                <p>Коригувальні заходи можуть включати дисциплінарні стягнення (включно зі звільненням) або судові позови за:</p>
+                <ul>
+                  <li>схвалення або участь у порушенні;</li>
+                  <li>відмову від співпраці в розслідуванні;</li>
+                  <li>неповідомлення про порушення через неналежний нагляд;</li>
+                  <li>подання неправдивого повідомлення;</li>
+                  <li>помсту проти особи, яка добросовісно повідомила про проблему.</li>
+                </ul>
+                <p>Помста абсолютно є неприйнятною. Якщо ви вважаєте, що мала місце помста, повідомте про це у Департамент етики та дотримання вимог або відділ кадрів.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>РІВНІ МОЖЛИВОСТІ</p>
+                <p>Ми надаємо рівні можливості для всіх працівників.</p>
+                <p>Ми ухвалюємо рішення щодо працевлаштування на основі потреб бізнесу, навичок, досвіду й результатів роботи. Дискримінація будь-якого виду не допускається. Ми дотримуємося всіх законів, які регулюють наші відносини зі співробітниками по всьому світу.</p>
+                <p>Компанія Abbott забороняє дискримінацію на основі расової приналежності, кольору шкіри, віросповідання, віку, статі, національного походження, гендерної приналежності або гендерного самовираження, сексуальної орієнтації, інвалідності, сімейного стану, статусу військового або ветерана, генетики, громадянства чи будь-якого іншого статусу, захищеного законодавством.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>СПРАВЕДЛИВЕ СТАВЛЕННЯ</p>
+                <p>Ми сприяємо створенню шанобливого, інклюзивного та безпечного робочого середовища.</p>
+                <p>Ми працюємо над тим, щоб кожен відчував, що йому раді, щоб він отримував підтримку і був впевненим у своїх силах.</p>
+                <p>Компанія Abbott сприяє здоровому середовищу, вільному від домагань, та цінує внесок співробітників у зміцнення різноманітності та інклюзивності.</p>
+                <p>Ми ставимося до кожного з повагою та гідністю, будуючи довіру через справедливість і чесність, а не через маніпуляції, перекручування інформації чи відсутність прозорості.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>УМОВИ ПРАЦІ</p>
+                <p>Ми надаємо пріоритет безпеці та справедливим умовам праці.</p>
+                <p>Про нещасні випадки або небезпечні ситуації потрібно негайно повідомляти керівництво. Компанія Abbott також вживає заходів для запобігання та перешкоджання незаконним і неналежним трудовим умовам, а також будь-яким формам жорстокого чи нелюдського поводження в нашій діяльності по всьому світу.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Ви маєте переглянути весь уміст, перш ніж перейти до наступного розділу.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>У компанії Abbott ми будуємо довіру через спільноту, довкілля та залученість.</p>
+          </div>
+          <div>
+            <p>Ми прагнемо віддавати належне спільнотам, де ми працюємо, та позитивно й тривало впливати на життя людей.</p>
+            <p>Компанія Abbott працює над мінімізацією свого впливу на довкілля, зменшуючи споживання енергії та зберігаючи природні ресурси.</p>
+            <p>Ми також підтримуємо відповідну політичну активність і заохочуємо залучення спільноти до всіх наших глобальних операцій.</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>Залучення громади</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>Екологічна відповідальність</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>Внески на політичні цілі</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Щоб дізнатися більше, натисніть на кожен зі значків.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ЗАЛУЧЕННЯ ГРОМАДИ</p>
+                <p>Ми підтримуємо добробут спільнот.</p>
+                <p>У компанії Abbott ми підтримуємо добробут спільнот через нашу продукцію, нашу роботу та наші дії, і ми маємо довгу історію надання допомоги у місцях, де ми живемо та працюємо, тому що ми віримо, що здорові спільноти процвітають.</p>
+                <p>Завдяки нашій діяльності, партнерствам і підтримці місцевих груп й ініціатив ми прагнемо зробити позитивний і тривалий вплив скрізь, де ми ведемо свою діяльність.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ЕКОЛОГІЧНА ВІДПОВІДАЛЬНІСТЬ</p>
+                <p>Ми беремо участь у сталому розвитку та працюємо над зменшенням нашого впливу на довкілля.</p>
+                <p>Ми працюємо над захистом довкілля в усьому, що ми робимо, — від того, як ми отримуємо матеріали, до того, як ми виробляємо, доставляємо та використовуємо нашу продукцію.</p>
+                <p>Ми вживаємо заходів для зменшення використання енергії та природних ресурсів. Ми підтримуємо проєкти чистої енергії на роботі та в наших спільнотах. Ми шукаємо способи зменшення кількості відходів, збільшення переробки та зниження екологічних ризиків. Ми також дотримуємося законів і нормативних вимог про охорону довкілля, що застосовуються до нашої діяльності.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ВНЕСКИ НА ПОЛІТИЧНІ ЦІЛІ</p>
+                <p>Ми підтримуємо відповідне залучення до політичних процесів та залучення громади.</p>
+                <p>Компанія Abbott підтримує державні політики, які узгоджуються з нашою місією та нашими цінностями. За потреби ми також можемо підтримувати політичних кандидатів або групи інтересів.</p>
+                <p>Оскільки закони про політичні внески компаній є складними, будь-яке використання коштів компанії Abbott або внесків, зроблених від імені компанії Abbott, має бути спершу розглянуте юридичним департаментом.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Ви маєте переглянути весь уміст, перш ніж перейти до наступного розділу.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>У компанії Abbott ми зобов’язуємося вести бізнес чесно та дотримуватися своїх обіцянок у всіх сферах нашої роботи.</p>
+          </div>
+          <div>
+            <p>При вирішенні конфліктів інтересів ми ставимо інтереси компанії Abbott вище за власні. Ми захищаємо активи та репутацію компанії Abbott, зберігаємо конфіденційну інформацію в безпеці та поважаємо приватність кожного, хто ділиться з нами персональною інформацією.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>Добросовісне ведення бізнесу</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>Уникнення конфліктів інтересів I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>Уникнення конфліктів інтересів II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>Захист майна і репутації компанії Abbott</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>Конфіденційна інформація</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Щоб дізнатися більше, натисніть на кожен зі значків.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ДОБРОСОВІСНЕ ВЕДЕННЯ БІЗНЕСУ</p>
+                <p>Ми ведемо свою діяльність чесно та виконуємо свої зобов’язання у кожному аспекті нашої роботи.</p>
+                <p>Кожен з нас відповідає за свою роботу та рішення, які ми приймаємо на своїх посадах. У кожній професійній взаємодії — з колегами, клієнтами, постачальниками, медичними працівниками, конкурентами тощо — ми повинні бути чесними та справедливими щодо того, як компанія Abbott веде свою діяльність.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>УНИКНЕННЯ КОНФЛІКТУ ІНТЕРЕСІВ I</p>
+                <p>Ми виявляємо та вирішуємо конфлікти інтересів, перш ніж рухатися далі.</p>
+                <p>Конфлікт інтересів виникає тоді, коли особисті інтереси перешкоджають (або, як видається, перешкоджають) тому, що є найкращим для компанії Abbott. Ділові рішення повинні ґрунтуватися на потребах компанії Abbott, а не на особистій вигоді чи інтересах родини або друзів. Від нас очікується розсудливість й уникнення ситуацій, які можуть призвести до реального чи уявного конфлікту. Якщо особисті стосунки, інтереси чи зовнішня діяльність впливають на вашу здатність діяти справедливо та ефективно, або можуть принести користь вам чи члену вашої родини, ви повинні повідомити про потенційний конфлікт інтересів й усунути себе від такої ситуації, дотримуючись вказівок компанії Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>УНИКНЕННЯ КОНФЛІКТІВ ІНТЕРЕСІВ II</p>
+                <p>При ухваленні рішень, пов’язаних із роботою, ми ставимо інтереси компанії Abbott на перше місце.</p>
+                <p>Це означає, що цілі компанії мають пріоритет над цілями конкретної команди, групи чи окремої особи. Будь-які можливості чи ресурси, до яких ми отримуємо доступ завдяки нашим посадам у компанії Abbott, повинні використовуватися на благо компанії, а не для особистої вигоди. Ми не повинні конкурувати з компанією Abbott або допомагати іншим це робити. Коли з’являються відповідні можливості, ми повинні зосередитися на просуванні інтересів компанії Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ЗАХИСТ МАЙНА ТА РЕПУТАЦІЇ КОМПАНІЇ ABBOTT</p>
+                <p>Ми маємо захищати інтереси нашої компанії.</p>
+                <p>Ми всі несемо спільну відповідальність за захист і розумне використання активів компанії Abbott. Сюди входить усе: від фізичних об’єктів, як-от транспортні засоби і комп’ютери, до цінної інформації, як-от інтелектуальна власність, комерційна таємниця та спеціалізовані знання.</p>
+                <p>Ми завжди повинні проявляти розсудливість для забезпечення того, що ці ресурси використовуються належним чином, ефективно та обережно, уникаючи втрат, крадіжок, неправильного використання або марнотратства.</p>
+                <p>Репутація компанії Abbott — один із наших найцінніших активів, і ми всі відіграємо певну роль у її захисті.</p>
+                <p>Кожен із нас відповідає за те, як ми представляємо компанію Abbott, особливо в публічних місцях і в інтернеті, де все, чим ми ділимося, — в розмовах, електронних листах чи соціальних мережах — може відобразитися на компанії. Важливо спілкуватися вдумливо, розсудливо та захищати конфіденційну інформацію компанії Abbott.</p>
+                <p>Під час зовнішньої взаємодії слід враховувати, чи можуть нас сприймати як представників компанії Abbott, і як наші слова чи дії можуть вплинути на її репутацію. Це особливо важливо в соціальних мережах, де публікації можуть швидко й широко поширюватися, — необережний коментар чи публікація може завдати реальної шкоди.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>КОНФІДЕНЦІЙНА ІНФОРМАЦІЯ</p>
+                <p>Ми зобов’язуємося поважати та захищати всю конфіденційну інформацію, включно із персональними даними.</p>
+                <p>Конфіденційна інформація — один із найцінніших активів компанії Abbott. Вона включає закриту інформацію, що стосується наукових досліджень, комерційних таємниць, бізнес-планів, ціноутворення, контрактів, фінансових результатів й інших даних, розголошення яких може принести користь конкурентам або завдати шкоди компанії Abbott.</p>
+                <p>Ми повинні захищати конфіденційну інформацію та запобігати її несанкціонованому використанню чи поширенню навіть після закінчення нашої співпраці з компанією Abbott.</p>
+                <p>У компанії Abbott ми також поважаємо інтелектуальну власність інших осіб й уникаємо неналежного використання їхньої конфіденційної інформації. Неправомірне використання закритої інформації, наприклад, для інсайдерської торгівлі, є незаконним і неетичним.</p>
+                <p>Ми також захищаємо персональні дані, довірені нам колегами, медичними працівниками та клієнтами. Коли ми збираємо та використовуємо персональну інформацію, ми робимо це у відповідальний спосіб, за наявності належної згоди, і ніколи не продаємо її, а також не отримуємо її з неавторизованих джерел. У багатьох місцях діють суворі закони про конфіденційність, і ми зобов’язуємося розуміти та дотримуватися їх, особливо щодо найчутливіших категорій персональної інформації.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Ви маєте переглянути весь уміст, перш ніж перейти до наступного розділу.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>У компанії Abbott ми зобов’язуємося вести бізнес чесно та дотримуватися своїх обіцянок у всіх сферах нашої роботи.</p>
+          </div>
+          <div>
+            <p>При вирішенні конфліктів інтересів ми ставимо інтереси компанії Abbott вище за власні. Ми захищаємо активи та репутацію компанії Abbott, зберігаємо конфіденційну інформацію в безпеці та поважаємо приватність кожного, хто ділиться з нами персональною інформацією.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>Боротьба з хабарництвом</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>Подарунки, гостинність та розваги</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>Точність бухгалтерських книг і обліку</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>Дотримання законодавства</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>Добросовісна конкуренція</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Щоб дізнатися більше, натисніть на кожен зі значків.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>БОРОТЬБА З ХАБАРНИЦТВОМ</p>
+                <p>Ми активно протидіємо шахрайству, хабарництву та корупції. Ми ведемо бізнес у чесний спосіб.</p>
+                <p>Ми очікуємо, що медичні працівники, як приватні особи, ухвалюватимуть рішення, виходячи з того, що є найкращим для пацієнтів, а не під впливом стимулів від компаній. Так само ми очікуємо, що державні службовці діятимуть в інтересах громадськості без жодного корпоративного тиску.</p>
+                <p>У компанії Abbott ми проводимо навчання медичних працівників щодо нашої продукції, але не впливаємо на їхню незалежну думку. У жодному разі не дозволяється пропонувати щось цінне медичним працівникам (як-от лікарю, фармацевту, медсестрі, досліднику або персоналу лабораторії), державним службовцям чи іншим особам з метою отримання вигоди або винагороди за минулі відносини.</p>
+                <p>Ми дотримуємося законів про боротьбу з хабарництвом, корупцією та відкатами в усьому світі, включно із Законом США про боротьбу з корупцією за кордоном. Кожен співробітник компанії Abbott повинен ретельно керувати відносинами з постачальниками послуг, як-от дистриб’юторами, консультантами та спікерами, проводячи належну перевірку, сплачуючи справедливу ринкову вартість і належним чином документуючи платежі для забезпечення дотримання законів і стандартів компанії.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ПОДАРУНКИ, ГОСТИННІСТЬ І РОЗВАГИ</p>
+                <p>Згідно з принципами боротьби з хабарництвом, ми не пропонуємо та не надаємо нічого цінного для отримання ділової переваги, прямо чи опосередковано.</p>
+                <p>Щоб запобігти неналежному впливу на ділові рішення, ми встановлюємо обмеження щодо подарунків, гостинності та розваг. Політики компанії Abbott допомагають забезпечити, що нагадування про бренд, культурні знаки уваги, гостинність та інші переваги ніколи не вплинуть на професійну думку.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>РЕТЕЛЬНЕ ВЕДЕННЯ БУХГАЛТЕРСЬКОГО ОБЛІКУ ТА ДОКУМЕНТАЦІЇ</p>
+                <p>Ми вимірюємо досягнення ретельно.</p>
+                <p>Документація та публічні заяви компанії Abbott повинні точно відображати наші дії, з достатнім контекстом, щоб показати справжній характер нашої роботи. Фінансова документація повинна відповідати стандартам, законам і внутрішнім політикам компанії Abbott щодо бухгалтерського обліку.</p>
+                <p>Під час звітування про ціни, платежі або цінні речі, особливо медичним працівникам, ми повинні забезпечити повну та точну інформацію. Багато урядів вимагають такої прозорості для захисту державних коштів. Компанія Abbott зобов’язується надавати достовірні дані, щоб уряди, страховики та інші зацікавлені сторони могли ухвалювати інформовані рішення.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ДОТРИМАННЯ ЗАКОНОДАВСТВА</p>
+                <p>Ми дотримуємося всіх законів, нормативних актів і вимог компанії Abbott, що застосовуються до нашої роботи.</p>
+                <p>Кожен співробітник компанії Abbott повинен дотримуватися всіх чинних законів, а також політик, процедур і Кодексу компанії Abbott. Це є основною умовою працевлаштування. Політики компанії Abbott охоплюють ключові сфери, як-от дотримання вимог охорони здоров’я, якість, фінанси, торгівля, безпека тощо, допомагаючи нам дотримуватися вимог законодавства та запобігати їхньому порушенню.</p>
+                <p>Як глобальна компанія, ми також повинні усвідомлювати, що закони однієї країни можуть застосовуватися до роботи, виконуваної в іншій. У разі сумнівів зверніться за порадою до Юридичного департаменту або Департаменту етики та дотримання вимог.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ДОБРОСОВІСНА КОНКУРЕНЦІЯ</p>
+                <p>Ми гарантуємо, що будь-які взаємовідносини, які ми маємо з конкурентами, є відповідними.</p>
+                <p>У компанії Abbott ми зобов’язуємося дотримуватися законів про конкуренцію скрізь, де ми працюємо. Ці закони забороняють угоди або дії, які перешкоджають чесній ринковій практиці, особливо щодо ціноутворення, умов продажу та взаємодії з конкурентами.</p>
+                <p>Уникайте обговорення делікатних тем, як-от ціноутворення, витрати або бізнес-плани, із конкурентами та звертайтеся до Юридичного департаменту або Департаменту етики та дотримання вимог, якщо у вас виникнуть запитання або ви зіткнетеся з неналежними діями. Оскільки закони про конкуренцію є складними, а їхнє порушення може потягнути за собою серйозні покарання, ми також повинні ретельно керувати відносинами з третіми сторонами, щоб забезпечити дотримання вимог й уникнути навіть видимості антиконкурентної поведінки.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>Перш ніж звершити цей курс, підтвердьте, що ви розумієте свої обов’язки, пов’язані з Кодексом ділової поведінки компанії Abbott.</p>
+          <p>Я підтверджую, що розумію свої обов’язки щодо Кодексу ділової поведінки компанії Abbott і знаю, де знайти та переглянути відповідні політики та процедури.</p>
+          <button class="qcSubmitBtn">Підтвердити</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>Перевірка знань, яка йде далі, складається із 10 запитань. Ви повинні набрати 80 % або більше, щоб успішно завершити цей курс.</p>
+        <p>КОЛИ БУДЕТЕ ГОТОВІ, НАТИСНІТЬ КНОПКУ «ПЕРЕВІРКА ЗНАНЬ».</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Чому Кодекс ділової поведінки важливий?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Він містить конкретні поради для кожної ситуації, з якою ми можемо зіткнутися в нашій роботі.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Він містить чіткий набір принципів і цінностей, на яких слід ґрунтувати рішення у ситуаціях, коли найкращий порядок дій не одразу зрозумілий.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Далі</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Кодекс ділової поведінки містить чіткий набір принципів і цінностей, на яких слід ґрунтувати рішення у ситуаціях, коли найкращий порядок дій не одразу зрозумілий.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Що з наведеного <span class="underline">ніколи</span> не може бути прийнятною діловою операцією?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Наймання медичного працівника для доповіді про певну область захворювань з огляду на його/її навички та досвід.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Забезпечення обґрунтованим харчуванням учасників освітньої програми, яку спонсорує Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Організація благодійного внеску для місцевої організації.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Наймання медичного працівника для проведення освітньої програми як подяка за використання продукції Abbott.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Далі</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Наймання МП для проведення освітньої програми з огляду на його/її навички та досвід дозволяється, одначе наймання МП як подяка за використання продукції Abbott є неприйнятним, оскільки це може сприйматися як хабарництво.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Наслідки для осіб, причетних до хабарництва та корупції, можуть включати:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Репутаційні збитки.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Штрафи та фінансові санкції.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Звільнення з роботи.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Тюремне ув’язнення.</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>Усі варіанти, зазначені вище.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Далі</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Наслідки для осіб, причетних до хабарництва та корупції, можуть включати репутаційні збитки, штрафи та фінансові санкції, звільнення з роботи й навіть тюремне ув’язнення.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Торговий представник також володіє невеликим ювелірним магазином. Вона вирішує, що було би добре зробити невеликі подарунки від її магазину тим МП, які останнім часом не виписували рецепти на продукцію компанії Abbott. Чи це нормально?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Так</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Ні</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Далі</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Політика компанії Abbott забороняє подарунки МП, оскільки торговий представник діє як представник компанії Abbott. Подарунки заборонені, навіть якщо вона за них платить. Надання подарунків також може сприйматися як хабар за майбутній бізнес.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Менеджер з продажу отримує дзвінок від контактної особи у компанії-конкуренті. Конкурент повідомляє, що стороння команда з продажу, залучена компанією Abbott на новому ринку, нібито пропонує розкішні обіди клієнтам, які обирають продукцію компанії Abbott замість продукції конкурентів. Які дії є відповідними?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Нічого не робити, оскільки інформація надійшла від конкурента.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Нічого не робити, оскільки розкішні обіди є поширеними на цьому ринку.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Негайно повідомити про цю ситуацію у Департамент етики та дотримання вимог (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Шукати альтернативних дистриб’юторів, якщо претензія виявиться правдою.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Далі</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Вам слід негайно повідомити про це звинувачення у Департамент етики та дотримання вимог (OEC), щоб його можна було належним чином розслідувати, навіть якщо інформація надходить від конкурента.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Туристичне агентство організовує поїздки для медичних працівників (МП), які надають послуги з прокторингу (нагляду під час іспитів) для компанії Abbott. Після перевірки наданих квитанцій виявлено розбіжності: загальна сума не відповідає запиту на відшкодування, а в деяких квитанціях відсутня ключова інформація, як-от дати поїздки.</p>
+              <p>Які дії є відповідними?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Повідомити туристичне агентство, що компанія Abbott не може обробити платіж без повної та точної документації.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Опрацювати квитанції, оскільки бракує лише деякої інформації.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Порадити агентству бути більш точними наступного разу.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Нічого не робити, оскільки агентство є новим.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Далі</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Бухгалтерські книги та документи Abbott повинні повністю й точно відображати всі операції. Тому дуже важливо, щоби треті особи, які надають послуги компанії Abbott, надавали повну документацію, яка точно відображає фактичну мету та деталі транзакцій.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Ви працюєте у філії, де дозволено надавати спонсорську допомогу МП для участі в освітніх конференціях. Ви відбираєте медичних працівників для участі в конференції. До критеріїв, які ви застосовуєте для відбору, належать такі: (1) чи відповідає тема конференції спеціалізації МП; (2) чи надавала компанія Abbott спонсорську допомогу цьому МП протягом минулого року; (3) чи є вірогідність того, що цей МП буде виписувати препарати компанії Abbott або використовувати пристрої Abbott після відвідування цього заходу. Чи доречні ці критерії?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Так. Два критерії, яких необхідно завжди дотримуватися в разі спонсорування певної особи, засновані на тому, що спонсорство: а) відповідає спеціалізації певного медичного працівника; б) не використовується в якості нагороди або стимулу для бізнесу. Той факт, що ви перевіряєте, чи не надавала компанія Abbott спонсорську підтримку певному медичному працівникові протягом минулого року, забезпечує дотримання вищезазначених критеріїв.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Так. Оскільки причина надання спонсорської допомоги медичному працівнику — це не вплив чи винагорода цій особі, можна розглядати можливість отримання віддачі від інвестиції, тобто чи буде ця особа продовжувати виписувати продукти компанії Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Ні. Рішення про надання спонсорської допомоги не можуть ґрунтуватися на тому факторі, що МП, ймовірно, рекомендуватиме продукцію компанії Abbott або використовуватиме пристрої Abbott після відвідування фінансованого заходу.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Так. Якщо хоча б один із критеріїв є відповідним, наявність додаткових невідповідних критеріїв не має значення.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Далі</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Спонсорську допомогу в жодному разі не можна надавати як винагороду за використання наших продуктів у минулому або стимул для більшого використання наших продуктів чи приладів у майбутньому. Майте на увазі, що в багатьох юрисдикціях фінансову підтримку (спонсорство) заборонено. Завжди консультуйтеся з процедурами, прийнятими у вашій філії компанії, перш ніж надавати спонсорську допомогу.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Торговий представник компанії Abbott проводить медичному працівнику (МП) навчання щодо продукції. Після обговорення МП розповідає, що конкурент запропонував новий iPad в обмін на допомогу у збільшенні продажів.</p>
+              <p>Які дії є відповідними?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Запропонувати той самий стимул, щоб залишатися конкурентоспроможним.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Відхилити пропозицію iPad, але запропонувати дорогу вечерю, щоб продовжити розмову.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Пояснити, що компанія Abbott веде бізнес правильно і не може пропонувати нічого цінного, що може неналежним чином вплинути на ухвалення рішення. Потім негайно повідомити про ситуацію у Департамент етики та дотримання вимог (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Подякувати МП за інформацію та пообіцяти, що ви подумаєте над цим.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Далі</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Ви ніколи не повинні пропонувати, обіцяти, давати чи отримувати будь-які цінності для того, щоб одержати неналежну ділову перевагу або отримати чи зберегти комерційні можливості. Незалежно від того що роблять конкуренти, ви повинні дотримуватися чинного законодавства та політики Abbott, зокрема вимог Глобальної політики компанії Abbott щодо запобігання корупції (GLB-ANTI- CORRUPTION). У разі сумнівів завжди консультуйтеся з юридичним відділом або OEC.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Що з наведеного нижче є прикладами цінних речей, які не можна надавати, щоб забезпечити ділову угоду?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Поїздки для МП та їхніх сімей до спа-салонів, казино чи інших розважальних закладів.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Гранти на майбутні дослідницькі або освітні проєкти.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Пожертви на користь благодійних організацій, рекомендованих урядовцями.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Усі варіанти, зазначені вище.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Далі</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Стандарти компанії Abbott щодо протидії хабарництву та корупції, які викладено в Глобальній політиці щодо запобігання корупції (GLB-ANTI-CORRUPTION), відповідають нашим зобов’язанням вести бізнес чесно, справедливо та відповідально. Це означає, що пропонування або надання цінних речей для отримання бізнесу заборонено в усіх випадках.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>МП, який є ключовим лідером громадської думки, запитує, чи можете ви організувати підтримку освітньої програми, яку він хотів би відвідати, в обмін на додаткові ділові можливості для компанії Abbott. Який варіант є найбільш прийнятним?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Надати тверду відмову з огляду на те, що це порушує Політику компанії Abbott щодо запобігання корупції.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Повідомити МП, що ви запитаєте свого керівника.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Погодитися на запит, оскільки МП є авторитетним фахівцем і має великий вплив.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Жоден із наведених вище варіантів.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">Надіслати</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Згідно з принципами боротьби з хабарництвом, ми не пропонуємо та не надаємо нічого цінного для отримання ділової переваги, прямо чи опосередковано.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>Результати недоступні, тому що ви не завершили перевірку знань.</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>Вітаємо! Ви успішно пройшли перевірку знань.</p>
+          <p>Перегляньте результати нижче, натиснувши на кожне запитання.</p>
+          <p>Після завершення натисніть стрілку вперед, щоби пройти коротке опитування.</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>На жаль, ви не пройшли перевірку знань. Перегляньте свої результати нижче, натиснувши на кожне запитання. Це займе декілька хвилин.</p>
+          <p>Коли будете готові, натисніть кнопку «Пройти перевірку знань повторно».</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>Це опитування не є обов’язковим. </p>
+          <p>Важливо: незалежно від того, чи будете ви проходити опитування чи ні, ви маєте натиснути значок «ВИХІД» (X) у рядку назви курсу, щоб завершити курс і завантажити свої результати в систему.</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Як би ви загалом оцінили цей курс?</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Поганий</p>
+                  <p>Слабкий</p>
+                  <p>Середній</p>
+                  <p>Гарний</p>
+                  <p>Чудовий</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Поясніть, будь ласка, свою оцінку.</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Після цього заняття я краще розумію Кодекс ділової поведінки компанії Abbott.</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Категорично не погоджуюся</p>
+                  <p>Не погоджуюся</p>
+                  <p>Нейтрально</p>
+                  <p>Погоджуюся</p>
+                  <p>Повністю погоджуюся</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Якою мірою зміст цього курсу є актуальним для вашої роботи?</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Зовсім не актуальний</p>
+                  <p>Не дуже актуальний</p>
+                  <p>Важко відповісти</p>
+                  <p>Дещо актуальний</p>
+                  <p>Дуже актуальний</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Про які з тем цього курсу ви би хотіли дізнатися більше?</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">Натисніть кнопку «Надіслати», щоб завершити курс, надіслати свої дані й закрити вікно курсу.</p>
+          <button class="surveySubmit">
+            <p>Надіслати</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">Куди звертатися для отримання допомоги</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Керівник</p>
+        <p>Якщо у вас виникнуть запитання щодо взаємодії з особами, які не працюють у компанії Abbott, найкраще почати з вашого керівника.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Письмові стандарти</p>
+        <ul>
+          <li>Щоб ознайомитися з основоположними очікуваннями компанії Abbott щодо вашої взаємодії з іншими, перегляньте наш <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Кодекс ділової поведінки</a>.</li>
+          <li>Щоб дізнатися про наші корпоративні правила і процедури, застосовні для всієї компанії, відвідайте <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">Портал загальної політики</a>.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>Департамент етики та дотримання вимог (OEC)</p>
+        <p>Департамент етики та дотримання вимог — це глобальний ресурс, спрямований на надання відповідей на ваші запитання або роз’яснень щодо занепокоєння стосовно цінностей та стандартів поведінки нашої компанії.</p>
+        <ul>
+          <li>Відвідайте <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance/?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">вебсайт OEC</a> на Abbott World.</li>
+          <li>Якщо у вас виникне занепокоєння щодо корупційної діяльності, як у межах компанії, так і у відносинах з клієнтами або іншими третіми сторонами, ви можете повідомити про своє занепокоєння у OEC (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) або юридичний департамент, або зателефонувати на нашу багатомовну лінію <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a>, яка доступна у всьому світі цілодобово й без вихідних.</li>
+          <li>iComply — відвідайте <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a>, щоб отримати доступ до прикладних програм і ресурсів, які стосуються дотримання норм, спрямованих на взаємодію з медичними працівниками та організаціями в галузі охорони здоров’я, а також з третіми сторонами.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Департамент управління персоналом</p>
+        <p>Щодо питань стосовно працівників (наприклад, проблеми, до яких залучені керівники та/або інші працівники), зв’яжіться з представником свого місцевого <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">Департаменту управління персоналом</a>.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>Юридичний департамент</p>
+        <p>Із питаннями чи занепокоєннями щодо правових наслідків хабарництва й корупції зв’яжіться з юридичним департаментом.</p>
+        <ul>
+          <li>Натисніть тут, щоб отримати доступ до головної сторінки Юридичного департаменту на платформі Abbott World.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>ІНШІ РЕСУРСИ</p>
+        <p>Для Вас можуть бути доступні інші ресурси:</p>
+        <p>Фінансовий департамент – якщо ваше запитання стосується бухгалтерського обліку або фінансів, зв’яжіться з місцевим Фінансовим департаментом.</p>
+        <p>Корпоративний аудит – якщо у вас є конкретні занепокоєння стосовно бухгалтерського обліку, внутрішнього бухгалтерського обліку або питань стосовно аудиту, негайно повідомте про них Департамент корпоративного аудиту або Департамент етики та дотримання вимог.</p>
+        <p>Департамент якості та регулювання компанії Abbott — якщо ви маєте запитання про якість та безпеку наших продуктів, зверніться до місцевого Департаменту якості або Департаменту нормативно-правового регулювання.</p>
+        <p>Глобальний департамент із питань довкілля, здоров’я та безпеки – зв’яжіться з представником Глобального департаменту з питань довкілля, здоров’я та безпеки, якщо у вас є запитання про фізичну територію або потенційні загрози.</p>
+        <p>Департамент глобальних закупівель – якщо у вас є запитання щодо відносин із постачальником, звертайтесь до Департаменту глобальних закупівель.</p>
+      </div>
+      <p class="resSubtitles" data-break="true">Ресурси для курсу</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Письмова копія</p>
+        <p>Щоб отримати повну письмову копію курсу, натисніть <a href="reference/Transcript.pdf" target="_blank">тут</a>.</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>Курс не може з’єднатися зі системою керування навчанням (СКН). Щоби продовжити й переглянути курс, натисніть «OK». Зауважте, що атестація з курсу недоступна. Натисніть «Скасувати», щоб вийти</s1>
+    <s2>Усі запитання залишаються без відповіді</s2>
+    <s3>Запитання</s3>
+    <s4>Запитання</s4>
+    <s5>немає відповіді</s5>
+    <s6>Правильно!</s6>
+    <s7>Неправильно!</s7>
+    <s8>Відгук:</s8>
+    <s9>Кодекс ділової поведінки</s9>
+    <s10>Перевірка знань</s10>
+    <s11>Надіслати</s11>
+    <s12>Пройти ще раз</s12>
+    <s13>Опис курсу: Наш Кодекс ділової поведінки — це надзвичайно важливий документ, в якому описуються очікування нашої компанії щодо кожного співробітника, оскільки ми представляємо компанію Abbott у нашій щоденній роботі. Він визначає засади нашої відповідальності та поведінки, які допомагатимуть нам робити найкращій вибір для компанії Abbott, для самих себе та для багатьох людей, заради яких ми працюємо. У цьому курсі надається загальний огляд Кодексу, окреслюються очікування нашої компанії та ваші зобов’язання, а також надаються практичні поради щодо того, що робити, коли важко визначити найкращі подальші дії. Щоб пройти курс повністю, знадобиться 35–45 хвилин.</s13>
+    <s14>Меню</s14>
+    <s15>Ресурси</s15>
+    <s16>Довідкові матеріали</s16>
+    <s17>Аудіо</s17>
+    <s18>Вийти</s18>
+    <s19>Закрити</s19>
+    <s20>Коментувати...</s20>
+  </strings>
+</course>

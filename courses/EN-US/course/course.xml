@@ -64,6 +64,7 @@
          </nav>
          <nav navId="B_13" title="How we Operate">
             <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request"/>
+            <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request"/>
          </nav>
       </nav>
       <nav navId="A_4"
@@ -84,7 +85,7 @@
             <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I"/>
          </nav>
          <nav navId="B_16" title="Assessment">
-            <nav navId="C_16" type="assessment" resId="5_2_1" classType="T"/>
+            <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T"/>
          </nav>
          <nav navId="B_17" title="Feedback">
             <nav navId="C_17" type="feedback" resId="5_3_1" classType="E"/>
@@ -273,7 +274,7 @@
             </div>
          </div>
       </div>
-      <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div id="C_9" class="screen" data-autoAudio="0">
          <div class="sliderContainer">
             <p class="userNotice">You must view all content before moving forward.</p>
             <div class="sliderImgContainer">
@@ -345,7 +346,7 @@
             </div>
          </div>
       </div>
-      <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div id="C_10" class="screen" data-autoAudio="0">
          <div class="sliderContainer">
             <p class="userNotice">You must view all content before moving forward.</p>
             <div class="sliderImgContainer">
@@ -416,7 +417,7 @@
             </div>
          </div>
       </div>
-      <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div id="C_11" class="screen" data-autoAudio="0">
          <div class="sliderContainer">
             <p class="userNotice">You must view all content before moving forward.</p>
             <div class="sliderImgContainer">
@@ -551,7 +552,7 @@
             </div>
          </div>
       </div>
-      <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div id="C_12" class="screen" data-autoAudio="0">
          <div class="sliderContainer">
             <p class="userNotice">You must view all content before moving forward.</p>
             <div class="sliderImgContainer">
@@ -625,7 +626,7 @@
             </div>
          </div>
       </div>
-      <div id="C_13" class="screen" data-autoAudio="3_7_1">
+      <div id="C_13" class="screen" data-autoAudio="0">
          <div class="sliderContainer">
             <p class="userNotice">You must view all content before moving forward.</p>
             <div class="sliderImgContainer">
@@ -662,31 +663,6 @@
                      <div class="sliderIcon" data-target="5">
                         <img src="images/Icon_Chat_Large_White.png"/>
                          <p>Confidential Information</p>
-                        <img src="images/whiteComplete.svg"/>
-                     </div>
-                     <div class="sliderIcon" data-target="6">
-                        <img src="images/Icon_Do Not Touch_Large_White.png"/>
-                        <p>Anti-bribery</p>
-                        <img src="images/whiteComplete.svg"/>
-                     </div>
-                     <div class="sliderIcon" data-target="7">
-                        <img src="images/Icon_Plate_Large_White.png"/>
-                        <p>Gifts, Meals &amp; Entertainment</p>
-                        <img src="images/whiteComplete.svg"/>
-                     </div>
-                     <div class="sliderIcon" data-target="8">
-                        <img src="images/Icon_Regulatory Compliance_Large_White.png"/>
-                         <p>Accurate Books and Records</p>
-                        <img src="images/whiteComplete.svg"/>
-                     </div>
-                     <div class="sliderIcon" data-target="9">
-                        <img src="images/Icon_Justice_Large_White.png"/>
-                        <p>Compliance with Laws</p>
-                        <img src="images/whiteComplete.svg"/>
-                     </div>
-                     <div class="sliderIcon" data-target="10">
-                        <img src="images/Icon_Evalution_Large_White.png"/>
-                        <p>Fair Competition</p>
                         <img src="images/whiteComplete.svg"/>
                      </div>
                      <p>Click each of the icons to learn more.</p>
@@ -753,7 +729,44 @@
             <p>At Abbott we also respect the intellectual property of others and avoid improper use of their confidential information. Misusing non-public information, such as for insider trading, is illegal and unethical. </p>
             <p>We also safeguard personal data entrusted to us by colleagues, healthcare professionals, and customers. When we collect and use personal information, we do it responsibly, with proper consent, and never sell it or obtain it from unauthorized sources. Many locations have strict privacy laws, and we are committed to understanding and following them, especially for the most sensitive categories of personal information.</p>
                         </div>                        
+                     </div>     
+                  </div>
+            </div>
+         </div>
+      </div>
+      <div id="C_13b" class="screen" data-autoAudio="0">
+         <div class="sliderContainer">
+            <p class="userNotice">You must view all content before moving forward.</p>            
+            <div class="sliderOuterContentContainer">
+                  <div class="sliderIconContainer">                     
+                     <div class="sliderIcon" data-target="1">
+                        <img src="images/Icon_Do Not Touch_Large_White.png"/>
+                        <p>Anti-bribery</p>
+                        <img src="images/whiteComplete.svg"/>
                      </div>
+                     <div class="sliderIcon" data-target="2">
+                        <img src="images/Icon_Plate_Large_White.png"/>
+                        <p>Gifts, Meals &amp; Entertainment</p>
+                        <img src="images/whiteComplete.svg"/>
+                     </div>
+                     <div class="sliderIcon" data-target="3">
+                        <img src="images/Icon_Regulatory Compliance_Large_White.png"/>
+                         <p>Accurate Books and Records</p>
+                        <img src="images/whiteComplete.svg"/>
+                     </div>
+                     <div class="sliderIcon" data-target="4">
+                        <img src="images/Icon_Justice_Large_White.png"/>
+                        <p>Compliance with Laws</p>
+                        <img src="images/whiteComplete.svg"/>
+                     </div>
+                     <div class="sliderIcon" data-target="5">
+                        <img src="images/Icon_Evalution_Large_White.png"/>
+                        <p>Fair Competition</p>
+                        <img src="images/whiteComplete.svg"/>
+                     </div>
+                     <p>CLICK THE ICONS TO LEARN MORE WAYS WE DO BUSINESS THE RIGHT WAY.</p>
+                  </div>
+                  <div class="sliderInnerContentContainer">
                      <div class="sliderContent">
                         <img src="images/3_7_1_7.jpg" alt=""/>
                         <div class="sliderRoundShape">.</div>

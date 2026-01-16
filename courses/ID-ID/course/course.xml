@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="Selamat Datang" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="Pedoman Perilaku Bisnis">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="Falsafah Kita">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="Tujuan">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="Daftar Isi">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="Pentingnya Pedoman Perilaku Bisnis Abbott" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="Komitmen Setiap Hari Kita">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="Pentingnya Pedoman dalam Bisnis Kita">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="Pedoman Kita" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="Ikhtisar">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="Pelanggan Kita">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="Produk Kita">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="Memajukan Sains">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="Karyawan Kita">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="Komunitas Kita">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="Bagaimana kita Beroperasi">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="Komitmen Anda" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="Komitmen Anda">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="Uji Pengetahuan" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="Pendahuluan">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="Penilaian">
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="Masukan">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="Survei">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>Pedoman Perilaku Bisnis</p>
+      </div>
+      <p class="startInstruction">Klik panah maju.</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Sebagai pemimpin layanan kesehatan global, apa yang kita lakukan setiap hari memiliki arti yang penting.</p>
+        <p>Pedoman Perilaku Bisnis kita adalah kompas yang andal yang memberdayakan kita untuk bertindak dengan integritas, memimpin dengan tujuan, dan membuat pilihan yang merefleksikan yang terbaik dari diri kita. Ini lah cara kita membangun kepercayaan, menjunjung nilai-nilai kita, dan terus melakukan perbedaan yang signifikan di dunia.</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Setelah menyelesaikan kursus ini, Anda akan:</p>
+        <ul>
+          <li>Memahami pentingnya Pedoman Perilaku Bisnis terhadap bisnis kita.</li>
+          <li>Dapat mengidentifikasi prinsip-prinsip utama Pedoman Perilaku Bisnis dan memahami penerapannya dalam berbagai praktik kerja kita sehari-hari</li>
+          <li>Memahami harapan Abbott dalam menjalankan bisnis secara global dengan cara yang tepat.</li>
+          <li>Mengetahui cara untuk mendapatkan bantuan dan dukungan.</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>Selamat Datang</p>
+            <p>1 menit</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>Pentingnya Pedoman Perilaku Bisnis Abbott</p>
+            <p>2 menit</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>Pedoman Kita</p>
+            <p>18 menit</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>Komitmen Anda</p>
+            <p>1 menit</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>Uji Pengetahuan</p>
+            <p>5 menit</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>Kemajuan Pembelajaran</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">Topik ini sekarang tersedia.</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Kita memimpin dengan integritas, keadilan, dan kejujuran Setiap orang. Setiap hari.</p>
+        <p>Pedoman Perilaku Bisnis kita mengingatkan kita bahwa integritas, keadilan, dan kejujuran tidak hanya ideal—hal-hal tersebut adalah komitmen setiap hari. Walaupun Pedoman tersebut tidak dapat mengantisipasi setiap masalah yang kita mungkin kita hadapi, Pedoman tersebut menawarkan pondasi yang kuat dari nilai-nilai yang memandu kita.</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Kita berkomitmen pada standar-standar yang tertinggi.</p>
+        <p>Pedoman Perilaku Bisnis adalah penting untuk kesuksesan Abbott karena Pedoman tersebut menetapkan berbagai standar untuk bagaimana kita bekerja—dengan integritas, keadilan, dan kejujuran. Pedoman tersebut membantu kita membuat keputusan-keputusan yang etis, khususnya dalam berbagai situasi yang rumit, dan memastikan kita tetap selaras dengan nilai-nilai kita. Dengan mematuhi Pedoman tersebut, kita melindungi reputasi kita, membangun kepercayaan dengan mereka yang kita layani, dan menciptakan budaya tempat kerja di mana melakukan hal yang benar adalah yang terutama.</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Memahami Pedoman tersebut adalah tanggung jawab setiap orang.</p>
+        <p>Masing-masing dari kita memiliki peran dalam menerapkan Pedoman Perilaku Bisnis dalam pekerjaan kita sehari-hari dan pengambilan keputusan. Pedoman tersebut bukan hanya sebuah dokumen—Pedoman tersebut adalah sebuah panduan yang membantu kita menavigasi berbagai masalah dengan integritas dan keyakinan diri.</p>
+        <p>Dalam bagian berikutnya, kita akan menjelajahi berbagai prinsip penting dari Pedoman tersebut dan melihat bagaimana prinsip-prinsip tersebut diwujudkan dalam berbagai tindakan dan pilihan kita setiap hari.</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Anda harus melihat semua konten sebelum melanjutkan.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Di Abbott, kita berkomitmen untuk meningkatkan kesehatan dan kesejahteraan dari orang-orang yang mengandalkan berbagai produk kita.</p>
+          </div>
+          <div>
+            <p>Ini adalah sebuah pengingat bahwa di balik setiap keputusan, setiap inovasi, dan setiap tindakan memiliki suatu tujuan—untuk membuat hidup lebih baik.</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>Pasien dan Konsumen</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>Tenaga Kesehatan Profesional</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik masing-masing ikon untuk mempelajari lebih lanjut.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PASIEN DAN KONSUMEN</p>
+                <p>Peduli terhadap orang lain menjadi inti dari apa yang kita lakukan. Kita mengutamakan kesehatan serta kesejahteraan para pasien dan konsumen. Setiap hari, kita dapat membawa perubahaan yang signifikan—membantu orang menjalani hidup yang lebih sehat dan berkontribusi pada masyarakat yang lebih kuat dan lebih sehat.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>TENAGA KESEHATAN PROFESIONAL</p>
+                <p>Kita bekerja sama dengan tenaga kesehatan untuk mendukung kesehatan yang lebih baik. Kita menghargai pengetahuan dan penilaian yang independen terhadap para tenaga kesehatan profesional - apakah itu para dokter, perawat, apoteker, peneliti, atau staf lab. Peran mereka dalam memandu para pasien terhadap kesehatan yang lebih baik adalah penting.</p>
+                <p>Di Abbott, kita berkomitmen dalam mendukung mereka dengan informasi akurat yang tepat waktu agar mereka dapat membuat keputusan yang terbaik. Dengan bekerja sama, kita dapat mencapai tujuan bersama kita dengan meningkatkan kesehatan dan kesejahteraaan di seluruh dunia.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Anda harus melihat semua konten sebelum melanjutkan.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Di Abbott, kita berkomitmen untuk memastikan setiap produk yang kita tawarkan bersifat aman, ampuh, dan layak mendapatkan kepercayaan yang diberikan orang-orang kepada kita.</p>
+          </div>
+          <div>
+            <p>Kita mengambil berbagai tindakan untuk memastikan produk-produk kita aman dan ampuh —mulai dari memilih bahan-bahan yang tepat hingga cara kita  memasarkan, menjual, dan mengirimkannya. Di setiap tahapan, kita mengikuti berbagai standar yang tinggi untuk kualitas.</p>
+            <p>Kita juga berkomitmen untuk secara tepat waktu mengidentifikasi, mengevaluasi, dan menanggapi permasalahan keselamatan produk, serta mengambil tindakan untuk mencegah pemalsuan, penyimpangan ilegal, dan pencurian produk kita.</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>Kualitas Produk</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>Promosi Produk I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>Promosi Produk II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik masing-masing ikon untuk mempelajari lebih lanjut.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KUALITAS PRODUK</p>
+                <p>Aman, ampuh, dan tepercaya. Produk-produk kita membawa perubahan.</p>
+                <p>Kita berkomitmen terhadap kualitas dalam setiap tahapan—mulai dari pemasokan dan produksi hingga cara kita memasarkan, menjual, dan mengirimkan produk-produk kami, termasuk melalui para mitra kita. Setiap langkah itu penting karena orang-orang mengandalkan kita untuk hal keselamatan.</p>
+                <p>Kita berkomitmen untuk secara tepat waktu mengidentifikasi, menilai, dan menanggapi permasalahan keselamatan produk. Kita memastikan para tenaga kesehatan profesional dan institusi-institusi memiliki informasi yang mereka butuhkan dalam rangka menggunakan produk-produk kita secara aman serta efektif, dan kita berkomunikasi dengan badan pengatur atau badan kesehatan masyarakat jika terjadi potensi kekhawatiran tentang keselamatan.</p>
+                <p>Kita mengambil berbagai langkah untuk mencegah pemalsuan, penyimpangan ilegal, dan pencurian produk kita. Kita mengikuti berbagai peraturan perdagangan, termasuk aturan pengendalian ekspor dan impor, dan mematuhi pembatasan dan sanksi pemerintah untuk melindungi keamanan dan kesehatan masyarakat.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PROMOSI PRODUK I</p>
+                <p>Kita mempromosikan dan menjual produk-produk kita dengan sikap jujur dan rasa hormat kepada mereka yang mengandalkan produk-produk tersebut.</p>
+                <p>Komunikasi untuk produk kita bersifat jujur, berimbang, dan sesuai dengan pelabelan yang disetujui, bukti ilmiah, dan berbagai praktik medis terbaik di negara-negara di mana kita beroperasi.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PROMOSI PRODUK II</p>
+                <p>Kita mempromosikan produk-produk kita untuk penggunaan seperti yang dimaksudkan dan disetujui.</p>
+                <p>Kita beroperasi sesuai dengan berbagai lisensi dan persetujuan yang diberikan oleh otoritas kesehatan di negara-negara kita beroperasi. Promosi, penjualan, dan distribusi produk kita mengikuti undang-undang perdagangan yang ketat serta berbagai peraturan khusus negara. Melalui berbagai kebijakan dan prosedur internal yang ketat, kita memastikan kepatuhan dan menjunjung komitmen kita terhadap berbagai praktik bisnis yang etis, aman, dan bertanggung jawab.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Anda harus melihat semua konten sebelum melanjutkan.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Di Abbott, kita berkomitmen untuk meningkatkan sains dengan integritas dan tujuan.</p>
+          </div>
+          <div>
+            <p>Kita mengejar inovasi, dengan menyadari pentingnya untuk mengantisipasi dan menangani berbagai risiko secara bertanggung jawab. Kita menghormati martabat setiap peserta riset dan menjunjung berbagai standar tertinggi terhadap transparansi dan objektivitas dalam riset ilmiah.</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>Inovasi I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>Inovasi II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>Memajukan Sains</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik masing-masing ikon untuk mempelajari lebih lanjut.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>INOVASI I</p>
+                <p>Kita menciptakan berbagai solusi layanan kesehatan yang inovatif untuk membantu orang-orang menjalani kehidupan yang lebih sehat.</p>
+                <p>Kita menanggapi kebutuhan manusia dengan memelopori terobosan-terobosan dalam pengobatan, perangkat yang menyelamatkan jiwa, dan berbagai produk inovatif yang membantu kesehatan dalam berbagai cara baru. Melalui sains dan teknologi mutakhir, kita berupaya untuk meningkatkan berbagai hasil dan memberdayakan orang-orang untuk menjalani kehidupan sesehat dan sepenuh mungkin—dengan menciptakan berbagai inovasi yang berarti untuk setiap tahapan kehidupan.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>INOVASI II</p>
+                <p>Kita membangun budaya inovasi dengan menelusuri berbagai kemungkinan baru dan merencanakan berbagai kemungkinan yang terjadi.</p>
+                <p>Walaupun kemajuan sering melibatkan berbagai risiko, kita mengambil berbagai langkah cermat yang bertanggung jawab untuk mengantisipasi berbagai tantangan dan meminimalkannya sebelumnya—selalu dipandu oleh Pedoman dan berbagai kebijakan kita.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MEMAJUKAN SAINS</p>
+                <p>Kita melakukan riset untuk menghasilkan data objektif yang akurat sehingga mendorong inovasi, meningkatkan berbagai perawatan, dan meningkatkan layanan kesehatan.</p>
+                <p>Saat melakukan riset, kita memperlakukan setiap peserta penelitian dengan bermartabat, melindungi mereka dari risiko yang tidak perlu, dan memastikan mereka memahami sifat dan tujuan dari riset tersebut dan berbagai risiko terkait. Memperoleh surat persetujuan subjek penelitian dari peserta penelitian adalah bagian penting dari proses riset kita.</p>
+                <p>Kita menghargai transparansi dalam risit ilmiah dan tidak akan berupaya memengaruhi hasil dengan cara yang tidak pantas. Kita memastikan data penelitian bersifat akurat dan berkomitmen untuk memberikan hasil riset yang berkaitan dengan produk kita, baik hasilnya positif atau negatif, secara tepat waktu dan akurat.</p>
+                <p>Ketika riset dilakukan untuk Abbott atau diterbitkan atas nama kita, kita bermitra dengan para pakar yang memiliki latar belakang medis dan ilmiah yang kuat. Kita berharap untuk mengungkapkan setiap hubungan dengan Abbott, termasuk hubungan keuangan atau lainnya.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Anda harus melihat semua konten sebelum melanjutkan.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Di Abbott, kita membina budaya keterbukaan, keberagaman, dan rasa hormat—karena hal ini mendorong kreativitas dan inovasi.</p>
+          </div>
+          <div>
+            <p>Kita masing-masing memiliki tanggung jawab untuk mewujudkan Pedoman bekerja tersebut setiap harinya: memperlakukan orang lain dengan rasa hormat, menciptakan tempat kerja yang aman dan inklusif, serta memastikan kesempatan yang setara bagi semuanya.</p>
+            <p>Kita mempertanyakan ketika terjadi hal-hal yang tidak jelas dan angkat bicara ketika ada yang terasa tidak beres.</p>
+            <p>Bagian ini menegakkan komitmen kita terhadap kesempatan yang setara dan lingkungan kerja yang aman, dan mengingatkan kita untuk memahami, menerapkan, dan menjunjung Pedoman bekerja dalam segala hal yang kita lakukan.</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>Kolaborasi</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>Hubungan Kita Satu Dengan Lainnya</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>Melaporkan Masalah</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>Kesempatan yang Setara</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>Perlakuan yang Adil</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>Lingkungan Kerja</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik masing-masing ikon untuk mempelajari lebih lanjut.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KOLABORASI</p>
+                <p>Kita menghargai keterbukaan dan kolaborasi karena berbagai ide yang beragam menghasilkan solusi yang lebih baik.</p>
+                <p>Kita menghargai keberagaman karena hal tersebut memicu kreativitas, energi, dan kemajuan. Untuk menciptakan dampak yang signifikan dalam kesehatan global, kita saling mendengarkan satu sama lain, menghargai setiap opini, dan bekerja sama dengan tujuan.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>HUBUNGAN KITA SATU DENGAN LAINNYA</p>
+                <p>Kita semua berbagi tanggung jawab untuk mengamalkan nilai-nilai Abbott setiap harinya.</p>
+                <p>Dengan bertindak secara etis, kita memperkuat budaya kita. Setiap orang harus memahami bagaimana Pedoman ini diterapkan dalam peran dan pekerjaan mereka.</p>
+                <p>Para manajer dan supervisor memiliki tanggung jawab khusus sebagai para pemimpin—mereka harus menjadi teladan dari nilai-nilai kita, mendorong perilaku yang etis, dan menciptakan tempat yang aman di mana para karyawan merasa nyaman dalam mempertanyakan dan menyampaikan kekhawatiran tanpa rasa takut akan balas dendam.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MELAPORKAN KEKHAWATIRAN</p>
+                <p>Kita mempertanyakan ketika sesuatu terasa tidak jelas atau terasa tidak beres. Kita juga bersuara dan melaporkan setiap dugaan pelanggaran terhadap Pedoman ini.</p>
+                <p>Ini adalah tanggung jawab kita untuk mengajukan pertanyaan ketika kita merasa arahan tersebut tidak jelas dan mempertanyakan serta melaporkan setiap dugaan perilaku bisnis yang tidak etis, pelanggaran terhadap Pedoman ini, atau pelanggaran terhadap kebijakan Abbott.</p>
+                <p>Jika Anda merasa tidak yakin mengenai pilihan atau tindakan yang benar, bicarakan dengan manajer Anda atau hubungi Kantor Etika dan Kepatuhan</p>
+                <p>Para manajer dan supervisor harus memimpin melalui teladan dan memastikan para karyawan memahami dan mematuhi Pedoman tersebut. Para pemimpin memiliki tanggung jawab yang lebih besar untuk mengomunikasikan berbagai harapan Abbott dan harus menghubungi Kantor Etika dan Kepatuhan mengenai setiap dugaan pelanggaran Pedoman ini.</p>
+                <p>Semua laporan atas dugaan pelanggaran Pedoman akan ditangani dengan serius. Kantor Etika dan Kepatuhan akan menangani berbagai langkah tindak lanjut, termasuk semua penyelidikan dan tindakan korektif ketika diperlukan. Anda tidak boleh menyelidikinya sendiri. Setiap orang harus bekerja sama dan menjaga penyelidikan tersebut rahasia.</p>
+                <p>Tindakan korektif dapat termasuk tindakan disiplin (hingga dan termasuk pemutusan hubungan kerja) atau tindakan hukum untuk:</p>
+                <ul>
+                  <li>Mengizinkan atau mengambil bagian dalam sebuah pelanggaran;</li>
+                  <li>Menolak untuk bekerja sama dalam sebuah penyelidikan;</li>
+                  <li>Kelalaian untuk melaporkan sebuah pelanggaran dikarenakan kurangnya pengawasan;</li>
+                  <li>Membuat laporan palsu;</li>
+                  <li>Pembalasan dendam terhadap seseorang yang melaporkan kekhawatiran dengan maksud baik.</li>
+                </ul>
+                <p>Pembalasan dendam tidak pernah dapat diterima. Jika Anda percaya telah terjadi pembalasan dendam, laporkan hal itu ke Kantor Etika dan Kepatuhan atau Sumber Daya Manusia.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KESEMPATAN YANG SETARA</p>
+                <p>Kita memberikan kesempatan yang setara untuk semua karyawan.</p>
+                <p>Kita membuat keputusan tentang ketenagakerjaan berdasarkan pada kebutuhan bisnis, keterampilan, pengalaman, dan performa. Diskriminasi dalam bentuk apa pun tidak ditoleransi. Kita mematuhi semua undang-undang yang mengatur berbagai hubungan kita dengan para karyawan di seluruh dunia.</p>
+                <p>Abbott melarang diskriminasi berdasarkan suku, warna kulit, agama, usia, jenis kelamin, asal kebangsaan, identitas atau ekspresi gender, orientasi seksual, disabilitas, status pernikahan, status veteran atau militer, status genetika atau kewarganegaraan, atau status lain apa pun yang dilindungi secara hukum.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PERLAKUAN YANG ADIL</p>
+                <p>Kita membina tempat kerja yang penuh rasa hormat, inklusif, dan aman.</p>
+                <p>Kita berupaya untuk memastikan setiap orang merasa diterima, didukung, dan diberdayakan.</p>
+                <p>Abbott mendorong lingkungan sehat yang bebas pelecehan dan menghargai masukan karyawan untuk memperkuat keberagaman dan inklusi.</p>
+                <p>Kita memperlakukan setiap orang dengan rasa hormat dan bermartabat, dengan membangun kepercayaan melalui rasa adil dan kejujuran—tidak pernah melalui manipulasi, informasi yang salah, atau kurangnya transparansi.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>LINGKUNGAN KERJA</p>
+                <p>Kita mengutamakan situasi kerja yang aman dan adil.</p>
+                <p>Kecelakaan atau situasi tidak aman harus segera dilaporkan kepada manajemen. Abbott juga mengambil langkah-langkah untuk mencegah dan melarang berbagai praktik tenaga kerja ilegal dan tidak layak serta setiap bentuk perlakuan kejam atau tidak manusiawi dalam aktivitas bisnis kita di seluruh dunia.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Anda harus melihat semua konten sebelum melanjutkan.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Di Abbott, kita membangun kepercayaan melalui komunitas, lingkungan, dan keterlibatan.</p>
+          </div>
+          <div>
+            <p>Kita berupaya untuk berkontribusi kepada masyarakat di mana kita beroperasi dan menciptakan dampak positif yang bertahan lama bagi kehidupan masyarakat.</p>
+            <p>Abbott berupaya untuk meminimalkan jejak lingkungannya dengan mengurangi penggunaan energi dan melestarikan sumber daya alam.</p>
+            <p>Kita juga mendukung keterlibatan politik yang sesuai dan mendorong keterlibatan masyarakat di seluruh operasi global kita.</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>Keterlibatan Komunitas</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>Tanggung Jawab Terhadap Lingkungan</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>Kontribusi Politik</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik masing-masing ikon untuk mempelajari lebih lanjut.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KETERLIBATAN KOMUNITAS</p>
+                <p>Kita mendukung kesejahteraan masyarakat.</p>
+                <p>Di Abbott, kita mendukung kesejahteraan masyarakat melalui berbagai produk kita, pekerjaan kita, dan tindakan kita serta kita memiliki sejarah panjang dengan berkontribusi pada tempat-tempat di mana kita hidup dan bekerja, karena kita percaya masyarakat yang sehat akan bertumbuh.</p>
+                <p>Melalui pengoperasian, kemitraan, dan dukungan kita untuk berbagai kelompok setempat dan tujuan amal, kita berupaya untuk menciptakan dampak positif yang bertahan lama di manapun kita melakukan bisnis.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>TANGGUNG JAWAB TERHADAP LINGKUNGAN</p>
+                <p>Kita berpartisipasi dalam pengembangan berkelanjutan dan berupaya untuk mengurangi dampak lingkungan kita.</p>
+                <p>Kita berupaya untuk melindungi lingkungan dalam segala hal yang kita lakukan—mulai dari bagaimana kita memasok bahan-bahan hingga bagaimana kita membuatnya, mengirimkannya, dan menggunakan berbagai produk kita.</p>
+                <p>Kita mengambil berbagai langkah untuk menggurangi penggunaan energi dan sumber daya alam yang lebih sedikit. Kita mendukung berbagai proyek energi bersih di pekerjaan dan dalam masyarakat kita. Kita mencari berbagai cara untuk mengurangi limbah, mendaur ulang lebih besar, dan mengurangi berbagai risiko lingkungan. Kita juga menaati undang-undang dan peraturan lingkungan yang berlaku dalam pengoperasian kita.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KONTRIBUSI POLITIK</p>
+                <p>Kita mendorong keterlibatan yang layak dalam proses politik dan mendukung keterlibatan komunitas.</p>
+                <p>Abbott mendukung berbagai kebijakan publik yang sesuai dengan misi dan nilai kita. Apabila sesuai, kita juga dapat mendukung berbagai calon politik atau kelompok kepentingan.</p>
+                <p>Karena undang-undang mengenai sumbangan politik dari perusahaan bersifat kompleks, setiap penggunaan atas dana Abbott—atau sumbangan yang dilakukan atas nama Abbott—harus ditinjau oleh Divisi Hukum terlebih dahulu.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Anda harus melihat semua konten sebelum melanjutkan.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Di Abbott, kita berkomitmen untuk melakukan bisnis secara jujur dan memegang janji-janji kita di semua bidang pekerjaan kita.</p>
+          </div>
+          <div>
+            <p>Kita mengutamakan kepentingan Abbott daripada kepentingan kita sendiri saat menangani konflik kepentingan. Kita melindungi aset dan reputasi Abbott, menjaga informasi rahasia secara aman, dan menghormati privasi setiap orang yang membagikan informasi pribadi dengan kita.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>Bertransaksi Secara Adil</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>Menghindari Konflik Kepentingan I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>Menghindari Konflik Kepentingan II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>Perlindungan Aset &amp; Reputasi Abbott</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>Informasi Rahasia</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik masing-masing ikon untuk mempelajari lebih lanjut.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>BERTRANSAKSI SECARA ADIL</p>
+                <p>Kita melakukan bisnis dengan integritas dan menepati komitmen kita dalam setiap aspek pekerjaan kita.</p>
+                <p>Kita masing-masing bertanggung jawab untuk pekerjaan kita dan keputusan-keputusan yang kita buat dalam peran kita. Dalam setiap interaksi profesional—apakah dengan para rekan kerja, pelanggan, pemasok, tenaga kesehatan profesional, pesaing, atau yang lainnya—kita harus bersikap adil dan jujur mengenai bagaimana Abbott melakukan bisnis.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MENGHINDARI KONFLIK KEPENTINGAN I</p>
+                <p>Kita mengidentifikasi dan menanggapi konflik kepentingan sebelum melangkah ke depan.</p>
+                <p>Konflik kepentingan terjadi saat kepentingan pribadi mengganggu—atau terkesan mengganggu—dengan kepentingan Abbott. Keputusan bisnis harus didasarkan pada kebutuhan Abbott, bukan keuntungan pribadi atau kepentingan keluarga atau teman. Kita diharapkan untuk menggunakan penilaian yang baik dan menghindari situasi yang dapat menyebabkan pada dugaan konflik atau konflik yang sesungguhnya. Jika hubungan, kepentingan, aktivitas pribadi di luar memengaruhi kemampuan Anda untuk bertindak secara adil dan efektif—atau dapat menguntungkan Anda atau anggota keluarga—Anda harus mengungkapkan potensi konflik dan menarik diri Anda dari situasi tersebut, dengan mematuhi pedoman dari Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MENGHINDARI KONFLIK KEPENTINGAN II</p>
+                <p>Kita mengutamakan kepentingan Abbott ketika membuat keputusan terkait pekerjaan.</p>
+                <p>Itu berarti memprioritaskan tujuan perusahaan dibandingkan tujuan dari tim, kelompok, atau orang tertentu. Setiap kesempatan atau sumber daya yang kita akses melalui peran kita di Abbott harus digunakan untuk keuntungan perusahaan—bukan keuntungan pribadi. Kita tidak seharusnya bersaing dengan Abbott atau membantu orang lain melakukan hal yang sama. Saat ada kesempatan muncul, fokus kita harus mendahulukan kepentingan Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PERLINDUNGAN ASET &amp; REPUTASI ABBOTT</p>
+                <p>Kita adalah penjaga/penanggung jawab dari perusahaan kita.</p>
+                <p>Kita semua berbagi tanggung jawab untuk melindungi dan menggunakan aset Abbott secara bijaksana. Ini mencakup segala sesuatu mulai dari barang-barang fisik seperti kendaraan dan komputer, hingga informasi berharga seperti kekayaan intelektual, rahasia dagang, dan pengetahuan khusus.</p>
+                <p>Kita harus selalu menggunakan penilaian yang baik untuk memastikan berbagai sumber daya ini digunakan dengan baik, dan dengan kepedulian—yang menghindari kerugian, pencurian, penyalahgunaan, atau pemborosan.</p>
+                <p>Reputasi Abbott adalah salah satu aset kita yang paling bernilai—dan kita semua memainkan peran dalam melindunginya.</p>
+                <p>Masing-masing dari kita bertanggung jawab untuk bagaimana kita mewakili Abbott, khususnya dalam ruang lingkungan publik dan <span class="italic">online</span>, tempat kita berbagi segala sesuatunya—apakah itu pembicaraan, email, atau media sosial—dapat merefleksikan tentang perusahaan. Penting untuk berkomunikasi dengan bijak, menggunakan penilaian yang baik, dan melindungai informasi rahasia Abbott.</p>
+                <p>Saat berinteraksi secara ekstenal, kita harus mempertimbangkan apakah kita bisa dilihat sebagai perwakilan Abbott dan bagaimana kata-kata atau tindakan kita dapat mempengaruhi reputasi perusahaan. Ini khususnya penting di media sosial, di mana postingan dapat menyebar dengan cepat dan secara meluas—komentar atau postingan yang ceroboh dapat menyebabkan kerugian nyata.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>INFORMASI RAHASIA</p>
+                <p>Kita berkomitmen untuk menghormati dan melindungi semua informasi rahasia, termasuk data pribadi.</p>
+                <p>Informasi rahasia adalah salah satu aset Abbott yang paling berharga. Ini termasuk detail non-publik, seperti riset, rahasia dagang, rencana bisnis, penetapan harga, kontrak, hasil keuangan, dan data lainnya yang dapat menguntungkan para pesaing atau merugikan bagi Abbott jika diungkapkan.</p>
+                <p>Kita harus melindungi informasi rahasia dan mencegah penggunaan atau penyebaran yang tidak sah—bahkan setelah kita tidak bekerja lagi untuk Abbott.</p>
+                <p>Di Abbott, kita juga menghargai kekayaan intelektual dari orang lain dan menghindari penggunaan yang tidak tepat atas informasi rahasia mereka. Penyalahgunaan informasi non-publik, seperti untuk perdagangan orang dalam, adalah ilegal dan tidak etis.</p>
+                <p>Kita juga melindungi data pribadi yang dipercayakan kepada kita oleh kolega, tenaga kesehatan profesional, dan pelanggan. Ketika kita mengumpulkan dan menggunakan informasi rahasia, kita melakukannya dengan bertanggung jawab, dengan persetujuan yang benar, dan tidak pernah menjual atau mendapatkannya dari sumber-sumber yang tidak sah. Banyak lokasi memiliki undang-undang privasi yang ketat, dan kita berkomitmen untuk memahami dan mematuhinya, khususnya untuk kategori informasi pribadi yang paling sensitif.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Anda harus melihat semua konten sebelum melanjutkan.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Di Abbott, kita berkomitmen untuk melakukan bisnis secara jujur dan memegang janji-janji kita di semua bidang pekerjaan kita.</p>
+          </div>
+          <div>
+            <p>Kita mengutamakan kepentingan Abbott daripada kepentingan kita sendiri saat menangani konflik kepentingan. Kita melindungi aset dan reputasi Abbott, menjaga informasi rahasia secara aman, dan menghormati privasi setiap orang yang membagikan informasi pribadi dengan kita.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>Anti-penyuapan</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>Hadiah, Perjamuan, &amp; Hiburan</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>Pembukuan dan Catatan yang Akurat</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>Kepatuhan terhadap Undang-Undang</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>Persaingan yang Sehat</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik masing-masing ikon untuk mempelajari lebih lanjut.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ANTI-PENYUAPAN</p>
+                <p>Kita secara aktif menentang kecurangan, penyuapan, dan korupsi. Kita mendapatkan bisnis dengan cara yang benar.</p>
+                <p>Sebagai perorangan, kita mengharapkan para tenaga kesehatan profesional untuk membuat keputusan berdasarkan pada apa yang terbaik untuk para pasien—tidak dipengaruhi oleh insentif dari berbagai perusahaan. Demikian juga, kita mengharapkan para pejabat pemerintah untuk bertindak untuk kepentingan umum, bebas dari tekanan perusahaan.</p>
+                <p>Di Abbott, kita mengedukasi para tenaga kesehatan profesional mengenai berbagai produk kita namun tidak memengaruhi penilaian independen mereka. Tidak pernah diizinkan untuk menawarkan apa pun yang berharga kepada para penyedia layanan kesehatan (seperti dokter, apoteker, perawat, peneliti, atau staf laboratorium), para pejabat pemerintah, atau yang lainnya untuk mendapatkan bisnis atau keuntungan dari hubungan di masa lalu.</p>
+                <p>Kita mematuhi undang-undang anti-penyuapan, anti-korupsi, dan anti-balas jasa secara global, termasuk Undang-Undang Praktik Korupsi Luar Negeri AS. Setiap orang di Abbott harus mengatur dengan cermat hubungan dengan para penyedia layanan—seperti para distributor, konsultan, dan pembicara—dengan melakukan uji tuntas, membayar nilai pasar yang adil, dan mendokumentasikan berbagai pembayaran dengan benar untuk memastikan kepatuhan terhadap hukum dan standar perusahaan.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>HADIAH, JAMUAN &amp; HIBURAN</p>
+                <p>Kita tidak menawarkan atau memberi apa pun yang berharga untuk mendapatkan keuntungan bisnis, secara langsung atau tidak langsung, sesuai dengan prinsip-prinsip anti-penyuapan.</p>
+                <p>Untuk mencegah pengaruh yang tidak layak dalam keputusan bisnis, kita menetapkan batasan mengenai hadiah, jamuan, dan hiburan. Berbagai kebijkan Abbott membantu memastikan bahwa pengingat merek, tata krama budaya, keramahtamahan, dan manfaat lainnya jangan pernah memengaruhi penilaian profesional.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PEMBUKUAN &amp; CATATAN YANG AKURAT</p>
+                <p>Kita mengukur prestasi secara akurat.</p>
+                <p>Catatan dan pernyataan publik Abbott harus secara akurat merefleksikan berbagai tindakan kita, dengan konteks yang cukup untuk menunjukkan sifat sesungguhnya dari pekerjaan kita. Catatan keuangan harus mematuhi standar, undang-undang akuntansi, serta berbagai kebijakan internal Abbott.</p>
+                <p>Ketika melaporkan penetapan harga, pembayaran, atau barang-barang yang bernilai—khususnya untuk tenaga kesehatan profesional—kita harus memastikan informasi tersebut lengkap dan akurat. Banyak pemerintahan mewajibkan transparansi ini untuk melindungi dana publik. Abbott berkomitmen untuk memberikan data yang terpercaya sehingga pemerintah, perusahaan asuransi, dan pemegang kepentingan lainnya dapat mengambil keputusan yang tepat berdasarkan informasi.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEPATUHAN TERHADAP UNDANG-UNDANG</p>
+                <p>Kita mematuhi semua undang-undang, peraturan dan persyaratan Abbott yang berlaku pada pekerjaan kita.</p>
+                <p>Setiap karyawan Abbott diharapkan untuk mematuhi semua undang-undang yang berlaku, serta kebijakan, prosedur, dan Pedoman Abbott. Ini adalah persyaratan mendasar dari pekerjaan. Kebijakan Abbott mencakup berbagai area penting, seperti kepatuah layanan kesehatan, kualitas, keuangan, perdagangan, keamanan, dan banyak lagi, yang membantu kita memenuhi ketentuan hukum dan mencegah pelanggaran.</p>
+                <p>Sebagai perusahaan global, kita juga harus menyadari bahwa undang-undang dari satu negara mungkin berlaku untuk berfungsi di negara lainnya. Ketika merasa ragu, carilan tuntunan dari Divisi Hukum atau Kantor Etika dan Kepatuhan.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PERSAINGAN YANG ADIL</p>
+                <p>Kita memastikan bahwa kita berinteraksi secara layak dengan pesaing.</p>
+                <p>Di Abbott, kita berkomitmen untuk mematuhi undang-undang persaingan di mana saja kita beroperasi. Undang-Undang ini melarang perjanjian atau tindakan yang mencegah berbagai praktif pasar yang tidak adil—khususnya dalam penetapan harga, ketentuan penjualan, dan interaksi dengan para pesaing.</p>
+                <p>Hindari pembahasan dengan berbagai topik sensitif—seperti penetapan harga, biaya, atau rencana bisnis—dengan para pesaing, dan hubungi bagian Hukum atau Kantor Etika dan Kepatuhan jika Anda memiliki pertanyaan atau menghadapi apa pun yang tidak sesuai. Karena undang-undang persaingan bersifat kompleks dan pelanggaran dapat membawa hukuman yang serius, kita juga harus berhati-hati mengelola berbagai hubungan dengan para pihak ketiga untuk memastikan kepatuhan dan menghindari bahkan dugaan atas perilaku anti-persaingan.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>Sebelum Anda menyelesaikan kursus ini, luangkan waktu sejenak untuk memastikan bahwa Anda memahami tanggung jawab Anda terkait Kode Etik Bisnis Abbott.</p>
+          <p>aya mengonfirmasi bahwa saya memahami tanggung jawab saya terkait Kode Etik Bisnis Abbott dan mengetahui di mana menemukan serta meninjau Kebijakan dan Prosedur yang berlaku.</p>
+          <button class="qcSubmitBtn">Konfirmasi</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>Uji Pengetahuan berikut terdiri atas 10 pertanyaan. Anda harus mendapatkan skor 80% atau lebih untuk berhasil menyelesaikan kursus ini.</p>
+        <p>SETELAH ANDA SIAP, KLIK TOMBOL UJI PENGETAHUAN.</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Mengapa Pedoman Perilaku Bisnis itu penting?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Pedoman itu memberikan saran khusus untuk setiap situasi yang mungkin kita hadapi di pekerjaan kita.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Pedoman itu memberikan serangkaian prinsip dan nilai yang jelas untuk menjadi dasar keputusan apabila rangkaian tindakan terbaik tidak langsung diketahui dengan jelas.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Berikutnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Pedoman Perilaku Bisnis untuk memberikan kita serangkaian prinsip dan nilai yang jelas untuk menjadi dasar keputusan apabila rangkaian tindakan terbaik tidak langsung diketahui dengan jelas.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Manakah dari hal berikut yang <span class="underline">tidak akan pernah</span> diterima sebagai transaksi bisnis yang pantas?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Mempekerjakan HCP untuk berbicara tentang area penyakit tertentu karena keahlian dan kepakarannya.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Menyediakan makanan yang wajar bagi peserta program edukasi yang disponsori Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Mengatur kontribusi amal untuk organisasi setempat.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Mempekerjakan HCP untuk menyelenggarakan program edukasi sebagai tanda terima kasih kepada mereka karena telah menggunakan produk Abbott.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Berikutnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Diperbolehkan, mempekerjakan HCP untuk menyelenggarakan program edukasi karena keahlian dan kepakaran mereka, namun mempekerjakan HCP sebagai tanda terima kasih karena telah menggunakan produk Abbott merupakan hal yang tidak patut karena ini dapat dianggap sebagai suap.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Konsekuensi bagi individu yang terlibat dalam penyuapan dan korupsi dapat mencakup:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Kerusakan reputasi.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Denda dan penalti.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Pemutusan hubungan kerja.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Hukuman penjara.</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>Seluruh pilihan di atas.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Berikutnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Konsekuensi bagi individu yang terlibat dalam penyuapan dan korupsi dapat mencakup kerusakan reputasi, denda dan penalti, pemutusan hubungan kerja, dan bahkan hukuman penjara.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Perwakilan penjualan juga memiliki toko perhiasan kecil. Dia memutuskan untuk memberikan hadiah kecil dari tokonya kepada HCP yang belum meresepkan produk Abbott belakangan ini. Bolehkah dilakukan?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ya</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Tidak</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Berikutnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Kebijakan Abbott melarang hadiah kepada para HCP karena perwakilan penjualan bertindak sebagai perwakilan Abbott. Hadiah-hadiah tersebut dilarang meskipun dia yang membayarnya. Memberikan hadiah juga dapat dianggap sebagai suap untuk bisnis di masa mendatang.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Manajer penjualan menerima telepon dari sebuah kontak di perusahaan pesaing. Pesaing tersebut memberitahukan bahwa tim penjualan pihak ketiga yang dikontrak oleh Abbott dalam pasar baru diduga menawarkan jamuan makan mewah kepada para pelanggan yang memilih produk-produk Abbott daripada dari para pesaingnya. Apa tindakan yang tepat?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Tidak mengambil tindakan apa pun, karena informasi tersebut datang dari pesaing.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Tidak mengambil tindakan apa pun, karena jamuan mewah adalah hal umum dalam pasar tersebut.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Melaporkan masalah tersebut segera ke Kantor Etika dan Kepatuhan.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Cari distributor alternatif seandainya tuduhan itu benar.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Berikutnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Anda harus segera melaporkan dugaan tersebut kepada Kantor Etika dan Kepatuhan (OEC) agar hal tersebut dapat diselidiki dengan tepat, meskipun informasi tersebut datang dari pesaing.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Biro perjalanan mengatur perjalanan untuk para tenaga kesehatan profesional (HCP) yang memberikan layanan pengawasan ujian untuk Abbott. Setelah meninjau semua tanda terima yang dikirimkan, ditemukan ketidaksesuaian—totalnya tidak sesuai dengan permintaan penggantian, dan beberapa tanda terima tidak mencantumkan detail penting, seperti tanggal perjalanan.</p>
+              <p>Apa tindakan yang tepat?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Memberi tahu biro perjalanan bahwa Abbott tidak dapat memproses pembayaran tanpa dokumentasi yang akurat dan lengkap.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Memproses tanda terima tersebut karena hanya ada beberapa informasi yang tidak lengkap.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Menyarankan biro perjalanan tersebut untuk lebih akurat lain kali.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Tidak mengambil tindakan apa pun, karena biro perjalanan tersebut masih baru.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Berikutnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Pembukuan dan catatan Abbott harus secara lengkap dan akurat mencerminkan seluruh transaksi. Oleh karena itu, pihak ketiga yang melaksanakan layanan untuk Abbott harus memberikan dokumen lengkap yang secara akurat mencerminkan tujuan aktual dan detail transaksi.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Anda bekerja di afiliasi yang diperbolehkan untuk mensponsori HCP dalam menghadiri konferensi yang bersifat edukasi. Anda sedang dalam proses memilih HCP untuk menghadiri konferensi. Kriteria yang Anda gunakan untuk seleksi meliputi: (1) apakah topik konferensi ini merupakan bidang keahlian HCP; (2) apakah Abbott telah mensponsori HCP dalam setahun terakhir; dan (3) apakah HCP cenderung meresepkan produk Abbott atau memanfaatkan perangkat Abbott setelah menghadiri acara tersebut. Apakah kriteria ini tepat?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ya. Dua kriteria utama yang harus selalu dipenuhi ketika mensponsori individu adalah pemberian sponsor tersebut: a) relevan dengan bidang keahlian HCP, dan b) tidak digunakan sebagai hadiah atau stimulus bisnis. Pemeriksaan yang Anda lakukan untuk memastikan bahwa Abbott belum mensponsori HCP tersebut tahun lalu membantu memastikan kriteria berikutnya.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Ya. Selama HCP tidak disponsori untuk memengaruhi atau menghadiahi individu tersebut, Anda dapat mempertimbangkan keuntungan pada investasi Anda – yaitu apakah individu tersebut akan terus meresepkan produk Abbott atau tidak.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Tidak. Keputusan pemberian sponsor tidak boleh didasarkan pada faktor bahwa HCP kemungkinan meresepkan produk Abbott atau memanfaatkan perangkat Abbott setelah menghadiri acara yang disponsori.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ya. Selama sedikitnya satu kriteria dipenuhi, keberadaan kriteria tambahan yang tidak patut merupakan hal yang tidak relevan.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Berikutnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Keputusan pemberian sponsor tidak pernah boleh dibuat sebagai hadiah atas penggunaan sebelumnya, atau sebagai bujukan untuk menggunakan lebih banyak produk atau perangkat kita pada masa mendatang. Perlu diperhatikan di berbagai yurisdiksi, pemberian sponsor dilarang. Selalu periksa prosedur afiliasi Anda sebelum memberikan sponsor.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Perwakilan penjualan Abbott mengedukasi tenaga kesehatan profesional (HCP) mengenai sebuah produk. Setelah diskusi, HCP membagikan informasi bahwa pesaing menawarkan iPad baru sebagai kompensasi telah membantu meningkatkan penjualan mereka.</p>
+              <p>Apa tindakan yang tepat?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Menawarkan insentif yang sama agar tetap kompetitif.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Menolak tawaran iPad namun menyarankan makan malam yang mahal guna melanjutkan percakapan tersebut.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Menjelaskan bahwa Abbott melakukan bisnis dengan benar dan tidak dapat menawarkan apa pun yang bernilai yang mungkin mempengaruhi pengambilan keputusan yang tidak pantas. Kemudian, segera laporkan situasi tersebut kepada Kantor Etika dan Kepatuhan (OEC) Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Mengucapkan terima kasih kepada HCP tersebut untuk informasi itu dan berjanji untuk memikirkannya.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Berikutnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Anda dilarang menawarkan, menjanjikan, memberikan, atau menerima barang berharga untuk memperoleh keuntungan bisnis yang tidak pantas ataupun guna memperoleh atau mempertahankan bisnis. Terlepas dari hal yang dilakukan pesaing, Anda harus mematuhi hukum dan kebijakan Abbott yang berlaku, termasuk persyaratan dalam Kebijakan Antikorupsi Global Abbott (GLB-ANTI-CORRUPTION). Apabila ragu, selalu berkonsultasi dengan divisi Hukum atau Kantor Etika dan Kepatuhan.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Manakah dari hal-hal berikut yang merupakan contoh barang berharga yang tidak boleh diberikan untuk memperoleh bisnis?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Perjalanan bagi HCP dan keluarga mereka untuk mengunjungi spa, kasino, atau tempat hiburan lain.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Hibah untuk penelitian atau proyek edukasi di masa mendatang.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Sumbangan bagi amal pilihan pejabat pemerintah.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Semua pilihan di atas.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Berikutnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Standar Abbott mengenai penyuapan dan korupsi, yang tercantum dalam Kebijakan Antikorupsi Global (GLB-ANTI-CORRUPTION), sejalan dengan komitmen kita untuk menjalankan bisnis dengan kejujuran, keadilan, dan integritas. Ini berarti dilarang keras menawarkan atau memberikan barang berharga demi memenangkan bisnis.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>HCP yang merupakan tokoh berpengaruh meminta apakah Anda dapat memberikan dukungan untuk program edukasi yang ingin beliau hadiri dengan imbalan peluang bisnis tambahan untuk Abbott. Pilihan manakah yang paling tepat?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Dengan tegas menolak permintaan tersebut karena melanggar kebijakan Antikorupsi Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Memberi tahu HCP bahwa Anda akan menanyakannya kepada manajer Anda.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Memenuhi permintaannya karena HCP adalah pemimpin opini utama yang memiliki pengaruh besar.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Semua pilihan salah.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">Kirim</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Kita tidak menawarkan atau memberi apa pun yang berharga untuk mendapatkan keuntungan bisnis, secara langsung atau tidak langsung, sesuai dengan prinsip-prinsip anti-penyuapan.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>Hasil tidak tersedia karena Anda belum menyelesaikan Uji Pengetahuan.</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>Selamat! Anda telah berhasil lulus Uji Pengetahuan.</p>
+          <p>Harap periksa hasil Anda di bawah dengan mengeklik masing-masing pertanyaan.</p>
+          <p>Setelah Anda selesai, klik tanda panah maju untuk mengikuti survei singkat.</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>Maaf, Anda tidak lulus Uji Pengetahuan. Luangkan beberapa menit untuk melihat hasil yang Anda peroleh di bawah dengan mengeklik masingmasing pertanyaan.</p>
+          <p>Setelah Anda selesai, klik tombol Ulangi.</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>Survei ini bersifat opsional.</p>
+          <p>Penting: Baik Anda memilih untuk menyelesaikan survei atau tidak, Anda harus mengklik ikon KELUAR (X) pada bilah judul kursus untuk menyelesaikan kursus dan mengunggah hasil Anda.</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Bagaimana penilaian Anda untuk kursus ini secara keseluruhan?</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Buruk</p>
+                  <p>Kurang Baik</p>
+                  <p>Rata-rata</p>
+                  <p>Baik</p>
+                  <p>Sangat Baik</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Jelaskan penilaian Anda lebih lanjut.</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Dengan mengikuti sesi ini, saya menjadi lebih memahami tentang Pedoman Perilaku Bisnis Abbott.</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Sangat Tidak Setuju</p>
+                  <p>Tidak Setuju</p>
+                  <p>Netral</p>
+                  <p>Setuju</p>
+                  <p>Sangat Setuju</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Sejauh mana relevansi konten yang tercakup dalam kursus ini dengan pekerjaan Anda?</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Tidak Relevan Sama Sekali</p>
+                  <p>Tidak Terlalu Relevan</p>
+                  <p>Ragu-ragu</p>
+                  <p>Agak Relevan</p>
+                  <p>Sangat Relevan</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Manakah topik yang tercakup dalam kursus ini yang ingin Anda pelajari lebih lanjut?</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">Klik tombol Unggah untuk menyelesaikan kursus, unggah data Anda, dan tutup jendela kursus.</p>
+          <button class="surveySubmit">
+            <p>Unggah</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">Tempat mencari Dukungan</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Manajer</p>
+        <p>Jika Anda memiliki pertanyaan tentang interaksi Anda dengan pihak di luar Abbott, tempat terbaik untuk bertanya adalah kepada manajer Anda</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Standar Tertulis</p>
+        <ul>
+          <li>Untuk mengetahui rangkaian harapan dasar perusahaan kita tentang interaksi dengan pihak lain, periksa <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Pedoman Perilaku Bisnis</a> kita.</li>
+          <li>Untuk mengetahui kebijakan dan prosedur perusahaan kita yang berlaku di seluruh perusahaan, kunjungi <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">Portal Kebijakan Global</a>.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>Kantor Etika dan Kepatuhan (OEC)</p>
+        <p>OEC adalah sumber daya global yang tersedia untuk menanggapi pertanyaan atau kekhawatiran Anda mengenai nilai dan standar perilaku perusahaan kita.</p>
+        <ul>
+          <li>Kunjungi <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">situs web OEC</a> di Abbott World.</li>
+          <li>Apabila Anda memiliki kekhawatiran mengenai kegiatan bisnis yang korup, baik dalam perusahaan ataupun urusan Anda dengan pelanggan atau pihak ketiga lain, Anda dapat melaporkan kekhawatiran Anda kepada OEC (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) atau divisi Hukum, atau menghubungi saluran <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> multibahasa kami yang tersedia secara global 24/7.</li>
+          <li>iComply – Kunjungi <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> untuk mengakses aplikasi terkait kepatuhan serta sumber daya yang disiapkan untuk interaksi dengan Tenaga Kesehatan Profesional dan Organisasi Layanan Kesehatan, serta pihak ketiga.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Sumber Daya Manusia</p>
+        <p>Untuk permasalahan terkait karyawan, seperti kekhawatiran yang melibatkan manajemen dan/atau karyawan lain, hubungi perwakilan <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">Sumber Daya Manusia</a> setempat Anda.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>Divisi Hukum</p>
+        <p>Hubungi Divisi Hukum dengan pertanyaan atau kekhawatiran tentang implikasi hukum penyuapan dan korupsi.</p>
+        <ul>
+          <li>Klik di sini untuk mengakses laman beranda Hukum pada Abbott World.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>SUMBER DAYA LAINNYA</p>
+        <p>Terdapat banyak sumber daya lainnya yang tersedia bagi Anda:</p>
+        <p>Keuangan – Apabila pertanyaan Anda mengenai akuntansi atau keuangan, hubungi departemen Keuangan setempat Anda.</p>
+        <p>Audit Perusahaan – Apabila terdapat kekhawatiran spesifik mengenai akuntansi, kendali akuntansi internal, atau masalah audit, segera laporkan ke Audit Perusahaan atau OEC.</p>
+        <p>Kualitas dan Regulasi Abbott – Apabila memiliki pertanyaan mengenai kualitas dan keselamatan produk kita, hubungi departemen Kualitas atau Regulasi setempat Anda.</p>
+        <p>Lingkungan, Kesehatan, dan Keselamatan Global – Hubungi perwakilan Lingkungan, Kesehatan, dan Keselamatan Global jika memiliki pertanyaan mengenai lokasi fisik dan potensi bahaya.</p>
+        <p>Pengadaan Global – Apabila Anda memiliki pertanyaan tentang hubungan pemasok, hubungi Pengadaan Global.</p>
+      </div>
+      <p class="resSubtitles" data-break="true">Sumber Daya Kursus</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Salinan</p>
+        <p>Klik <a href="reference/Quick_Reference.pdf" target="_blank">di sini</a> untuk memperoleh transkrip lengkap kursus</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>Kursus tidak dapat menghubungi LMS. Klik “OK” untuk melanjutkan dan meninjau kursus. Perhatikan, Sertifikasi Kursus mungkin tidak tersedia. Klik “Batal” untuk keluar</s1>
+    <s2>Seluruh pertanyaan masih belum dijawab</s2>
+    <s3>Pertanyaan</s3>
+    <s4>Pertanyaan</s4>
+    <s5>tidak dijawab</s5>
+    <s6>Benar!</s6>
+    <s7>Tidak benar!</s7>
+    <s8>Masukan:</s8>
+    <s9>Pedoman Perilaku Bisnis</s9>
+    <s10>Uji Pengetahuan</s10>
+    <s11>Kirim</s11>
+    <s12>Ulangi</s12>
+    <s13>Deskripsi Kursus: Pedoman Perilaku Bisnis kita merupakan dokumen sangat penting yang menguraikan harapan perusahaan kita terhadap setiap karyawan saat kita mewakili Abbott dalam pekerjaan kita setiap hari. Pedoman ini memberikan fondasi untuk tanggung jawab dan perilaku kita yang akan membantu kita membuat pilihan terbaik bagi Abbot, diri kita sendiri, dan banyak orang yang kita layani. Kursus ini memberikan ikhtisar utama dari Pedoman ini, menjabarkan harapan perusahaan kita dan kewajiban Anda, serta memberikan saran praktis mengenai apa yang harus dilakukan saat langkah terbaik ke depan sulit untuk diputuskan. Kursus ini dapat diselesaikan dalam waktu 35-45 menit.</s13>
+    <s14>Menu</s14>
+    <s15>Sumber Daya</s15>
+    <s16>Materi Referensi</s16>
+    <s17>Audio</s17>
+    <s18>Keluar</s18>
+    <s19>Tutup</s19>
+    <s20>Komentar...</s20>
+  </strings>
+</course>

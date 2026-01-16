@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="સ્વાગત છે" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="વ્યવસાયની આચારસંહિતા">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="અમારી ફિલોસોફી">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="હેતુઓ">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="વિષયસૂચિ">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="એબટની વ્યવસાયની આચારસંહિતાનું મહત્ત્વ" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="અમારી દૈનિક પ્રતિબદ્ધતાઓ">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="અમારા વ્યવસાય માટે આચારસંહિતાનું મહત્ત્વ">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="અમારી આચારસંહિતા" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="ઝાંખી">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="અમારા ગ્રાહકો">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="અમારા ઉત્પાદનો">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="વિજ્ઞાનને આગળ વધારવું">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="અમારા લોકો">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="અમારા સમુદાયો">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="અમે કેવી રીતે કાર્ય કરીએ છીએ">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="તમારી પ્રતિબદ્ધતા" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="તમારી પ્રતિબદ્ધતા">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="જ્ઞાનની તપાસ" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="પરિચય">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="આકારણી">
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="પ્રતિસાદ">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="સર્વે">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>વ્યવસાયની આચારસંહિતા</p>
+      </div>
+      <p class="startInstruction">‘આગળ’ ઍરો પર ક્લિક કરો.</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>વૈશ્વિક આરોગ્યસંભાળ લીડર તરીકે, અમે દરરોજ શું કરીએ છીએ તે મહત્ત્વનું છે.</p>
+        <p>અમારી વ્યવસાયની આચારસંહિતા એક પાવરફૂલ માર્ગદર્શિકા છે જે અમને નીતિમયતા સાથે કાર્ય કરવા, હેતુપૂર્ણ આગેવાની કરવા અને અમે જે છીએ તેને શ્રેષ્ઠ રીતે દર્શાવે તેવી પસંદગીઓ કરવામાં સશક્ત બનાવે છે. આ રીતે અમે વિશ્વાસ કેળવીએ છીએ, અમારા મૂલ્યોને જાળવી રાખીએ છીએ અને વિશ્વમાં અર્થપૂર્ણ ફેરફાર લાવવામાં સતત આગળ વધીએ છીએ.</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>આ કૉર્સ પૂર્ણ થયા પછી, તમે:</p>
+        <ul>
+          <li>અમારા વ્યવસાય માટે વ્યવસાયની આચારસંહિતાના મહત્ત્વને સમજી શકશો.</li>
+          <li>વ્યવસાયની આચારસંહિતાના મુખ્ય સિદ્ધાંતોને ઓળખી શકશો અને તે અમારી રોજિંદી કાર્યપદ્ધતિઓમાં કેવી રીતે લાગુ પડે છે તે સમજી શકશો.</li>
+          <li>વૈશ્વિક સ્તરે યોગ્ય રીતે વ્યવસાય ચલાવવા માટે એબટની અપેક્ષાઓને સમજી શકશો.</li>
+          <li>મદદ અને સમર્થન માટે ક્યાં જવું તે જાણો.</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>સ્વાગત છે</p>
+            <p>1 મિનિટ</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>એબટની વ્યવસાયની આચારસંહિતાનું મહત્ત્વ</p>
+            <p>2 મિનિટ</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>અમારી આચારસંહિતા</p>
+            <p>18 મિનિટ</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>તમારી પ્રતિબદ્ધતા</p>
+            <p>1 મિનિટ</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>જ્ઞાનની તપાસ</p>
+            <p>5 મિનિટ</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>શીખવાની પ્રગતિ</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">આ વિષય હવે ઉપલબ્ધ છે.</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>અમે નીતિમયતા, ન્યાયીપણા અને પ્રામાણિકતા સાથે આગેવાની કરીએ છીએ. દરેક વ્યક્તિ. દરરોજ.</p>
+        <p>અમારી વ્યવસાયની આચારસંહિતા આપણને યાદ અપાવે છે કે નીતિમયતા, ન્યાયીપણું અને પ્રામાણિકતા ફક્ત આદર્શો જ નહીં—રોજિંદી પ્રતિબદ્ધતાઓ છે. જોકે આચારસંહિતા અમારા દરેક પડકારની પૂર્વકલ્પના કરી શકતી નથી, પરંતુ તે આપણને માર્ગદર્શન આપવા માટે મૂલ્યોનો મજબૂત આધાર પૂરો પાડે છે.</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>અમે ઉચ્ચતમ ધોરણો માટે પ્રતિબદ્ધ છીએ.</p>
+        <p>એબટની સફળતા માટે વ્યવસાયની આચારસંહિતા અત્યંત મહત્ત્વપૂર્ણ છે, કારણ કે તે અમારી કાર્ય કરવાની રીત માટે નીતિમયતા, ન્યાયીપણા અને પ્રામાણિકતા જેવા ધોરણો સેટ કરે છે. તે અમને નૈતિક નિર્ણયો લેવામાં મદદ કરે છે, ખાસ કરીને જટિલ પરિસ્થિતિઓમાં અને અમે અમારા મૂલ્યો સાથે સુસંગત રહીએ તેની ખાતરી કરે છે. આચારસંહિતાનું પાલન કરીને, અમે અમારી પ્રતિષ્ઠાનું રક્ષણ કરીએ છીએ, જેને અમે સેવા પૂરી પાડીએ છીએ તેમનો વિશ્વાસ જીતીએ છીએ અને કાર્યસ્થળની એક એવી સંસ્કૃતિનું નિર્માણ કરીએ છીએ જ્યાં યોગ્ય કાર્ય કરવું સર્વોપરી છે.</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>આચારસંહિતાને સમજવી એ દરેકની જવાબદારી છે.</p>
+        <p>અમારામાંના દરેકની અમારા રોજિંદા કાર્ય અને નિર્ણય લેવામાં વ્યવસાયની આચારસંહિતા લાગુ કરવામાં ભૂમિકા છે. તે ફક્ત એક દસ્તાવેજ જ નથી - તે એક એવી માર્ગદર્શિકા છે જે અમને નીતિમયતા અને આત્મવિશ્વાસ સાથે દરેક પડકારનો સામનો કરવામાં મદદ કરે છે.</p>
+        <p>આગળના વિભાગોમાં, અમે સંહિતાના મુખ્ય સિદ્ધાંતો અને તે અમારા દૈનિક કાર્યો તથા પસંદગીઓ પર કેવી રીતે લાગુ પડે છે તે વિશે વધુ જાણીશું.</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">આગળ વધતા પહેલાં તમારે બધી સામગ્રી જોવી આવશ્યક છે.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>એબટ ખાતે, અમે અમારા ઉત્પાદનો પર આધાર રાખતા લોકોના સ્વાસ્થ્ય અને સુખાકારીમાં સુધારો કરવા માટે પ્રતિબદ્ધ છીએ.</p>
+          </div>
+          <div>
+            <p>આ યાદ અપાવે છે કે દરેક નિર્ણય, દરેક નવીનતા અને દરેક પગલાં પાછળ એક હેતુ હોય છે - જીવનને વધુ સારું બનાવવું.</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>દર્દીઓ અને ગ્રાહકો</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>આરોગ્યસંભાળ વ્યાવસાયિકો</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>વધુ જાણવા માટે દરેક આઇકન પર ક્લિક કરો.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>દર્દીઓ અને ગ્રાહકો</p>
+                <p>લોકોની સંભાળ રાખવી એ અમારા કાર્યનો મુખ્ય ભાગ છે. અમે દર્દીઓ અને ગ્રાહકોના સ્વાસ્થ્ય તથા સુખાકારીને પ્રાથમિકતા આપીએ છીએ. દરરોજ, અમે લોકોને વધુ સ્વસ્થ જીવન જીવવામાં મદદ કરીને અને વધુ સશક્ત, સ્વસ્થ સમુદાયોમાં યોગદાન આપીને અર્થપૂર્ણ બદલાવ લાવી શકીએ છીએ.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>આરોગ્યસંભાળ વ્યાવસાયિકો</p>
+                <p>અમે સારા સ્વાસ્થ્યને સમર્થન આપવા માટે HCPs સાથે કામ કરીએ છીએ. અમે આરોગ્યસંભાળ વ્યાવસાયિકોના જ્ઞાન અને તેમના સ્વતંત્ર નિર્ણયનો આદર કરીએ છીએ - પછી ભલે તેઓ ડૉક્ટર હોય, નર્સ હોય, ફાર્માસિસ્ટ હોય, સંશોધકો હોય કે લેબોરેટરી સ્ટાફ હોય. દર્દીઓને વધુ સારા સ્વાસ્થ્ય તરફ દોરી જવામાં તેમની ભૂમિકા અગત્યની છે.</p>
+                <p>એબટ ખાતે, અમે તેમને શ્રેષ્ઠ નિર્ણયો લેવામાં મદદ કરવા માટે સચોટ અને સમયસર માહિતી પૂરી પાડવા માટે પ્રતિબદ્ધ છીએ. સાથે મળીને કામ કરીને, અમે વિશ્વભરમાં સ્વાસ્થ્ય અને સુખાકારીમાં સુધારો લાવવાના અમારા સહિયારા લક્ષ્યને હાંસલ કરી શકીએ છીએ.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">આગળ વધતા પહેલાં તમારે બધી સામગ્રી જોવી આવશ્યક છે.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>એબટ ખાતે, અમે ખાતરી કરવા માટે પ્રતિબદ્ધ છીએ કે અમે જે પણ ઉત્પાદન ઓફર કરીએ છીએ તે સલામત, અસરકારક અને લોકોના અમારા પરના વિશ્વાસને પાત્ર હોય.</p>
+          </div>
+          <div>
+            <p>અમારા ઉત્પાદનો સલામત અને અસરકારક રહે તે માટે યોગ્ય સામગ્રી પસંદ કરવાથી લઈને અમે તેમનું માર્કેટિંગ, વેચાણ અને ડિલિવરી કેવી રીતે કરીએ છીએ ત્યાં સુધીની ખાતરી કરવા માટે અમે યોગ્ય પગલાં લઈએ છીએ. દરેક તબક્કે, અમે ગુણવત્તા માટેના ઉચ્ચ ધોરણોનું પાલન કરીએ છીએ.</p>
+            <p>અમે ઉત્પાદન સલામતીના મુદ્દાઓને સમયસર ઓળખવા, તેમનું મૂલ્યાંકન કરવા અને તેમનું અસરકારક રીતે સમાધાન કરવા માટે પ્રતિબદ્ધ છીએ. ઉપરાંત, અમારા ઉત્પાદનોની નકલી બનાવટ, ગેરકાયદેસર ઉપયોગ અને ચોરી અટકાવવા માટે જરૂરી તમામ પગલાં લેવા માટે પણ પ્રતિબદ્ધ છીએ.</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>ઉત્પાદન ગુણવત્તા</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>ઉત્પાદન પ્રમોશન I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>ઉત્પાદન પ્રમોશન II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>વધુ જાણવા માટે દરેક આઇકન પર ક્લિક કરો.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ઉત્પાદન ગુણવત્તા</p>
+                <p>સલામત, અસરકારક અને વિશ્વસનીય. અમારા ઉત્પાદનો ફરક પાડે છે.</p>
+                <p>અમે દરેક તબક્કે ગુણવત્તા માટે પ્રતિબદ્ધ છીએ - સોર્સિંગ અને ઉત્પાદનથી લઈને અમારા ઉત્પાદનોનું માર્કેટિંગ, વેચાણ અને ડિલિવરી કેવી રીતે કરીએ છીએ, જેમાં અમારા ભાગીદારો દ્વારા પૂરી પાડવામાં આવતી સેવાનો પણ સમાવેશ થાય છે. દરેક પગલું અગત્યનું છે કારણ કે લોકો સલામતી માટે અમારા પર આધાર રાખે છે.</p>
+                <p>અમે ઉત્પાદન સલામતીના મુદ્દાઓને સમયસર ઓળખવા, તેમનું મૂલ્યાંકન કરવા અને તેમનું અસરકારક રીતે સમાધાન કરવા માટે પ્રતિબદ્ધ છીએ. અમે ખાતરી કરીએ છીએ કે આરોગ્યસંભાળ વ્યાવસાયિકો અને સંસ્થાઓ પાસે અમારા ઉત્પાદનોનો સલામત અને અસરકારક રીતે ઉપયોગ કરવા માટે જરૂરી તમામ માહિતી ઉપલબ્ધ હોય. સાથે જ, સંભવિત સલામતી સંબંધિત ચિંતાઓ ઊભી થાય ત્યારે અમે નિયમનકારી સંસ્થાઓ અથવા જાહેર આરોગ્ય એજન્સીઓ સાથે જરૂરી વાતચીત કરીએ છીએ.</p>
+                <p>અમે અમારા ઉત્પાદનોની નકલ, ગેરકાયદેસર ડાયવર્ઝન અને ચોરી અટકાવવા માટે જરૂરી પગલાં લઈએ છીએ. અમે નિકાસ અને આયાત નિયંત્રણના નિયમો સહિત વેપાર નિયમોનું પાલન કરીએ છીએ અને રાષ્ટ્રીય સુરક્ષા તથા જાહેર આરોગ્યનું રક્ષણ કરવા માટે સરકારી પ્રતિબંધો અને નિયમનોનું પાલન કરીએ છીએ.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ઉત્પાદન પ્રમોશન I</p>
+                <p>અમે અમારા ઉત્પાદનોનો પ્રચાર અને વેચાણ તેમના પર આધાર રાખનારાઓ માટે પ્રામાણિકતા અને આદર સાથે કરીએ છીએ.</p>
+                <p>અમારા ઉત્પાદન વિશેના સંચાર સત્યવાદી, સંતુલિત અને અમે જે દેશોમાં કાર્ય કરીએ છીએ ત્યાંની માન્ય લેબલિંગ માર્ગદર્શિકા, વૈજ્ઞાનિક પુરાવા અને તબીબી શ્રેષ્ઠ પદ્ધતિઓ સાથે સુસંગત છે.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ઉત્પાદન પ્રમોશન II</p>
+                <p>અમે અમારા ઉત્પાદનોનો તેમના ઇચ્છિત અને માન્ય ઉપયોગો માટે પ્રચાર કરીએ છીએ.</p>
+                <p>અમે જે દેશોમાં કાર્યરત છીએ ત્યાંના આરોગ્ય અધિકારીઓ દ્વારા આપવામાં આવેલા લાઇસન્સ અને મંજૂરીઓ અનુસાર કાર્ય કરીએ છીએ. અમારા ઉત્પાદનનો પ્રચાર, વેચાણ અને વિતરણ તમામ વેપાર કાયદા તેમજ દેશવાર લાગુ પડતા નિયમોના કડક પાલન સાથે કરવામાં આવે છે. મજબૂત આંતરિક નીતિઓ અને પ્રક્રિયાઓ દ્વારા, અમે પાલન સુનિશ્ચિત કરીએ છીએ અને નૈતિક, સલામત અને જવાબદાર વ્યવસાય પદ્ધતિઓ પ્રત્યેની અમારી પ્રતિબદ્ધતાને જાળવી રાખીએ છીએ.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">આગળ વધતા પહેલાં તમારે બધી સામગ્રી જોવી આવશ્યક છે.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>એબટ ખાતે, અમે નીતિમયતા અને હેતુ સાથે વિજ્ઞાનને આગળ વધારવા માટે પ્રતિબદ્ધ છીએ.</p>
+          </div>
+          <div>
+            <p>અમે જોખમોની અપેક્ષા રાખવા અને તેમને જવાબદારીપૂર્વક સંચાલિત કરવાના મહત્ત્વને સમજીને નવીનતા લાવીએ છીએ. અમે અભ્યાસના દરેક સહભાગીના ગૌરવનું સન્માન કરીએ છીએ અને વૈજ્ઞાનિક સંશોધનમાં પારદર્શિતા તથા ઉદ્દેશ્યના ઉચ્ચતમ ધોરણોને જાળવી રાખીએ છીએ.</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>નવીનતા I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>નવીનતા II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>વિજ્ઞાનને આગળ વધારવું</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>વધુ જાણવા માટે દરેક આઇકન પર ક્લિક કરો.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>નવીનતા I</p>
+                <p>અમે લોકોને વધુ સ્વસ્થ જીવન જીવવામાં મદદ કરવા અને વિશ્વભરમાં આરોગ્યનાં પરિણામોમાં સુધારો લાવવા માટે નવીન આરોગ્યસંભાળ ઉકેલો બનાવીએ છીએ.</p>
+                <p>અમે માનવ જરૂરિયાતોને પૂર્ણ કરવા માટે અગ્રેસર સારવાર, જીવનરક્ષક ઉપકરણો અને નવીન ઉત્પાદનોનો ઉપયોગ કરીએ છીએ જે નવી રીતે આરોગ્યને સમર્થન આપે છે. અત્યાધુનિક વિજ્ઞાન અને ટેક્નોલોજી દ્વારા જીવનના દરેક તબક્કા માટે અર્થપૂર્ણ નવીનતાઓ બનાવીને, અમે પરિણામો સુધારવા અને લોકોને તેમનું જીવન સંપૂર્ણ રીતે જીવવા માટે સશક્ત બનાવવાનો પ્રયાસ કરીએ છીએ.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>નવીનતા II</p>
+                <p>અમે નવી શક્યતાઓ શોધીને અને આકસ્મિક પરિસ્થિતિઓ માટે યોગ્ય આયોજન કરીને નવીનતાની સંસ્કૃતિ વિકસાવીએ છીએ.</p>
+                <p>પ્રગતિમાં ઘણીવાર જોખમ સામેલ હોય છે, પરંતુ અમે પડકારોનો અંદાજ લગાવવા અને તેમને અગાઉથી ઘટાડવા માટે વિચારશીલ, જવાબદાર પગલાં લઈએ છીએ - જેને હંમેશાં આચારસંહિતા અને અમારી નીતિઓ દ્વારા માર્ગદર્શન આપવામાં આવે છે.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>વિજ્ઞાનને આગળ વધારવું</p>
+                <p>અમે સચોટ અને હેતુપૂર્ણ ડેટા જનરેટ કરવા માટે સંશોધન કરીએ છીએ જે નવીનતાને પ્રોત્સાહિત કરે છે, સારવારમાં સુધારો લાવે છે અને આરોગ્યસંભાળને બહેતર બનાવે છે.</p>
+                <p>સંશોધન હાથ ધરતી વખતે, અમે અભ્યાસના સહભાગીઓ સાથે ગૌરવપૂર્ણ વર્તન કરીએ છીએ, તેમને બિનજરૂરી જોખમથી બચાવીએ છીએ અને તેઓ સંશોધનના પ્રકાર, હેતુ તથા સંકળાયેલાં જોખમોને સમજતા હોવાની ખાતરી કરીએ છીએ. અભ્યાસના સહભાગીઓ પાસેથી જાણકાર સંમતિ મેળવવી એ અમારી સંશોધન પ્રક્રિયાનો એક આવશ્યક ભાગ છે.</p>
+                <p>અમે વૈજ્ઞાનિક સંશોધનમાં પારદર્શિતાને પ્રાથમિકતા આપીએ છીએ અને પરિણામોને અયોગ્ય રીતે પ્રભાવિત કરવાનો પ્રયાસ કરીશું નહીં. અમે ખાતરી કરીએ છીએ કે અભ્યાસ ડેટા સચોટ છે અને અમારા ઉત્પાદનો સંબંધિત સંશોધનનાં પરિણામો, પછી ભલે પરિણામો સકારાત્મક હોય કે નકારાત્મક, સમયસર અને સચોટ રીતે પ્રદાન કરવા માટે પ્રતિબદ્ધ છીએ.</p>
+                <p>જ્યારે એબટ માટે સંશોધન હાથ ધરવામાં આવે છે અથવા અમારા તરફથી પબ્લિશ થાય છે, ત્યારે અમે મજબૂત વૈજ્ઞાનિક અને તબીબી બૅકગ્રાઉન્ડ ધરાવતા નિષ્ણાતો સાથે ભાગીદારી કરીએ છીએ. અમે અપેક્ષા રાખીએ છીએ કે તેઓ એબટ સાથેના કોઈ પણ સંબંધ, જેમાં નાણાકીય અથવા અન્ય સંબંધોનો સમાવેશ થાય છે, તે જાહેર કરે.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">આગળ વધતા પહેલાં તમારે બધી સામગ્રી જોવી આવશ્યક છે.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>એબટ ખાતે, અમે નિખાલસ, વિવિધતા અને આદરની સંસ્કૃતિને પ્રોત્સાહન આપીએ છીએ - કારણ કે તે સર્જનાત્મકતા અને નવીનતાને આગળ ધપાવે છે.</p>
+          </div>
+          <div>
+            <p>અમારા દરેકની જવાબદારી છે કે અમે દરરોજ આચારસંહિતાનું પાલન કરીએ: અન્ય લોકો સાથે આદરપૂર્વક વર્તન કરીએ, સલામત અને સમાવિષ્ટ કાર્યસ્થળ બનાવી રાખીએ અને બધા માટે સમાન તકો સુનિશ્ચિત કરીએ.</p>
+            <p>જ્યારે વસ્તુઓ સ્પષ્ટ ન હોય ત્યારે અમે પ્રશ્નો પૂછીએ છીએ અને જ્યારે કંઈક યોગ્ય ન લાગે ત્યારે અમે અવાજ ઉઠાવીએ છીએ.</p>
+            <p>આ વિભાગ સમાન તક અને કાર્યસ્થળના સલામત વાતાવરણ પ્રત્યેની અમારી પ્રતિબદ્ધતાને વધુ મજબૂત બનાવે છે અને અમે જે કંઈ કરીએ છીએ તેમાં આચારસંહિતાને સમજવા, લાગુ કરવા અને તેનું સમર્થન કરવાની યાદ અપાવે છે.</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>સહયોગ</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>એકબીજા સાથેનું અમારું જોડાણ</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>ચિંતાઓની જાણ કરવી</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>સમાન તક</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>વાજબી વર્તન</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>કાર્યસ્થળનું વાતાવરણ</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>વધુ જાણવા માટે દરેક આઇકન પર ક્લિક કરો.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>સહયોગ</p>
+                <p>અમે નિખાલસતા અને સહયોગને મહત્ત્વ આપીએ છીએ કારણ કે વિવિધ વિચારો દ્વારા વધુ સારા ઉકેલો મળી શકે છે.</p>
+                <p>અમે વિવિધતાને સ્વીકારીએ છીએ કારણ કે તે સર્જનાત્મકતા, ઊર્જા અને પ્રગતિને પ્રોત્સાહન આપે છે. વૈશ્વિક સ્વાસ્થ્ય પર અર્થપૂર્ણ અસર કરવા માટે, અમે એકબીજાને સાંભળીએ છીએ, દરેક મંતવ્યને મહત્ત્વ આપીએ છીએ અને સાથે મળીને હેતુપૂર્વક કામ કરીએ છીએ.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>એકબીજા સાથેનું અમારું જોડાણ</p>
+                <p>દરરોજ એબટના મૂલ્યો પ્રમાણે જીવવું એ અમારા દરેકની જવાબદારી છે.</p>
+                <p>નૈતિક રીતે કાર્ય કરીને, અમે અમારી સંસ્કૃતિને મજબૂત બનાવીએ છીએ. દરેક વ્યક્તિએ સમજવું જોઈએ કે આ આચારસંહિતા તેમની ભૂમિકા અને કાર્ય પર કેવી રીતે લાગુ પડે છે.</p>
+                <p>મેનેજરો અને સુપરવાઇઝરોની લીડરો તરીકેની ખાસ જવાબદારી છે - તેમણે આચારસંહિતાનાં મૂલ્યોનું સમર્થન કરવું જોઈએ, નૈતિક વર્તનને પ્રોત્સાહન આપવું જોઈએ અને એક સુરક્ષિત કાર્યસ્થળ બનાવવું જોઈએ જ્યાં કર્મચારીઓ બદલાના ડર વિના પ્રશ્નો પૂછવામાં અને ચિંતાઓ વ્યક્ત કરવામાં આરામદાયક અનુભવે.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ચિંતાઓની જાણ કરવી</p>
+                <p>જ્યારે કંઈક સ્પષ્ટ ન હોય અથવા સાચું ન લાગે ત્યારે અમે પ્રશ્નો પૂછીએ છીએ. અમે આચારસંહિતાના કોઈ પણ સંભવિત ઉલ્લંઘન વિશે પણ વાત કરીએ છીએ અને જાણ કરીએ છીએ.</p>
+                <p>જ્યારે માર્ગદર્શન સ્પષ્ટ ન હોય ત્યારે પ્રશ્નો પૂછવાની અને શંકાસ્પદ અનૈતિક વ્યાવસાયિક આચરણ, આચારસંહિતાના ઉલ્લંઘન અથવા એબટની નીતિઓનું પાલન ન થાય ત્યારે તેની જાણ કરવી અને તેને પડકારવું એ અમારી જવાબદારી છે.</p>
+                <p>જો તમને યોગ્ય પસંદગી અથવા કાર્યવાહી વિશે ખાતરી ન હોય, તો તમારા મેનેજર સાથે વાત કરો અથવા નૈતિકતા અને પાલન કાર્યાલયનો સંપર્ક કરો.</p>
+                <p>મેનેજરો અને સુપરવાઇઝરોએ તેમના વર્તન દ્વારા ઉદાહરણ સેટ કરવું જોઈએ અને કર્મચારીઓ આચારસંહિતાને સમજે છે અને તેનું પાલન કરે છે તેની ખાતરી કરવી જોઈએ. લીડરોની જવાબદારી છે કે તેઓ એબટની અપેક્ષાઓ જણાવે અને આચારસંહિતાના કોઈ પણ સંભવિત ઉલ્લંઘન વિશે નૈતિકતા અને પાલન કાર્યાલયનો સંપર્ક કરે.</p>
+                <p>સંભવિત આચારસંહિતાના ઉલ્લંઘનની તમામ જાણને ગંભીરતાથી લેવામાં આવે છે. નૈતિકતા અને પાલન કાર્યાલય, જરૂર પડ્યે તપાસ અને સુધારાત્મક પગલાં સહિત, ફોલો-અપ પગલાં લેશે. તમારે જાતે તપાસ કરવી જોઈએ નહીં. દરેક વ્યક્તિએ સહકાર આપવો જોઈએ અને તપાસ ગોપનીય રાખવી જોઈએ.</p>
+                <p>નીચેનાં વર્તનો પ્રત્યે સુધારાત્મક પગલાંમાં શિસ્ત (બરતરફી સુધી અને તેના સહિત) અથવા કાનૂની કાર્યવાહીનો સમાવેશ થઈ શકે છે:</p>
+                <ul>
+                  <li>ઉલ્લંઘનને અધિકૃત કરવું અથવા તેમાં ભાગ લેવો;</li>
+                  <li>તપાસમાં સહકાર આપવાની ના પાડવી;</li>
+                  <li>નબળી દેખરેખને કારણે ઉલ્લંઘનની જાણ કરવામાં નિષ્ફળતા;</li>
+                  <li>ખોટી જાણ કરવી;</li>
+                  <li>સદ્ભાવના પૂર્વક ચિંતાની જાણ કરનાર વ્યક્તિ સામે બદલો લેવો.</li>
+                </ul>
+                <p>બદલો લેવાની ભાવના ક્યારેય સ્વીકાર્ય નથી. જો તમને લાગે કે બદલો લેવામાં આવ્યો છે, તો તેની જાણ નૈતિકતા અને પાલન કાર્યાલય અથવા માનવ સંસાધન વિભાગને કરો.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>સમાન તક</p>
+                <p>અમે બધા કર્મચારીઓને સમાન તકો પૂરી પાડીએ છીએ.</p>
+                <p>અમે વ્યાવસાયિક જરૂરિયાતો, કુશળતા, અનુભવ અને કાર્યપ્રદર્શનના આધારે રોજગારના નિર્ણયો લઈએ છીએ. કોઈ પણ પ્રકારનો ભેદભાવ સહન કરવામાં આવશે નહીં. અમે વિશ્વભરના કર્મચારીઓ સાથેના અમારા સંબંધોને સંચાલિત કરતા તમામ કાયદાનું પાલન કરીએ છીએ.</p>
+                <p>એબટ જાતિ, રંગ, ધર્મ, ઉંમર, લિંગ, રાષ્ટ્રીય મૂળ, લિંગ ઓળખ અથવા અભિવ્યક્તિ, જાતીય અભિગમ, અપંગતા, વૈવાહિક સ્થિતિ, લશ્કરમાંથી નિવૃત્ત થયેલ અથવા લશ્કરી સ્થિતિ, આનુવંશિકતા, નાગરિકતા સ્થિતિ અથવા કોઈ પણ અન્ય કાયદેસર રીતે સુરક્ષિત સ્થિતિના આધારે થતા ભેદભાવને પ્રતિબંધિત કરે છે.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>વાજબી વર્તન</p>
+                <p>અમે આદરપૂર્ણ, સમાવિષ્ટ અને સલામત કાર્યસ્થળને પ્રોત્સાહન આપીએ છીએ.</p>
+                <p>અમે દરેકને આવકાર્ય, સમર્થિત અને સશક્ત અનુભવાય તે માટે કામ કરીએ છીએ.</p>
+                <p>એબટ કાર્યસ્થળના સ્વસ્થ અને ઉત્પીડન-મુક્ત વાતાવરણને પ્રોત્સાહન આપે છે અને વિવિધતા તથા સમાવેશને મજબૂત બનાવવા માટે કર્મચારીઓના સૂચનોને મહત્ત્વ આપે છે.</p>
+                <p>અમે દરેક સાથે આદર અને ગૌરવપૂર્ણ વર્તન કરીએ છીએ, ન્યાયીપણા અને પ્રામાણિકતા દ્વારા વિશ્વાસ કેળવીએ છીએ - કોઈ પણ સંજોગોમાં ચાલાકી, ગેરમાર્ગે દોરનારી રજૂઆત કે અપારદર્શિતા દ્વારા નહીં.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>કાર્યસ્થળનું વાતાવરણ</p>
+                <p>અમે સલામતી અને ન્યાયી કાર્યકારી પરિસ્થિતિઓને પ્રાથમિકતા આપીએ છીએ.</p>
+                <p>અકસ્માતો અથવા અસુરક્ષિત પરિસ્થિતિઓની જાણ તાત્કાલિક મેનેજમેન્ટને કરવી આવશ્યક છે. એબટ વિશ્વભરમાં અમારી વ્યાવસાયિક પ્રવૃત્તિઓમાં ગેરકાયદેસર, અયોગ્ય શ્રમ પદ્ધતિઓ અને કોઈ પણ પ્રકારના ક્રૂર અથવા અમાનવીય વર્તનને અટકાવવા તથા પ્રતિબંધિત કરવા માટે પણ પગલાં લે છે.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">આગળ વધતા પહેલાં તમારે બધી સામગ્રી જોવી આવશ્યક છે.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>એબટ ખાતે, અમે સમુદાય, વાતાવરણ અને જોડાણ દ્વારા વિશ્વાસ કેળવીએ છીએ.</p>
+          </div>
+          <div>
+            <p>અમે જે સમુદાયોમાં કાર્ય કરીએ છીએ ત્યાં તેમને મદદ કરવાનો અને લોકોના જીવન પર સકારાત્મક, કાયમી અસર કરવાનો પ્રયાસ કરીએ છીએ.</p>
+            <p>એબટ ઊર્જાનો ઉપયોગ ઘટાડીને અને કુદરતી સંસાધનોનું સંરક્ષણ કરીને પર્યાવરણીય અસર ઘટાડવાનું કામ કરે છે.</p>
+            <p>અમે યોગ્ય રાજકીય જોડાણને પણ સમર્થન આપીએ છીએ અને અમારા વૈશ્વિક કાર્યોમાં સમુદાયની સહભાગિતાને પ્રોત્સાહિત કરીએ છીએ.</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>સમુદાયની સહભાગિતા</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>પર્યાવરણીય જવાબદારી</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>રાજકીય યોગદાન</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>વધુ જાણવા માટે દરેક આઇકન પર ક્લિક કરો.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>સમુદાયની સહભાગિતા</p>
+                <p>અમે સમુદાયની સુખાકારીને સમર્થન આપીએ છીએ.</p>
+                <p>એબટ ખાતે, અમે અમારા ઉત્પાદનો, અમારા કાર્ય અને અમારી ક્રિયા દ્વારા સમુદાયોની સુખાકારીને સમર્થન આપીએ છીએ અને અમે જ્યાં રહીએ છીએ તથા કામ કરીએ છીએ તે સ્થાનોને મદદ કરવાનો આપણો લાંબો ઇતિહાસ છે, કારણ કે આપણો દ્રઢ વિશ્વાસ છે કે સ્વસ્થ સમુદાયો જ પ્રગતિ કરે છે.</p>
+                <p>અમારી કામગીરી, સહભાગિતા અને સ્થાનિક જૂથો તથા ઉદ્દેશ્યો માટેના સમર્થન દ્વારા, અમે જ્યાં પણ વ્યવસાય કરીએ છીએ ત્યાં સકારાત્મક અને કાયમી અસર કરવાનો પ્રયાસ કરીએ છીએ.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>પર્યાવરણીય જવાબદારી</p>
+                <p>અમે ટકાઉ વિકાસમાં ભાગ લઈએ છીએ અને પર્યાવરણ પરની અમારી અસર ઘટાડવા માટે કામ કરીએ છીએ.</p>
+                <p>અમે જે કંઈ કરીએ છીએ તેમાં પર્યાવરણને સુરક્ષિત રાખવા માટે કામ કરીએ છીએ - અમે સામગ્રી કેવી રીતે મેળવીએ છીએ તેનાથી લઈને અમે અમારા ઉત્પાદનો કેવી રીતે બનાવીએ છીએ, મોકલીએ છીએ અને ઉપયોગમાં આવવા સુધીનો સમાવેશ થાય છે.</p>
+                <p>અમે ઊર્જા અને કુદરતી સંસાધનોનો ઓછો ઉપયોગ થાય તે માટે પગલાં લઈએ છીએ. અમે કાર્યસ્થળ અને અમારા સમુદાયોમાં સ્વચ્છ ઊર્જા પ્રોજેક્ટ્સને સમર્થન આપીએ છીએ. અમે કચરો ઘટાડવા, વધુ રિસાયકલ કરવા અને પર્યાવરણીય જોખમો ઘટાડવાની રીતો શોધીએ છીએ. અમે અમારા કાર્યોને લાગુ પડતા પર્યાવરણીય કાયદા અને નિયમોનું પણ પાલન કરીએ છીએ.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>રાજકીય યોગદાન</p>
+                <p>અમે રાજકીય પ્રક્રિયામાં યોગ્ય અને સક્રિય જોડાણને પ્રોત્સાહિત કરીએ છીએ અને સમુદાયની સહભાગિતાનું સમર્થન કરીએ છીએ.</p>
+                <p>એબટ એવી જાહેર નીતિઓને સમર્થન આપે છે જે અમારા મિશન અને મૂલ્યો સાથે સુસંગત હોય. જ્યારે યોગ્ય હોય, ત્યારે અમે રાજકીય ઉમેદવારો અથવા હિત જૂથોનું પણ સમર્થન કરી શકીએ છીએ.</p>
+                <p>કંપનીઓ દ્વારા રાજકીય યોગદાન અંગેના કાયદા જટિલ હોવાથી, એબટના ભંડોળના કોઈ પણ ઉપયોગની - અથવા એબટ વતી થતા કોઈ પણ યોગદાનની - પહેલા કાનૂની વિભાગ વડે સમીક્ષા થવી આવશ્યક છે.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">આગળ વધતા પહેલાં તમારે બધી સામગ્રી જોવી આવશ્યક છે.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>એબટ ખાતે, અમે અમારા કાર્યના તમામ ક્ષેત્રોમાં પ્રામાણિકપણે વ્યવસાય કરવા અને અમારા વચનો પાળવા માટે પ્રતિબદ્ધ છીએ.</p>
+          </div>
+          <div>
+            <p>જ્યારે પણ હિતોનો સંઘર્ષ થાય છે, ત્યારે અમે અમારા પોતાના હિતોના બદલે એબટના હિતોને પ્રાથમિકતા આપીએ છીએ. અમે એબટની સંપત્તિ અને પ્રતિષ્ઠાનું રક્ષણ કરીએ છીએ, ગોપનીય માહિતી સુરક્ષિત રાખીએ છીએ અને અમારી સાથે વ્યક્તિગત માહિતી શેર કરનારા દરેક વ્યક્તિની ગોપનીયતા જાળવીએ છીએ.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>વાજબી વ્યવહાર</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>હિતોના સંઘર્ષ ટાળવા I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>હિતોના સંઘર્ષ ટાળવા II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>એબટની સંપત્તિ અને પ્રતિષ્ઠાનું રક્ષણ</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>ગોપનીય માહિતી</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>વધુ જાણવા માટે દરેક આઇકન પર ક્લિક કરો.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>વાજબી વ્યવહાર</p>
+                <p>અમે નીતિમયતા સાથે વ્યવસાય કરીએ છીએ અને અમારા કાર્યના દરેક પાસામાં અમારી પ્રતિબદ્ધતાઓનું પાલન કરીએ છીએ.</p>
+                <p>અમે દરેક અમારા કાર્ય અને ભૂમિકાઓમાં જે નિર્ણયો લઈએ છીએ તેના માટે જવાબદાર છીએ. દરેક વ્યાવસાયિક ક્રિયાપ્રતિક્રિયામાં - પછી ભલે તે સહકાર્યકરો, ગ્રાહકો, સપ્લાયર્સ, આરોગ્યસંભાળ વ્યાવસાયિકો, સ્પર્ધકો અથવા અન્ય લોકો સાથે હોય - અમે એબટ કેવી રીતે વ્યવસાય કરે છે તે અંગે નિષ્પક્ષ અને પ્રમાણિક રહીએ તે આવશ્યક છે.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>હિતોના સંઘર્ષ ટાળવા I</p>
+                <p>અમે આગળ વધતા પહેલાં હિતોના સંઘર્ષોને ઓળખીએ છીએ અને તેનું નિરાકરણ લાવીએ છીએ.</p>
+                <p>હિતોનો સંઘર્ષ ત્યારે થાય છે જ્યારે એબટ માટે શ્રેષ્ઠ શું છે તેમાં વ્યક્તિગત હિતો દખલ કરે છે - અથવા દખલ કરતા દેખાય છે. વ્યાવસાયિક નિર્ણયો એબટની જરૂરિયાતો પર આધારિત હોવા જોઈએ, વ્યક્તિગત લાભ કે પરિવાર કે મિત્રોના હિત પર નહીં. અમારી પાસેથી અપેક્ષા રાખવામાં આવે છે કે અમે સારા નિર્ણયનો ઉપયોગ કરીએ અને એવી પરિસ્થિતિઓ ટાળીએ જે વાસ્તવિક અથવા કથિત સંઘર્ષ તરફ દોરી શકે. જો વ્યક્તિગત સંબંધો, હિતો અથવા બહારની પ્રવૃત્તિઓ તમારી ન્યાયી અને અસરકારક રીતે કાર્ય કરવાની ક્ષમતાને અસર કરતી હોય - અથવા તમને કે તમારા પરિવારના સભ્યને લાભ આપી શકે - તો તમારે સંભવિત સંઘર્ષનો ખુલાસો કરવો આવશ્યક છે અને એબટની માર્ગદર્શિકાને અનુસરીને આવી પરિસ્થિતિમાંથી પોતાને દૂર કરવા જોઈએ.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>હિતોના સંઘર્ષ ટાળવા II</p>
+                <p>કામ સંબંધિત નિર્ણયો લેતી વખતે અમે એબટના હિતોને પ્રાથમિકતા આપીએ છીએ.</p>
+                <p>તેનો અર્થ એ છે કે કંપનીનાં લક્ષ્યોને ચોક્કસ ટીમ, ગ્રૂપ અથવા વ્યક્તિનાં લક્ષ્યો પહેલા પ્રાથમિકતા આપવી. એબટ ખાતે અમારી ભૂમિકાઓ દ્વારા આપણને મળતી કોઈ પણ તક અથવા સંસાધનોનો ઉપયોગ કંપનીના લાભ માટે થવો જોઈએ - વ્યક્તિગત લાભ માટે નહીં. અમે એબટ સાથે સ્પર્ધા કરવી જોઈએ નહીં કે બીજાઓને તેમ કરવામાં મદદ કરવી જોઈએ નહીં. જ્યારે પણ તક આવે ત્યારે અમારું ધ્યાન એબટના હિતોને આગળ વધારવા પર હોવું જોઈએ.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>એબટની સંપત્તિ અને પ્રતિષ્ઠાનું રક્ષણ</p>
+                <p>અમે અમારી કંપનીના સંભાળ રાખનારા છીએ.</p>
+                <p>એબટની સંપત્તિનું રક્ષણ કરવાની અને તેનો સમજદારીપૂર્વક ઉપયોગ કરવાની જવાબદારી અમારા દરેકની છે. આમાં વાહનો અને કમ્પ્યુટર્સ જેવી ભૌતિક વસ્તુઓથી લઈને બૌદ્ધિક સંપદા, વેપારનાં રહસ્યો અને વિશિષ્ટ જ્ઞાન જેવી મૂલ્યવાન માહિતી સામેલ છે.</p>
+                <p>અમે હંમેશાં શ્રેષ્ઠ નિર્ણયશક્તિનો ઉપયોગ કરીને આ સંસાધનોનો યોગ્ય રીતે, કાર્યક્ષમ રીતે અને કાળજીપૂર્વક ઉપયોગ થતો હોવાની ખાતરી કરવી જોઈએ જેથી તેનું નુકસાન, ચોરી, દુરુપયોગ અથવા બગાડ ટાળી શકાય.</p>
+                <p>એબટની પ્રતિષ્ઠા અમારી સૌથી મૂલ્યવાન સંપત્તિઓમાંની એક છે - અને અમે દરેક તેને સુરક્ષિત રાખવામાં ભૂમિકા ભજવીએ છીએ.</p>
+                <p>અમારામાંના દરેક અમે એબટનું પ્રતિનિધિત્વ કેવી રીતે કરીએ છીએ તેની જવાબદારી લે છે, ખાસ કરીને જાહેર સ્થળોએ અને ઑનલાઇન, જ્યાં અમે જે કંઈ પણ શેર કરીએ છીએ - ભલે તે વાતચીતમાં હોય, ઇમેઇલમાં હોય કે સોશિયલ મીડિયામાં હોય - તે કંપની પર અસર કરી શકે છે. વિચારપૂર્વક વાતચીત કરવી, સારા નિર્ણયનો ઉપયોગ કરવો અને એબટની ગોપનીય માહિતીનું રક્ષણ કરવું મહત્ત્વપૂર્ણ છે.</p>
+                <p>જ્યારે અમે બહારના લોકો સાથે વાત કરીએ છીએ, ત્યારે અમે એ વિચારવું જોઈએ કે શું આપણને એબટના પ્રતિનિધિ ગણી શકાય અને અમારા શબ્દો કે કાર્યો તેની પ્રતિષ્ઠાને કેવી રીતે અસર કરી શકે છે. આ બાબત ખાસ કરીને સોશિયલ મીડિયા પર અગત્યની છે, જ્યાં પોસ્ટ્સ અત્યંત ઝડપથી અને મોટા પાયે ફેલાઈ શકે છે - એક બેદરકાર ટિપ્પણી અથવા પોસ્ટ ખરેખર નુકસાન પહોંચાડી શકે છે.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ગોપનીય માહિતી</p>
+                <p>અમે વ્યક્તિગત ડેટા સહિત તમામ ગોપનીય માહિતીનું સન્માન અને રક્ષણ કરવા માટે પ્રતિબદ્ધ છીએ.</p>
+                <p>ગોપનીય માહિતી એબટની સૌથી મૂલ્યવાન સંપત્તિઓમાંની એક છે. તેમાં સંશોધન, વેપારનાં રહસ્યો, વ્યવસાય યોજનાઓ, કિંમત, કરારો, નાણાકીય પરિણામો અને અન્ય જાહેર ન કરી શકાય તેવી માહિતી સામેલ છે જે જાહેર કરવામાં આવે તો સ્પર્ધકોને લાભ થઈ શકે છે અથવા એબટને નુકસાન થઈ શકે છે.</p>
+                <p>અમે ગોપનીય માહિતીનું રક્ષણ કરવું આવશ્યક છે અને અનધિકૃત ઉપયોગ અથવા શેરિંગ અટકાવવું જોઈએ - એબટ સાથેનો અમારો સમય સમાપ્ત થયા પછી પણ.</p>
+                <p>એબટ ખાતે અમે અન્ય લોકોની બૌદ્ધિક સંપદાનો પણ આદર કરીએ છીએ અને તેમની ગોપનીય માહિતીનો અયોગ્ય ઉપયોગ ટાળીએ છીએ. જાહેર ન કરી શકાય તેવી માહિતીનો દુરુપયોગ કરવો, જેમ કે આંતરિક વેપાર માટે, ગેરકાયદેસર અને અનૈતિક છે.</p>
+                <p>અમે સહકર્મીઓ, આરોગ્યસંભાળ વ્યાવસાયિકો અને ગ્રાહકો દ્વારા આપણને વિશ્વાસ સાથે આપવામાં આવેલા વ્યક્તિગત ડેટાનું પણ રક્ષણ કરીએ છીએ. જ્યારે અમે વ્યક્તિગત માહિતી એકત્ર કરીએ છીએ અને તેનો ઉપયોગ કરીએ છીએ, ત્યારે અમે તે જવાબદારીપૂર્વક, યોગ્ય સંમતિથી કરીએ છીએ અને ક્યારેય તેને અનધિકૃત સ્રોતોને વેચતા નથી કે તેમની પાસેથી મેળવતા નથી. ઘણા સ્થળોએ કડક ગોપનીયતા કાયદા હોય છે અને અમે તેમને સમજવા અને તેનું પાલન કરવા માટે પ્રતિબદ્ધ છીએ, ખાસ કરીને વ્યક્તિગત માહિતીની સૌથી સંવેદનશીલ કૅટેગરી માટે.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">આગળ વધતા પહેલાં તમારે બધી સામગ્રી જોવી આવશ્યક છે.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>એબટ ખાતે, અમે અમારા કાર્યના તમામ ક્ષેત્રોમાં પ્રામાણિકપણે વ્યવસાય કરવા અને અમારા વચનો પાળવા માટે પ્રતિબદ્ધ છીએ.</p>
+          </div>
+          <div>
+            <p>જ્યારે પણ હિતોનો સંઘર્ષ થાય છે, ત્યારે અમે અમારા પોતાના હિતોના બદલે એબટના હિતોને પ્રાથમિકતા આપીએ છીએ. અમે એબટની સંપત્તિ અને પ્રતિષ્ઠાનું રક્ષણ કરીએ છીએ, ગોપનીય માહિતી સુરક્ષિત રાખીએ છીએ અને અમારી સાથે વ્યક્તિગત માહિતી શેર કરનારા દરેક વ્યક્તિની ગોપનીયતા જાળવીએ છીએ.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>લાંચ-વિરોધી</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>ભેટ, ભોજન અને મનોરંજન</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>સચોટ પુસ્તકો અને રેકોર્ડ્સ</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>કાયદાનું પાલન</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>વાજબી સ્પર્ધા</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>વધુ જાણવા માટે દરેક આઇકન પર ક્લિક કરો.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>લાંચ-વિરોધી</p>
+                <p>અમે છેતરપિંડી, લાંચ અને ભ્રષ્ટાચારનો સક્રિયપણે વિરોધ કરીએ છીએ. અમે યોગ્ય રીતે વ્યવસાય કરીએ છીએ.</p>
+                <p>વ્યક્તિગત તરીકે, અમે અપેક્ષા રાખીએ છીએ કે આરોગ્યસંભાળ વ્યાવસાયિકો દર્દીઓ માટે શું શ્રેષ્ઠ છે તેના આધારે નિર્ણયો લેશે - કંપનીઓના પ્રોત્સાહનોથી પ્રભાવિત થઈને નહીં. તેવી જ રીતે, અમે સરકારી અધિકારીઓ પાસેથી કોર્પોરેટ દબાણથી મુક્ત રહીને લોકોના હિતમાં કાર્ય કરવાની અપેક્ષા રાખીએ છીએ.</p>
+                <p>એબટ ખાતે, અમે આરોગ્યસંભાળ વ્યાવસાયિકોને અમારા ઉત્પાદનો વિશે માહિતી પૂરી પાડીએ છીએ પરંતુ તેમના સ્વતંત્ર નિર્ણયમાં દખલ કરતા નથી. વ્યવસાય કરવા અથવા ભૂતકાળના સંબંધોને પુરસ્કૃત કરવા માટે આરોગ્યસંભાળ પ્રદાતાઓને (જેમ કે ચિકિત્સક, ફાર્માસિસ્ટ, નર્સ, સંશોધક અથવા લેબોરેટરી સ્ટાફ), સરકારી અધિકારીઓને અથવા અન્ય લોકોને કોઈ પણ સંજોગોમાં કંઈ પણ મૂલ્યવાન ઑફર કરવાની મંજૂરી નથી.</p>
+                <p>અમે વૈશ્વિક સ્તરે લાંચ વિરોધી, ભ્રષ્ટાચાર વિરોધી અને ગેરકાયદેસર કમિશન વિરોધી કાયદાનું પાલન કરીએ છીએ, જેમાં U.S. ફોરેન કરપ્ટ પ્રેક્ટિસ એક્ટનો પણ સમાવેશ થાય છે. એબટ ખાતે દરેક વ્યક્તિએ યોગ્ય ખંત રાખીને, વાજબી બજાર મૂલ્ય ચૂકવીને અને કાયદા અને કંપનીના ધોરણોનું પાલન સુનિશ્ચિત કરવા માટે ચુકવણીનું યોગ્ય રીતે દસ્તાવેજીકરણ કરીને સેવા પ્રદાતાઓ - જેમ કે વિતરકો, સલાહકારો અને વક્તાઓ - સાથેના સંબંધોનું કાળજીપૂર્વક સંચાલન કરવું જોઈએ.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ભેટ, ભોજન અને મનોરંજન</p>
+                <p>અમે વ્યવસાયિક લાભ મેળવવા માટે લાંચ વિરોધી સિદ્ધાંતો અનુસાર, પ્રત્યક્ષ કે પરોક્ષ રીતે કંઈ પણ મૂલ્યવાન ઑફર કરતા નથી કે પ્રદાન કરતા નથી.</p>
+                <p>વ્યાવસાયિક નિર્ણયોમાં અયોગ્ય પ્રભાવ અટકાવવા માટે, અમે ભેટ, ભોજન અને મનોરંજનની મર્યાદાઓ નક્કી કરીએ છીએ. એબટની નીતિઓ એ સુનિશ્ચિત કરવામાં મદદ કરે છે કે બ્રાન્ડ રિમાઇન્ડર્સ, સાંસ્કૃતિક શિષ્ટાચાર, આતિથ્ય સત્કાર અને અન્ય લાભો ક્યારેય વ્યાવસાયિક નિર્ણયોને અસર ન કરે.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>સચોટ પુસ્તકો અને રેકોર્ડ્સ</p>
+                <p>અમે સિદ્ધિઓને સચોટ રીતે માપીએ છીએ.</p>
+                <p>એબટના રેકોર્ડ અને જાહેર નિવેદનોમાં અમારા કાર્યનું સચોટ વર્ણન હોવું જોઈએ, જેમાં અમારા કાર્યનું સાચું સ્વરૂપ દર્શાવવા માટે પૂરતા સંદર્ભ હોવા જોઈએ. નાણાકીય રેકોર્ડ્સ એકાઉન્ટિંગ ધોરણો, કાયદા અને એબટની આંતરિક નીતિઓનું પાલન કરે તે આવશ્યક છે.</p>
+                <p>કિંમત, ચુકવણીઓ અથવા મૂલ્યવાન વસ્તુઓની જાણ કરતી વખતે - ખાસ કરીને આરોગ્યસંભાળ વ્યાવસાયિકોને - અમારે ખાતરી કરવી જોઈએ કે માહિતી સંપૂર્ણ અને સચોટ છે. ઘણી સરકારોને જાહેર ભંડોળના રક્ષણ માટે આ પારદર્શિતાની જરૂર પડે છે. એબટ વિશ્વસનીય ડેટા પૂરો પાડવા માટે પ્રતિબદ્ધ છે જેથી સરકારો, વીમા કંપનીઓ અને અન્ય હિસ્સેદારો જાણકાર નિર્ણયો લઈ શકે.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>કાયદાનું પાલન</p>
+                <p>અમે અમારા કાર્યને લાગુ પડતા બધા કાયદા, નિયમનો અને એબટની જરૂરિયાતોનું પાલન કરીએ છીએ.</p>
+                <p>એબટના દરેક કર્મચારી પાસેથી બધા લાગુ કાયદા, તેમજ એબટની નીતિઓ, પ્રક્રિયાઓ અને સંહિતાનું પાલન કરવાની અપેક્ષા રાખવામાં આવે છે. આ રોજગારની મૂળભૂત શરત છે. એબટની નીતિઓ આરોગ્યસંભાળનું પાલન, ગુણવત્તા, નાણાકીય બાબતો, વેપાર, સુરક્ષા અને તેના જેવા અન્ય મુખ્ય ક્ષેત્રોને આવરી લે છે, જે આપણને કાનૂની જરૂરિયાતો પૂરી કરવામાં અને પાલન ન થતું અટકાવવામાં મદદ કરે છે.</p>
+                <p>એક વૈશ્વિક કંપની તરીકે, અમારે એ પણ જાણવું જોઈએ કે એક દેશના કાયદા બીજા દેશમાં કરવામાં આવતા કામ પર પણ લાગુ પડી શકે છે. જ્યારે શંકા હોય, ત્યારે કાનૂની વિભાગ અથવા નૈતિકતા અને પાલન કાર્યાલય પાસેથી માર્ગદર્શન મેળવો.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>વાજબી સ્પર્ધા</p>
+                <p>અમે ખાતરી કરીએ છીએ કે સ્પર્ધકો સાથે અમારી કોઈ પણ ક્રિયાપ્રતિક્રિયા યોગ્ય હોય.</p>
+                <p>એબટ ખાતે અમે જ્યાં પણ કાર્ય કરીએ છીએ ત્યાં સ્પર્ધાના કાયદાનું પાલન કરવા માટે પ્રતિબદ્ધ છીએ. આ કાયદા એવા કરારો અથવા ક્રિયાઓને પ્રતિબંધિત કરે છે જે ખાસ કરીને કિંમત નિર્ધારણ, વેચાણની શરતો અને સ્પર્ધકો સાથેની ક્રિયાપ્રતિક્રિયાઓમાં વાજબી બજાર પદ્ધતિઓને પ્રોત્સાહન આપતી નથી.</p>
+                <p>સ્પર્ધકો સાથે સંવેદનશીલ વિષયો - જેમ કે કિંમત, ખર્ચ અથવા વ્યવસાય યોજનાઓની ચર્ચા કરવાનું ટાળો અને જો તમને કોઈ પ્રશ્ન હોય કે કંઈ પણ અયોગ્ય લાગે તો કાનૂની અથવા નૈતિકતા અને પાલન કાર્યાલયનો સંપર્ક કરો. સ્પર્ધાના કાયદા જટિલ હોવાથી અને ઉલ્લંઘનો ગંભીર દંડમાં પરિણમી શકતા હોવાથી, અમે પાલન સુનિશ્ચિત કરવા અને સ્પર્ધા વિરોધી પ્રવૃત્તિ ટાળવા માટે તૃતીય પક્ષો સાથેના અમારા સંબંધોનું કાળજીપૂર્વક સંચાલન કરવું આવશ્યક છે.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>આ કૉર્સ છોડતા પહેલાં, ખાતરી કરો કે તમે એબટની વ્યવસાયની આચારસંહિતા સંબંધિત તમારી જવાબદારીઓ સમજો છો.</p>
+          <p>હું ખાતરી કરું છું કે હું એબટની વ્યવસાયની આચારસંહિતા સંબંધિત મારી જવાબદારીઓ સમજું છું અને લાગુ પડતી નીતિઓ અને પ્રક્રિયાઓ ક્યાં શોધવી અને તેની સમીક્ષા ક્યાં કરવી તે જાણું છું.</p>
+          <button class="qcSubmitBtn">ખાતરી કરો</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>આગળની જ્ઞાનની તપાસમાં 10 પ્રશ્નો છે. આ કૉર્સ સફળતાપૂર્વક પૂર્ણ કરવા માટે તમારે 80% કે તેથી વધુ ગુણ મેળવવા આવશ્યક છે.</p>
+        <p>જ્યારે તમે તૈયાર હો, ત્યારે જ્ઞાનની તપાસ બટન પર ક્લિક કરો.</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>વ્યવસાયની આચારસંહિતા શા માટે મહત્ત્વપૂર્ણ છે?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>તે અમારા કાર્યમાં આવી શકે તેવી દરેક પરિસ્થિતિ માટે ચોક્કસ સલાહ પૂરી પાડે છે.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>જ્યારે કઈ કાર્યવાહી કરવી તે તાત્કાલિક સ્પષ્ટ ન હોય, ત્યારે જેના આધારે નિર્ણયો લેવા જોઈએ તેવા સ્પષ્ટ સિદ્ધાંતો અને મૂલ્યો પૂરા પાડે છે.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">આગળ વધો</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>વ્યવસાયની આચારસંહિતા આપણને સ્પષ્ટ સિદ્ધાંતો અને મૂલ્યો પ્રદાન કરે છે, જ્યારે કઈ કાર્યવાહી કરવી તે તાત્કાલિક સ્પષ્ટ ન હોય ત્યારે આ સિદ્ધાંતો અને મૂલ્યોના આધારે નિર્ણયો લઈ શકાય છે.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>નીચેનામાંથી કઈ લેવડદેવડ <span class="underline">ક્યારેય</span> યોગ્ય વ્યવસાયિક લેવડદેવડ કહી શકાય નહીં?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>કોઈ ચોક્કસ રોગ વિશે વાત કરવા માટે HCPને તેમની કુશળતા અને વિશેષજ્ઞતાને કારણે નિયુક્ત કરવા.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>એબટ દ્વારા સ્પોન્સર કરવામાં આવતા શૈક્ષણિક કાર્યક્રમના ઉપસ્થિતોને વાજબી ભોજન પૂરું પાડવું.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>સ્થાનિક સંસ્થા માટે સખાવતી યોગદાનનું આયોજન કરવું.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>એબટ ઉત્પાદનોનો ઉપયોગ કરવા બદલ HCPનો આભાર માનવા માટે શૈક્ષણિક કાર્યક્રમનું આયોજન કરવા માટે HCPને નિયુક્ત કરવા.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">આગળ વધો</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>શૈક્ષણિક કાર્યક્રમનું આયોજન કરવા માટે HCPને તેમની કુશળતા અને વિશેષજ્ઞતાને કારણે નિયુક્ત કરવાની પરવાનગી છે, જોકે, એબટ ઉત્પાદનોનો ઉપયોગ કરવા બદલ આભાર માનવા માટે HCPને નિયુક્ત કરવા અયોગ્ય છે કારણ કે આ વર્તનને લાંચ તરીકે જોવામાં આવી શકે છે.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>લાંચ અને ભ્રષ્ટાચારમાં સામેલ વ્યક્તિઓ માટેના પરિણામોમાં સામેલ હોઈ શકે છે:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>પ્રતિષ્ઠાને નુકસાન.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>દંડ અને સજા.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>નોકરીમાંથી કાઢી મૂકવાની સજા.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>જેલની સજા.</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>ઉપરોક્ત તમામ.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">આગળ વધો</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>લાંચ અને ભ્રષ્ટાચારમાં સંડોવાયેલા વ્યક્તિઓ માટેનાં પરિણામોમાં પ્રતિષ્ઠાને નુકસાન, દંડ અને સજા, નોકરીમાંથી કાઢી મૂકવાની સજા અને જેલની સજાનો પણ સમાવેશ થઈ શકે છે.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>એક વેચાણ પ્રતિનિધિને એક નાની દાગીનાની દુકાન પણ છે. તેણી નક્કી કરે છે કે તેણીની દુકાનમાંથી HCPss ને નાની ભેટો આપવી સારી રહેશે જેઓએ તાજેતરમાં એબટ ઉત્પાદન સૂચવ્યું નથી. શું આ યોગ્ય છે?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>હા</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>ના</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">આગળ વધો</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>એબટની નીતિ HCPsને ભેટ આપવા પર પ્રતિબંધ મૂકે છે કારણ કે વેચાણ પ્રતિનિધિ એબટના પ્રતિનિધિ તરીકે કાર્ય કરે છે. ભેટ માટે તેણી પૈસા ચૂકવી રહી હોવા છતાં ભેટ પર પ્રતિબંધ છે. ભેટ આપવી એ ભવિષ્યના વ્યવસાય માટે લાંચ તરીકે પણ જોવામાં આવી શકે છે.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>સેલ્સ મેનેજરને સ્પર્ધાત્મક કંપની તરફથી ફોન આવે છે. સ્પર્ધકનું કહેવું છે કે નવા બજારમાં એબટ દ્વારા કરાર પર રાખવામાં આવેલી તૃતીય-પક્ષ વેચાણ ટીમ કથિત રીતે જો ગ્રાહકો એબટના સ્પર્ધકોને બદલે એબટનાં ઉત્પાદનો પસંદ કરે તો તેમને આલિશાન ભોજન ઑફર કરી રહી છે. યોગ્ય કાર્યવાહી શું છે?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>કંઈ પણ કરશો નહીં, કારણ કે માહિતી સ્પર્ધક તરફથી આવી છે.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>કંઈ પણ કરશો નહીં, કારણ કે તે બજારમાં આલિશાન ભોજન ઑફર કરવું સામાન્ય છે.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>આ બાબતની તાત્કાલિક નૈતિકતા અને પાલન કાર્યાલય (OEC)ને જાણ કરો.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>જો દાવો સાચો હોય તો વૈકલ્પિક વિતરકોને શોધવાનો પ્રયાસ કરો.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">આગળ વધો</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>તમારે તાત્કાલિક આ આરોપની જાણ નૈતિકતા અને પાલન કાર્યાલય (OEC)ને કરવી જોઈએ જેથી તેની યોગ્ય રીતે તપાસ કરી શકાય, ભલે માહિતી કોઈ સ્પર્ધક તરફથી આવી હોય.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>એક ટ્રાવેલ એજન્સી એબટ માટે પ્રોક્ટરિંગ સેવાઓ પૂરી પાડતા આરોગ્યસંભાળ વ્યાવસાયિકો (HCPs) માટે પ્રવાસની વ્યવસ્થા કરી રહી છે. સબમિટ કરેલી રસીદોની સમીક્ષા કરવા પર, વિસંગતતાઓ જોવા મળે છે - કુલ રકમ ભરપાઈ કરવાની રકમ સાથે મેળ ખાતી નથી અને કેટલીક રસીદોમાં પ્રવાસની તારીખો જેવી મુખ્ય વિગતો ખૂટે છે.</p>
+              <p>યોગ્ય કાર્યવાહી શું છે?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>ટ્રાવેલ એજન્સીને જણાવો કે એબટ સંપૂર્ણ અને સચોટ માહિતી વિના ચુકવણીની પ્રક્રિયા કરી શકશે નહીં.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>રસીદો પર આગળ પ્રક્રિયા કરો કારણ કે ફક્ત કેટલીક માહિતી જ ખૂટે છે.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>એજન્સીને આગલી વખતે વધુ સચોટ રહેવાની સલાહ આપો.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>એજન્સી નવી હોવાથી કંઈ પણ કરશો નહીં.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">આગળ વધો</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>એબટના પુસ્તકો અને રેકોર્ડ્સમાં બધી લેવડદેવડો સંપૂર્ણપણે અને સચોટ રીતે પ્રતિબિંબિત થવી જોઈએ. તેથી, એ ખૂબ જ મહત્ત્વપૂર્ણ છે કે એબટ માટે સેવાઓ આપતા તૃતીય પક્ષો સંપૂર્ણ માહિતી પૂરી પાડે જે લેવડદેવડોના વાસ્તવિક હેતુ અને વિગતોને સચોટ રીતે પ્રતિબિંબિત કરે.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>તમે એવી સંલગ્ન સંસ્થામાં કામ કરી રહ્યા છો જ્યાં શૈક્ષણિક કોન્ફરન્સમાં હાજરી આપવા માટે HCPsને સ્પોન્સર કરવાની મંજૂરી છે. તમે કોન્ફરન્સમાં હાજરી આપવા માટે HCPs પસંદ કરવાની પ્રક્રિયામાં છો. પસંદગી માટે તમે જે માપદંડોનો ઉપયોગ કરો છો તેમાં સામેલ છે: (1) કોન્ફરન્સનો વિષય HCPની કુશળતા સાથે મેળ ખાય છે કે નહીં; (2) શું એબટે ગયા વર્ષે HCPને સ્પોન્સર કર્યા છે અને (3) શું HCP ઇવેન્ટમાં હાજરી આપ્યા પછી એબટનાં ઉત્પાદનોની ભલામણ કરે છે અથવા એબટનાં ઉપકરણોનો ઉપયોગ કરે છે. શું આ માપદંડો યોગ્ય છે?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>હા. વ્યક્તિઓને સ્પોન્સર કરતી વખતે હંમેશાં આ બે મુખ્ય માપદંડો પૂરા થવા જોઈએ: a) સ્પોન્સરશિપ HCPની કુશળતા સાથે સંબંધિત છે અને b) તેનો ઉપયોગ વ્યવસાય માટે પુરસ્કાર અથવા પ્રેરણા તરીકે થતો નથી. એ હકીકત છે કે તમે ખાતરી કરવા માટે તપાસ કરી રહ્યા છો કે એબોટે ગયા વર્ષમાં HCP ને સ્પોન્સર કર્યું છે કે નહીં જે પછીથી ખાતરી કરવામાં મદદ કરે છે.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>હા. જ્યાં સુધી HCPને સ્પોન્સર કરવાનું કારણ વ્યક્તિગતને પ્રભાવિત કરવાનું કે પુરસ્કાર આપવાનું ન હોય, ત્યાં સુધી તમે તમારા રોકાણ પરના વળતરનો વિચાર કરી શકો છો - પછી ભલે તે વ્યક્તિ એબટનાં ઉત્પાદનોની ભલામણ કરવાનું ચાલુ રાખશે કે નહીં.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>ના. સ્પોન્સરશિપ સંબંધિત નિર્ણયો એ બાબત પર આધારિત ન હોઈ શકે કે HCP સ્પોન્સર કરેલા કાર્યક્રમમાં હાજરી આપ્યા પછી એબટનાં ઉત્પાદનોની ભલામણ કરે અથવા એબટનાં ઉપકરણોનો ઉપયોગ કરે તેવી સંભાવના છે.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>હા. જ્યાં સુધી ઓછામાં ઓછો એક માપદંડ યોગ્ય હોય ત્યાં સુધી વધારાના અયોગ્ય માપદંડોની હાજરી સંબંધિત નથી.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">આગળ વધો</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>સ્પોન્સરશિપના નિર્ણયો ક્યારેય ઉત્પાદનોના અગાઉના ઉપયોગ માટે પુરસ્કાર આપવા બદલ અથવા ભવિષ્યમાં અમારા ઉત્પાદનો અથવા ઉપકરણોનો વધુ ઉપયોગ કરવા માટે પ્રેરિત કરવાના આધારે લઈ શકાતા નથી. ધ્યાનમાં રાખો, ઘણા અધિકારક્ષેત્રોમાં સ્પોન્સરશિપ પ્રતિબંધિત છે. સ્પોન્સરશિપ આપતા પહેલાં હંમેશાં તમારી સંલગ્ન પ્રક્રિયાઓનો સંદર્ભ લો.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>એબટના વેચાણ પ્રતિનિધિ આરોગ્યસંભાળ વ્યાવસાયિક (HCP)ને ઉત્પાદન વિશે માહિતી આપે છે. ચર્ચા પછી, HCP એ જણાવ્યું કે એક સ્પર્ધકે તેમનું વેચાણ વધારવાના બદલામાં એક નવું iPad ઑફર કર્યું.</p>
+              <p>યોગ્ય કાર્યવાહી શું છે?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>સ્પર્ધાત્મક રહેવા માટે સમાન વસ્તુ ઑફર કરો.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>iPadની ઑફરને નકારો પણ વાતચીત ચાલુ રાખવા માટે આલિશાન રાત્રિભોજન સૂચવો.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>સમજાવો કે એબટ યોગ્ય રીતે વ્યવસાય કરે છે અને એવું કંઈ પણ મૂલ્યવાન ઑફર ન કરી શકે જે નિર્ણય લેવાની પ્રક્રિયાને અયોગ્ય રીતે પ્રભાવિત કરે. પછી, પરિસ્થિતિની જાણ તાત્કાલિક નૈતિકતા અને પાલન કાર્યાલય (OEC)ને કરો.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>માહિતી માટે HCPનો આભાર માનો અને વચન આપો કે તમે તેના વિશે વિચારશો.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">આગળ વધો</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>અયોગ્ય વ્યાવસાયિક લાભ મેળવવા અથવા વ્યવસાય કરવા અથવા જાળવી રાખવા માટે તમારે ક્યારેય કંઈ પણ મૂલ્યવાન ઑફર કરવું જોઈએ નહીં, વચન આપવું જોઈએ નહીં, આપવું જોઈએ નહીં અથવા મેળવવું જોઈએ નહીં. સ્પર્ધકો ગમે તે કરે, તમારે લાગુ કાયદા અને એબટની નીતિનું પાલન કરવું આવશ્યક છે, જેમાં એબટની વૈશ્વિક ભ્રષ્ટાચાર વિરોધી નીતિ (GLB-ભ્રષ્ટાચાર-વિરોધી)માંની આવશ્યકતાઓ પણ સામેલ છે. જ્યારે શંકા હોય, ત્યારે હંમેશાં કાનૂની અધિકારી અથવા OECનો સંપર્ક કરો.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>નીચેનામાંથી કયા ઉદાહરણો એવી મૂલ્યવાન વસ્તુઓ છે જે વ્યવસાયમાં જીત મેળવવા માટે ન આપવી જોઈએ?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>સ્પા, કેસિનો અથવા મનોરંજન માટે જાણીતા અન્ય સ્થળોની મુલાકાત લેવા માટે આરોગ્ય સંભાળ આપનારાઓ અને તેમના પરિવારોની ટ્રિપ્સ.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>ભવિષ્યના સંશોધન અથવા શૈક્ષણિક પ્રોજેક્ટ્સ માટે અનુદાન.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>સરકારી અધિકારીઓની મનપસંદ સખાવતી સંસ્થાઓને દાન.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>ઉપરોક્ત તમામ.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">આગળ વધો</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>વૈશ્વિક ભ્રષ્ટાચાર વિરોધી નીતિ (GLB-ભ્રષ્ટાચાર-વિરોધી)માં જોવા મળતા લાંચ અને ભ્રષ્ટાચાર અંગેના એબટના ધોરણો, પ્રામાણિકતા, ન્યાયીપણા અને નીતિમયતા સાથે વ્યવસાય કરવાની અમારી પ્રતિબદ્ધતા સાથે સુસંગત છે. આનો અર્થ એ છે કે વ્યવસાય કરવા માટે મૂલ્યવાન વસ્તુઓ ઑફર કરવાની કે આપવાની મંજૂરી ક્યારેય પણ નથી.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>HCP કે જે અભિપ્રાય આપવા માટે લીડર છે તેઓ પૂછે છે કે શું તમે એબટ માટે વધારાની વ્યાવસાયિક તકોના બદલામાં તેમણે હાજરી આપવી છે તેવા શૈક્ષણિક કાર્યક્રમ માટે કોઈ સમર્થનની વ્યવસ્થા કરી શકે છે. કયો વિકલ્પ સૌથી વધુ યોગ્ય છે?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>નિશ્ચિતપણે વિનંતીને એ આધારે નકારો કે તે એબટની ભ્રષ્ટાચાર વિરોધી નીતિનું ઉલ્લંઘન કરે છે.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>HCPને કહો કે તમે તમારા મેનેજરને પૂછશો.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>વિનંતી સાથે સંમત થાઓ, કારણ કે HCP અભિપ્રાય આપવા માટે લીડર છે જેમના નિર્ણયો ઘણા પ્રભાવિત કરે છે.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>ઉપરોક્તમાંથી એક પણ નહીં.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">સબમિટ કરો</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>અમે વ્યવસાયિક લાભ મેળવવા માટે લાંચ વિરોધી સિદ્ધાંતો અનુસાર, પ્રત્યક્ષ કે પરોક્ષ રીતે કંઈ પણ મૂલ્યવાન ઑફર કરતા નથી કે પ્રદાન કરતા નથી.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>તમે જ્ઞાનની તપાસ પૂર્ણ કરી ન હોવાથી કોઈ પરિણામ ઉપલબ્ધ નથી.</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>અભિનંદન! તમે સફળતાપૂર્વક જ્ઞાનની તપાસ પાસ કરી છે.</p>
+          <p>કૃપા કરીને નીચે આપેલા દરેક પ્રશ્ન પર ક્લિક કરીને તમારાં પરિણામોની સમીક્ષા કરો.</p>
+          <p>એક વાર તમે પૂર્ણ કરી લો, પછી ટૂંકો સર્વે લેવા માટે આગળના ઍરો પર ક્લિક કરો.</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>માફ કરશો, તમે જ્ઞાનની તપાસ પાસ કરી નથી. દરેક પ્રશ્ન પર ક્લિક કરીને નીચે આપેલા તમારાં પરિણામોની સમીક્ષા કરવા માટે થોડી મિનિટો ફાળવો.</p>
+          <p>જ્યારે તમે પૂર્ણ કરી લો, ત્યારે ફરીથી જ્ઞાનની તપાસ કરો બટન પર ક્લિક કરો.</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>${C_199.1}</p>
+          <p>${C_199.2}</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.3}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.4}</p>
+                  <p>${C_199.5}</p>
+                  <p>${C_199.6}</p>
+                  <p>${C_199.7}</p>
+                  <p>${C_199.8}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.9}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>આ સત્રના પરિણામે, મને એબટની વ્યવસાયની આચારસંહિતા વિશે વધુ સારી સમજ મળી છે.</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>સંપૂર્ણપણે અસંમત</p>
+                  <p>અસંમત</p>
+                  <p>તટસ્થ</p>
+                  <p>સંમત</p>
+                  <p>સંપૂર્ણપણે સંમત</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.16}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.17}</p>
+                  <p>${C_199.18}</p>
+                  <p>${C_199.19}</p>
+                  <p>${C_199.20}</p>
+                  <p>${C_199.21}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.22}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">${C_199.23}</p>
+          <button class="surveySubmit">
+            <p>${C_199.24}</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">સમર્થન માટે ક્યાં જવું</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>મેનેજર</p>
+        <p>જો તમને એબટની બહારના લોકો સાથેની તમારી ક્રિયાપ્રતિક્રિયાઓ વિશે પ્રશ્નો હોય, તો સૌપ્રથમ તમારા મેનેજર સાથે વાત કરવી શ્રેષ્ઠ વિકલ્પ છે</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>લેખિત ધોરણો</p>
+        <ul>
+          <li>અન્ય લોકો સાથેની ક્રિયાપ્રતિક્રિયાઓ વિશે અમારી કંપનીની મૂળભૂત અપેક્ષાઓ માટે, <a href="http:/rusnakassociates.com/content/AbbottCOBCCourse/courses/EN-US/course/index.html" target="_blank">વ્યવસાયની આચારસંહિતા</a>નો સંદર્ભ લો.</li>
+          <li>કંપનીભરમાં લાગુ પડતી અમારી કોર્પોરેટ નીતિઓ અને પ્રક્રિયાઓ વિશે જાણવા માટે, <a href="http:/rusnakassociates.com/content/AbbottCOBCCourse/courses/EN-US/course/index.html" target="_blank">વૈશ્વિક નીતિ પોર્ટલ</a>ની મુલાકાત લો.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>નૈતિકતા અને પાલન કાર્યાલય (OEC)</p>
+        <p>OEC એ એક વૈશ્વિક સંસાધન છે જે અમારી કંપનીના મૂલ્યો અને આચારસંહિતાના ધોરણો વિશે તમારા પ્રશ્નોના જવાબ આપવા અથવા ચિંતાઓનું સમાધાન કરવા માટે ઉપલબ્ધ છે.</p>
+        <ul>
+          <li>એબટ વર્લ્ડ પર <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">OEC વેબપેજ</a> ની મુલાકાત લો.</li>
+          <li>જો તમને કંપનીની અંદર અથવા ગ્રાહકો કે અન્ય તૃતીય પક્ષો સાથેના તમારા વ્યવહારમાં ભ્રષ્ટ વ્યવસાયિક પ્રવૃત્તિઓ વિશે કોઈ ચિંતા હોય, તો તમે તમારી ચિંતાઓ OEC (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) અથવા કાનૂની અધિકારીને જણાવી શકો છો અથવા વૈશ્વિક સ્તરે 24/7 ઉપલબ્ધ અમારા બહુભાષી <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> ને કૉલ કરી શકો છો.</li>
+          <li>iComply – આરોગ્યસંભાળ વ્યાવસાયિકો અને આરોગ્યસંભાળ સંસ્થાઓ, તેમજ તૃતીય પક્ષો સાથેની ક્રિયાપ્રતિક્રિયાઓ માટે બનાવાયેલી અનુપાલન-સંબંધિત ઍપ્સ અને સંસાધનોને ઍક્સેસ કરવા માટે <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> ની મુલાકાત લો.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>માનવ સંસાધનો</p>
+        <p>કર્મચારી સંબંધિત સમસ્યાઓ, જેમ કે મેનેજમેન્ટ અને/અથવા અન્ય કર્મચારીઓને લગતી ચિંતાઓ માટે, તમારા સ્થાનિક <a href="http:/rusnakassociates.com/content/AbbottCOBCCourse/courses/EN-US/course/index.html" target="_blank">માનવ સંસાધન પ્રતિનિધિ</a>નો સંપર્ક કરો.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>કાનૂની વિભાગ</p>
+        <p>લાંચ અને ભ્રષ્ટાચારની કાયદાકીય અસરો વિશે પ્રશ્નો અથવા ચિંતાઓ માટે કાનૂની વિભાગનો સંપર્ક કરો.</p>
+        <ul>
+          <li>એબટ વર્લ્ડ પર લીગલ હોમ પેજને ઍક્સેસ કરવા માટે અહીં ક્લિક કરો.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>અન્ય સંસાધનો</p>
+        <p>તમારા માટે ઘણા અન્ય સંસાધનો ઉપલબ્ધ છે:</p>
+        <p>નાણાકીય - જો તમારો પ્રશ્ન એકાઉન્ટિંગ અથવા નાણાકીય બાબત વિશે હોય, તો તમારા સ્થાનિક નાણાકીય વિભાગનો સંપર્ક કરો.</p>
+        <p>કોર્પોરેટ ઑડિટ - જો તમને એકાઉન્ટિંગ, આંતરિક એકાઉન્ટિંગ નિયંત્રણો અથવા ઑડિટિંગ બાબતો વિશે ચોક્કસ ચિંતાઓ હોય, તો તાત્કાલિક કોર્પોરેટ ઑડિટ અથવા OECને તેમની જાણ કરો.</p>
+        <p>એબટ ગુણવત્તા અને નિયમનકારી - જો તમને અમારા ઉત્પાદનોની ગુણવત્તા અને સલામતી વિશે પ્રશ્નો હોય, તો તમારા સ્થાનિક ગુણવત્તા અથવા નિયમનકારી વિભાગનો સંપર્ક કરો.</p>
+        <p>વૈશ્વિક પર્યાવરણ, સ્વાસ્થ્ય અને સલામતી - જો તમને કોઈ ભૌતિક સ્થાન અને સંભવિત જોખમો વિશે પ્રશ્નો હોય, તો વૈશ્વિક પર્યાવરણ, સ્વાસ્થ્ય અને સલામતી પ્રતિનિધિનો સંપર્ક કરો.</p>
+        <p>ગ્લોબલ પ્રોક્યોરમેન્ટ - જો તમને સપ્લાયર સંબંધો વિશે પ્રશ્નો હોય, તો ગ્લોબલ પ્રોક્યોરમેન્ટનો સંપર્ક કરો.</p>
+      </div>
+      <p class="resSubtitles" data-break="true">કૉર્સનાં સંસાધનો</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>ટ્રાન્સ્ક્રિપ્ટ</p>
+        <p>કૉર્સની સંપૂર્ણ ટ્રાન્સ્ક્રિપ્ટ માટે <a href="http:/rusnakassociates.com/content/AbbottCOBCCourse/courses/EN-US/course/index.html" target="_blank">અહીં</a> ક્લિક કરો</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>કૉર્સ LMSનો સંપર્ક કરી શકતો નથી. ચાલુ રાખવા અને કૉર્સની સમીક્ષા કરવા માટે 'ઓકે' પર ક્લિક કરો. નોંધ લો કે કૉર્સનું સર્ટિફિકેટ ઉપલબ્ધ ન હોય તેમ બની શકે. બહાર નીકળવા માટે 'રદ કરો' પર ક્લિક કરો</s1>
+    <s2>બધા પ્રશ્નો જવાબ આપ્યા વિનાના રહે છે</s2>
+    <s3>પ્રશ્નો</s3>
+    <s4>પ્રશ્ન</s4>
+    <s5>જવાબ આપ્યો નથી</s5>
+    <s6>તે સાચું છે!</s6>
+    <s7>તે સાચું નથી!</s7>
+    <s8>પ્રતિસાદ:</s8>
+    <s9>વ્યવસાયની આચારસંહિતા</s9>
+    <s10>જ્ઞાનની તપાસ</s10>
+    <s11>સબમિટ કરો</s11>
+    <s12>ફરીથી જ્ઞાનની તપાસ કરો</s12>
+    <s13>કૉર્સનું વર્ણન: અમારી વ્યવસાયની આચારસંહિતા એક અત્યંત મહત્ત્વપૂર્ણ દસ્તાવેજ છે જે અમારી કંપની દરેક કર્મચારી પાસે જે અપેક્ષા રાખે છે તેનું વર્ણન કરે છે કારણ કે અમે અમારા દૈનિક કાર્યમાં એબટનું પ્રતિનિધિત્વ કરીએ છીએ. તે અમારી જવાબદારીઓ અને વર્તણૂકો માટે એક પાયો પૂરો પાડે છે જે અમને એબટ માટે, અમારા માટે અને અમે જેમની સેવા કરીએ છીએ તે ઘણા લોકો માટે શ્રેષ્ઠ પસંદગીઓ કરવામાં મદદ કરશે. આ કૉર્સ આચારસંહિતાની શ્રેષ્ઠ ઝાંખી આપે છે, અમારી કંપનીની અપેક્ષાઓ અને તમારી જવાબદારીઓ સમજાવે છે અને જ્યારે શ્રેષ્ઠ માર્ગ નક્કી કરવો મુશ્કેલ હોય ત્યારે શું કરવું તે અંગે વ્યવહારુ સલાહ આપે છે. આ કૉર્સ પૂર્ણ કરવામાં 35-45 મિનિટનો સમય લાગશે.</s13>
+    <s14>સૂચિ</s14>
+    <s15>સંસાધનો</s15>
+    <s16>સંદર્ભ સામગ્રી</s16>
+    <s17>ઑડિયો</s17>
+    <s18>બહાર નીકળો</s18>
+    <s19>બંધ કરો</s19>
+    <s20>ટિપ્પણી કરો…</s20>
+  </strings>
+</course>

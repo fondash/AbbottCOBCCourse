@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+    <style>
+        div{
+            margin-top: 10rem;
+            position: absolute;
+            transform: translateX(-50%);
+            left: 50%;
+        }
+        button{            
+            padding: .4rem 1rem;
+            font-size: 1.2rem;
+            cursor: pointer;
+        }
+        p{
+            font-size: 1rem;
+            text-align: center;
+            width: 26rem;
+        }
+        
+    </style>
+	<title>launcher</title>	
+</head>
+<body id="body">
+    <div>
+        <button onclick="launch()">Course</button>
+        <p>Please note, you may have to enable popup windows to view this content. This can usually be done in your browser's address bar.</p>
+    </div>
+</body>
+<script>
+    function launch(){
+        window.open("index.html", "player", "popup");
+    }
+</script>
+</html>

@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="Benvenuto" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="Codice di Condotta Aziendale">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="La nostra filosofia">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="Obiettivi">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="Indice">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="L’importanza del Codice di Condotta Aziendale" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="I nostri impegni quotidiani">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="L’importanza del Codice per il nostro business">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="Il nostro Codice" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="Panoramica">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="I nostri clienti">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="I nostri prodotti">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="Progressi in campo scientifico">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="Il nostro personale">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="Le nostre comunità">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="Il nostro modo di operare">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="Il tuo impegno" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="Il tuo impegno">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="Verifica delle conoscenze" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="Introduzione">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="Valutazione">
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="Feedback">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="Sondaggio">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>Codice di condotta aziendale</p>
+      </div>
+      <p class="startInstruction">Fai clic sulla freccia avanti.</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>In qualità di leader globale nel settore della salute, ciò che facciamo ogni giorno conta.</p>
+        <p>ll nostro Codice di Condotta Aziendale è una guida fondamentale che ti consente di agire con integrità, guidare con uno scopo e prendere decisioni che riflettano il meglio di ciò che siamo. È il modo in cui costruiamo fiducia, difendiamo i nostri valori e continuiamo a fare una differenza concreta nel mondo.</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Al termine del corso sarai in grado di:</p>
+        <ul>
+          <li>Comprendere l’importanza del Codice di cCndotta Aziendale per il nostro business.</li>
+          <li>Essere in grado di identificare i principi fondamentali del Codice di Condotta Aziendale e comprendere come si realizzano nelle nostre attività lavorative quotidiane.</li>
+          <li>Comprenderai le aspettative di Abbott per ciò che riguarda la conduzione delle attività globali nel modo corretto.</li>
+          <li>Sapere dove trovare aiuto e supporto.</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>Benvenuto</p>
+            <p>1 minuto</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>L’importanza del Codice di Condotta Aziendale</p>
+            <p>2 minuti</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>Il nostro Codice</p>
+            <p>18 minuti</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>Il tuo impegno</p>
+            <p>1 minuto</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>Verifica delle conoscenze</p>
+            <p>5 minuti</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>Progresso dell’apprendimento</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">Questo argomento è ora disponibile.</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Guidiamo con integrità, equità e onestà. Tutti. Ogni giorno.</p>
+        <p>Il nostro Codice di Condotta Aziendale ci ricorda che integrità, equità e onestà non sono solo ideali, ma impegni quotidiani. Anche se il Codice non può prevedere ogni possibile sfida, offre una solida base di valori per guidarci.</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Ci impegniamo per i più alti standard.</p>
+        <p>Il Codice di Condotta Aziendale è fondamentale per il successo di Abbott perché stabilisce gli standard su come lavoriamo: con integrità, equità e onestà. Ci aiuta a prendere decisioni etiche, soprattutto in situazioni complesse, e ci permette di rimanere allineati ai nostri valori. Seguendo il Codice, proteggiamo la nostra reputazione, costruiamo fiducia con chi serviamo e creiamo una cultura in cui fare la cosa giusta è una priorità.</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Comprendere il Codice è responsabilità di tutti.</p>
+        <p>Ognuno di noi ha un ruolo nell’applicare il Codice di Condotta Aziendale al proprio lavoro e alle proprie decisioni quotidiane. Non è solo un documento: è una guida che ci aiuta ad affrontare le sfide con integrità e sicurezza.</p>
+        <p>Nelle prossime sezioni esploreremo i principi chiave del Codice e vedremo come prendono vita nelle nostre azioni quotidiane.</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Devi esaminare tutto il contenuto prima di procedere.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>In Abbott ci impegniamo a migliorare la salute e il benessere delle persone che si affidano ai nostri prodotti.</p>
+          </div>
+          <div>
+            <p>Ogni decisione, ogni innovazione e ogni azione hanno uno scopo: rendere la vita migliore.</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>Pazienti e consumatori</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>Operatori sanitari</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Per ulteriori informazioni, fai clic su ciascuna icona.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PAZIENTI E CONSUMATORI</p>
+                <p>Prendersi cura delle persone è al centro di tutto ciò che facciamo. Mettiamo al primo posto la salute e il benessere di pazienti e consumatori. Ogni giorno possiamo fare la vera differenza, aiutando le persone a vivere una vita più sana e contribuendo a comunità più forti.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>OPERATORI SANITARI</p>
+                <p>Collaboriamo con i professionisti sanitari per supportare una salute migliore. Rispettiamo le competenze e il giudizio indipendente degli operatori sanitari, siano essi medici, infermieri, farmacisti, ricercatori o personale di laboratorio. Il loro ruolo è essenziale per guidare i pazienti verso un miglior benessere.</p>
+                <p>In Abbott ci impegniamo a fornire informazioni accurate e tempestive affinché possano prendere le migliori decisioni. Insieme possiamo raggiungere il nostro obiettivo comune: migliorare la salute e il benessere in tutto il mondo.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Devi esaminare tutto il contenuto prima di procedere.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>In Abbott ci impegniamo a garantire che ogni prodotto sia sicuro, efficace e degno della fiducia che le persone ripongono in noi.</p>
+          </div>
+          <div>
+            <p>Adottiamo ogni misura per garantire la sicurezza e l’efficacia dei nostri prodotti, dalla scelta dei materiali fino a come li promuoviamo, vendiamo e distribuiamo. In ogni fase seguiamo standard qualitativi elevati.</p>
+            <p>Inoltre, ci impegniamo a identificare, valutare e risolvere tempestivamente i problemi di sicurezza, nonché ad adottare misure contro la contraffazione, la distrazione illegale e il furto dei nostri prodotti.</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>Qualità dei prodotti</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>Promozione prodotti I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>Promozione prodotti II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Per ulteriori informazioni, fai clic su ciascuna icona.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>QUALITÀ PRODOTTO</p>
+                <p>Sicuri, efficaci e affidabili. I nostri prodotti fanno la differenza.</p>
+                <p>Garantiamo la qualità in ogni fase: dall’approvvigionamento alla produzione, fino alla commercializzazione e distribuzione, anche attraverso i nostri partner. Ogni passaggio è fondamentale perché le persone contano su di noi per la loro sicurezza.</p>
+                <p>Siamo impegnati ad identificare, valutare ed indirizzare prontamente le problematiche legate alla sicurezza del prodotto. Garantiamo agli operatori sanitari e alle istituzioni tutte le informazioni necessarie per utilizzare i nostri prodotti in maniera sicura ed efficace e comunichiamo con gli enti di controllo e le autorità sanitarie pubbliche in caso di potenziali problematiche relative alla sicurezza.</p>
+                <p>Agiamo in modo da prevenire la contraffazione, la distrazione illegale e il furto dei nostri prodotti. Seguiamo le normative commerciali, comprese le regole su importazioni ed esportazioni, e rispettiamo sanzioni e restrizioni governative per la tutela della salute pubblica e della sicurezza nazionale.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PROMOZIONE PRODOTTI I</p>
+                <p>Promuoviamo e vendiamo i nostri prodotti con onestà e rispetto per chi si affida a noi.</p>
+                <p>Le comunicazioni sui prodotti sono veritiere, equilibrate e coerenti con le indicazioni approvate, le evidenze scientifiche e le migliori pratiche mediche nei Paesi in cui operiamo.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PROMOZIONE PRODOTTI II</p>
+                <p>Promuoviamo i prodotti esclusivamente per gli usi autorizzati.</p>
+                <p>Operiamo nel rispetto delle licenze e delle autorizzazioni rilasciate dalle autorità sanitarie. Le attività di promozione, vendita e distribuzione seguono leggi rigorose e normative specifiche per ciascun Paese. Grazie a solide politiche interne, garantiamo la conformità e sosteniamo il nostro impegno per un business etico, sicuro e responsabile.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Devi esaminare tutto il contenuto prima di procedere.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>In Abbott promuoviamo il progresso scientifico con integrità e responsabilità.</p>
+          </div>
+          <div>
+            <p>Perseguiamo l’innovazione anticipando e gestendo i rischi in modo responsabile. Rispettiamo la dignità di ogni partecipante agli studi e garantiamo i più alti standard di trasparenza e obiettività.</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>Innovazione I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>Innovazione II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>Progressi in campo scientifico</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Per ulteriori informazioni, fai clic su ciascuna icona.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>INNOVAZIONE I</p>
+                <p>Creiamo soluzioni sanitarie innovative per aiutare le persone a vivere più sane e migliorare gli esiti clinici in tutto il mondo.</p>
+                <p>Rispondiamo ai bisogni umani sviluppando trattamenti rivoluzionari, dispositivi salvavita e prodotti innovativi che supportano la salute in nuovi modi. Attraverso una scienza e una tecnologia all’avanguardia, ci impegniamo a migliorare i risultati e a mettere le persone nelle condizioni di vivere appieno la propria vita, creando innovazioni significative per ogni fase dell’esistenza.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>INNOVAZIONE II</p>
+                <p>Coltiviamo una cultura dell’innovazione esplorando nuove possibilità e pianificando con attenzione.</p>
+                <p>Il progresso comporta rischi, ma li affrontiamo con responsabilità, sempre guidati dal Codice e dalle nostre politiche.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PROGRESSO SCIENTIFICO</p>
+                <p>Conduciamo la ricerca per generare dati accurati e oggettivi che guidano l’innovazione, migliorano i trattamenti e fanno progredire la sanità.</p>
+                <p>Tuteliamo i partecipanti agli studi, garantendo il consenso informato, la sicurezza e la massima trasparenza. L’ottenimento del consenso informato dei partecipanti alla ricerca è fondamentale per il nostro processo di ricerca.</p>
+                <p>Valorizziamo la trasparenza nella ricerca scientifica e non cerchiamo in alcun modo di influenzarne impropriamente gli esiti. Garantiamo l’accuratezza dei dati degli studi e ci impegniamo a fornire i risultati delle ricerche eseguite per i prodotti, che siano positivi o negativi, in modo tempestivo e preciso.</p>
+                <p>Quando la ricerca è condotta per Abbott o pubblicata per nostro conto, collaboriamo con esperti dotati di solide competenze scientifiche e mediche. Devi visualizzare tutti i contenuti prima di proseguire.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Devi esaminare tutto il contenuto prima di procedere.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>In Abbott promuoviamo una cultura di apertura, diversità e rispetto, perché questo alimenta creatività e innovazione.</p>
+          </div>
+          <div>
+            <p>Ognuno di noi ha la responsabilità di vivere il Codice ogni giorno: trattando gli altri con rispetto, creando un ambiente di lavoro sicuro e inclusivo e garantendo pari opportunità per tutti.</p>
+            <p>Facciamo domande quando qualcosa non è chiaro e parliamo apertamente quando qualcosa non ci sembra giusto.</p>
+            <p>Questa sezione rafforza il nostro impegno verso le pari opportunità e un ambiente di lavoro sicuro e ti ricorda di comprendere, applicare e sostenere il Codice in tutto ciò che fai.</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>Collaborazione</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>Il legame che unisce i dipendenti</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>Segnalare i dubbi</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>Pari opportunità</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>Trattamento equo</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>Ambiente di lavoro</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Per ulteriori informazioni, fai clic su ciascuna icona.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>COLLABORAZIONE</p>
+                <p>Valorizziamo l’apertura e la collaborazione perché idee diverse portano a soluzioni migliori.</p>
+                <p>Accogliamo la diversità perché alimenta creatività, energia e progresso. Per avere un impatto significativo sulla salute globale, ascoltiamo gli altri, diamo valore a ogni voce e lavoriamo insieme con uno scopo condiviso.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>IL LEGAME CHE UNISCE I DIPENDENTI</p>
+                <p>Ogni giorno tutti noi condividiamo la responsabilità di mettere in pratica i valori di Abbott.</p>
+                <p>Agendo in modo etico, rafforziamo la nostra cultura. Ognuno deve comprendere come il Codice si applica al proprio ruolo e al proprio lavoro.</p>
+                <p>Manager e supervisori hanno una responsabilità particolare come leader: devono incarnare i nostri valori, promuovere comportamenti etici e creare un ambiente sicuro in cui le persone si sentano libere di fare domande e sollevare dubbi senza timore di ritorsioni.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>SEGNALARE I DUBBI</p>
+                <p>Facciamo domande quando qualcosa non è chiaro o non ci sembra giusto. Parliamo apertamente e segnaliamo qualsiasi possibile violazione del Codice.</p>
+                <p>È nostra responsabilità porre domande quando le indicazioni non sono chiare e mettere in discussione e segnalare comportamenti non etici, violazioni del Codice o inosservanze delle politiche di Abbott.</p>
+                <p>Se non sei sicuro della scelta o dell’azione più corretta, parlane con il tuo manager o contatta l’Ufficio Etica e Compliance.</p>
+                <p>Manager e supervisori devono guidare con l’esempio e assicurarsi che i dipendenti comprendano e seguano il Codice. I leader hanno una responsabilità maggiore nel comunicare le aspettative di Abbott e devono contattare l’Ufficio Etica e Compliance in presenza di potenziali violazioni del Codice.</p>
+                <p>Tutte le segnalazioni di possibili violazioni del Codice sono prese seriamente. L’Ufficio Etica e Compliance gestirà i passaggi successivi, incluse eventuali indagini e azioni correttive, quando necessario. Non dovresti mai condurre un’indagine per conto tuo. Tutti devono collaborare e mantenere la riservatezza sulle indagini.</p>
+                <p>Le azioni correttive possono includere provvedimenti disciplinari (fino al licenziamento) o azioni legali nei casi di:</p>
+                <ul>
+                  <li>autorizzazione o partecipazione a una violazione;</li>
+                  <li>rifiuto di collaborare a un’indagine;</li>
+                  <li>mancata segnalazione di una violazione dovuta a supervisione inadeguata;</li>
+                  <li>segnalazione volutamente falsa;</li>
+                  <li>ritorsioni contro chi ha sollevato un dubbio in buona fede.</li>
+                </ul>
+                <p>Le ritorsioni non sono mai accettabili. Se ritieni che si sia verificata una ritorsione, segnalalo all’Ufficio Etica e Compliance o alle Risorse Umane.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PARI OPPORTUNITÀ</p>
+                <p>Tutti i nostri dipendenti godono di pari opportunità.</p>
+                <p>Prendiamo decisioni relative all’occupazione in base alle esigenze del business, alle competenze, all’esperienza e alla performance. La discriminazione di qualsiasi tipo non è tollerata. Rispettiamo tutte le leggi che regolano il rapporto di lavoro con i dipendenti in tutto il mondo.</p>
+                <p>Abbott vieta atti discriminatori basati su razza, colore della pelle, religione, età, sesso, nazionalità, espressione o identità di genere, orientamento sessuale, disabilità, stato civile, stato militare o di reduce di guerra, genetica, cittadinanza o qualsiasi altra condizione tutelata dalla legge.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>Trattamento equo</p>
+                <p>Promuoviamo un ambiente di lavoro rispettoso, inclusivo e sicuro.</p>
+                <p>Lavoriamo per fare in modo che tutti si sentano benvenuti, supportati e valorizzati.</p>
+                <p>Abbott promuove un ambiente sano, privo di molestie, e valorizza il contributo delle persone per rafforzare diversità e inclusione.</p>
+                <p>Trattiamo tutti con rispetto e dignità, costruendo fiducia attraverso equità e onestà e mai attraverso manipolazione, false rappresentazioni o mancanza di trasparenza.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>AMBIENTE DI LAVORO</p>
+                <p>Diamo priorità alla sicurezza e a condizioni di lavoro eque.</p>
+                <p>Incidenti o situazioni non sicure devono essere segnalati immediatamente al management. Abbott adotta misure per prevenire e vietare pratiche lavorative illegali o inappropriate e qualsiasi forma di trattamento crudele o disumano in tutte le nostre attività nel mondo.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Devi esaminare tutto il contenuto prima di procedere.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>In Abbott costruiamo fiducia attraverso la comunità, l’ambiente e il coinvolgimento attivo.</p>
+          </div>
+          <div>
+            <p>Ci impegniamo a restituire valore alle comunità in cui operiamo e a generare un impatto positivo e duraturo sulla vita delle persone.</p>
+            <p>Abbott lavora per ridurre la propria impronta ambientale diminuendo il consumo di energia e preservando le risorse naturali.</p>
+            <p>Inoltre, sosteniamo un coinvolgimento politico appropriato e incoraggiamo l’impegno nella comunità in tutte le nostre operazioni globali.</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>Coinvolgimento della comunità</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>Responsabilità ambientale</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>Contributi politici</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Per ulteriori informazioni, fai clic su ciascuna icona.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>COINVOLGIMENTO DELLA COMMUNITÀ</p>
+                <p>Sosteniamo il benessere delle comunità.</p>
+                <p>In Abbott supportiamo il benessere delle comunità attraverso i nostri prodotti, il nostro lavoro e le nostre azioni, e abbiamo una lunga storia di sostegno ai luoghi in cui viviamo e lavoriamo, perché crediamo che le comunità sane prosperino.</p>
+                <p>Attraverso le nostre attività, le partnership e il supporto a realtà e iniziative locali, ci impegniamo a generare un impatto positivo e duraturo ovunque operiamo.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>RESPONSABILITÀ AMBIENTALE</p>
+                <p>Contribuiamo allo sviluppo sostenibile e lavoriamo per ridurre il nostro impatto sull’ambiente.</p>
+                <p>Ci impegniamo a proteggere l’ambiente in tutto ciò che facciamo, da come reperiamo i materiali a come produciamo, spediamo e utilizziamo i nostri prodotti.</p>
+                <p>Ci adoperiamo per utilizzare meno energia e meno risorse naturali. Sosteniamo progetti di energia pulita sul lavoro e nelle nostre comunità. Cerchiamo modi per ridurre i rifiuti, aumentare il riciclo e minimizzare i rischi ambientali. Rispettiamo inoltre le leggi e le normative ambientali applicabili alle nostre attività.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>CONTRIBUTI POLITICI</p>
+                <p>Incoraggiamo un impegno adeguato nel processo politico e sosteniamo il coinvolgimento della comunità.</p>
+                <p>Abbott sostiene politiche pubbliche in linea con la nostra missione e i nostri valori. Quando appropriato, possiamo sostenere candidati politici o gruppi di interesse.</p>
+                <p>Poiché le leggi sui contributi politici delle aziende sono complesse, qualsiasi utilizzo di fondi Abbott, o contributi effettuati per conto di Abbott, deve essere preventivamente esaminato con l’Ufficio Legale.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Devi esaminare tutto il contenuto prima di procedere.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>In Abbott ci impegniamo a fare business in modo onesto e a mantenere le nostre promesse in tutte le aree di attività.</p>
+          </div>
+          <div>
+            <p>Mettiamo gli interessi di Abbott davanti ai nostri quando gestiamo conflitti di interesse. roteggiamo i beni e la reputazione dell’azienda, salvaguardiamo le informazioni riservate e rispettiamo la privacy di chi condivide con noi dati personali.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>Correttezza</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>Evitare i conflitti d’interesse I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>Evitare i conflitti d’interesse II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>Tutela della reputazione e delle risorse Abbott</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>Informazioni riservate</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Per ulteriori informazioni, fai clic su ciascuna icona.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>CORRETTEZZA</p>
+                <p>Conduciamo il business con integrità e rispettiamo i nostri impegni in ogni aspetto del lavoro.</p>
+                <p>Siamo tutti responsabili del nostro lavoro e delle decisioni che prendiamo nei nostri ruoli. In ogni interazione professionale: con colleghi, clienti, fornitori, operatori sanitari, concorrenti o altri dobbiamo essere corretti e onesti nel rappresentare come Abbott fa business.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>EVITARE I CONFLITTI DI INTERESSE I</p>
+                <p>Identifichiamo e affrontiamo i conflitti di interesse prima di procedere.</p>
+                <p>Un conflitto di interesse si verifica quando interessi personali interferiscono, o sembrano interferire, con ciò che è meglio per Abbott. Le decisioni aziendali devono basarsi sulle esigenze di Abbott, non su vantaggi personali o sugli interessi di familiari o amici. Da ciascuno di noi ci si aspetta buon giudizio per evitare situazioni che potrebbero creare un conflitto reale o percepito. Se relazioni personali, interessi o attività esterne influenzano la tua capacità di agire in modo equo ed efficace, o potrebbero generare un vantaggio per te o per un familiare, devi dichiarare il potenziale conflitto e tirarti fuori dalla situazione, seguendo le linee guida di Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>EVITARE I CONFLITTI DI INTERESSE II</p>
+                <p>Mettiamo gli interessi di Abbott al primo posto quando prendiamo decisioni legate al lavoro.</p>
+                <p>Questo significa dare priorità agli obiettivi dell’azienda rispetto a quelli di un singolo team, gruppo o individuo. Qualsiasi opportunità o risorsa a cui accedi grazie al tuo ruolo in Abbott deve essere utilizzata a beneficio dell’azienda, non per guadagno personale. Non dovremmo competere con Abbott né aiutare altri a farlo. Quando emergono opportunità, il nostro obiettivo deve essere far progredire gli interessi di Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>TUTELA DELLA REPUTAZIONE E DELLE RISORSE ABBOTT</p>
+                <p>Siamo custodi della nostra azienda.</p>
+                <p>Condividiamo tutti la responsabilità di proteggere e utilizzare in modo corretto i beni di Abbott. Questo include sia i beni fisici, come veicoli e computer, sia informazioni di valore come proprietà intellettuale, segreti commerciali e know-how specializzato.</p>
+                <p>Dobbiamo usare sempre buon senso per garantire che queste risorse siano utilizzate in modo corretto, efficiente e con cura, evitando perdite, furti, usi impropri o sprechi.</p>
+                <p>La reputazione di Abbott è uno dei nostri beni più preziosi e tutti abbiamo un ruolo nel proteggerla.</p>
+                <p>Ognuno di noi è responsabile di come rappresenta Abbott, in particolare in contesti pubblici e online, dove tutto ciò che condividiamo, tra cui conversazioni, email o post sui social media, può riflettersi sull’azienda. È importante comunicare con attenzione, usare buon giudizio e proteggere le informazioni riservate di Abbott.</p>
+                <p>Quando interagiamo all’esterno, dobbiamo chiederci se possiamo essere percepiti come rappresentanti di Abbott e come le nostre parole o azioni possano influenzarne la reputazione. Questo è particolarmente vero sui social media, dove i contenuti si diffondono rapidamente: un commento o un post imprudente può causare danni reali.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>INFORMAZIONI RISERVATE</p>
+                <p>Ci impegniamo a rispettare e proteggere tutte le informazioni riservate, inclusi i dati personali.</p>
+                <p>Le informazioni riservate sono tra i beni più preziosi di Abbott. Includono dati non pubblici come ricerche, segreti commerciali, piani di business, prezzi, contratti, risultati finanziari e altre informazioni che potrebbero avvantaggiare i concorrenti o danneggiare Abbott se divulgate.</p>
+                <p>Dobbiamo proteggere le informazioni riservate e impedirne l’uso o la condivisione non autorizzata, anche dopo la fine del nostro rapporto con Abbott.</p>
+                <p>In Abbott rispettiamo anche la proprietà intellettuale altrui ed evitiamo l’uso improprio di informazioni confidenziali di terzi. L’uso illecito di informazioni non pubbliche, ad esempio per operazioni di insider trading, è illegale e non etico.</p>
+                <p>Tuteliamos anche i dati personali affidati a noi da colleghi, operatori sanitari e clienti. Quando raccogliamo e utilizziamo informazioni personali, lo facciamo in modo responsabile, con il consenso appropriato, e non vendiamo né otteniamo tali dati da fonti non autorizzate. In molte giurisdizioni esistono leggi severe sulla privacy e siamo impegnati a comprenderle e rispettarle, soprattutto per le categorie di dati più sensibili.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Devi esaminare tutto il contenuto prima di procedere.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>In Abbott ci impegniamo a fare business in modo onesto e a mantenere le nostre promesse in tutte le aree di attività.</p>
+          </div>
+          <div>
+            <p>Mettiamo gli interessi di Abbott davanti ai nostri quando gestiamo conflitti di interesse. roteggiamo i beni e la reputazione dell’azienda, salvaguardiamo le informazioni riservate e rispettiamo la privacy di chi condivide con noi dati personali.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>Anti-concussione</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>Regali, pasti e intrattenimento</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>Accuratezza di registri e libri</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>Conformità alle leggi</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>Concorrenza leale</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Per ulteriori informazioni, fai clic su ciascuna icona.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ANTI CONCUSSIONE</p>
+                <p>Ci opponiamo attivamente a frodi, corruzione e concussione. Svolgiamo la nostra attività in maniera corretta.</p>
+                <p>Come individui, ci aspettiamo che gli operatori sanitari prendano decisioni in base a ciò che è meglio per i pazienti, non influenzati da incentivi da parte delle aziende. Allo stesso modo, ci aspettiamo che i funzionari pubblici agiscano nell’interesse della collettività, liberi da pressioni aziendali.</p>
+                <p>In Abbott formiamo gli operatori sanitari sui nostri prodotti, ma non interferiamo con il loro giudizio indipendente. Non è mai consentito offrire qualcosa di valore a professionisti sanitari (come medici, farmacisti, infermieri, ricercatori o personale di laboratorio), funzionari pubblici o altri per ottenere business o ricompensare rapporti passati.</p>
+                <p>Rispettiamo le leggi anti-tangente, anti-corruzione e anti-tangenti a livello globale, compreso il Foreign Corrupt Practices Act statunitense. Ognuno in Abbott deve gestire con attenzione i rapporti con fornitori di servizi, come distributori, consulenti e relatori, effettuando le dovute verifiche, pagando compensi in linea con il valore di mercato e documentando correttamente i pagamenti per garantire il rispetto delle leggi e degli standard aziendali.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>REGALI, PASTI E INTRATTENIMENTO</p>
+                <p>Non offriamo né forniamo nulla di valore per ottenere un vantaggio commerciale, diretto o indiretto, in linea con i principi anti-corruzione.</p>
+                <p>Per prevenire influenze improprie sulle decisioni di business, definiamo limiti chiari in materia di regali, pasti e intrattenimento. Le politiche di Abbott aiutano a garantire che brand reminders,  atti di cortesia culturale, ospitalità e altri benefici non interferiscano mai con il giudizio professionale.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ACCURATEZZA DI REGISTRI E LIBRI</p>
+                <p>Misuriamo i risultati in maniera precisa.</p>
+                <p>I registri e le dichiarazioni pubbliche di Abbott devono riflettere fedelmente le nostre azioni, con contesto sufficiente a mostrare la reale natura del nostro operato. I documenti finanziari devono seguire gli standard contabili, le leggi e le politiche interne di Abbott.</p>
+                <p>Quando riportiamo prezzi, pagamenti o  beni di valore, in particolare verso gli operatori sanitari, dobbiamo assicurarci che le informazioni siano complete e accurate. Molti governi richiedono questa trasparenza per proteggere le risorse pubbliche. Abbott è impegnata a fornire dati affidabili in modo che governi, assicurazioni e altri stakeholder possano prendere decisioni informate.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>CONFORMITÀ ALLE LEGGI</p>
+                <p>Rispettiamo tutte le leggi, le normative e i requisiti Abbott applicabili al nostro lavoro.</p>
+                <p>Da ogni dipendente di Abbott ci si aspetta il rispetto di tutte le leggi applicabili, oltre che delle politiche, delle procedure e del Codice. Questo è un requisito fondamentale per lavorare in Abbott. Le policy di Abbott coprono aree chiave come compliance sanitaria, qualità, finanza, commercio, sicurezza e altro, aiutandoci a soddisfare i requisiti di legge e prevenire inadempienze.</p>
+                <p>In quanto azienda globale, dobbiamo anche essere consapevoli che le leggi di un Paese possono applicarsi al lavoro svolto in un altro. In caso di dubbi, chiedi supporto all’Ufficio Legale o all’Ufficio Etica e Compliance.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>CONCORRENZA LEALE</p>
+                <p>Garantiamo l’adeguatezza di tutte le nostre interazioni con i concorrenti.</p>
+                <p>In Abbott ci impegniamo a rispettare le leggi sulla concorrenza in tutti i Paesi in cui operiamo. Queste leggi vietano accordi o azioni che ostacolano pratiche di mercato corrette, in particolare in materia di prezzi, condizioni di vendita e rapporti con i concorrenti.</p>
+                <p>Evita di discutere argomenti sensibili, come prezzi, costi o piani di business, con i concorrenti e contatta l’Ufficio Legale o l’Ufficio Etica e Compliance se hai dubbi o incontri comportamenti inappropriati. Poiché le leggi sulla concorrenza sono complesse e le violazioni comportano sanzioni gravi, dobbiamo gestire con attenzione anche i rapporti con terze parti per garantire la conformità ed evitare persino l’apparenza di comportamenti anti-competitivi.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>Prima di lasciare questo corso, prenditi un momento per confermare di comprendere le tue responsabilità in relazione al Codice di Condotta Aziendale di Abbott.</p>
+          <p>Confermo di comprendere le mie responsabilità relative al Codice di Condotta Aziendale di Abbott e di sapere dove localizzare e rivedere le politiche e procedure applicabili.</p>
+          <button class="qcSubmitBtn">Conferma</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>La seguente Verifica delle conoscenze consiste in 10 domande. Per completare il corso devi totalizzare una percentuale pari o superiore all’80% di risposte corrette.</p>
+        <p>QUANDO SEI PRONTO/A, FAI CLIC SUL PULSANTE VERIFICA DELLE CONOSCENZE.</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Perché il Codice di Condotta Aziendale è importante?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Fornisce indicazioni specifiche per ogni situazione che possiamo incontrare nel nostro lavoro.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Fornisce una chiara serie di principi e valori su cui basare decisioni quando la migliore linea di condotta non è immediatamente evidente.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Avanti</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Il Codice di Condotta Aziendale ci offre un insieme chiaro di principi e valori su cui basare le decisioni quando la scelta migliore non è immediatamente evidente.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Quale delle seguenti non è <span class="underline">mai</span> una transazione commerciale appropriata?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Contrattare un OS perché parli di una particolare area di patologie sulla base delle sue competenze ed esperienze.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Offrire un pasto ragionevole ai partecipanti a un programma educativo sponsorizzato da Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Predisporre una donazione di beneficenza per un’organizzazione locale.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ingaggiare un OS perché conduca un programma educativo come ringraziamento per l’uso di prodotti Abbott.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Avanti</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Ingaggiare un OS perché conduca un programma educativo in base alle sue competenze ed esperienze è permesso; tuttavia, ingaggiare un OS per ringraziarlo perché usa prodotti Abbott è illecito in quanto potrebbe essere percepito come un atto di corruzione.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Le conseguenze per le singole persone coinvolte in atti di concussione e corruzione possono comprendere:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Danno alla reputazione.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Sanzioni e condanne.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Risoluzione del rapporto di lavoro.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Reclusione.</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>Tutti i precedenti.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Avanti</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Le conseguenze per le singole persone coinvolte in atti di corruzione e concussione possono comprendere danno alla reputazione, sanzioni e condanne, risoluzione del rapporto di lavoro e persino la reclusione.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Una rappresentante commerciale è anche proprietaria di una piccola gioielleria. Decide che sarebbe carino offrire regali di poco valore del suo negozio agli OS che ultimamente non stanno prescrivendo prodotti Abbott. Fai bene?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Sì</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>No</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Avanti</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>La politica di Abbott vieta i regali agli OS perché il rappresentante commerciale agisce in qualità di rappresentante di Abbott. I regali sono vietati anche se pagati personalmente. La loro offerta potrebbe inoltre essere percepita come una tangente per ottenere business futuro. Inoltre, offrire regali potrebbe essere percepito come una tangente per ottenere future opportunità commerciali.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Un responsabile vendite riceve una telefonata da un contatto presso un’azienda concorrente. Il concorrente riferisce che un team di vendita di terze parti, incaricato da Abbott in un nuovo mercato, starebbe offrendo pasti sontuosi ai clienti che scelgono i prodotti Abbott rispetto a quelli della concorrenza. Qual è l’azione più appropriata?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Non fare nulla, poiché l’informazione proviene da un concorrente.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Non fare nulla, perché in quel mercato i pasti sontuosi sono una pratica comune.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Segnalare immediatamente la questione all’Ufficio Etica e Compliance (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ricercare distributori alternativi nel caso l’accusa fosse vera.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Avanti</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Devi segnalare immediatamente la presunta violazione all’Ufficio Etica e Compliance (OEC) affinché possa essere indagata correttamente, anche se l’informazione proviene da un concorrente.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Un’agenzia di viaggi sta organizzando gli spostamenti per gli operatori sanitari (OS) che forniscono servizi di proctoring per Abbott. Durante la verifica delle ricevute inviate, emergono delle incongruenze: il totale non corrisponde alla richiesta di rimborso e alcune ricevute non riportano informazioni essenziali come le date di viaggio.</p>
+              <p>Qual è l’azione più appropriata?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Informare l’agenzia di viaggi che Abbott non può procedere al pagamento senza una documentazione completa e accurata.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Processare comunque le ricevute, poiché mancano solo alcune informazioni.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Consigliare all’agenzia di essere più accurata la prossima volta.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Non fare nulla, poiché l’agenzia è nuova.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Avanti</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>I libri e i registri di Abbott devono riportare in modo accurato tutte le transazioni effettuate. Pertanto, è di fondamentale importanza che i terzi che erogano servizi per conto di Abbott forniscano una documentazione completa che rifletta lo scopo reale e i dettagli delle operazioni.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Lavori presso un’affiliata in cui è permesso sponsorizzare la partecipazione di OS a conferenze formative. Stai selezionando operatori sanitari come partecipanti a una conferenza internazionale. I criteri che usi per la selezione comprendono: (1) se l’argomento della conferenza rientra nel settore di competenza dell’OS; (2) se Abbott ha sponsorizzato in precedenza l’OS nel corso dell’anno passato; e (3) se è probabile che l’OS raccomandi prodotti di Abbott o utilizzi dispositivi di Abbott dopo aver partecipato all’evento. Questi criteri sono appropriati?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Sì. I due criteri chiave che devono sempre essere soddisfatti nella sponsorizzazione di individui sono che la sponsorizzazione: a) sia rilevante per il settore di competenza dell’operatore sanitario e b) non venga usata come premio o incentivo per gli affari. Il fatto che tu controlli e ti assicuri che Abbott non abbia sponsorizzato l’OS nel corso dello scorso anno aiuta a garantire quest’ultimo.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Sì. Fintanto che il motivo per sponsorizzare l’OS non è influenzarlo o premiarlo, puoi prendere in considerazione l’utile sull’investimento, ovvero se il soggetto continuerà o meno a prescrivere i prodotti di Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>No. Le decisioni sulle sponsorizzazioni non possono basarsi sul fatto che l’OS possa raccomandare prodotti di Abbott o utilizzare dispositivi di Abbott dopo aver partecipato a un evento sponsorizzato.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Sì. Nella misura in cui almeno uno dei criteri è legittimo, la presenza di altri criteri illegittimi non ha importanza.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Avanti</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Le decisioni di sponsorizzazione non devono mai essere prese come premio per aver utilizzato i nostri prodotti in passato o come incentivo per un maggiore utilizzo dei nostri prodotti o dispositivi in futuro. Tieni presente che in molte giurisdizioni le sponsorizzazioni sono vietate. Verifica sempre le procedure dell’affiliata locale prima di accordare una sponsorizzazione.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Un rappresentante commerciale Abbott illustra un prodotto a un operatore sanitario (OS). Al termine della conversazione, l’OS riferisce che un concorrente gli ha offerto un nuovo iPad in cambio del suo supporto per incrementare le vendite.</p>
+              <p>Qual è l’azione più appropriata?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Offrire lo stesso incentivo per rimanere competitivi.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Rifiutare l’offerta dell’iPad ma proporre una cena costosa per proseguire la conversazione.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Spiegare che Abbott fa business nel modo corretto e non può offrire nulla di valore che possa influenzare impropriamente il processo decisionale. Quindi, segnalare immediatamente la situazione all’Ufficio Etica e Compliance (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ringraziare l’OS per l’informazione e promettere che ci penserai.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Avanti</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Non devi mai offrire, promettere, dare o ricevere oggetti di valore al fine di ottenere un vantaggio commerciale improprio o concludere o mantenere affari. A prescindere da ciò che fanno i concorrenti, devi rispettare le leggi e le politiche di Abbott vigenti, compresi i requisiti della Politica globale anti-corruzione (GLB-ANTI-CORRUPTION) di Abbott. In caso di dubbi, rivolgiti sempre all’ufficio Legale o all’OEC.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Quali tra i seguenti sono esempi di articoli di valore che non devono essere forniti per ottenere opportunità commerciali?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Viaggi a spa, casinò o altri luoghi noti per l’intrattenimento per gli OS e le loro famiglie.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Contributi per ricerca o progetti formativi futuri.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Donazioni a enti caritatevoli preferiti da funzionari pubblici.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Tutte le opzioni precedenti.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Avanti</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Gli standard su corruzione e concussione di Abbott, disponibili nella Politica globale anti-corruzione (GLB-ANTI-CORRUPTION), rispettano il nostro impegno a condurre gli affari con onestà, equità e integrità. Ciò significa che non è mai consentito offrire o regalare oggetti di valore per concludere un affare.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Un OS key opinion leader ti chiede se puoi fornire supporto per un programma educativo che gli piacerebbe frequentare in cambio di maggiori opportunità commerciali a favore di Abbott. Quale opzione è la più appropriata?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Rifiutare fermamente la richiesta poiché viola la Politica anticorruzione di Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Dire all’OS che chiederai al tuo responsabile.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Accettare la richiesta poiché l’OS è un key opinion leader con molta influenza.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Nessuna delle precedenti.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">Invia</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Non offriamo né forniamo nulla di valore per ottenere un vantaggio commerciale, diretto o indiretto, in linea con i principi anti-corruzione.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>Non è disponibile nessun risultato, poiché non hai completato la Verifica delle conoscenze.</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>Congratulazioni! Hai superato la verifica delle conoscenze.</p>
+          <p>Prendi visione dei tuoi risultati riportati di seguito, facendo clic su ciascuna domanda.</p>
+          <p>Una volta terminato, fai clic sulla freccia avanti per partecipare a un breve sondaggio.</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>Peccato, non hai superato la verifica delle conoscenze. Prenditi qualche minuto per verificare i risultati riportati di seguito, facendo clic su ciascuna domanda.</p>
+          <p>Al termine fai clic sul pulsante Riprova.</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>Questo sondaggio è facoltativo.</p>
+          <p>Importante: Che tu scelga di completare il sondaggio o meno, devi fare clic sull’icona ESCI (X) nella barra del titolo del corso per completare il corso e caricare i risultati.</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Come valuteresti questo corso nel complesso?</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Non positivo</p>
+                  <p>Sviluppo</p>
+                  <p>Media</p>
+                  <p>Ottimo</p>
+                  <p>Eccellente</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Per favore, spiega ulteriormente la tua valutazione.</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Grazie a questa sessione, ho una migliore comprensione del Codice di Condotta Aziendale di Abbott.</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Assolutamente in disaccordo</p>
+                  <p>Non d’accordo</p>
+                  <p>Neutro</p>
+                  <p>D’accordo</p>
+                  <p>Assolutamente d’accordo</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>In che misura i contenuti trattati in questo corso sono rilevanti per il tuo lavoro?</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Per niente rilevanti</p>
+                  <p>Non molto rilevanti</p>
+                  <p>Indeciso</p>
+                  <p>In qualche misura rilevanti</p>
+                  <p>Molto rilevanti</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Quali degli argomenti trattati in questo corso vorresti approfondire?</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">Fare clic sul pulsante Carica per completare il corso, caricare i dati e chiudere la finestra del corso.</p>
+          <button class="surveySubmit">
+            <p>Carica</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">Dove chiedere assistenza</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Responsabile</p>
+        <p>Se hai delle domande sulle interazioni con persone non appartenenti ad Abbott, il modo migliore per iniziare a trovare una risposta è contattare il tuo responsabile</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Standard scritti</p>
+        <ul>
+          <li>Per conoscere le aspettative fondamentali di Abbott sulle interazioni con gli altri, consulta il nostro <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Codice di Condotta Aziendale</a>.</li>
+          <li>Per le politiche e le procedure applicabili a livello aziendale generale, visita il <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">Portale globale sulle politiche</a>.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>Ufficio Etica e Compliance (OEC)</p>
+        <p>L’ufficio OEC è una risorsa globale alla quale è possibile rivolgersi per domande o dubbi sui valori e sugli standard di comportamento aziendali.</p>
+        <ul>
+          <li>Visita la <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance/?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">pagina Web OEC</a> in Abbott World.</li>
+          <li>Se nutri dei dubbi su delle attività aziendali corrotte all’interno dell’azienda o nelle trattative con i clienti o terzi, puoi segnalarli all’ufficio OEC (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) o a quello Legale, oppure telefonare alla nostra <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> multilingue, disponibile in tutto il mondo 24 ore su 24, 7 giorni su 7.</li>
+          <li>iComply: visita <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> per accedere alle applicazioni e alle risorse in materia di conformità finalizzate alle interazioni con gli operatori sanitari, le organizzazioni sanitarie e i soggetti terzi.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Risorse umane</p>
+        <p>Per questioni relative al personale, ad esempio dubbi concernenti la direzione e/o altri dipendenti, contatta il rappresentante locale delle <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">Risorse umane</a>.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>Ufficio Legale</p>
+        <p>Contatta l’Ufficio Legale per domande o dubbi sulle implicazioni legali della concussione e corruzione.</p>
+        <ul>
+          <li>Fai clic qui per accedere alla home page dell’Ufficio Legale in Abbott World.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>ALTRE RISORSE</p>
+        <p>Sono disponibili molte altre risorse:</p>
+        <p>Finanza: in caso di domande in materia di contabilità o finanza, contattare il reparto Finanza locale.</p>
+        <p>Corporate Audit: in caso di dubbi specifici concernenti contabilità, controlli contabili interni o questioni di auditing, segnalarli tempestivamente al reparto Corporate Audit o all’ufficio OEC.</p>
+        <p>Qualità e regolamentazione Abbott – In caso di domande sulla qualità e sulla sicurezza dei nostri prodotti, contattare il proprio dipartimento locale di qualità o regolamentazione.</p>
+        <p>Global Environment, Health, and Safety: in caso di domande su una località specifica e sui rischi potenziali, contattare un rappresentante del reparto Global Environment, Health, and Safety.</p>
+        <p>Approvvigionamento globale: se hai domande sulle relazioni con i fornitori, contatta l’ufficio Approvvigionamento globale.</p>
+      </div>
+      <p class="resSubtitles" data-break="true">Risorse del corso</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Trascrizione</p>
+        <p>Fai clic <a href="reference/Transcript.pdf" target="_blank">qui</a> per ricevere una trascrizione completa del corso</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>Il corso non riesce a contattare l’LMS. Fai clic su “OK” per continuare e rivedere il corso. La Certificazione del corso potrebbe non essere disponibile. Fai clic su “Annulla” per uscire</s1>
+    <s2>Nessuna domanda ha ricevuto risposta</s2>
+    <s3>Domande</s3>
+    <s4>Domanda</s4>
+    <s5>senza risposta</s5>
+    <s6>Esatto!</s6>
+    <s7>Sbagliato!</s7>
+    <s8>Feedback:</s8>
+    <s9>Codice di Condotta Aziendale</s9>
+    <s10>Verifica delle conoscenze</s10>
+    <s11>Invia</s11>
+    <s12>Riprova</s12>
+    <s13>Descrizione del corso: Il nostro Codice di Condotta Aziendale è un documento di importanza fondamentale che descrive le aspettative che l’azienda nutre verso ciascun dipendente, poiché attraverso il nostro lavoro quotidiano noi rappresentiamo Abbott. Su di esso si fondano i nostri comportamenti e le nostre responsabilità e ci aiuterà a operare le scelte migliori per Abbott, per noi stessi e per le numerose persone che si affidano a noi. Questo corso offre una panoramica di alto livello del Codice, definisce le aspettative dell’azienda e i tuoi obblighi, e fornisce indicazioni pratiche su cosa fare quando il percorso migliore da seguire non è immediatamente chiaro. Il completamento del corso richiede 35-45 minuti.</s13>
+    <s14>Menu</s14>
+    <s15>Risorse</s15>
+    <s16>Materiale di riferimento</s16>
+    <s17>Audio</s17>
+    <s18>Esci</s18>
+    <s19>Chiudi</s19>
+    <s20>Commento…</s20>
+  </strings>
+</course>

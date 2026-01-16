@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="欢迎" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="《商业行为准则》">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="我们的理念">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="目标">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="目录">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="雅培《商业行为准则》的重要性" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="我们的日常承诺">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="《准则》对我们业务的重要性">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="雅培《准则》" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="概述">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="我们的客户">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="我们的产品">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="推动科学">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="我们的员工">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="我们的社区">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="我们如何运营">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="你的承诺" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="你的承诺">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="知识测验" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="介绍">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="评估">
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="反馈">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="调查">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>《商业行为准则》</p>
+      </div>
+      <p class="startInstruction">点击前进箭头。</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>作为一家全球医疗保健领导者，我们每天所做的事至关重要。</p>
+        <p>我们的《商业行为准则》是实用的指南，让我们能够诚信行事，秉持使命进行领导，并做出体现我们最本真的选择。它指导着我们建立信任，恪守价值观和不断给世界带来有意义的影响。</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>学完本课程后，你将：</p>
+        <ul>
+          <li>了解《商业行为准则》对我们业务的重要性。</li>
+          <li>能够明了《商业行为准则》的关键原则，并理解在日常的工作实践中应当如何运用这些原则。</li>
+          <li>了解雅培对以正当方式在全球范围内开展业务的期望要求。</li>
+          <li>了解寻求帮助和支持的途径。</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>欢迎</p>
+            <p>1 分钟</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>雅培《商业行为准则》的重要性</p>
+            <p>2 分钟</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>我们的准则</p>
+            <p>18 分钟</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>你的承诺</p>
+            <p>1 分钟</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>知识测验</p>
+            <p>5 分钟</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>学习进度</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">该主题的课程现可参加。</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>我们诚信、公平且正直地领导。每一个人，每一天都应如此。</p>
+        <p>我们的《商业行为准则》提醒我们：诚信、公平和正直并非只是理想，而是我们每天矢志不渝秉持的理念。《准则》虽然无法预见到我们可能会面临的每一项挑战，但构建了强大的价值观基石来指导我们。</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>我们恪守最严格的标准。</p>
+        <p>《商业行为准则》对雅培的成功至关重要，这是因为它规定了有关我们工作方式的标准——即诚信、公平且正直地开展工作。它有助于我们做出合乎道德的决策（尤其在复杂的情况下），并且确保我们始终遵循雅培的价值观。通过遵守《准则》，我们保护着雅培的声誉，与我们所服务的对象建立信任，并创造一种以正确行事最为重要的工作场所文化。</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>每个人都有责任了解《准则》。</p>
+        <p>我们每个人对于将《商业行为准则》运用到日常工作和决策中都发挥着重要作用。它不只是一份文件，更是指导我们诚信且自信地克服挑战的指南。</p>
+        <p>在接下来的各节中，我们将探讨《准则》的关键原则，了解如何运用这些原则来开展日常工作和做出选择。</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">你必须在继续前查看所有内容。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>雅培致力于为那些需要依靠我们产品的人们改善健康、增进福祉。</p>
+          </div>
+          <div>
+            <p>特此提醒，每个决策、每次创新和每项行动都蕴含着意义——让生活变得更美好。</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>患者与消费者</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>医疗保健专业人士</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>点击每个图标了解更多信息。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>患者与消费者</p>
+                <p>对人的关爱是我们一切工作的核心。我们将患者和消费者的健康和福祉放在首位。每一天，我们都能够产生有意义的影响——帮助人们更健康地生活，助力构建更强大、更健康的社区。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>医疗保健专业人士</p>
+                <p>我们携手医疗保健专业人士，提高人们的健康水平。我们尊重医生、护士、药剂师、研究员或实验室人员等医疗保健专业人士的知识和独立判断。他们在指导患者提高健康水平方面发挥着关键作用。</p>
+                <p>在雅培，我们致力于及时为这些人员提供准确的信息，以便他们做出最佳决策。我们通力合作，就能实现我们的共同目标——改善全人类的健康与福祉。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">你必须在继续前查看所有内容。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>在雅培，我们致力于确保我们提供的每款产品都安全、卓有成效并且不辜负人们对雅培的信赖。</p>
+          </div>
+          <div>
+            <p>从材料选择到营销、销售和交付方式，我们采取各种措施确保我们的产品安全且卓有成效。在每个环节，我们都恪守严格的质量标准。</p>
+            <p>我们还致力于及时发现、评估并解决产品安全问题，采取措施以防止假冒产品、非法挪用与盗窃产品。</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>产品质量</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>产品推广 I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>产品推广 II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>点击每个图标了解更多信息。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>产品质量</p>
+                <p>安全、卓有成效且值得信赖。我们的产品会产生影响。</p>
+                <p>从采购和生产到营销、销售和产品交付方式（包括通过合作伙伴进行这些活动），我们在每个环节都致力于确保质量。每个环节都至关重要，因为人们把安全托付给我们。</p>
+                <p>我们致力于及时发现、评估并解决产品安全问题。我们确保医疗保健专业人士和机构获得所需信息，便于他们安全有效地使用我们的产品。如果出现潜在安全问题，我们会与政府监管部门或公共卫生机构进行沟通。</p>
+                <p>我们会采取措施防止伪造、非法挪用和盗窃我们产品的行为。我们遵守贸易法规（包括进出口管制规定），并遵守政府实施的限制与制裁，以保障国家安全和公众健康。</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>产品推广 I</p>
+                <p>我们诚信地推广并销售产品，尊重那些信赖雅培产品的消费者。</p>
+                <p>我们的产品宣传信息真实、客观，并且符合已批准的标签说明、科学证据以及我们运营所在国家/地区的最佳医疗实践。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>产品推广 II</p>
+                <p>我们仅针对已获批的有预期用途的产品进行推广。</p>
+                <p>我们按照我们运营所在国家/地区的卫生部门授予的许可证和批文开展运营。我们的产品推广、销售和分销都遵守严格的贸易法规和国家/地区特定法规。通过严格的内部政策和程序，我们确保合规并恪守我们“以合乎道德、安全且负责任的方式开展业务”这一承诺。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">你必须在继续前查看所有内容。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>在雅培，我们致力于在秉持使命的同时诚信地推动科学进步。</p>
+          </div>
+          <div>
+            <p>我们追求创新，也认识到负责任地预见并解决风险的重要性。我们尊重每位研究参与者，在科学研究中恪守最高的透明度与客观性标准。</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>创新 I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>创新 II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>推动科学进步</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>点击每个图标了解更多信息。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>创新 I</p>
+                <p>我们创造创新的医疗保健解决方案，以帮助全世界人们过上更健康的生活，并帮助改善医疗效果。</p>
+                <p>我们探索能够以新的方式为健康保驾护航的突破性疗法、急救生命的器械和创新产品，以此满足人类的需求。凭借先进的科技，我们竭力改善医疗效果，让人们能够过上充实美满的生活——为人生每个阶段都带来有意义的创新。</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>创新 II</p>
+                <p>我们培养创新文化，寻求新的可能性，并制定应变计划。</p>
+                <p>尽管进步往往伴随着风险，我们在雅培的《准则》与政策的指导下采取审慎、负责的措施来预测各种挑战并提前最大限度减少这些挑战。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>推动科学进步</p>
+                <p>我们开展研究从而催生准确、客观的数据，以此促进创新、改善疗法并推动医疗保健领域的发展。</p>
+                <p>在开展研究的过程中，我们尊重每位研究参与者，保护他们免遭不必要的风险，并且确保他们了解研究的性质和目的以及相关风险。获得研究对象的知情认可是我们研究过程中的一个重要部分。</p>
+                <p>我们重视科学研究的透明度，不会试图不当地影响研究结果。无论研究结果对产品是否有利，我们都确保研究数据是准确的，并承诺及时、准确地提供有关产品的研究结果。</p>
+                <p>如果由第三方为雅培完成研究或代表雅培发表研究成果，则我们会与拥有强大科学和医学背景的专家进行合作。我们希望这些合作者披露其与雅培之间的任何关系，包括经济关系或其他关系。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">你必须在继续前查看所有内容。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>在雅培，我们营造一种坦诚相待、多元且相互尊重的文化——因为这种文化可促进创造力和创新。</p>
+          </div>
+          <div>
+            <p>我们每个人都有责任时刻恪守《准则》：尊重他人，营造安全、包容的工作环境，确保人人都能获得平等的机会。</p>
+            <p>当有疑问时，我们要提出问题；当感到有事情不对劲时，我们要勇于直言。</p>
+            <p>本节强调了我们对提供平等机会和营造安全工作环境的承诺，并提醒我们要了解《准则》并在一切工作中运用和恪守《准则》。</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>合作</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>我们彼此之间的联系</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>报告疑虑</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>平等的机会</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>公平的待遇</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>工作环境</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>点击每个图标了解更多信息。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>合作</p>
+                <p>我们重视坦诚相待与合作，因为多元的想法可带来更好的解决方案。</p>
+                <p>我们鼓励多元化，因为多元化会催生创造力、聚集能量并推动进步。为了对全人类的健康产生有意义的影响，我们倾听并重视彼此的心声，并携手工作共同实现使命。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>我们彼此之间的联系</p>
+                <p>我们每个人都有责任时刻实践雅培的价值观。</p>
+                <p>我们通过以合乎道德的方式工作行事来增强雅培文化。每位员工都必须了解《准则》如何适用于各自的职务和工作。</p>
+                <p>经理和主管作为领导者尤其负有责任——他们必须以身作则实践雅培的价值观，倡导合乎道德的行为，并营造安全的工作环境，让每位员工都能放心地提出问题和疑虑而无需担心遭受报复。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>报告疑虑</p>
+                <p>当有疑问或感到有事情不对劲时，我们要提出问题。此外，我们还要勇于直言，举报任何可能违反《准则》的行为。</p>
+                <p>我们有责任在感到方向不明确时提出问题，并且有责任质疑和举报疑似的不道德商业行为以及违反《准则》或雅培政策的行为。</p>
+                <p>如果你不确定怎样的抉择或行动才是正确的，请咨询你的经理或联系商业道德与合规办公室。</p>
+                <p>经理和主管必须以身作则，还必须确保员工了解并遵守《准则》。领导在传达雅培期望方面负有更大责任，并且应向商业道德与合规办公室举报任何可能违反《准则》的行为。</p>
+                <p>雅培会认真对待所有关于可能违反《准则》的行为的举报。商业道德与合规办公室会采取后续措施，包括调查以及必要的纠正措施。你不应自行调查。每位员工都必须配合调查，并对调查予以保密。</p>
+                <p>对于下列行为，纠正措施包括纪律处分（情节严重者将被解雇）或法律诉讼：</p>
+                <ul>
+                  <li>授权或参与违规行为；</li>
+                  <li>拒绝配合调查；</li>
+                  <li>因监督不力而导致未能报告违规行为；</li>
+                  <li>进行虚假报告；</li>
+                  <li>对出于善意报告疑虑的人员进行报复。</li>
+                </ul>
+                <p>我们绝不容许打击报复行为。如果你认为发生了报复行为，应向商业道德与合规办公室或人力资源部举报。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>平等的机会</p>
+                <p>我们为所有员工提供平等的机会。</p>
+                <p>我们以工作需要、技能、经验和业绩为基础做出雇佣决定。我们绝不容忍任何类型的歧视。我们遵守全世界范围内所有管辖我们与员工之间关系的法律。</p>
+                <p>雅培禁止基于下列任何因素歧视员工，包括种族、肤色、宗教、年龄、性别、国籍、性别认同或表达、性取向、残疾、婚姻状况、退伍身份或军籍、遗传状况、公民身份或其他任何受法律保护的身份。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>公平的待遇</p>
+                <p>我们营造相互尊重、包容、安全的工作环境。</p>
+                <p>我们努力确保每位员工都感到受欢迎、受支持和被赋权。</p>
+                <p>雅培倡导健康、无骚扰的工作环境，重视每位员工的意见，以促进多元化和包容性。</p>
+                <p>我们尊重每位员工并保障每位员工享有尊严，通过公平和诚实来建立信任——绝不做出摆布、误导或欺瞒的行为。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>工作环境</p>
+                <p>我们优先考虑确保安全、公平的工作条件。</p>
+                <p>必须立即向管理层报告任何意外事故或不安全状况。雅培还在全世界的业务活动中采取行动，预防和禁止出现违法和不当劳动做法，以及任何形式的残忍或不人道的待遇。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">你必须在继续前查看所有内容。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>在雅培，我们通过融入社区、保护环境和友好互动来建立信任。</p>
+          </div>
+          <div>
+            <p>我们竭力回馈我们运营所在的社区，并对人们的生活产生积极持久的影响。</p>
+            <p>雅培通过减少能耗和保护自然资源来尽量减少自身对环境的影响。</p>
+            <p>此外，我们还在全球各地的运营中支持适当的政治参与并鼓励融入社区。</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>融入社区</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>环境责任</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>资助支持政治活动</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>点击每个图标了解更多信息。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>融入社区</p>
+                <p>我们支持社区福祉。</p>
+                <p>在雅培，我们通过产品、工作成果和行动来支持社区福祉。长期以来，我们一直积极回馈我们生活和工作所在的社区，因为我们坚信，健康的社区才会繁荣昌盛。</p>
+                <p>通过我们的业务、合作关系以及对当地组织和事业的支持，我们竭力在我们经营所在的社区产生积极持久的影响。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>环境责任</p>
+                <p>我们参与可持续发展，并努力减少自身对环境的影响。</p>
+                <p>我们努力在我们从事的一切事务中保护环境——从原料采购到产品制造、运输和使用方式。</p>
+                <p>我们采取措施减少能耗和节约自然资源。我们在工作和社区中支持清洁能源项目。我们想方设法减少废弃物，加强材料的循环利用并减少环境风险。我们还遵守适用于我们业务的环境法律法规。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>资助支持政治活动</p>
+                <p>我们鼓励适当参与政治活动，支持社区融入。</p>
+                <p>雅培支持符合我们使命和价值观的公共政策。在适当的时候，我们还可以为政治候选人或利益团体提供支持。</p>
+                <p>关于企业资助支持政治活动的法律很复杂，因此，在出于此目的使用雅培资金或以雅培的名义进行捐赠之前，必须先经过法律部的审核。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">你必须在继续前查看所有内容。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>在雅培，我们致力于诚信经营并在我们工作的各个方面恪守我们的承诺。</p>
+          </div>
+          <div>
+            <p>在处理利益冲突时，我们将雅培的利益置于个人利益之上。我们保护雅培资产和声誉，妥善保护机密信息，并尊重所有将个人信息分享给我们的人的隐私。</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>公平交易</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>避免利益冲突 I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>避免利益冲突 II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>保护雅培资产和声誉</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>机密信息</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>点击每个图标了解更多信息。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>公平交易</p>
+                <p>我们诚信经营，并在工作的各个方面恪守我们的承诺。</p>
+                <p>我们每个人都要对自己的工作和所做的决策负责。在每次职场互动中，无论是与同事、客户、供应商、医疗保健专业人士、竞争对手还是其他人互动，我们都必须确保雅培的业务开展方式公平且有诚信。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>避免利益冲突 I</p>
+                <p>我们只有在识别和化解利益冲突之后才能进入下一步工作。</p>
+                <p>当个人利益妨碍或看似妨碍了雅培的最大利益时，就会出现利益冲突。业务决策必须基于雅培的需要，而不是基于个人的好处或亲朋好友的利益。我们应运用良好的判断力，并避免任何会导致实际或疑似会产生利益冲突的情形。如果私人的关系、利益或外部活动影响了你公平有效地行事的能力，或者可能为你或你的亲属带来好处，则你必须按照雅培的指南披露潜在利益冲突并从相关事务中退出。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>避免利益冲突 II</p>
+                <p>我们在做出与工作相关的决策时，要将雅培的利益放在首位。</p>
+                <p>这意味着要优先考虑公司的目标，而不是特定团队、小组或个人的目标。我们在雅培任职期间获得的任何机会或资源都应当用于为公司带来益处，而不是用于谋取个人利益。我们不应与雅培竞争，或帮助其他人与雅培竞争。当机会出现时，我们必须优先考虑雅培的利益。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>保护雅培资产和声誉</p>
+                <p>我们是公司的守护者。</p>
+                <p>我们每个人都有责任明智地保护和使用雅培资产。这些资产包括车辆和电脑等实物，以及知识产权、商业秘密和专业知识等宝贵信息。</p>
+                <p>我们务必要运用良好的判断力，确保正确、高效、谨慎地使用这些资源，避免丢失、被盗、滥用或浪费。</p>
+                <p>雅培声誉是我们最宝贵的资产之一，我们每个人在保护雅培声誉方面都发挥着重要作用。</p>
+                <p>我们每个人都要对自己所代表的雅培形象负责，尤其是在公开场合和在网络上，因为我们在这些环境中分享的任何信息（无论是通过谈话、电子邮件还是社交媒体进行分享）都可能会对公司产生影响。我们必须审慎地沟通，运用良好的判断力，保护雅培的机密信息。</p>
+                <p>与外界互动时，我们应考虑我们是否会被视为代表雅培，以及我们的言行是否可能会影响雅培声誉。这在社交媒体上尤其重要，因为在社交媒体上，帖子扩散速度很快、传播面很广——一个漫不经心的评论或帖子就可能会造成实际损害。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>机密信息</p>
+                <p>我们致力于尊重和保护所有机密信息（包括个人数据）。</p>
+                <p>机密信息是雅培最有价值的资产之一。机密信息包括非公开的详细信息，例如研究、商业秘密、业务计划、定价、合同、财务结果，以及其他一旦披露就可能会让竞争对手获益或对雅培造成损害的数据。</p>
+                <p>我们必须保护机密信息，并防止未经授权使用或分享此类信息——即使在离职后也应如此。</p>
+                <p>在雅培，我们还必须尊重他人的知识产权，避免不当使用他人的机密信息。滥用非公开信息（例如，用于进行内幕交易）是非法且不道德的行为。</p>
+                <p>我们必须保护同事、医疗保健专业人士和客户托付给我们的个人数据。在收集和使用个人信息时，我们会在征得必要的同意后负责任地收集和使用，绝不会出售个人信息或者从未经授权的来源获取个人信息。许多地方都有严格的隐私法律；我们承诺了解并遵守此类法律，尤其是在涉及最敏感类别的个人信息时。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">你必须在继续前查看所有内容。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>在雅培，我们致力于诚信经营并在我们工作的各个方面恪守我们的承诺。</p>
+          </div>
+          <div>
+            <p>在处理利益冲突时，我们将雅培的利益置于个人利益之上。我们保护雅培资产和声誉，妥善保护机密信息，并尊重所有将个人信息分享给我们的人的隐私。</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>反贿赂</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>礼品、餐饮和招待</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>准确的账簿和记录</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>遵守法律</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>公平竞争</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>点击每个图标了解更多信息。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>反贿赂</p>
+                <p>我们积极反对欺诈、贿赂和腐败。我们采取正当方式经营业务。</p>
+                <p>作为个人，我们希望医疗保健专业人士根据患者的最大利益做出决策，而不受公司激励措施的影响。同样，我们希望政府官员以公众利益行事，而不受公司的施压所影响。</p>
+                <p>雅培会向医疗保健专业人士讲授有关雅培产品的知识，但不会干涉他们的独立判断。绝不允许为了获得业务或回报以往的合作关系而向医务人员（例如医生、药剂师、护士、研究员或实验室人员）、政府官员或其他人提供任何有价物。</p>
+                <p>我们在全球范围内遵守反贿赂、反腐败和反回扣法律，包括美国《反海外腐败法》。雅培的每位员工都必须谨慎管理与服务提供商（例如经销商、顾问和演讲者）的关系，开展尽职调查，按照市场公允价值进行付款并妥善记录款项，以确保符合法律和公司标准。</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>礼品、餐饮 和招待</p>
+                <p>我们遵循反贿赂原则，不会为了获取业务优势而直接或间接提供任何有价物。</p>
+                <p>为了防止对商业决策的不当地影响，我们对礼品、餐饮和招待做出了限制。雅培的各项政策有助于确保品牌提示物、风俗礼品、招待和其他好处绝不会干扰专业判断。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>准确的账簿和记录</p>
+                <p>我们准确地衡量工作业绩。</p>
+                <p>雅培的记录和公开声明必须准确反映我们的行动，包含充分的背景信息来显示我们工作的真实性质。财务报告必须遵循会计准则、法律和雅培的内部政策。</p>
+                <p>在报告相关定价、款项或有价物（尤其是提供给医疗保健专业人士）时，我们必须确保信息完整准确。许多政府都要求这种透明度以保护公共资金。雅培致力于提供可靠的数据，以便政府、保险公司和其他利益相关方都能做出明智的决定。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>遵守法律</p>
+                <p>我们遵守适用于我们工作的一切法律法规和雅培要求。</p>
+                <p>雅培的每位员工都应遵守所有适用的法律以及雅培的政策、流程和《准则》。这是雇佣关系的基本条件。雅培政策涵盖医疗合规、质量、财务、贸易、安全等各个重要方面，有助于我们满足法律要求并防止违规。</p>
+                <p>作为一家全球性公司，我们还必须明白，某个国家/地区的法律可能也适用于在其他国家/地区开展的工作。如有疑问，请向法律部或商业道德与合规办公室寻求指导。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>公平竞争</p>
+                <p>我们保证，我们与竞争对手的任何往来均是正当的。</p>
+                <p>雅培承诺遵守我们运营所在各个国家和地区的竞争性法律。这些法律禁止阻碍公平市场运作的协议或行为——尤其是在定价、销售条款和与竞争对手互动方面。</p>
+                <p>要避免与竞争对手讨论敏感话题（例如定价、成本或商业计划）；如果你有疑问或遇到任何不对劲的情况，请联系法律部或商业道德与合规办公室。竞争法很复杂，而且违反此类法律会导致严厉处罚，所以我们还必须谨慎管理与第三方的关系，以确保合规并避免甚至只是疑似的反竞争行为。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>在结束本课程之前，请花点时间确认你已经了解你在雅培《商业行为准则》方面的相关责任。</p>
+          <p>我确认我已经了解自己在雅培《商业行为准则》方面的相关责任，并知晓在哪里查找并审阅适用的政策和流程。</p>
+          <button class="qcSubmitBtn">确认</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>随后的知识测验部分含 10 道题。你必须达到 80% 或以上的正确率才能成功完成本课程。</p>
+        <p>准备好后，请点击“知识测验”按钮。</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>[1]为什么《商业行为准则》很重要？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>它针对我们在工作过程中可能会遇到的各种情况提供了具体的建议。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>它提供了一套原则和价值观，以作为我们在尚不明确何为最佳行动的情况下进行决策的依据。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一页</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>《商业行为准则》为我们提供了一套清晰的原则和价值观，以作为我们在尚不明确何为最佳行动的情况下进行决策的依据。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>下列哪项<span class="underline">永远不是</span>合适的商业活动？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>考虑到 HCP 的技术和专业知识，聘请他们来讲述特定的疾病领域。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>在雅培赞助的教育项目中，为与会者提供合理的膳食。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>为当地组织安排慈善捐赠。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>为开展一项教育项目而聘请 HCP，感谢其适用雅培产品。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一页</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>因 HCP 的技术及专业知识而对其进行聘用是可行的，然而，出于对使用雅培产品的感谢而聘用 HCP 是不正当的，因为这有可能被视为贿赂。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>涉及贿赂和腐败的个人的后果可包括：</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>声誉损害。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>罚款和处罚。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>解雇。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>被判入狱。</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>以上全部。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一页</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>个人涉及贿赂和腐败的后果可能会包括声誉扫地、罚款和处罚、被解雇、甚至被判入狱。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>一位销售代表也有一家小型珠宝店。她想为近来没有给雅培产品开处方的 HCP 从其商店中提供一些小礼品。这是否可以？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>是</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>否</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一页</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>雅培政策禁止给医疗保健专业人士送礼。该销售代表是作为雅培代表行事的，因此不得做出这种送礼行为，即使她自行支付礼品的费用。提供礼品也有可能被看作是为未来业务进行贿赂。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>一位销售经理接到了一家竞争对手公司的联系人的来电。对方称，雅培在新市场签约的第三方销售团队据说有向选择购买雅培产品（而非竞争对手产品）的客户提供豪华大餐。对此，正确的做法是什么？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>什么也不做，因为信息来自竞争对手。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>什么也不做，因为向客户提供豪华大餐在该市场是很普遍的做法。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>立即向商业道德与合规办公室报告此事。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>如果情况属实，就寻找备选经销商。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一页</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>即使信息来自竞争对手，你也应立即向商业道德与合规办公室报告情况，以便该部门进行调查。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>一家旅行社负责为那些替雅培提供手术指导服务的医疗保健专业人士安排差旅事宜。你在审核旅行社提交的收据时发现了不一致之处——总额与报销金额不符，而且一些收据缺失关键详细信息（例如差旅日期）。</p>
+              <p>对此，正确的做法是什么？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>告知该旅行社，雅培在完整且准确的单据缺失的情况下无法处理付款。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>照常处理收据，因为只是缺失了一部分信息。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>告知该旅行社下次要提供更准确的信息。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>什么也不做，因为该旅行社是新的。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一页</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>雅培的账簿和记录必须完整、准确地反映所有交易。因此，为雅培提供服务的第三方必须出具完整的、准确反映交易实际目的和细节的文件，这是至关重要的。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>你在一家允许赞助 HCP 参加教育会议的雅培分支机构工作。你正在挑选参加会议的 HCP。你选择的标准包括：(1) 会议的主题是否与该医疗保健专业人士的专业领域相符；(2) 过去一年雅培是否赞助过该医疗保健专业人士；以及 (3) 该医疗保健专业人士是否有可能在参加完会议后推荐雅培产品或使用雅培设备。这些标准是否合适？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>是。为个人提供赞助时必须始终满足两大关键标准，即a) 此赞助与该医疗保健专业人士的专业领域相关，以及 b) 并非为了酬谢或业务招揽。确认雅培在过去一年没有赞助过该医疗保健专业人士有助确保满足后一项标准。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>是。只要并非因为要对其施加影响或提供回报而赞助该医疗保健专业人士，你就可以考虑你的投资回报，即，此人是否会继续将雅培产品加入其所开的药方。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>否。赞助决定不得基于如下因素，即该医疗保健专业人士有可能在参加完某项赞助活动后推荐雅培产品或使用雅培设备。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>是。只要至少有一个标准是适当的，则其他不适当标准的存在并无伤大雅。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一页</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>在任何情况下均不得为答谢某人此前曾使用我们产品或设备，或者为诱导其日后更多使用我们的产品或设备而为其提供赞助。请记住，在许多司法管辖区禁止赞助。在提供赞助之前，要始终参阅当地分支机构的流程程序。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>雅培销售代表向一位医疗保健专业人士 (HCP) 讲授关于某款产品的知识。在讨论结束后，这位医疗保健专业人士透露说，有雅培的竞争对手提出，只要能够帮助提升他们的销量，他们就会赠送一台新 iPad 作为回报。</p>
+              <p>对此，正确的做法是什么？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>提供同样的激励措施，以保持竞争优势。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>拒绝提供 iPad，但建议一起去吃顿豪华大餐以继续再谈此事。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>向对方解释，雅培以正确的方式开展业务，不允许提供任何可能会不当地影响决策的有价物。然后，立即将此情况报告给商业道德与合规办公室。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>感谢对方提供信息，并承诺你会就此进行考虑。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一页</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>你不应该为了获得不当商业利益或者获得或保留业务而提议、承诺、给予或接受任何有价物。无论竞争对手做什么，你必须遵守适用的法律和雅培政策，包括雅培全球反腐败政策 (GLB-ANTI-CORRUPTION) 的要求。如有疑问，应咨询法律部或商业道德与合规办公室。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>以下哪些有价物的示例是不得出于赢得业务而赠与的？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>为 HCP 及其家人提供水疗、赌场、或去其他知名娱乐场所的旅行。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>对未来研究或教育项目的资助。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>给政府官员首选的慈善机构进行捐赠。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>以上皆是。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一页</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>在全球反腐败政策 (GLB-ANTI-CORRUPTION) 中雅培在对待商业贿赂和腐败方面的标准与我们在诚信、公平、正直的基础上开展业务的承诺一致。这意味着提供或给予有价物来赢得业务从来都是不允许的。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>一位身为关键意见领袖的医疗保健专业人士询问，你是否能够为他打算参与的一项教育项目提供一些支持，这样的话就可以为雅培换得更多的商业机遇。哪个是最适合的选项？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>坚定拒绝这一请求，因为这违反了雅培的反腐败政策。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>告知对方你会咨询你的经理。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>同意这一请求，因为对方是一位关键意见领袖，具有很大的影响力。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>以上皆不是。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">提交</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>我们遵循反贿赂原则，不会为了获取业务优势而直接或间接提供任何有价物。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>你尚未完成知识测验，无法查看结果。</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>恭喜！你已顺利通过知识测验。</p>
+          <p>请点击问题，在下方查看你的测验结果。</p>
+          <p>完成后，请点击前进箭头，参加一个简短调查。</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>抱歉，你未通过知识测验。请点击各个问题，在下方查看你的测验结果。</p>
+          <p>完成后，请点击重新测验按钮。</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>该调查是可选项。</p>
+          <p>重要：无论是否选择完成调查，都需要点击课程标题栏中的退出 (X) 图标，以便完成课程并上传你的结果。</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>你对本课程的总体评价如何？</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>很差</p>
+                  <p>欠佳</p>
+                  <p>一般</p>
+                  <p>不错</p>
+                  <p>很好</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>请进一步解释你的评价。</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>完成本课后，我对雅培《商业行为准则》有了更好的了解。</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>强烈反对</p>
+                  <p>反对</p>
+                  <p>中立</p>
+                  <p>同意</p>
+                  <p>强烈同意</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>本课程涵盖的内容与你的工作有多大关联？</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>毫不相关</p>
+                  <p>不太相关</p>
+                  <p>不确定</p>
+                  <p>有些相关</p>
+                  <p>非常相关</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>你希望进一步了解本课程中涵盖的哪个主题？</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">点击“上传”按钮，完成课程、上传数据并关闭课程窗口。</p>
+          <button class="surveySubmit">
+            <p>上传</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">到何处获取支持</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>经理</p>
+        <p>如果你对自己与雅培外部人员的往来互动有疑问，那么最好先询问你的经理</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>书面标准</p>
+        <ul>
+          <li>有关公司对与他人往来互动的基本期望要求，请查阅<a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">《商业行为准则》</a>。</li>
+          <li>如需了解适用于全公司的公司政策及流程，请访问<a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">全球政策门户</a>。</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>商业道德与合规办公室 (OEC)</p>
+        <p>商业道德与合规办公室是一个全球资源，可以帮助你解决有关公司价值观和行为标准的疑问或疑虑。</p>
+        <ul>
+          <li>请访问“雅培全球”上的<a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance/?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">商业道德与合规办公室网站</a>。</li>
+          <li>如果你对公司内部或与客户或其他第三方的交易中的腐败商业活动有任何担忧，你可以向商业道德与合规办公室 (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) 或法律部报告你的疑虑，或拨打我们的全球全天候多语种 <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> 热线。</li>
+          <li>iComply - 访问 <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> 查阅合规相关应用和资源，这些应用和资源专门面向与医疗保健专业人士、医疗保健机构和第三方的交往。</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>人力资源部</p>
+        <p>对于有关员工的问题，例如问题涉及管理层和/或其他员工，请联系你当地的<a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">人力资源代表</a>。</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>法律部</p>
+        <p>如果不清楚贿赂和腐败可能引发的法律问题，请咨询法律部。</p>
+        <ul>
+          <li>点击此处，访问“雅培全球”上的法律部主页。</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>其他资源</p>
+        <p>有许多其他资源可供你使用：</p>
+        <p>财务 - 如果你的疑问涉及财务或会计，请联系你当地的财务部门。</p>
+        <p>企业审计 - 如果你有具体针对会计、内部会计管理或审计事务有意见，请迅速向企业审计部门或商业道德与合规办公室报告。</p>
+        <p>雅培质量与监管 - 如果你对我们产品的质量安全有疑问，请联系你当地的质量或监管部门。</p>
+        <p>全球环境、健康和安全 - 如果你对具体业务场所和潜在危险有疑问，请联系全球环境、健康和安全部门的代表。</p>
+        <p>全球采购 - 如果你对和供应商的关系有疑问，请联系全球采购部门。</p>
+      </div>
+      <p class="resSubtitles" data-break="true">课程资源</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>录音文稿</p>
+        <p>点击<a href="reference/Quick_Reference.pdf" target="_blank">此处</a>，查看本课程的脚本全文</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>本课程无法联系 LMS。点击“确定”继续查看本课程。注意：可能无法获得课程认证。点击“取消”退出</s1>
+    <s2>所有问题均未回答</s2>
+    <s3>问题</s3>
+    <s4>问题</s4>
+    <s5>未回答</s5>
+    <s6>正确！</s6>
+    <s7>不正确！</s7>
+    <s8>反馈：</s8>
+    <s9>《商业行为准则》</s9>
+    <s10>知识测验</s10>
+    <s11>提交</s11>
+    <s12>重新测验</s12>
+    <s13>课程描述：我们的《商业行为准则》是一份至关重要的文件，阐述了雅培对在日常工作中代表雅培的每一位员工的期望。《准则》是我们履行责任和日常行为的基础，有助于我们为了雅培、我们自己以及我们广大的服务对象做出最佳决策。本课程高度概述了《准则》，阐述了公司的期望和员工的义务，并针对你难以做出最佳决策的情形提供了实用建议。完成本课程需要 35-45 分钟。</s13>
+    <s14>菜单</s14>
+    <s15>资源</s15>
+    <s16>参考资料</s16>
+    <s17>音频</s17>
+    <s18>退出</s18>
+    <s19>关闭</s19>
+    <s20>备注…</s20>
+  </strings>
+</course>

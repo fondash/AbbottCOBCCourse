@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="Καλώς ορίσατε" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="Κώδικας Επιχειρηματικής Συμπεριφοράς">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="Η φιλοσοφία μας">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="Στόχοι">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="Πίνακας περιεχομένων">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="Η σημασία του Κώδικα Επιχειρηματικής Συμπεριφοράς της Abbott" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="Οι καθημερινές μας δεσμεύσεις">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="Η σημασία του Κώδικα στην επιχειρηματική μας δραστηριότητα">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="Ο Κώδικάς μας" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="Επισκόπηση">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="Οι πελάτες μας">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="Τα προϊόντα μας">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="Προώθηση της επιστήμης">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="Οι άνθρωποί μας">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="Οι κοινότητές μας">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="Πώς λειτουργούμε">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="Η δέσμευσή σας" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="Η δέσμευσή σας">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="Έλεγχος γνώσεων" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="Εισαγωγή">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="Αξιολόγηση">
+        <nav navId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="Σχόλια">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="Έρευνα">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>Κώδικας Επιχειρηματικής Συμπεριφοράς</p>
+      </div>
+      <p class="startInstruction">Κάντε κλικ στο εμπρός βέλος.</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Ως παγκόσμιος ηγέτης στον τομέα της υγειονομικής περίθαλψης, οτιδήποτε κάνουμε κάθε μέρα έχει σημασία.</p>
+        <p>Ο Κώδικας Επιχειρηματικής Συμπεριφοράς μας είναι μία ισχυρή πυξίδα που μας επιτρέπει να ενεργούμε με ακεραιότητα, να ηγούμαστε με σκοπό και να κάνουμε επιλογές που αντικατοπτρίζουν τον καλύτερο εαυτό μας. Με αυτόν τον τρόπο δημιουργούμε εμπιστοσύνη, υποστηρίζουμε τις αξίες μας και συνεχίζουμε να κάνουμε μια σημαντική διαφορά στον κόσμο.</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Μετά την ολοκλήρωση αυτού του μαθήματος:</p>
+        <ul>
+          <li>Θα κατανοήσετε τη σημασία του Κώδικα Επιχειρηματικής Συμπεριφοράς για την επιχειρηματική μας δραστηριότητα.</li>
+          <li>Θα μπορείτε να προσδιορίσετε τις βασικές αρχές του Κώδικα Επιχειρηματικής Συμπεριφοράς και να κατανοήσετε πώς εφαρμόζεται στις καθημερινές εργασιακές μας πρακτικές</li>
+          <li>Θα κατανοήσετε τις προσδοκίες της Abbott για την διενέργεια επιχειρηματικών δραστηριοτήτων παγκοσμίως με τον σωστό τρόπο.</li>
+          <li>Θα γνωρίζετε πού να απευθυνθείτε για βοήθεια και υποστήριξη.</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>Καλώς ορίσατε</p>
+            <p>1 λεπτό</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>Η σημασία του Κώδικα Επιχειρηματικής Συμπεριφοράς της Abbott</p>
+            <p>2 λεπτά</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>Ο Κώδικάς μας</p>
+            <p>18 λεπτά</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>Η δέσμευσή σας</p>
+            <p>1 λεπτό</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>Έλεγχος γνώσεων</p>
+            <p>5 λεπτά</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>Μαθησιακή πρόοδος</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">Αυτό το θέμα είναι τώρα διαθέσιμο.</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Ηγούμαστε με ακεραιότητα, δικαιοσύνη και ειλικρίνεια. Όλοι. Κάθε μέρα.</p>
+        <p>Ο Κώδικας Επιχειρηματικής Συμπεριφοράς μας υπενθυμίζει ότι η ακεραιότητα, η δικαιοσύνη και η ειλικρίνεια δεν είναι απλώς ιδανικά, αλλά καθημερινές δεσμεύσεις. Αν και ο Κώδικας δεν μπορεί να προβλέψει κάθε πρόκληση που ενδέχεται να αντιμετωπίσουμε, προσφέρει μια ισχυρή βάση αξιών που θα μας καθοδηγεί στην πορεία.</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Δεσμευόμαστε να τηρούμε τα υψηλότερα πρότυπα.</p>
+        <p>Ο Κώδικας Επιχειρηματικής Συμπεριφοράς είναι ζωτικής σημασίας για την επιτυχία της Abbott, επειδή θέτει τα πρότυπα του τρόπου που εργαζόμαστε – με ακεραιότητα, δικαιοσύνη και ειλικρίνεια. Μας βοηθά να λαμβάνουμε δεοντολογικές αποφάσεις, ειδικά σε περίπλοκες καταστάσεις, και εξασφαλίζει ότι παραμένουμε πιστοί στις αξίες μας. Ακολουθώντας τον Κώδικα, προστατεύουμε τη φήμη μας, δημιουργούμε σχέσεις εμπιστοσύνης με αυτούς που εξυπηρετούμε και δημιουργούμε μια κουλτούρα στον χώρο εργασίας όπου το να κάνουμε το σωστό είναι εξαιρετικά σημαντικό.</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Η κατανόηση του Κώδικα είναι ευθύνη όλων.</p>
+        <p>Κάθε ένας από εμάς έχει έναν ρόλο στην εφαρμογή του Κώδικα Επιχειρηματικής Συμπεριφοράς στην καθημερινή μας εργασία και στη λήψη αποφάσεων. Δεν είναι απλά ένα έγγραφο, είναι ένας οδηγός που μας βοηθά να αντιμετωπίζουμε τις προκλήσεις με ακεραιότητα και αυτοπεποίθηση.</p>
+        <p>Στις επόμενες ενότητες, θα εξερευνήσουμε τις βασικές αρχές του Κώδικα και θα δούμε πώς αυτές εφαρμόζονται στις καθημερινές ενέργειες και επιλογές μας.</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Πρέπει να προβάλετε όλο το περιεχόμενο πριν προχωρήσετε.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Στην Abbott, δεσμευόμαστε στη βελτίωση της υγείας και της ευεξίας των ανθρώπων που βασίζονται στα προϊόντα μας.</p>
+          </div>
+          <div>
+            <p>Είναι μια υπενθύμιση ότι πίσω από κάθε απόφαση, κάθε καινοτομία και κάθε ενέργεια υπάρχει ένας σκοπός: να βελτιώσουμε τη ζωή των ανθρώπων.</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>Ασθενείς και καταναλωτές</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>Επαγγελματίες Υγείας</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Κάντε κλικ σε κάθε εικονίδιο για να μάθετε περισσότερα.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΑΣΘΕΝΕΙΣ ΚΑΙ ΚΑΤΑΝΑΛΩΤΕΣ</p>
+                <p>Η φροντίδα των ανθρώπων βρίσκεται στο επίκεντρο των στόχων μας. Δίνουμε προτεραιότητα στην υγεία και την ευεξία των ασθενών και των καταναλωτών. Κάθε μέρα, μπορούμε να κάνουμε ουσιαστική διαφορά, βοηθώντας τους ανθρώπους να ζήσουν μια πιο υγιεινή ζωή και συμβάλλοντας στη δημιουργία ισχυρότερων και υγιέστερων κοινοτήτων.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΕΠΑΓΓΕΛΜΑΤΙΕΣ ΥΓΕΙΑΣ</p>
+                <p>Συνεργαζόμαστε με ΕΥ για την υποστήριξη της καλύτερης υγείας. Σεβόμαστε τις γνώσεις και την ανεξάρτητη κρίση των επαγγελματιών υγείας, είτε πρόκειται για γιατρούς, νοσηλευτές, φαρμακοποιούς, ερευνητές ή προσωπικό εργαστηρίων. Ο ρόλος τους στην καθοδήγηση των ασθενών για καλύτερη υγεία είναι ουσιαστικός.</p>
+                <p>Στην Abbott, δεσμευόμαστε να τους υποστηρίζουμε με ακριβείς και έγκαιρες πληροφορίες, έτσι ώστε να μπορούν να λαμβάνουν τις καλύτερες αποφάσεις. Συνεργαζόμενοι μαζί τους, μπορούμε να επιτύχουμε τον κοινό μας στόχο για τη βελτίωση της υγείας και της ευεξίας σε ολόκληρο τον κόσμο.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Πρέπει να προβάλετε όλο το περιεχόμενο πριν προχωρήσετε.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Στην Abbott, δεσμευόμαστε να διασφαλίζουμε ότι κάθε προϊόν που προσφέρουμε είναι ασφαλές, αποτελεσματικό και αξιόπιστο για τους ανθρώπους που μας εμπιστεύονται.</p>
+          </div>
+          <div>
+            <p>Λαμβάνουμε μέτρα για να εξασφαλίσουμε ότι τα προϊόντα μας είναι ασφαλή και αποτελεσματικά – από την επιλογή των κατάλληλων υλικών έως τον τρόπο προώθησης, πώλησης και παράδοσης τους. Σε κάθε στάδιο, ακολουθούμε τα υψηλότερα πρότυπα ποιότητας.</p>
+            <p>Δεσμευόμαστε επίσης για έγκαιρο εντοπισμό, αξιολόγηση και αντιμετώπιση των ζητημάτων ασφάλειας των προϊόντων, καθώς και τη λήψη μέτρων για την πρόληψη της παραχάραξης, της παράνομης εκτροπής και της κλοπής των προϊόντων μας.</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>Ποιότητα Προϊόντος</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>Προώθηση Προϊόντος Ι</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>Προώθηση Προϊόντος ΙΙ</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Κάντε κλικ σε κάθε εικονίδιο για να μάθετε περισσότερα.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΠΟΙΟΤΗΤΑ ΠΡΟΪΟΝΤΟΣ</p>
+                <p>Ασφαλές, αποτελεσματικό και αξιόπιστο. Τα προϊόντα μας κάνουν τη διαφορά.</p>
+                <p>Δεσμευόμαστε για την ποιότητα σε κάθε στάδιο – από την προμήθεια και την παραγωγή έως τον τρόπο με τον οποίο προωθούμε, πωλούμε και παραδίδουμε τα προϊόντα μας, συμπεριλαμβανομένων και των συνεργατών μας. Κάθε βήμα έχει σημασία γιατί οι άνθρωποι βασίζονται σε εμάς για την ασφάλειά τους.</p>
+                <p>Δεσμευόμαστε στην έγκαιρη αναγνώριση, αξιολόγηση και αντιμετώπιση θεμάτων ασφάλειας των προϊόντων. Διασφαλίζουμε ότι οι επαγγελματίες υγείας και τα ιδρύματα/φορείς, έχουν τις πληροφορίες που χρειάζονται για να χρησιμοποιούν τα προϊόντα μας με ασφάλεια και αποτελεσματικότητα και ενημερώνουμε τις κανονιστικές ή δημόσιες υπηρεσίες υγείας σε περίπτωση ενδεχόμενων ζητημάτων ασφάλειας.</p>
+                <p>Λαμβάνουμε μέτρα για την αποτροπή παραποίησης, παράνομης εκτροπής και κλοπής των προϊόντων μας. Τηρούμε τους εμπορικούς κανονισμούς, καθώς και τους κανόνες ελέγχου των εξαγωγών και των εισαγωγών, και συμμορφωνόμαστε με τους κυβερνητικούς περιορισμούς και τις κυρώσεις για την προστασία της εθνικής ασφάλειας και της δημόσιας υγείας.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΠΡΟΩΘΗΣΗ ΠΡΟΪΟΝΤΟΣ Ι</p>
+                <p>Προωθούμε και πωλούμε τα προϊόντα μας με ειλικρίνεια και σεβασμό προς όσους βασίζονται σε αυτά.</p>
+                <p>Οι επικοινωνίες μας σχετικά με τα προϊόντα είναι αληθείς, ισορροπημένες και ευθυγραμμισμένες με την εγκεκριμένη επισήμανση, τα επιστημονικά στοιχεία και τις βέλτιστες ιατρικές πρακτικές στις χώρες όπου δραστηριοποιούμαστε.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΠΡΟΩΘΗΣΗ ΠΡΟΪΟΝΤΟΣ ΙΙ</p>
+                <p>Προωθούμε τα προϊόντα μας για τις προβλεπόμενες και εγκεκριμένες χρήσεις τους.</p>
+                <p>Λειτουργούμε σε ευθυγράμμιση με τις άδειες και τις εγκρίσεις που έχουν χορηγηθεί από τις υγειονομικές αρχές των χωρών στις οποίες δραστηριοποιούμαστε. Η προώθηση, η πώληση και η διανομή των προϊόντων μας ακολουθούν αυστηρούς εμπορικούς νόμους και τους κανονισμούς που ισχύουν σε κάθε χώρα. Μέσω ισχυρών εσωτερικών πολιτικών και διαδικασιών, διασφαλίζουμε τη συμμόρφωση και τηρούμε τη δέσμευσή μας για δεοντολογικές, ασφαλείς και υπεύθυνες επιχειρηματικές πρακτικές.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Πρέπει να προβάλετε όλο το περιεχόμενο πριν προχωρήσετε.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Στην Abbott, είμαστε αφοσιωμένοι στην προώθηση της επιστήμης με ακεραιότητα και σκοπό.</p>
+          </div>
+          <div>
+            <p>Προωθούμε την καινοτομία, αναγνωρίζοντας τη σημασία της πρόβλεψης και της υπεύθυνης αντιμετώπισης των κινδύνων. Τιμούμε την αξιοπρέπεια κάθε συμμετέχοντα στη μελέτη και τηρούμε τα υψηλότερα πρότυπα διαφάνειας και αντικειμενικότητας στην επιστημονική έρευνα.</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>Καινοτομία Ι</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>Καινοτομία ΙΙ</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>Προώθηση της επιστήμης</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Κάντε κλικ σε κάθε εικονίδιο για να μάθετε περισσότερα.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΚΑΙΝΟΤΟΜΙΑ Ι</p>
+                <p>Δημιουργούμε καινοτόμες λύσεις υγειονομικής περίθαλψης για να βοηθήσουμε τους ανθρώπους να ζήσουν πιο υγιεινή ζωή και να βελτιώσουμε τα κλινικά αποτελέσματα σε όλο τον κόσμο.</p>
+                <p>Ανταποκρινόμαστε στις ανθρώπινες ανάγκες με πρωτοποριακές θεραπείες, συσκευές που σώζουν ζωές και καινοτόμα προϊόντα που υποστηρίζουν την υγεία με νέους τρόπους. Μέσω της πρωτοποριακής επιστήμης και τεχνολογίας, προσπαθούμε να βελτιώσουμε τα κλινικά αποτελέσματα και να ενισχύσουμε τους ανθρώπους ώστε να ζήσουν τη ζωή τους στο έπακρο, δημιουργώντας σημαντικές καινοτομίες για κάθε στάδιο της ζωής.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΚΑΙΝΟΤΟΜΙΑ ΙΙ</p>
+                <p>Καλλιεργούμε μια κουλτούρα καινοτομίας, εξερευνώντας νέες δυνατότητες και σχεδιάζοντας για περιπτώσεις έκτακτων αναγκών.</p>
+                <p>Ενώ η πρόοδος συχνά περιλαμβάνει κινδύνους, λαμβάνουμε προσεκτικά και υπεύθυνα μέτρα για να προβλέψουμε τις προκλήσεις και να τις μειώσουμε εκ των προτέρων, πάντα με βάση τον Κώδικα και τις πολιτικές μας.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΠΡΟΩΘΗΣΗ ΤΗΣ ΕΠΙΣΤΗΜΗΣ</p>
+                <p>Διεξάγουμε έρευνες για τη δημιουργία ακριβών, αντικειμενικών δεδομένων που προωθούν την καινοτομία, βελτιώνουν τις θεραπείες και προάγουν την υγειονομική περίθαλψη.</p>
+                <p>Κατά τη διεξαγωγή της έρευνας, συμπεριφερόμαστε στους συμμετέχοντες με αξιοπρέπεια, τους προστατεύουμε από περιττούς κινδύνους και διασφαλίζουμε ότι κατανοούν τη φύση και τον σκοπό της έρευνας, καθώς και τους συναφείς κινδύνους. Λαμβάνουμε συγκατάθεση κατόπιν ενημέρωσης από τους συμμετέχοντες στις μελέτες ως ουσιαστικό μέρος της ερευνητικής διαδικασίας.</p>
+                <p>Εκτιμούμε τη διαφάνεια στην επιστημονική έρευνα και δεν θα επιδιώξουμε να επηρεάσουμε τα αποτελέσματα με αθέμιτο τρόπο. Διασφαλίζουμε ότι τα δεδομένα είναι ακριβή και έχουμε δεσμευτεί να παρέχουμε τα αποτελέσματα των ερευνών σχετικά με τα προϊόντα μας, ανεξάρτητα από το εάν τα αποτελέσματα είναι θετικά ή αρνητικά, με τρόπο έγκαιρο και ακριβή.</p>
+                <p>Όταν η έρευνα διεξάγεται για την Abbott ή δημοσιεύεται για λογαριασμό μας, συνεργαζόμαστε με ειδικούς που διαθέτουν ισχυρό επιστημονικό και ιατρικό υπόβαθρο. Αναμένουμε από αυτούς να γνωστοποιούν οποιαδήποτε σχέση με την Abbott, συμπεριλαμβανομένων των οικονομικών ή άλλων σχέσεων.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Πρέπει να προβάλετε όλο το περιεχόμενο πριν προχωρήσετε.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Στην Abbott, υποστηρίζουμε μια κουλτούρα διαφάνειας, πολυμορφίας και σεβασμού, επειδή προωθεί τη δημιουργικότητα και την καινοτομία.</p>
+          </div>
+          <div>
+            <p>Ο καθένας μας έχει την ευθύνη να τηρεί τον Κώδικα καθημερινά: αντιμετωπίζοντας τους άλλους με σεβασμό, δημιουργώντας ένα ασφαλές και χωρίς αποκλεισμούς εργασιακό περιβάλλον και εξασφαλίζοντας ίσες ευκαιρίες για όλους.</p>
+            <p>Κάνουμε ερωτήσεις όταν τα πράγματα δεν είναι σαφή και εκφράζουμε την άποψή μας όταν κάτι δεν μας φαίνεται σωστό.</p>
+            <p>Αυτή η ενότητα ενισχύει τη δέσμευσή μας για ίσες ευκαιρίες και ένα ασφαλές εργασιακό περιβάλλον και μας υπενθυμίζει να κατανοούμε, να εφαρμόζουμε και να τηρούμε τον Κώδικα σε οτιδήποτε κάνουμε.</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>Συνεργασία</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>Η σύνδεση μεταξύ μας</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>Αναφορά ζητημάτων</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>Ισότιμες Ευκαιρίες</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>Δίκαιη Μεταχείριση</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>Εργασιακό περιβάλλον</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Κάντε κλικ σε κάθε εικονίδιο για να μάθετε περισσότερα.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΣΥΝΕΡΓΑΣΙΑ</p>
+                <p>Εκτιμούμε τη διαφάνεια και τη συνεργασία, επειδή οι διαφορετικές ιδέες οδηγούν σε καλύτερες λύσεις.</p>
+                <p>Υιοθετούμε τη διαφορετικότητα, καθώς αποτελεί πηγή έμπνευσης, δυναμισμού και εξέλιξης. Για να επιτύχουμε έναν ουσιαστικό αντίκτυπο στην παγκόσμια υγεία, ακούμε ο ένας τον άλλον, εκτιμούμε κάθε φωνή και συνεργαζόμαστε με κοινό σκοπό.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>Η ΣΥΝΔΕΣΗ ΜΕΤΑΞΥ ΜΑΣ</p>
+                <p>Μοιραζόμαστε όλοι μας την ευθύνη να εφαρμόζουμε τις αξίες της Abbott στην πράξη, κάθε μέρα.</p>
+                <p>Ενεργώντας δεοντολογικά, ενισχύουμε την κουλτούρα μας. Όλοι πρέπει να κατανοούν πώς εφαρμόζεται ο Κώδικας στον ρόλο και την εργασία τους.</p>
+                <p>Οι διευθυντές και οι προϊστάμενοι έχουν ιδιαίτερη ευθύνη ως ηγέτες: πρέπει να αποτελούν πρότυπο για τις αξίες μας, να προάγουν τη δεοντολογική συμπεριφορά και να δημιουργούν ένα ασφαλές περιβάλλον όπου οι εργαζόμενοι θα αισθάνονται άνετα να κάνουν ερωτήσεις και να εκφράζουν τις ανησυχίες τους χωρίς τον φόβο αντιποίνων.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΑΝΑΦΟΡΑ ΖΗΤΗΜΑΤΩΝ</p>
+                <p>Κάνουμε ερωτήσεις όταν κάτι δεν είναι σαφές ή δεν μας φαίνεται σωστό. Επίσης, εκφράζουμε την άποψή μας και αναφέρουμε πιθανές παραβάσεις του Κώδικα.</p>
+                <p>Είναι δική μας ευθύνη να θέτουμε ερωτήσεις όταν η καθοδήγηση δεν είναι σαφής και να αμφισβητούμε ή να αναφέρουμε τυχόν ύποπτη αντιδεοντολογική επιχειρηματική συμπεριφορά, παραβάσεις του Κώδικα ή παραβάσεις των πολιτικών της Abbott.</p>
+                <p>Εάν δεν είστε σίγουροι για τη σωστή επιλογή ή ενέργεια, μιλήστε με τον διευθυντή σας ή επικοινωνήστε με το Γραφείο Δεοντολογίας και Συμμόρφωσης.</p>
+                <p>Οι διευθυντές και οι προϊστάμενοι πρέπει να ηγούνται με το παράδειγμά τους και να διασφαλίζουν ότι οι εργαζόμενοι κατανοούν και τηρούν τον Κώδικα. Οι ηγέτες έχουν αυξημένη ευθύνη να επικοινωνούν τις προσδοκίες της Abbott και οφείλουν να απευθύνονται στο Γραφείο Δεοντολογίας και Συμμόρφωσης για οποιεσδήποτε πιθανές παραβάσεις του Κώδικα.</p>
+                <p>Όλες οι αναφορές για πιθανές παραβάσεις του Κώδικα λαμβάνονται σοβαρά υπόψη. Το Γραφείο Δεοντολογίας και Συμμόρφωσης θα αναλάβει τα επόμενα βήματα, συμπεριλαμβανομένων των ερευνών και των διορθωτικών ενεργειών, όταν αυτό κριθεί απαραίτητο. Δεν πρέπει να προβείτε σε έρευνα μόνοι σας. Όλοι πρέπει να συνεργάζονται και να τηρούν την εμπιστευτικότητα των ερευνών.</p>
+                <p>Διορθωτικές ενέργειες μπορεί να περιλαμβάνουν πειθαρχικές ενέργειες (έως και τον τερματισμό της απασχόλησης) ή νομικές ενέργειες για:</p>
+                <ul>
+                  <li>Έγκριση ή συμμετοχή σε παράβαση,</li>
+                  <li>Άρνηση συνεργασίας σε μια έρευνα,</li>
+                  <li>Παράλειψη αναφοράς παράβασης λόγω ανεπαρκούς εποπτείας,</li>
+                  <li>Ψευδή αναφορά</li>
+                  <li>Αντίποινα εναντίον ατόμου που ανέφερε ένα πρόβλημα με καλή πίστη.</li>
+                </ul>
+                <p>Τα αντίποινα δεν επιτρέπονται σε καμία περίπτωση. Αν πιστεύετε ότι έχουν συμβεί αντίποινα, θα πρέπει να το αναφέρετε στο Γραφείο Δεοντολογίας και Συμμόρφωσης ή στο τμήμα Ανθρώπινου Δυναμικού.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΙΣΟΤΙΜΕΣ ΕΥΚΑΙΡΙΕΣ</p>
+                <p>Παρέχουμε ισότιμες ευκαιρίες για όλους τους υπαλλήλους.</p>
+                <p>Παίρνουμε τις αποφάσεις μας για την απασχόληση με βάση τις ανάγκες της εταιρείας, τις δεξιότητες, την εμπειρία και την απόδοση. Δεν επιτρέπεται καμία μορφή διάκρισης. Τηρούμε όλους τους νόμους που διέπουν τις σχέσεις μας με τους υπαλλήλους μας σε όλο τον κόσμο.</p>
+                <p>Η Abbott απαγορεύει τις διακρίσεις με βάση τη φυλή, το χρώμα, τη θρησκεία, την ηλικία, το φύλο, την εθνική καταγωγή, την έμφυλη ταυτότητα (σεξουαλικό προσανατολισμό) ή τη φυλετική έκφραση, την αναπηρία, την οικογενειακή κατάσταση, την κατάσταση βετεράνου ή τη στρατιωτική κατάσταση, τη γενετική κατάσταση ή την υπηκοότητα ή οποιαδήποτε άλλη νομίμως προστατευόμενη κατάσταση.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΔΙΚΑΙΗ ΜΕΤΑΧΕΙΡΙΣΗ</p>
+                <p>Προωθούμε ένα εργασιακό περιβάλλον με σεβασμό, ασφάλεια και χωρίς αποκλεισμούς.</p>
+                <p>Εργαζόμαστε για να διασφαλίσουμε ότι όλοι νιώθουν ευπρόσδεκτοι, υποστηριζόμενοι και ενδυναμωμένοι.</p>
+                <p>Η Abbott προωθεί ένα υγιές περιβάλλον χωρίς παρενοχλήσεις και εκτιμά τη συμβολή των εργαζομένων στην ενίσχυση της διαφορετικότητας και της συμπερίληψης.</p>
+                <p>Συμπεριφερόμαστε σε όλους με σεβασμό και αξιοπρέπεια, χτίζοντας εμπιστοσύνη μέσω της δικαιοσύνης και της ειλικρίνειας – ποτέ μέσω της χειραγώγησης, της διαστρέβλωσης ή της έλλειψης διαφάνειας.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΕΡΓΑΣΙΑΚΟ ΠΕΡΙΒΑΛΛΟΝ</p>
+                <p>Δίνουμε προτεραιότητα στην ασφάλεια και στις δίκαιες συνθήκες εργασίας.</p>
+                <p>Τα ατυχήματα ή οι επισφαλείς καταστάσεις πρέπει να αναφέρονται αμέσως στη διεύθυνση. Η Abbott λαμβάνει επίσης μέτρα για την πρόληψη και την απαγόρευση των παράνομων και ακατάλληλων πρακτικών εργασίας και κάθε μορφή σκληρής ή απάνθρωπης μεταχείρισης, στις επιχειρηματικές δραστηριότητές μας παγκοσμίως.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Πρέπει να προβάλετε όλο το περιεχόμενο πριν προχωρήσετε.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Στην Abbott, δημιουργούμε εμπιστοσύνη μέσω της κοινότητας, του περιβάλλοντος και της συμμετοχής.</p>
+          </div>
+          <div>
+            <p>Επιδιώκουμε να προσφέρουμε στις κοινότητες όπου δραστηριοποιούμαστε και να δημιουργούμε έναν θετικό, διαρκή αντίκτυπο στις ζωές των ανθρώπων.</p>
+            <p>Η Abbott προσπαθεί να περιορίσει το περιβαλλοντικό της αποτύπωμα μειώνοντας την κατανάλωση ενέργειας και προστατεύοντας τους φυσικούς πόρους.</p>
+            <p>Υποστηρίζουμε επίσης την κατάλληλη πολιτική δέσμευση και ενθαρρύνουμε τη συμμετοχή της κοινότητας σε όλες τις παγκόσμιες δραστηριότητές μας.</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>Συμμετοχή στην κοινότητα</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>Περιβαλλοντική ευθύνη</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>Πολιτικές συνεισφορές</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Κάντε κλικ σε κάθε εικονίδιο για να μάθετε περισσότερα.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΣΥΜΜΕΤΟΧΗ ΣΤΗΝ ΚΟΙΝΟΤΗΤΑ</p>
+                <p>Υποστηρίζουμε την ευημερία της κοινότητας.</p>
+                <p>Στην Abbott, στηρίζουμε την ευημερία των κοινοτήτων μέσα από τα προϊόντα μας, το έργο μας και τις δράσεις μας. Διαθέτουμε μια μακρά ιστορία προσφοράς στους τόπους όπου ζούμε και εργαζόμαστε, γιατί πιστεύουμε ότι οι υγιείς κοινότητες ευημερούν.</p>
+                <p>Μέσω των δραστηριοτήτων, των συνεργασιών και της υποστήριξής μας σε τοπικές ομάδες και σκοπούς, προσπαθούμε να έχουμε θετικό και διαρκή αντίκτυπο οπουδήποτε κι αν δραστηριοποιούμαστε.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΠΕΡΙΒΑΛΛΟΝΤΙΚΗ ΕΥΘΥΝΗ</p>
+                <p>Συμμετέχουμε στη βιώσιμη ανάπτυξη και εργαζόμαστε για να μειώσουμε τον αντίκτυπό μας στο περιβάλλον.</p>
+                <p>Εργαζόμαστε για να προστατεύουμε το περιβάλλον σε οτιδήποτε κάνουμε – από τον τρόπο με τον οποίο προμηθευόμαστε τα υλικά μέχρι τον τρόπο με τον οποίο κατασκευάζουμε, μεταφέρουμε και χρησιμοποιούμε τα προϊόντα μας.</p>
+                <p>Λαμβάνουμε μέτρα για να χρησιμοποιούμε λιγότερη ενέργεια και λιγότερους φυσικούς πόρους. Υποστηρίζουμε έργα καθαρής ενέργειας στον χώρο εργασίας και στις κοινότητές μας. Αναζητούμε τρόπους για να μειώσουμε τα απόβλητα, να αυξήσουμε την ανακύκλωση και να μειώσουμε τους περιβαλλοντικούς κινδύνους. Ακολουθούμε επίσης τους περιβαλλοντικούς νόμους και κανονισμούς που ισχύουν για τις δραστηριότητές μας.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΠΟΛΙΤΙΚΕΣ ΣΥΝΕΙΣΦΟΡΕΣ</p>
+                <p>Ενθαρρύνουμε την κατάλληλη συμμετοχή στην πολιτική διαδικασία και υποστηρίζουμε τη συμμετοχή στα ζητήματα της κοινότητας.</p>
+                <p>Η Abbott υποστηρίζει δημόσιες πολιτικές που ευθυγραμμίζονται με την αποστολή και τις αξίες μας. Κατά περίπτωση, ενδέχεται επίσης να υποστηρίζουμε πολιτικούς υποψηφίους ή ομάδες συμφερόντων.</p>
+                <p>Επειδή οι νόμοι σχετικά με τις πολιτικές συνεισφορές των εταιρειών είναι περίπλοκοι, οποιαδήποτε χρήση των κεφαλαίων της Abbott –ή συνεισφορές που γίνονται εκ μέρους της Abbott– πρέπει πρώτα να ελέγχονται από το Νομικό Τμήμα.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Πρέπει να προβάλετε όλο το περιεχόμενο πριν προχωρήσετε.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Στην Abbott, δεσμευόμαστε να δραστηριοποιούμαστε με εντιμότητα και να τηρούμε τις δεσμεύσεις μας σε όλους τους τομείς της εργασίας μας.</p>
+          </div>
+          <div>
+            <p>Θέτουμε τα συμφέροντα της Abbott πάνω από τα δικά μας, σε περιπτώσεις διαχείρισης σύγκρουσης συμφερόντων. Προστατεύουμε τα περιουσιακά στοιχεία και τη φήμη της Abbott, διαφυλάσσουμε τις εμπιστευτικές πληροφορίες και σεβόμαστε το ιδιωτικό απόρρητο όσων μοιράζονται τις προσωπικές πληροφορίες τους μαζί μας.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>Θεμιτές συναλλαγές</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>Αποφυγή σύγκρουσης συμφερόντων Ι</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>Αποφυγή σύγκρουσης συμφερόντων ΙΙ</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>Προστασία των περιουσιακών στοιχείων και της φήμης της Abbott</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>Εμπιστευτικές πληροφορίες</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Κάντε κλικ σε κάθε εικονίδιο για να μάθετε περισσότερα.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΘΕΜΙΤΕΣ ΣΥΝΑΛΛΑΓΕΣ</p>
+                <p>Διεξάγουμε τις επιχειρηματικές μας δραστηριότητες με ακεραιότητα και τηρούμε τις δεσμεύσεις μας σε κάθε πτυχή της εργασίας μας.</p>
+                <p>Καθένας από εμάς είναι υπεύθυνος για την εργασία του και τις αποφάσεις που λαμβάνει στα πλαίσια του ρόλου του. Σε κάθε επαγγελματική αλληλεπίδραση –είτε με συναδέλφους, πελάτες, προμηθευτές, επαγγελματίες υγείας, ανταγωνιστές ή άλλους– οφείλουμε να είμαστε δίκαιοι και ειλικρινείς σχετικά με τον τρόπο με τον οποίο δραστηριοποιείται η Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΑΠΟΦΥΓΗ ΣΥΓΚΡΟΥΣΗΣ ΣΥΜΦΕΡΟΝΤΩΝ Ι</p>
+                <p>Αναγνωρίζουμε και αντιμετωπίζουμε οποιεσδήποτε συγκρούσεις συμφερόντων πριν προχωρήσουμε.</p>
+                <p>Σύγκρουση συμφερόντων προκύπτει όταν τα προσωπικά συμφέροντα παρεμβαίνουν ή φαίνεται ότι παρεμβαίνουν σε ό,τι είναι καλύτερο για την Abbott. Οι επιχειρηματικές αποφάσεις πρέπει να βασίζονται στις ανάγκες της Abbott, όχι σε προσωπικό όφελος ή στα συμφέροντα της οικογένειας ή των φίλων. Αναμένεται από εμάς να χρησιμοποιούμε ορθή κρίση και να αποφεύγουμε καταστάσεις που θα μπορούσαν να οδηγήσουν σε πραγματική ή εικαζόμενη σύγκρουση. Εάν προσωπικές σχέσεις, συμφέροντα ή εξωεπαγγελματικές δραστηριότητες επηρεάζουν την ικανότητά σας να ενεργείτε δίκαια και αποτελεσματικά –ή θα μπορούσαν να ωφελήσουν εσάς ή ένα μέλος της οικογένειάς σας– πρέπει να γνωστοποιήσετε τη δυνητική σύγκρουση και να απομακρυνθείτε από την κατάσταση, ακολουθώντας τις οδηγίες της Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΑΠΟΦΥΓΗ ΣΥΓΚΡΟΥΣΗΣ ΣΥΜΦΕΡΟΝΤΩΝ ΙΙ</p>
+                <p>Κατά τη λήψη αποφάσεων που σχετίζονται με την εργασία, δίνουμε προτεραιότητα στα συμφέροντα της Abbott.</p>
+                <p>Αυτό σημαίνει ότι προτεραιότητα έχουν οι στόχοι της εταιρείας έναντι των στόχων μιας συγκεκριμένης ομάδας, ομάδας ή ατόμου. Οποιεσδήποτε ευκαιρίες ή πόροι στους οποίους έχουμε πρόσβαση μέσω των ρόλων μας στην Abbott πρέπει να χρησιμοποιούνται προς όφελος της εταιρείας και όχι για προσωπικό κέρδος. Δεν πρέπει ποτέ να ανταγωνιζόμαστε με την Abbott ή να βοηθούμε άλλους να το πράξουν. Όταν παρουσιάζονται ευκαιρίες, πρέπει να εστιάζουμε στην προώθηση των συμφερόντων της Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΠΡΟΣΤΑΣΙΑ ΤΩΝ ΠΕΡΙΟΥΣΙΑΚΩΝ ΣΤΟΙΧΕΙΩΝ ΚΑΙ ΤΗΣ ΦΗΜΗΣ ΤΗΣ ABBOTT</p>
+                <p>Είμαστε οι προστάτες της εταιρείας μας.</p>
+                <p>Έχουμε όλοι μας την ευθύνη να προστατεύουμε και να χρησιμοποιούμε με σύνεση τα περιουσιακά στοιχεία της Abbott. Αυτό περιλαμβάνει οτιδήποτε, από φυσικά αντικείμενα όπως οχήματα και υπολογιστές, έως πολύτιμες πληροφορίες όπως πνευματική ιδιοκτησία, εμπορικά μυστικά και εξειδικευμένες γνώσεις.</p>
+                <p>Πρέπει πάντα να χρησιμοποιούμε την ορθή κρίση μας για να διασφαλίζουμε ότι οι εν λόγω πόροι χρησιμοποιούνται σωστά, αποτελεσματικά και με προσοχή, αποφεύγοντας την απώλεια, την κλοπή, την κατάχρηση ή τη σπατάλη.</p>
+                <p>Η φήμη της Abbott είναι ένα από τα πιο πολύτιμα περιουσιακά μας στοιχεία και όλοι μας διαδραματίζουμε τον ρόλο μας στην προστασία της.</p>
+                <p>Κάθε ένας από εμάς είναι υπεύθυνος για τον τρόπο με τον οποίο εκπροσωπούμε την Abbott, ειδικά σε δημόσιους χώρους και στο διαδίκτυο, όπου οτιδήποτε κοινοποιούμε –είτε σε συνομιλίες, email ή μέσα κοινωνικής δικτύωσης– μπορεί να επηρεάσει την εικόνα της εταιρείας. Είναι σημαντικό να επικοινωνούμε με προσοχή, να χρησιμοποιούμε την ορθή κρίση μας και να προστατεύουμε τις εμπιστευτικές πληροφορίες της Abbott.</p>
+                <p>Κατά τις εξωτερικές μας αλληλεπιδράσεις, πρέπει να λαμβάνουμε υπόψη το ενδεχόμενο να εκληφθεί ότι εκπροσωπούμε την Abbott και να σκεφτόμαστε πώς τα λόγια ή οι πράξεις μας θα μπορούσαν να επηρεάσουν τη φήμη της. Αυτό είναι ιδιαίτερα σημαντικό στα μέσα κοινωνικής δικτύωσης, όπου οι αναρτήσεις μπορούν να διαδοθούν γρήγορα και εκτεταμένα – ένα απρόσεκτο σχόλιο ή μια ανάρτηση μπορεί να προκαλέσει πραγματική ζημιά.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΕΜΠΙΣΤΕΥΤΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ</p>
+                <p>Δεσμευόμαστε να σεβόμαστε και να προστατεύουμε όλες τις εμπιστευτικές πληροφορίες, συμπεριλαμβανομένων των προσωπικών δεδομένων.</p>
+                <p>Οι εμπιστευτικές πληροφορίες αποτελούν ένα από τα πιο πολύτιμα περιουσιακά στοιχεία της Abbott. Περιλαμβάνουν μη δημόσια στοιχεία όπως έρευνα, εμπορικά μυστικά, επιχειρηματικά σχέδια, τιμολόγηση, συμβάσεις, οικονομικά αποτελέσματα και άλλα δεδομένα που θα μπορούσαν να ωφελήσουν τους ανταγωνιστές ή να βλάψουν την Abbott εάν δημοσιοποιηθούν.</p>
+                <p>Πρέπει να προστατεύουμε τις εμπιστευτικές πληροφορίες και να αποτρέπουμε τη μη εξουσιοδοτημένη χρήση ή κοινοποίηση τους, ακόμη και μετά τη λήξη της συνεργασίας μας με την Abbott.</p>
+                <p>Στην Abbott σεβόμαστε επίσης την πνευματική ιδιοκτησία των άλλων και αποφεύγουμε την ακατάλληλη χρήση των εμπιστευτικών πληροφοριών τους. Η κατάχρηση μη δημόσιων πληροφοριών, όπως για παράδειγμα για αθέμιτη χρήση εμπιστευτικών πληροφοριών, είναι παράνομη και ανήθικη.</p>
+                <p>Προστατεύουμε επίσης τα προσωπικά δεδομένα που μας εμπιστεύονται οι συνάδελφοι, οι επαγγελματίες υγείας και οι πελάτες μας. Όταν συλλέγουμε και χρησιμοποιούμε προσωπικές πληροφορίες, το κάνουμε υπεύθυνα, με την κατάλληλη συναίνεση, και ποτέ δεν τις πωλούμε ή τις αποκτούμε από μη εξουσιοδοτημένες πηγές. Πολλές περιοχές έχουν αυστηρούς νόμους περί προστασίας του ιδιωτικού απορρήτου και δεσμευόμαστε να τους κατανοούμε και να τους τηρούμε, ειδικά όσον αφορά τις πιο ευαίσθητες κατηγορίες προσωπικών πληροφοριών.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Πρέπει να προβάλετε όλο το περιεχόμενο πριν προχωρήσετε.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Στην Abbott, δεσμευόμαστε να δραστηριοποιούμαστε με εντιμότητα και να τηρούμε τις δεσμεύσεις μας σε όλους τους τομείς της εργασίας μας.</p>
+          </div>
+          <div>
+            <p>Θέτουμε τα συμφέροντα της Abbott πάνω από τα δικά μας, σε περιπτώσεις διαχείρισης σύγκρουσης συμφερόντων. Προστατεύουμε τα περιουσιακά στοιχεία και τη φήμη της Abbott, διαφυλάσσουμε τις εμπιστευτικές πληροφορίες και σεβόμαστε το ιδιωτικό απόρρητο όσων μοιράζονται τις προσωπικές πληροφορίες τους μαζί μας.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>Καταπολέμηση της δωροδοκίας</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>Δώρα, Γεύματα και Ψυχαγωγία</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>Ακριβή βιβλία και στοιχεία</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>Συμμόρφωση με τους νόμους</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>Θεμιτός ανταγωνισμός</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Κάντε κλικ σε κάθε εικονίδιο για να μάθετε περισσότερα.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΚΑΤΑΠΟΛΕΜΗΣΗ ΤΗΣ ΔΩΡΟΔΟΚΙΑΣ</p>
+                <p>Είμαστε ενεργά αντίθετοι με την απάτη, τη δωροδοκία και τη διαφθορά. Αποκτούμε επιχειρηματικές δραστηριότητες με τον σωστό τρόπο.</p>
+                <p>Προσδοκούμε οι επαγγελματίες υγείας να παίρνουν αποφάσεις που υπηρετούν το καλό των ασθενών, χωρίς να επηρεάζονται από εταιρικές παροχές ή κίνητρα. Με τον ίδιο τρόπο, προσδοκούμε οι κρατικοί αξιωματούχοι να υπηρετούν το δημόσιο συμφέρον, χωρίς εταιρικές πιέσεις.</p>
+                <p>Στην Abbott, εκπαιδεύουμε τους επαγγελματίες υγείας σχετικά με τα προϊόντα μας, αλλά δεν παρεμβαίνουμε στην ανεξάρτητη κρίση τους. Δεν επιτρέπεται σε καμία περίπτωση η προσφορά οτιδήποτε αξίας σε παρόχους υγειονομικής περίθαλψης (όπως γιατρούς, φαρμακοποιούς, νοσηλευτές, ερευνητές ή προσωπικό εργαστηρίων), σε κυβερνητικούς αξιωματούχους ή σε άλλους, με σκοπό την απόκτηση επιχειρηματικού οφέλους ή την ανταμοιβή προηγούμενων συνεργασιών.</p>
+                <p>Τηρούμε τους νόμους κατά της δωροδοκίας, της διαφθοράς και των παράνομων προμηθειών σε παγκόσμιο επίπεδο, συμπεριλαμβανομένου του Νόμου περί Πρακτικών Διαφθοράς στην Αλλοδαπή (FCPA) των ΗΠΑ. Όλοι οι υπάλληλοι της Abbott πρέπει να διαχειρίζονται προσεκτικά τις σχέσεις με τους παρόχους υπηρεσιών, όπως διανομείς, συμβούλους και ομιλητές, διεξάγοντας δέουσα επιμέλεια, καταβάλλοντας δίκαιη αγοραία αξία και τεκμηριώνοντας κατάλληλα τις πληρωμές, ώστε να διασφαλίζεται η συμμόρφωση με τους νόμους και τα πρότυπα της εταιρείας.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΔΩΡΑ, ΓΕΥΜΑΤΑ ΚΑΙ ΨΥΧΑΓΩΓΙΑ</p>
+                <p>Δεν προσφέρουμε ούτε παρέχουμε οτιδήποτε αξίας για να αποκτήσουμε επιχειρηματικό πλεονέκτημα, άμεσα ή έμμεσα, σε συμμόρφωση με τις αρχές κατά της δωροδοκίας.</p>
+                <p>Για να αποτρέψουμε την αθέμιτη επιρροή στις επιχειρηματικές αποφάσεις, θέτουμε όρια σχετικά με τα δώρα, τα γεύματα και την ψυχαγωγία. Οι πολιτικές της Abbott βοηθούν να διασφαλιστεί ότι τα δώρα με την επωνυμία μας, οι εθιμοτυπικές φιλοφρονήσεις, η φιλοξενία και άλλα οφέλη δεν επηρεάζουν ποτέ την επαγγελματική κρίση.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΑΚΡΙΒΗ ΒΙΒΛΙΑ ΚΑΙ ΣΤΟΙΧΕΙΑ</p>
+                <p>Μετράμε τα επιτεύγματα με ακρίβεια.</p>
+                <p>Τα αρχεία και οι δημόσιες δηλώσεις της Abbott πρέπει να αντικατοπτρίζουν με ακρίβεια τις ενέργειές μας, με επαρκές πλαίσιο που παρουσιάζει την αληθινή φύση της εργασίας μας. Τα οικονομικά αρχεία πρέπει να συμμορφώνονται με τα λογιστικά πρότυπα, τους νόμους και τις εσωτερικές πολιτικές της Abbott.</p>
+                <p>Όταν αναφέρουμε τιμές, πληρωμές ή αντικείμενα αξίας, ειδικά σε επαγγελματίες υγείας, πρέπει να διασφαλίζουμε ότι οι πληροφορίες είναι πλήρεις και ακριβείς. Πολλές κυβερνήσεις απαιτούν αυτή τη διαφάνεια για την προστασία των δημόσιων πόρων. Η Abbott δεσμεύεται να παρέχει αξιόπιστα δεδομένα, ώστε οι κυβερνήσεις, οι ασφαλιστικές εταιρείες και άλλοι ενδιαφερόμενοι φορείς να μπορούν να λαμβάνουν τεκμηριωμένες αποφάσεις.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΣΥΜΜΟΡΦΩΣΗ ΜΕ ΤΟΥΣ ΝΟΜΟΥΣ</p>
+                <p>Τηρούμε όλους τους νόμους, τους κανονισμούς και τις απαιτήσεις της Abbott που ισχύουν για την εργασία μας.</p>
+                <p>Αναμένεται από κάθε υπάλληλο της Abbott να τηρεί όλους τους ισχύοντες νόμους, καθώς και τις πολιτικές, τις διαδικασίες και τον Κώδικα της Abbott. Αυτό αποτελεί βασική προϋπόθεση για εργασία. Οι πολιτικές της Abbott καλύπτουν βασικούς τομείς όπως η συμμόρφωση με τους κανονισμούς υγειονομικής περίθαλψης, η ποιότητα, οι οικονομικές συναλλαγές, το εμπόριο, η ασφάλεια και άλλα, βοηθώντας μας να ικανοποιούμε τις νομικές απαιτήσεις και να αποτρέπουμε τη μη συμμόρφωση.</p>
+                <p>Ως παγκόσμια εταιρεία, πρέπει επίσης να γνωρίζουμε ότι οι νόμοι μιας χώρας ενδέχεται να ισχύουν για εργασίες που εκτελούνται σε άλλη χώρα. Σε περίπτωση αμφιβολίας, ζητήστε οδηγίες από το Νομικό Τμήμα ή το Γραφείο Δεοντολογίας και Συμμόρφωσης.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ΘΕΜΙΤΟΣ ΑΝΤΑΓΩΝΙΣΜΟΣ</p>
+                <p>Εξασφαλίζουμε ότι όλες οι αλληλεπιδράσεις που έχουμε με τους ανταγωνιστές είναι θεμιτές.</p>
+                <p>Στην Abbott δεσμευόμαστε να τηρούμε τους νόμους περί ανταγωνισμού όπου κι αν δραστηριοποιούμαστε. Αυτοί οι νόμοι απαγορεύουν οποιεσδήποτε συμφωνίες ή ενέργειες που υπονομεύουν τον θεμιτό ανταγωνισμό στην αγορά, ιδίως όσες σχετίζονται με την τιμολόγηση, τους όρους πώλησης ή τις συναλλαγές με ανταγωνιστές.</p>
+                <p>Αποφύγετε να συζητάτε ευαίσθητα θέματα, όπως τιμές, κόστη ή επιχειρηματικά σχέδια, με ανταγωνιστές και επικοινωνήστε με το Νομικό Τμήμα ή το Γραφείο Δεοντολογίας και Συμμόρφωσης εάν έχετε ερωτήσεις ή αντιμετωπίσετε οτιδήποτε ανάρμοστο. Επειδή οι νόμοι περί ανταγωνισμού είναι περίπλοκοι και οι παραβιάσεις τους μπορεί να επιφέρουν σοβαρές κυρώσεις, πρέπει επίσης να διαχειριζόμαστε προσεκτικά τις σχέσεις μας με τρίτους, ώστε να διασφαλίζουμε τη συμμόρφωση και να αποφεύγουμε ακόμη και το ενδεχόμενο αντι-ανταγωνιστικής συμπεριφοράς.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>Πριν ολοκληρώσετε αυτό το μάθημα, αφιερώστε λίγο χρόνο για να βεβαιωθείτε ότι κατανοείτε τις ευθύνες σας σε σχέση με τον Κώδικα Επιχειρηματικής Συμπεριφοράς της Abbott.</p>
+          <p>Επιβεβαιώνω ότι κατανοώ τις ευθύνες μου σχετικά με τον Κώδικα Επιχειρηματικής Συμπεριφοράς της Abbott και γνωρίζω πού να εντοπίσω και να ελέγξω τις εφαρμοστέες Πολιτικές και Διαδικασίες.</p>
+          <button class="qcSubmitBtn">Επιβεβαίωση</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>Ο έλεγχος γνώσεων που ακολουθεί, αποτελείται από 10 ερωτήσεις. Θα πρέπει να πετύχετε βαθμολογία 80% ή υψηλότερη για να ολοκληρωθεί με επιτυχία αυτό το μάθημα.</p>
+        <p>ΟΤΑΝ ΕΙΣΤΕ ΕΤΟΙΜΟΙ, ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ ΚΟΥΜΠΙ «ΕΛΕΓΧΟΣ ΓΝΩΣΕΩΝ».</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Γιατί είναι σημαντικός ο Κώδικας Επιχειρηματικής Συμπεριφοράς;</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Παρέχει συγκεκριμένες συμβουλές για κάθε κατάσταση που μπορεί να αντιμετωπίσουμε στην εργασία μας.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Παρέχει ένα σαφές σύνολο αρχών και αξιών στις οποίες βασίζονται οι αποφάσεις, όταν η καλύτερη πορεία ενεργειών δεν είναι άμεσα σαφής.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Επόμενη</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Ο Κώδικας Επιχειρηματικής Συμπεριφοράς μάς παρέχει ένα σαφές σύνολο αρχών και αξιών στις οποίες βασίζονται οι αποφάσεις, όταν η καλύτερη πορεία ενεργειών δεν είναι άμεσα σαφής.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Ποια από τα παρακάτω δεν είναι <span class="underline">ποτέ</span> μια αρμόζουσα επιχειρηματική συναλλαγή;</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>[1]Η πρόσληψη ενός ΕΥ για να μιλήσει για έναν συγκεκριμένο τομέα νόσων λόγω των δεξιοτήτων και της εξειδίκευσής του.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Η παροχή εύλογου γεύματος στους συμμετέχοντες σε ένα εκπαιδευτικό πρόγραμμα που χρηματοδοτείται από την Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Η διευθέτηση μιας φιλανθρωπικής συνεισφοράς για έναν τοπικό οργανισμό.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Η πρόσληψη ενός ΕΥ για τη διεξαγωγή ενός εκπαιδευτικού προγράμματος ως ευχαριστήρια κίνηση για τη χρήση των προϊόντων της Abbott.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Επόμενη</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Η πρόσληψη ενός ΕΥ για την διεξαγωγή ενός εκπαιδευτικού προγράμματος λόγω των δεξιοτήτων και της εξειδίκευσής του επιτρέπεται, ωστόσο, η πρόσληψη ενός ΕΥ ως ευχαριστήρια κίνηση για τη χρήση των προϊόντων της Abbott είναι ανάρμοστη, επειδή αυτό μπορεί να εκληφθεί ως δωροδοκία.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Οι επιπτώσεις για άτομα που εμπλέκονται σε δωροδοκία και διαφθορά μπορεί να περιλαμβάνουν:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Βλάβη στη φήμη.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Πρόστιμα και ποινές.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Λύση της σύμβασης εργασίας.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ποινή φυλάκισης.</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>Όλα τα παραπάνω.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Επόμενη</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Οι συνέπειες για τα άτομα που εμπλέκονται σε δωροδοκία και διαφθορά μπορεί να περιλαμβάνουν βλάβη στη φήμη, πρόστιμα και ποινές, λύση της σύμβασης απασχόλησης, ακόμη και ποινή φυλάκισης.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Μια αντιπρόσωπος πωλήσεων διατηρεί και ένα μικρό κοσμηματοπωλείο. Αποφασίζει ότι θα ήταν καλό να προσφέρει μικρά δώρα από το κατάστημά της σε ΕΥ που δεν έχουν συνταγογραφήσει προϊόντα της Abbott τελευταία. Είναι αποδεκτό αυτό;</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ναι</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Όχι</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Επόμενη</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Η πολιτική της Abbott απαγορεύει τα δώρα προς τους ΕΥ, επειδή η αντιπρόσωπος πωλήσεων ενεργεί ως εκπρόσωπος της Abbott. Τα δώρα απαγορεύονται, παρόλο που τα πληρώνει η ίδια. Η παροχή των δώρων θα μπορούσε επίσης να εκληφθεί ως δωροδοκία για μελλοντικές εργασίες.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Ένας διευθυντής πωλήσεων λαμβάνει μια κλήση από μια επαφή σε μια ανταγωνιστική εταιρεία. Ο ανταγωνιστής αναφέρει ότι μια ομάδα πωλήσεων τρίτου μέρους, η οποία έχει συμβληθεί με την Abbott σε μια νέα αγορά, φέρεται να προσφέρει πολυτελή γεύματα σε πελάτες που επιλέγουν τα προϊόντα της Abbott έναντι των ανταγωνιστών. Ποια είναι η κατάλληλη ενέργεια;</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Να μην κάνετε τίποτα, αφού η πληροφορία προήλθε από έναν ανταγωνιστή.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Να μην κάνετε τίποτα, γιατί τα πλούσια γεύματα είναι συνηθισμένα σε αυτή την αγορά.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Να αναφέρετε αμέσως το θέμα στο Γραφείο Δεοντολογίας και Συμμόρφωσης (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Να ερευνήσετε για εναλλακτικούς διανομείς σε περίπτωση που ο ισχυρισμός είναι αληθής.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Επόμενη</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Πρέπει να αναφέρετε αμέσως την καταγγελία στο Γραφείο Δεοντολογίας και Συμμόρφωσης (OEC), ώστε να διερευνηθεί κατάλληλα, ακόμη και αν οι πληροφορίες προέρχονται από ανταγωνιστή.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Ένα ταξιδιωτικό γραφείο οργανώνει ταξίδια για επαγγελματίες υγείας (ΕΥ) που παρέχουν υπηρεσίες επιτήρησης για την Abbott. Κατά την εξέταση των υποβληθέντων αποδείξεων, διαπιστώνονται ανακρίβειες: το συνολικό ποσό δεν ταιριάζει με το αίτημα επιστροφής εξόδων και σε ορισμένες αποδείξεις λείπουν σημαντικά στοιχεία, όπως οι ημερομηνίες ταξιδιού.</p>
+              <p>Ποια είναι η κατάλληλη ενέργεια;</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Να ενημερώσετε το ταξιδιωτικό γραφείο ότι η Abbott δεν μπορεί να επεξεργαστεί την πληρωμή χωρίς ακριβή και πλήρη τεκμηρίωση.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Να επεξεργαστείτε τις αποδείξεις, επειδή λείπουν μόνο ορισμένες πληροφορίες.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Να συμβουλεύσετε το ταξιδιωτικό γραφείο να παρουσιάσει πιο ακριβή στοιχεία την επόμενη φορά.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Να μην κάνετε τίποτα, αφού το γραφείο είναι νέο.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Επόμενη</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Τα βιβλία και τα αρχεία της Abbott πρέπει να αντικατοπτρίζουν πλήρως και με ακρίβεια όλες τις συναλλαγές. Επομένως, είναι σημαντικό τρίτα μέρη που παρέχουν υπηρεσίες για την Abbott να παρέχουν πλήρη τεκμηρίωση που να αντικατοπτρίζει με ακρίβεια τον πραγματικό σκοπό και τις λεπτομέρειες των συναλλαγών.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Εργάζεστε σε μια συνεργαζόμενη εταιρεία, η οποία επιτρέπει την παροχή χορηγίας σε ΕΥ για να παρακολουθούν εκπαιδευτικά συνέδρια. Βρίσκεστε στη διαδικασία επιλογής των ΕΥ που θα παρακολουθήσουν ένα συνέδριο. Τα κριτήρια που χρησιμοποιείτε για την επιλογή περιλαμβάνουν: (1) εάν το θέμα του συνεδρίου εμπίπτει στον τομέα ειδίκευσης του ΕΥ, (2) εάν η Abbott επιχορήγησε τον ΕΥ κατά το περασμένο έτος και (3) κατά πόσον ο ΕΥ είναι πιθανό να συστήσει προϊόντα της Abbott ή να χρησιμοποιήσει συσκευές της Abbott μετά τη συμμετοχή του στην εκδήλωση. Είναι κατάλληλα αυτά τα κριτήρια;</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ναι. Τα δύο βασικά κριτήρια που πρέπει να πληρούνται πάντα όταν επιχορηγούμε άτομα είναι ότι η επιχορήγηση: α) είναι σχετική με τον τομέα ειδίκευσης/εμπειρογνωμοσύνης του επαγγελματία υγείας και, β) δεν χρησιμοποιείται ως ανταμοιβή ή κίνητρο για επιχειρηματικές εργασίες. Το γεγονός ότι ελέγχετε για να βεβαιωθείτε ότι η Abbott δεν έχει επιχορηγήσει τον επαγγελματία υγείας κατά το περασμένο έτος, βοηθά να εξασφαλιστεί το τελευταίο.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Ναι. Εφόσον ο λόγος για την επιχορήγηση του επαγγελματία υγείας δεν είναι για να τον επηρεάσει ή να τον ανταμείψει, μπορείτε να εξετάσετε την απόδοση της επένδυσής σας, δηλαδή κατά πόσον ή όχι αυτό το άτομο θα συνεχίσει να συνταγογραφεί τα προϊόντα της Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Όχι. Οι αποφάσεις επιχορηγήσεων δεν επιτρέπεται να βασίζονται στο γεγονός ότι ο ΕΥ είναι πιθανό να συστήσει προϊόντα της Abbott ή να χρησιμοποιήσει συσκευές της Abbott μετά τη συμμετοχή του σε μια επιχορηγούμενη εκδήλωση.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ναι. Εφόσον τουλάχιστον ένα από τα κριτήρια είναι κατάλληλο, η παρουσία πρόσθετων ακατάλληλων κριτηρίων δεν είναι σχετική.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Επόμενη</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Οι αποφάσεις επιχορηγήσεων δεν πρέπει ποτέ να λαμβάνονται ως ανταμοιβή για προηγούμενη χρήση ή ως κίνητρο περισσότερης χρήσης των προϊόντων ή συσκευών μας μελλοντικά. Έχετε κατά νου ότι οι χορηγίες απαγορεύονται σε πολλές δικαιοδοσίες. Να συμβουλεύεστε πάντα τις διαδικασίες της συνεργαζόμενης εταιρείας, προτού παρέχετε μια χορηγία.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Ένας αντιπρόσωπος πωλήσεων της Abbott ενημερώνει έναν επαγγελματία υγείας (ΕΥ) σχετικά με ένα προϊόν. Μετά τη συζήτηση, ο ΕΥ μοιράζεται ότι ένας ανταγωνιστής πρόσφερε ένα νέο iPad σε αντάλλαγμα για τη βοήθεια στην αύξηση των πωλήσεών του.</p>
+              <p>Ποια είναι η κατάλληλη ενέργεια;</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Να προσφέρετε το ίδιο κίνητρο για να παραμείνετε ανταγωνιστικοί.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Να απορρίψετε την προσφορά για το iPad, αλλά να προτείνετε ένα ακριβό δείπνο για να συνεχίσετε τη συζήτηση.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Να εξηγήσετε ότι η Abbott συνεργάζεται με τον σωστό τρόπο και δεν μπορεί να προσφέρει τίποτα αξίας που θα μπορούσε να επηρεάσει αθέμιτα τη λήψη αποφάσεων. Μετά, να αναφέρετε αμέσως την κατάσταση στο Γραφείο Δεοντολογίας και Συμμόρφωσης (OEC) της Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Να ευχαριστήσετε τον ΕΥ για τις πληροφορίες και να υποσχεθείτε ότι θα το σκεφτείτε.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Επόμενη</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Δεν πρέπει ποτέ να προσφέρετε, υπόσχεστε, δίνετε ή λαμβάνετε οποιοδήποτε αντικείμενο αξίας, με σκοπό την απόκτηση ενός επιχειρηματικού πλεονεκτήματος ή για την εξασφάλιση ή διατήρηση επιχειρηματικών εργασιών. Ανεξάρτητα από το τι κάνουν οι ανταγωνιστές, εσείς πρέπει να συμμορφώνεστε με την ισχύουσα νομοθεσία και πολιτική της Abbott, συμπεριλαμβανομένων των απαιτήσεων στην Παγκόσμια Πολιτική Καταπολέμησης της Διαφθοράς της Abbott (GLB-ANTI-CORRUPTION). Αν έχετε αμφιβολίες, να συμβουλεύεστε πάντα το Νομικό Τμήμα ή το OEC (Γραφείο Δεοντολογίας και Συμμόρφωσης).</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Ποια από τα παρακάτω είναι παραδείγματα αντικειμένων αξίας που δεν πρέπει να προσφέρονται για να εξασφαλίσετε εργασίες;</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ταξίδια σε ΕΥ και τις οικογένειές τους για επίσκεψη σε σπα, καζίνο ή άλλους χώρους γνωστούς για ψυχαγωγία.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Επιχορηγήσεις για μελλοντικά ερευνητικά ή εκπαιδευτικά έργα.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Δωρεές σε προτιμώμενα φιλανθρωπικά ιδρύματα κρατικών αξιωματούχων.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Όλα τα παραπάνω.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Επόμενη</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Τα πρότυπα της Abbott για τη δωροδοκία και τη διαφθορά, που παρατίθενται στην Παγκόσμια Πολιτική Καταπολέμησης της Διαφθοράς (GLB-ANTI-CORRUPTION), είναι συνεπή με τη δέσμευσή μας για τη διεξαγωγή των επιχειρηματικών μας δραστηριοτήτων με ειλικρίνεια, αμεροληψία και ακεραιότητα. Αυτό σημαίνει ότι η προσφορά ή η παροχή αντικειμένων αξίας για την αποκόμιση επιχειρηματικών δραστηριοτήτων δεν επιτρέπεται ποτέ.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Ένας επαγγελματίας υγείας που είναι βασικός διαμορφωτής της κοινής γνώμης ρωτά εάν θα μπορούσατε να κανονίσετε κάποια υποστήριξη για ένα εκπαιδευτικό πρόγραμμα που θα ήθελε να παρακολουθήσει με αντάλλαγμα πρόσθετες επιχειρηματικές ευκαιρίες για την Abbott. Ποια επιλογή είναι η καταλληλότερη;</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Απορρίπτετε αποφασιστικά το αίτημα, λόγω του ότι παραβιάζει την πολιτική κατά της διαφθοράς της Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Λέτε στον ΕΥ ότι θα ρωτήσετε τον διευθυντή σας.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Συμφωνείτε με το αίτημα, καθώς ο ΕΥ είναι βασικός διαμορφωτής γνώμης με μεγάλη επιρροή.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Κανένα από τα παραπάνω.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">Υποβολή</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Δεν προσφέρουμε ούτε παρέχουμε οτιδήποτε αξίας για να αποκτήσουμε επιχειρηματικό πλεονέκτημα, άμεσα ή έμμεσα, σε συμμόρφωση με τις αρχές κατά της δωροδοκίας.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>Δεν είναι διαθέσιμο κανένα αποτέλεσμα, επειδή δεν ολοκληρώσατε τον έλεγχο γνώσεων.</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>Συγχαρητήρια! Περάσατε επιτυχώς τον έλεγχο γνώσεων.</p>
+          <p>Εξετάστε τα αποτελέσματά σας παρακάτω κάνοντας κλικ σε κάθε ερώτηση.</p>
+          <p>Όταν τελειώσετε, κάντε κλικ στο βέλος προς τα εμπρός για να συμπληρώσετε μια σύντομη έρευνα.</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>Δυστυχώς δεν περάσατε τον έλεγχο γνώσεων. Αφιερώστε λίγα λεπτά για να εξετάσετε τα αποτελέσματά σας παρακάτω, κάνοντας κλικ σε κάθε ερώτηση.</p>
+          <p>Όταν τελειώσετε, κάντε κλικ στο κουμπί «Επανάληψη».</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>${C_199.1}</p>
+          <p>${C_199.2}</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.3}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.4}</p>
+                  <p>${C_199.5}</p>
+                  <p>${C_199.6}</p>
+                  <p>${C_199.7}</p>
+                  <p>${C_199.8}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.9}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Ως αποτέλεσμα αυτής της συνεδρίας, έχω καλύτερη κατανόηση του Κώδικα Επιχειρηματικής Συμπεριφοράς της Abbott.</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Διαφωνώ απόλυτα</p>
+                  <p>Διαφωνώ</p>
+                  <p>Ουδέτερη άποψη</p>
+                  <p>Συμφωνώ</p>
+                  <p>Συμφωνώ απόλυτα</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.16}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.17}</p>
+                  <p>${C_199.18}</p>
+                  <p>${C_199.19}</p>
+                  <p>${C_199.20}</p>
+                  <p>${C_199.21}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.22}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">${C_199.23}</p>
+          <button class="surveySubmit">
+            <p>${C_199.24}</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">Πού να απευθυνθείτε για υποστήριξη</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Διευθυντής</p>
+        <p>Εάν έχετε ερωτήσεις σχετικά με τις αλληλεπιδράσεις σας με άτομα εκτός της Abbott, το καλύτερο μέρος για να ξεκινήσετε είναι με τον διευθυντή σας</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Γραπτά πρότυπα</p>
+        <ul>
+          <li>Για το σύνολο των θεμελιωδών προσδοκιών της εταιρείας μας σχετικά με τις αλληλεπιδράσεις με άλλους, συμβουλευτείτε τον <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Κώδικα Επιχειρηματικής Συμπεριφοράς</a>.</li>
+          <li>Για τις εταιρικές πολιτικές και διαδικασίες μας, που ισχύουν για όλη την εταιρεία, επισκεφθείτε την <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">Ηλεκτρονική Πύλη Παγκόσμιας Πολιτικής</a>.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>Γραφείο Δεοντολογίας και Συμμόρφωσης (OEC)</p>
+        <p>Το OEC είναι ένας παγκόσμιος πόρος που σας διατίθεται ώστε να απευθύνετε ερωτήσεις ή ζητήματα που σας απασχολούν σχετικά με τις αξίες και τα πρότυπα συμπεριφοράς της εταιρείας μας.</p>
+        <ul>
+          <li>Επισκεφτείτε τον <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance/?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">ιστότοπο του OEC</a> στο Abbott World.</li>
+          <li>Εάν έχετε οποιεσδήποτε ανησυχίες σχετικά με διεφθαρμένες επιχειρηματικές δραστηριότητες, είτε μέσα στην εταιρεία είτε στις σχέσεις σας με πελάτες ή άλλους τρίτους, μπορείτε να αναφέρετε τις ανησυχίες σας στο OEC (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) ή το Νομικό Τμήμα ή καλέστε την πολύγλωσση <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">Γραμμή SpeakUp</a>, που είναι διαθέσιμη σε παγκόσμιο επίπεδο, όλο το 24ωρο, 7 ημέρες την εβδομάδα.</li>
+          <li>iComply – Επισκεφτείτε το <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> για να αποκτήσετε πρόσβαση σε εφαρμογές που σχετίζονται με τη συμμόρφωση και σε πόρους προσανατολισμένους προς τις αλληλεπιδράσεις με τους Επαγγελματίες Υγείας και τους Οργανισμούς Υγειονομικής Περίθαλψης, όπως και με τρίτα μέρη.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Τμήμα Ανθρώπινου Δυναμικού</p>
+        <p>Για ζητήματα που αφορούν στο προσωπικό, όπως ζητήματα που αφορούν στη διεύθυνση ή/και άλλους υπαλλήλους, επικοινωνήστε με τον τοπικό σας εκπρόσωπο <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">Ανθρώπινου Δυναμικού</a>.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>Νομικό Τμήμα</p>
+        <p>Επικοινωνήστε με το Νομικό Τμήμα για τυχόν ερωτήσεις ή ανησυχίες σχετικά με τις νομικές επιπτώσεις της δωροδοκίας και της διαφθοράς.</p>
+        <ul>
+          <li>Κάντε κλικ εδώ για να αποκτήσετε πρόσβαση στην αρχική σελίδα του Νομικού Τμήματος στο Abbott World.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>ΑΛΛΟΙ ΠΟΡΟΙ</p>
+        <p>Υπάρχουν πολλές άλλες διαθέσιμες πηγές για σας:</p>
+        <p>Οικονομικά - Εάν η ερώτησή σας σχετίζεται με τη λογιστική ή τα οικονομικά, επικοινωνήστε με το Οικονομικό Τμήμα.</p>
+        <p>Εταιρικός έλεγχος - Εάν σας απασχολούν ιδιαίτερα ζητήματα σχετικά με τη λογιστική, τους εσωτερικούς λογιστικούς ελέγχους ή ζητήματα σχετικά με ελέγχους, αναφέρετέ τα αμέσως στο Τμήμα Εταιρικού Ελέγχου ή το OEC.</p>
+        <p>Τμήμα Ποιότητας και Κανονιστικών Υποθέσεων της Abbott - Εάν έχετε ερωτήσεις σχετικά με την ποιότητα και ασφάλεια των προϊόντων μας, επικοινωνήστε με το τοπικό σας τμήμα Ποιότητας ή Κανονιστικών Υποθέσεων.</p>
+        <p>Παγκόσμιο Τμήμα Περιβάλλοντος, Υγείας και Ασφάλειας - Επικοινωνήστε με έναν εκπρόσωπο του Παγκόσμιου Τμήματος Περιβάλλοντος, Υγείας και Ασφάλειας, εάν έχετε ερωτήσεις σχετικά με μια φυσική τοποθεσία και ενδεχόμενους κινδύνους.</p>
+        <p>Παγκόσμιο Τμήμα Προμηθειών - Εάν έχετε ερωτήσεις σχετικά με τις σχέσεις με τους προμηθευτές, επικοινωνήστε με το Παγκόσμιο Τμήμα Προμηθειών.</p>
+      </div>
+      <p class="resSubtitles" data-break="true">Πόροι μαθήματος</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Μετάγραφο</p>
+        <p>Κάντε κλικ <a href="reference/Quick_Reference.pdf" target="_blank">εδώ</a> για ένα πλήρες μετάγραφο του μαθήματος</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>Το μάθημα δεν μπορεί να επικοινωνήσει με το LMS. Κάντε κλικ στο κουμπί «ΟΚ» για να συνεχίσετε και να δείτε το μάθημα. Σημειώστε ότι το Πιστοποιητικό Μαθήματος μπορεί να μην είναι διαθέσιμο. Κάντε κλικ στο «Άκυρο» για έξοδο</s1>
+    <s2>Όλες οι ερωτήσεις παραμένουν αναπάντητες</s2>
+    <s3>Ερωτήσεις</s3>
+    <s4>Ερώτηση</s4>
+    <s5>δεν απαντήθηκε</s5>
+    <s6>Η απάντηση είναι σωστή!</s6>
+    <s7>Η απάντηση δεν είναι σωστή!</s7>
+    <s8>Σχόλια:</s8>
+    <s9>Κώδικας Επιχειρηματικής Συμπεριφοράς</s9>
+    <s10>Έλεγχος γνώσεων</s10>
+    <s11>Υποβολή</s11>
+    <s12>Επανάληψη</s12>
+    <s13>Περιγραφή μαθήματος: Ο Κώδικας Επιχειρηματικής Συμπεριφοράς μας είναι ένα έγγραφο κρίσιμης σημασίας που περιγράφει τις προσδοκίες της εταιρείας μας από κάθε εργαζόμενο, δεδομένου ότι εκπροσωπούμε την Abbott στην καθημερινή μας εργασία. Παρέχει το θεμέλιο για τις ευθύνες και τις συμπεριφορές μας, που θα μας βοηθήσουν να κάνουμε τις καλύτερες επιλογές για την Abbott, για εμάς τους ίδιους και για τους πολλούς ανθρώπους που εξυπηρετούμε. Αυτό το μάθημα παρέχει μια γενική επισκόπηση του Κώδικα, περιγράφει τις προσδοκίες της εταιρείας μας και τις υποχρεώσεις σας και παρέχει πρακτικές συμβουλές για το τι πρέπει να κάνετε όταν είναι δύσκολο να προσδιορίσετε την καλύτερη πορεία δράσης. Το μάθημα θα χρειαστεί 35-45 λεπτά για να ολοκληρωθεί.</s13>
+    <s14>Μενού</s14>
+    <s15>Πόροι</s15>
+    <s16>Υλικό αναφοράς</s16>
+    <s17>Ήχος</s17>
+    <s18>Έξοδος</s18>
+    <s19>Κλείσιμο</s19>
+    <s20>Σχόλιο…</s20>
+  </strings>
+</course>

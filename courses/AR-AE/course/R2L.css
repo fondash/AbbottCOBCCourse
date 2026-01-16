@@ -519,7 +519,10 @@ div[data-retakeId]{
     right: 8.7rem;
 }
 
-/***** course specific overrides */
-div.screen#C_1>img.fullscreenImg+div{
-    left:-5rem;
+.sliderContainer {
+    & .sliderImgContainer {
+        right: -54.121%;
+    }
 }
+
+/***** course specific overrides */

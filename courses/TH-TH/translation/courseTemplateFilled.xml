@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="ยินดีต้อนรับ" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="หลักจรรยาบรรณในการดำเนินธุรกิจ">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="ปรัชญาของเรา">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="วัตถุประสงค์">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="สารบัญ">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="ความสำคัญของหลักจรรยาบรรณในการดำเนินธุรกิจของ Abbott" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="พันธกิจประจำวันของเรา">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="ความสำคัญของหลักจรรยาบรรณต่อธุรกิจของเรา">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="หลักจรรยาบรรณของเรา" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="ภาพรวม">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="ลูกค้าของเรา">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="ผลิตภัณฑ์ของเรา">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="พัฒนาความก้าวหน้าทางวิทยาศาสตร์">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="บุคลากรของเรา">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="ชุมชนของเรา">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="วิธีที่เราดำเนินงาน">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="พันธะหน้าที่ของคุณ" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="พันธะหน้าที่ของคุณ">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="แบบทดสอบความรู้" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="บทนำ">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="การประเมินผล">
+        <nav navId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="ข้อเสนอแนะ">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="แบบสำรวจ">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>หลักจรรยาบรรณในการดำเนินธุรกิจ</p>
+      </div>
+      <p class="startInstruction">คลิกลูกศรชี้ไปด้านขวา</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>ในฐานะผู้นำด้านการดูแลสุขภาพระดับโลก สิ่งที่เราทำแต่ละวันมีความสำคัญ</p>
+        <p>หลักจรรยาบรรณในการดำเนินธุรกิจของเราเปรียบเสมือนเข็มทิศอันทรงพลังที่ช่วยให้เราทำหน้าที่ด้วยความซื่อสัตย์สุจริต เป็นผู้นำที่มีจุดมุ่งหมาย และทำการตัดสินใจเลือกสิ่งที่สะท้อนถึงสิ่งที่ดีที่สุดในตัวเรา ซึ่งเป็นวิธีที่เราสร้างความไว้วางใจ ยึดมั่นในค่านิยมของเรา และทำให้เกิดความแตกต่างที่มีความหมายต่อโลกได้อย่างต่อเนื่อง</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>หลังจบหลักสูตรนี้ คุณจะ:</p>
+        <ul>
+          <li>เข้าใจถึงความสำคัญของหลักจรรยาบรรณในการดำเนินธุรกิจที่มีต่อธุรกิจของเรา</li>
+          <li>สามารถระบุหลักการสำคัญของหลักจรรยาบรรณในการดำเนินธุรกิจและมีความเข้าใจว่าจำนำเอาหลักการต่างๆ มาใช้กับการปฏิบัติงานในทุกๆ วันของเราอย่างไร</li>
+          <li>เข้าใจความคาดหวังของ Abbott ในการดำเนินธุรกิจทั่วโลกด้วยวิธีที่ถูกต้อง</li>
+          <li>ทราบว่าจะขอความช่วยเหลือและการสนับสนุนได้จากที่ไหน</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>ยินดีต้อนรับ</p>
+            <p>1 นาที</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>ความสำคัญของหลักจรรยาบรรณในการดำเนินธุรกิจของ Abbott</p>
+            <p>2 นาที</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>หลักจรรยาบรรณของเรา</p>
+            <p>18 นาที</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>พันธะหน้าที่ของคุณ</p>
+            <p>1 นาที</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>แบบทดสอบความรู้</p>
+            <p>5 นาที</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>ความคืบหน้าของการเรียนรู้</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">หัวข้อนี้พร้อมให้เรียนรู้แล้วตอนนี้</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>เราเป็นผู้นำที่มีความซื่อสัตย์ ยุติธรรม และจริงใจ ทุกคน ทุกวัน</p>
+        <p>หลักจรรยาบรรณในการดำเนินธุรกิจของเราช่วยเตือนเราว่าความซื่อสัตย์ ความยุติธรรม และความจริงใจไม่ใช่แค่เพียงอุดมคติเท่านั้น แต่เป็นพันธกิจประจำวัน ถึงแม้ว่าหลักจรรยาบรรณจะไม่สามารถคาดการณ์ถึงความท้าทายทั้งหมดที่เราอาจเผชิญได้ แต่หลักจรรยาบรรณก็เป็นรากฐานของค่านิยมที่แข็งแกร่งเพื่อนำทางเรา</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>เรามีความมุ่งมั่นต่อมาตรฐานสูงสุด</p>
+        <p>หลักจรรยาบรรณในการดำเนินธุรกิจมีความสำคัญต่อความสำเร็จของ Abbott เนื่องจากเป็นตัวกำหนดมาตรฐานการทำงานของเรา อันได้แก่ ความซื่อสัตย์ ความยุติธรรม และความจริงใจ หลักจรรยาบรรณช่วยให้เราตัดสินใจอย่างมีจริยธรรม โดยเฉพาะในสถานการณ์ที่ซับซ้อน และช่วยให้แน่ใจว่าเรายังคงสอดคล้องกับค่านิยมของเรา การปฏิบัติตามจรรยาบรรณช่วยปกป้องชื่อเสียงของเรา สร้างความไว้วางใจให้กับผู้ที่เราให้บริการ และทำให้เกิดวัฒนธรรมการทำสิ่งที่ถูกต้องมีความสำคัญที่สุดในสถานที่ทำงาน</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>ทุกคนมีหน้าที่ต้องทำความเข้าใจเกี่ยวกับหลักจรรยาบรรณ</p>
+        <p>ทุกคนมีบทบาทในการนำหลักจรรยาบรรณในการดำเนินธุรกิจมาใช้ในการทำงานและการตัดสินใจในแต่ละวัน หลักจรรยาบรรณไม่ใช่แค่เอกสารเท่านั้น แต่เป็นแนวทางที่จะช่วยให้เราก้าวข้ามความท้าทายต่างๆ ได้ด้วยความซื่อสัตย์และมั่นใจ</p>
+        <p>ในหัวข้อต่อไปนี้ เราจะสำรวจเกี่ยวกับหลักการสำคัญของหลักจรรยาบรรณ และดูว่าหลักการเหล่านี้มีผลต่อการกระทำและทางเลือกในชีวิตประจำวันของเราอย่างไร</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">คุณต้องดูเนื้อหาทั้งหมดก่อนดำเนินการต่อ</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>ที่ Abbott เรามุ่งมั่นที่จะยกระดับสุขภาพและสุขภาวะที่ดีของผู้คนที่ไว้วางใจในผลิตภัณฑ์ของเรา</p>
+          </div>
+          <div>
+            <p>ซึ่งเป็นการเตือนความจำว่าเบื้องหลังทุกการตัดสินใจ ทุกนวัตกรรม และทุกการกระทำล้วนมีจุดมุ่งหมายเพื่อทำให้ชีวิตดีขึ้น</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>ผู้ป่วยและผู้บริโภค</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>บุคลากรทางการแพทย์</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>คลิกแต่ละไอคอนเพื่อดูข้อมูลเพิ่มเติม</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ผู้ป่วยและผู้บริโภค</p>
+                <p>การดูแลผู้คนคือหัวใจสำคัญในสิ่งที่เราทำ เราให้ความสำคัญกับสุขภาพและสุขภาวะที่ดีของผู้ป่วยและผู้บริโภคก่อนเสมอ เราสามารถสร้างความแตกต่างอย่างมีความหมายได้ทุกๆ วัน ด้วยการช่วยให้ผู้คนมีชีวิตที่มีสุขภาพดีขึ้น และมีส่วนสนับสนุนให้ชุมชนมีความแข็งแกร่งและมีสุขภาพที่ดีขึ้น</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>บุคลากรทางการแพทย์</p>
+                <p>เราทำงานร่วมกับบุคลากรทางการแพทย์ (HCP) เพื่อสนับสนุนการมีสุขภาพที่ดีขึ้น เราเคารพในความรู้และการตัดสินใจอย่างอิสระของบุคลากรทางการแพทย์ ไม่ว่าจะเป็นแพทย์ พยาบาล เภสัชกร นักวิจัย หรือเจ้าหน้าที่ห้องปฏิบัติการ บทบาทของพวกเขาในการชี้แนะผู้ป่วยให้มีสุขภาพที่ดีขึ้นเป็นสิ่งที่จำเป็น</p>
+                <p>ที่ Abbott เรามุ่งมั่นที่จะสนับสนุนพวกเขาด้วยข้อมูลที่ถูกต้องและทันเวลาเพื่อให้พวกเขาสามารถตัดสินใจได้ดีที่สุด ด้วยการร่วมมือกัน เราจะบรรลุเป้าหมายร่วมกันในการยกระดับการมีสุขภาพและสุขภาวะที่ดีทั่วโลกได้</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">คุณต้องดูเนื้อหาทั้งหมดก่อนดำเนินการต่อ</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>ที่ Abbott เรามุ่งมั่นที่จะรับรองว่าผลิตภัณฑ์ทุกรายการที่เรานำเสนอนั้นมีความปลอดภัย มีประสิทธิภาพ และดีพอที่จะได้รับความไว้วางใจจากลูกค้า</p>
+          </div>
+          <div>
+            <p>เราใช้มาตรการต่างๆ เพื่อให้แน่ใจว่าผลิตภัณฑ์ของเรามีความปลอดภัยและมีประสิทธิภาพ นับตั้งแต่การเลือกใช้วัตถุดิบที่เหมาะสมไปจนถึงวิธีในการทำตลาด การขาย และการจัดส่ง เราปฏิบัติตามมาตรฐานคุณภาพสูงในทุกขั้นตอน</p>
+            <p>เรายังมุ่งมั่นที่จะระบุ ประเมิน และแก้ไขปัญหาความปลอดภัยของผลิตภัณฑ์อย่างทันเวลา รวมทั้งดำเนินการเพื่อป้องกันการปลอมแปลง การนำไปปรับเปลี่ยนอย่างผิดกฎหมาย และการขโมยความคิดเกี่ยวกับผลิตภัณฑ์ของเรา</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>คุณภาพของผลิตภัณฑ์</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>การส่งเสริมการขายผลิตภัณฑ์ 1</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>การส่งเสริมการขายผลิตภัณฑ์ 2</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>คลิกแต่ละไอคอนเพื่อดูข้อมูลเพิ่มเติม</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>คุณภาพของผลิตภัณฑ์</p>
+                <p>ปลอดภัย มีประสิทธิภาพ และได้รับความไว้วางใจ ผลิตภัณฑ์ของเราสร้างความแตกต่าง</p>
+                <p>เราให้ความสำคัญกับคุณภาพในทุกขั้นตอน นับตั้งแต่การจัดหาและการผลิต ไปจนถึงวิธีในการทำตลาด การขาย และการจัดส่งผลิตภัณฑ์ของเรา รวมถึงผ่านพันธมิตรของเรา ทุกก้าวมีความสำคัญเพราะผู้คนไว้วางใจเราในเรื่องความปลอดภัย</p>
+                <p>เรามุ่งมั่นที่จะระบุ ประเมิน และแก้ไขปัญหาความปลอดภัยของผลิตภัณฑ์อย่างทันเวลาเสมอ เราทำให้มั่นใจว่าบุคลากรทางการแพทย์และสถาบันการดูแลสุขภาพจะได้รับข้อมูลที่จำเป็นต่อการใช้ผลิตภัณฑ์ของเราอย่างปลอดภัยและมีประสิทธิภาพ และเราสื่อสารกับหน่วยงานสาธารณสุขเป็นประจำในกรณีอาจมีข้อกังวลในเรื่องความปลอดภัย</p>
+                <p>เราดำเนินการตามขั้นตอนต่างๆ เพื่อป้องกันการปลอม การนำไปปรับเปลี่ยนอย่างผิดกฎหมาย และการขโมยความคิดเกี่ยวกับผลิตภัณฑ์ของเรา เราปฏิบัติตามกฎระเบียบการค้า รวมถึงกฎการควบคุมการส่งออกและนำเข้า และปฏิบัติตามข้อจำกัดและมาตรการคว่ำบาตรของรัฐบาล เพื่อปกป้องความมั่นคงของชาติและสุขภาพของประชาชน</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>การส่งเสริมการขายผลิตภัณฑ์ 1</p>
+                <p>เราส่งเสริมและจำหน่ายผลิตภัณฑ์ของเราด้วยความซื่อสัตย์และเคารพต่อผู้ที่ไว้วางใจ</p>
+                <p>การสื่อสารเกี่ยวกับผลิตภัณฑ์ของเราเป็นข้อเท็จจริง มีความสมดุล และสอดคล้องกับฉลากที่ได้รับอนุมัติ มีหลักฐานทางวิทยาศาสตร์ และแนวทางปฏิบัติทางการแพทย์ที่ดีที่สุดในประเทศที่เราดำเนินงาน</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>การส่งเสริมการขายผลิตภัณฑ์ 2</p>
+                <p>เราส่งเสริมให้ใช้งานผลิตภัณฑ์ของเราตามวัตถุประสงค์และที่ได้รับอนุมัติ</p>
+                <p>เราดำเนินงานตามที่ได้รับใบอนุญาตและอนุมัติจากหน่วยงานเกี่ยวกับสุขภาพในประเทศที่เราดำเนินงาน การส่งเสริมการขาย จัดจำหน่าย และกระจายผลิตภัณฑ์ของเราอย่างเข้มงวดตามกฎหมายการค้าและกฎระเบียบของเฉพาะประเทศ ด้วยนโยบายและระเบียบปฏิบัติภายในที่เข้มแข็ง เรามั่นได้ว่าจะเป็นไปตามข้อกำหนดพร้อมกับยึดมั่นในพันธกิจของเราในการดำเนินธุรกิจอย่างมีจริยธรรม ปลอดภัย และรับผิดชอบ</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">คุณต้องดูเนื้อหาทั้งหมดก่อนดำเนินการต่อ</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>ที่ Abbott เรามุ่งมั่นที่จะพัฒนาความก้าวหน้าทางวิทยาศาสตร์ด้วยความซื่อสัตย์และมีจุดมุ่งหมาย</p>
+          </div>
+          <div>
+            <p>เรามุ่งเน้นในเรื่องนวัตกรรมโดยตระหนักถึงความสำคัญของการคาดการณ์และแก้ปัญหาความเสี่ยงอย่างมีความรับผิดชอบ เราเชิดชูเกียรติศักดิ์ศรีของผู้เข้าร่วมการศึกษาวิจัยทุกคนและยึดมั่นในมาตรฐานสูงสุดในเรื่องความโปร่งใสและความเป็นกลางในการวิจัยทางวิทยาศาสตร์</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>นวัตกรรม 1</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>นวัตกรรม 2</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>พัฒนาความก้าวหน้าทางวิทยาศาสตร์</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>คลิกแต่ละไอคอนเพื่อดูข้อมูลเพิ่มเติม</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>นวัตกรรม 1</p>
+                <p>เราสร้างสรรค์โซลูชั่นการดูแลสุขภาพที่เป็นนวัตกรรมเพื่อช่วยให้ผู้คนมีชีวิตที่มีสุขภาพและผลลัพธ์ที่ดีขึ้นทั่วโลก</p>
+                <p>เราตอบสนองต่อความต้องการของมนุษย์ด้วยการริเริ่มการรักษาที่เป็นความก้าวหน้าทางวิทยาการ อุปกรณ์ช่วยชีวิต และผลิตภัณฑ์นวัตกรรมที่สนับสนุนสุขภาพในรูปแบบใหม่ๆ เรามุ่งมั่นที่จะปรับปรุงผลลัพธ์และส่งเสริมให้ผู้คนใช้ชีวิตอย่างเต็มที่ ด้วยวิทยาศาสตร์และเทคโนโลยีที่ล้ำสมัย โดยการสร้างสรรค์นวัตกรรมที่มีความหมายสำหรับทุกช่วงชีวิต</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>นวัตกรรม 2</p>
+                <p>เราปลูกฝังวัฒนธรรมการสร้างนวัตกรรมโดยการสำรวจความเป็นไปได้ใหม่ๆ และวางแผนเพื่อรับมือกับเหตุการณ์ที่อาจเกิดขึ้น</p>
+                <p>ถึงแม้ว่าความก้าวหน้าจะมักเกี่ยวข้องกับความเสี่ยง แต่เราก็ใช้มาตรการที่รอบคอบและรับผิดชอบในการคาดการณ์ความท้าทายและลดความท้าทายเหล่านั้นให้เหลือน้อยที่สุดล่วงหน้า โดยยึดตามหลักจรรยาบรรณและนโยบายของเราเสมอ</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>พัฒนาความก้าวหน้าทางวิทยาศาสตร์</p>
+                <p>เราดำเนินการวิจัยเพื่อสร้างข้อมูลที่แม่นยำและเป็นกลางเพื่อผลักดันการสร้างสรรค์นวัตกรรม ปรับปรุงการบำบัดรักษา และพัฒนาการดูแลสุขภาพ</p>
+                <p>เมื่อดำเนินการวิจัย เราปฏิบัติต่อผู้เข้าร่วมการศึกษาวิจัยอย่างให้เกียรติ ปกป้องพวกเขาจากความเสี่ยงที่ไม่จำเป็น และรับรองว่าพวกเขาเข้าใจถึงลักษณะและวัตถุประสงค์ของการวิจัยและความเสี่ยงที่เกี่ยวข้อง การได้รับความยินยอมเพื่อแจ้งให้ทราบจากผู้เข้าร่วมการวิจัยถือเป็นส่วนสำคัญของกระบวนการวิจัยของเรา</p>
+                <p>เราให้ความสำคัญกับความโปร่งใสในการวิจัยทางวิทยาศาสตร์ และจะไม่พยายามมีอิทธิพลต่อผลลัพธ์อย่างไม่เหมาะสม เรารับรองว่าข้อมูลการศึกษาวิจัยมีความถูกต้องและมุ่งมั่นที่จะนำเสนอผลการวิจัยที่เกี่ยวข้องกับผลิตภัณฑ์ของเราในลักษณะที่ทันเวลาและถูกต้อง ไม่ว่าผลลัพธ์ที่ได้จะเป็นเชิงบวกหรือเชิงลบ</p>
+                <p>เมื่อดำเนินการศึกษาวิจัยให้กับ Abbott หรือได้รับการตีพิมพ์ในนามของเรา เราร่วมมือกับกับผู้เชี่ยวชาญที่มีความรู้ความเชี่ยวชาญด้านทางการแพทย์และทางวิทยาศาสตร์เป็นอย่างดี เราคาดหวังให้พวกเขาเปิดเผยความสัมพันธ์ใดๆ กับ Abbott รวมไปถึงความสัมพันธ์ทางการเงินหรือความสัมพันธ์อื่นๆ</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">คุณต้องดูเนื้อหาทั้งหมดก่อนดำเนินการต่อ</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>ที่ Abbott เราส่งเสริมวัฒนธรรมแห่งความเปิดกว้าง ความหลากหลาย และความเคารพ เนื่องจากเป็นแรงผลักดันความคิดสร้างสรรค์และนวัตกรรม</p>
+          </div>
+          <div>
+            <p>ทุกคนมีความรับผิดชอบในการปฏิบัติตามจรรยาบรรณทุกวัน ได้แก่ การปฏิบัติต่อผู้อื่นด้วยความเคารพ การสร้างสถานที่ทำงานที่ปลอดภัยและไม่แบ่งแยก และการรับรองโอกาสที่เท่าเทียมกันสำหรับทุกคน</p>
+            <p>เราถามคำถามเมื่อสิ่งต่างๆ ไม่ชัดเจนและรายงานเมื่อรู้สึกว่ามีบางสิ่งบางอย่างไม่ถูกต้อง</p>
+            <p>หัวข้อนี้เน้นย้ำถึงความมุ่งมั่นของเราในการสร้างโอกาสที่เท่าเทียมกันและสภาพแวดล้อมการทำงานที่ปลอดภัย และเตือนให้เราเข้าใจ ใช้ และปฏิบัติตามหลักจรรยาบรรณในทุกสิ่งที่เราทำ</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>การทำงานร่วมกัน</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>การติดต่อซึ่งกันและกันของเรา</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>การรายงานข้อกังวล</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>โอกาสที่เท่าเทียม</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>การปฏิบัติที่เป็นธรรม</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>สภาพแวดล้อมในการทำงาน</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>คลิกแต่ละไอคอนเพื่อดูข้อมูลเพิ่มเติม</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>การทำงานร่วมกัน</p>
+                <p>เราให้ความสำคัญกับความเปิดกว้างและการทำงานร่วมกัน เนื่องจากความคิดที่หลากหลายนำไปสู่โซลูชั่นที่ดีกว่า</p>
+                <p>เราเปิดรับความหลากหลายเนื่องจากช่วยกระตุ้นความคิดสร้างสรรค์ มีพลัง และความก้าวหน้า เราต้องรับฟังซึ่งกันและกัน ให้ความสำคัญกับทุกเสียง และทำงานร่วมกันอย่างมีจุดมุ่งหมาย เพื่อสร้างผลกระทบที่มีความหมายต่อสุขภาพในทั่วโลก</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>การติดต่อซึ่งกันและกันของเรา</p>
+                <p>ทุกคนมีความรับผิดชอบในการปฏิบัติตามค่านิยมของ Abbott ในทุกๆ วัน</p>
+                <p>การกระทำอย่างมีจริยธรรมช่วยเสริมสร้างวัฒนธรรมของเรา ทุกคนต้องเข้าใจว่าหลักจรรยาบรรณมีผลกับบทบาทและงานของตนอย่างไร</p>
+                <p>ผู้จัดการและหัวหน้างานมีความรับผิดชอบพิเศษในฐานะผู้นำ โดยต้องเป็นแบบอย่างในเรื่องค่านิยมของเรา ส่งเสริมพฤติกรรมที่มีจริยธรรม และกำหนดพื้นที่ปลอดภัยที่พนักงานรู้สึกสบายใจที่จะถามคำถามและแจ้งข้อกังวลโดยไม่ต้องกลัวการตอบโต้เอาคืน</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>การรายงานข้อกังวล</p>
+                <p>เราถามคำถามเมื่อมีบางอย่างไม่ชัดเจนหรือรู้สึกไม่ถูกต้อง นอกจากนี้ เรายังแจ้งข้อกังวลและรายงานการละเมิดจรรยาบรรณที่อาจเกิดขึ้น</p>
+                <p>เรามีหน้าที่ต้องสอบถามหากคำสั่งไม่ชัดเจน รวมทั้งคัดค้านและรายงานการดำเนินธุรกิจที่น่าสงสัยว่าผิดจริยธรรม ละเมิดหลักจรรยาบรรณนี้ หรือละเมิดนโยบายของ Abbott</p>
+                <p>หากคุณไม่แน่ใจเกี่ยวกับทางเลือกหรือการดำเนินการที่ถูกต้อง โปรดปรึกษาผู้จัดการของคุณหรือติดต่อสำนักงานจริยธรรมและการปฏิบัติตามกฎระเบียบ</p>
+                <p>ผู้จัดการและหัวหน้างานต้องเป็นผู้นำโดยการเป็นตัวอย่างและต้องแน่ใจว่าพนักงานเข้าใจและปฏิบัติตามจรรยาบรรณ ผู้นำมีความรับผิดชอบมากขึ้นในการสื่อสารความคาดหวังของ Abbott และควรติดต่อสำนักงานจริยธรรมและการปฏิบัติตามกฎระเบียบเกี่ยวกับกรณีที่อาจเป็นการละเมิดหลักจรรยาบรรณ</p>
+                <p>รายงานกรณีที่อาจเป็นการละเมิดหลักจรรยาบรรณทั้งหมดจะได้รับการดำเนินการอย่างจริงจัง สำนักงานจริยธรรมและการปฏิบัติตามกฎระเบียบจะดูแลขั้นตอนติดตามผล รวมถึงการสืบสวนและการดำเนินการแก้ไขหากจำเป็น คุณไม่ควรสืบสวนเพียงลำพัง ทุกคนจะต้องให้ความร่วมมือและรักษาความลับของการสอบสวน</p>
+                <p>การดำเนินการแก้ไขอาจรวมไปถึงการลงโทษทางวินัย (สูงสุดถึงขั้นเลิกจ้าง) หรือการดำเนินการตามกฎหมายสำหรับ:</p>
+                <ul>
+                  <li>การอนุญาตหรือมีส่วนร่วมในการละเมิด</li>
+                  <li>การปฏิเสธที่จะให้ความร่วมมือในการสืบสวน</li>
+                  <li>การไม่รายงานการละเมิดเนื่องจากการกำกับดูแลที่ไม่ดี</li>
+                  <li>การทำรายงานเท็จ</li>
+                  <li>การตอบโต้เอาคืนบุคคลที่รายงานข้อกังวลโดยสุจริตใจ</li>
+                </ul>
+                <p>การตอบโต้เอาคืนเป็นเรื่องที่ไม่สามารถยอมรับได้ หากคุณเชื่อว่ามีการตอบโต้เอาคืน ควรรายงานต่อสำนักงานจริยธรรมและการปฏิบัติตามกฎระเบียบหรือฝ่ายทรัพยากรมนุษย์</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>โอกาสที่เท่าเทียม</p>
+                <p>เรามอบโอกาสที่เท่าเทียมให้แก่พนักงานทุกคน</p>
+                <p>เราตัดสินใจจ้างงานตามความจำเป็นทางธุรกิจ ทักษะ ประสบการณ์ และผลการปฏิบัติงาน ไม่ยอมรับการเลือกปฏิบัติทุกรูปแบบ เราปฏิบัติตามกฎหมายทุกฉบับที่กำกับควบคุมความสัมพันธ์ระหว่างเรากับพนักงานทั่วโลก</p>
+                <p>Abbott ห้ามมิให้มีการเลือกปฏิบัติบนอันเนื่องมาจากเชื้อชาติ สีผิว ศาสนา อายุ เพศ ชาติกำเนิด เอกลักษณ์หรือการแสดงออกทางเพศ รสนิยมทางเพศ ความพิการ สถานภาพสมรส สถานภาพการเป็นทหารผ่านศึกหรือสถานภาพทางทหาร พันธุกรรม สถานภาพการเป็นพลเมือง หรือสถานภาพอื่นๆ ที่ได้รับการคุ้มครองตามกฎหมาย</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>การปฏิบัติที่เป็นธรรม</p>
+                <p>เราส่งเสริมสถานที่ทำงานที่มีความเคารพซึ่งกันและกัน ยอมรับความแตกต่าง และปลอดภัย</p>
+                <p>เราดำเนินการเพื่อให้แน่ใจว่าทุกคนรู้สึกได้รับการต้อนรับ ได้รับการสนับสนุน และได้รับการมอบอำนาจ</p>
+                <p>Abbott ส่งเสริมสภาพแวดล้อมที่แข็งแรงและไม่มีการล่วงละเมิด และให้ความสำคัญกับการมีส่วนร่วมของพนักงานเพื่อให้มีความหลากหลายและการรวมกลุ่มอย่างแข็งแกร่ง</p>
+                <p>เราปฏิบัติต่อทุกคนด้วยความเคารพและมีศักดิ์ศรี สร้างความไว้วางใจผ่านความยุติธรรมและความซื่อสัตย์ ไม่ใช่ผ่านการจัดการ การบิดเบือน หรือการขาดความโปร่งใส</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>สภาพแวดล้อมในการทำงาน</p>
+                <p>เราให้ความสำคัญกับความปลอดภัยและสภาพการทำงานที่ยุติธรรม</p>
+                <p>ควรรายงานอุบัติเหตุและสถานการณ์ที่ไม่ปลอดภัยต่อฝ่ายบริหารทันที นอกจากนี้ Abbott ยังดำเนินการตามขั้นตอนต่างๆ เพื่อป้องกันและห้ามไม่ให้มีการปฏิบัติด้านแรงงานที่ผิดกฎหมายและไม่เหมาะสม รวมถึงการปฏิบัติอย่างทารุณโหดร้ายหรือขาดมนุษยธรรมทุกรูปแบบในกิจกรรมทางธุรกิจของเราทั่วโลก</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">คุณต้องดูเนื้อหาทั้งหมดก่อนดำเนินการต่อ</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>ที่ Abbott เราสร้างความไว้วางใจผ่านชุมชน สิ่งแวดล้อม และการมีส่วนร่วม</p>
+          </div>
+          <div>
+            <p>เราพยายามที่จะตอบแทนชุมชนที่เราดำเนินงานและสร้างผลกระทบเชิงบวกที่ยั่งยืนต่อชีวิตของผู้คน</p>
+            <p>Abbott ดำเนินการเพื่อลดผลกระทบต่อสิ่งแวดล้อมให้เหลือน้อยที่สุดโดยลดการใช้พลังงานและอนุรักษ์ทรัพยากรธรรมชาติ</p>
+            <p>นอกจากนี้ เรายังสนับสนุนการมีส่วนร่วมทางการเมืองที่เหมาะสมและส่งเสริมการมีส่วนร่วมของชุมชนในการดำเนินงานของเราทั่วโลก</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>การมีส่วนร่วมในชุมชน</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>ความรับผิดชอบต่อสิ่งแวดล้อม</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>การสนับสนุนทางการเมือง</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>คลิกแต่ละไอคอนเพื่อดูข้อมูลเพิ่มเติม</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>การมีส่วนร่วมในชุมชน</p>
+                <p>เราสนับสนุนสุขภาวะที่ดีของชุมชน</p>
+                <p>ที่ Abbott เราสนับสนุนสุขภาวะที่ดีของชุมชนต่างๆ ผ่านผลิตภัณฑ์ งาน และการดำเนินการของเรา และเรามีประวัติศาสตร์อันยาวนานในการตอบแทนสถานที่ที่เราพักอาศัยและทำงาน เพราะเราเชื่อว่าชุมชนที่เข้มแข็งจะเติบโต</p>
+                <p>เรามุ่งมั่นที่จะสร้างผลกระทบเชิงบวกและยั่งยืนในทุกที่ที่เราทำธุรกิจ ผ่านการดำเนินงาน ความร่วมมือ และการสนับสนุนกลุ่มและโครงการริเริ่มในท้องถิ่น</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ความรับผิดชอบต่อสิ่งแวดล้อม</p>
+                <p>เรามีส่วนร่วมในการพัฒนาอย่างยั่งยืนและดำเนินการเพื่อลดผลกระทบต่อสิ่งแวดล้อม</p>
+                <p>เราดำเนินการเพื่อปกป้องสิ่งแวดล้อมในทุกสิ่งที่เราทำ นับตั้งแต่การจัดหาวัตถุดิบไปจนถึงการผลิต การจัดส่ง และการใช้ผลิตภัณฑ์ของเรา</p>
+                <p>เราใช้มาตรการเพื่อลดการใช้พลังงานและทรัพยากรธรรมชาติ เราสนับสนุนโครงการพลังงานสะอาดในที่ทำงานและในชุมชนของเรา เรามองหาวิธีที่จะช่วยลดขยะ นำกลับมารีไซเคิลมากขึ้น และลดความเสี่ยงต่อสิ่งแวดล้อม และเรายังปฏิบัติตามกฎหมายและกฎระเบียบด้านสิ่งแวดล้อมที่มีผลบังคับใช้กับการดำเนินงานของเรา</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>การสนับสนุนทางการเมือง</p>
+                <p>เราส่งเสริมการมีส่วนร่วมอย่างเหมาะสมในกระบวนการทางการเมืองและสนับสนุนการมีส่วนร่วมในชุมชน</p>
+                <p>Abbott สนับสนุนนโยบายสาธารณะที่สอดคล้องกับภารกิจและค่านิยมของเรา หากเหมาะสม เราอาจจะให้การสนับสนุนผู้สมัครทางการเมืองหรือกลุ่มผลประโยชน์ด้วยเช่นกัน</p>
+                <p>เนื่องจากกฎหมายเกี่ยวกับการบริจาคในทางการเมืองโดยบริษัทมีความซับซ้อน การใช้เงินของ Abbott หรือการบริจาคในนามของ Abbott จะต้องได้รับการตรวจสอบจากฝ่ายกฎหมายก่อนเสมอ</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">คุณต้องดูเนื้อหาทั้งหมดก่อนดำเนินการต่อ</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>ที่ Abbott เรามุ่งมั่นที่จะทำธุรกิจอย่างซื่อสัตย์และรักษาคำมั่นสัญญาของเราในงานทุกอย่างที่เป็นของเรา</p>
+          </div>
+          <div>
+            <p>เราให้ความสำคัญกับผลประโยชน์ของ Abbott เหนือกว่าผลประโยชน์ของเราเองเมื่อจัดการกับผลประโยชน์ทับซ้อน เราปกป้องสินทรัพย์และชื่อเสียงของ Abbott รักษาความปลอดภัยของข้อมูลที่เป็นความลับ และเคารพในความเป็นส่วนตัวของบุคคลที่เปิดเผยข้อมูลส่วนบุคคลต่อเราทุกคน</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>การติดต่อธุรกิจอย่างเป็นธรรม</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>การหลีกเลี่ยงผลประโยชน์ทับซ้อน 1</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>การหลีกเลี่ยงผลประโยชน์ทับซ้อน 2</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>การปกป้องทรัพย์สินและชื่อเสียงของบริษัท Abbott</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>ข้อมูลที่เป็นความลับ</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>คลิกแต่ละไอคอนเพื่อดูข้อมูลเพิ่มเติม</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>การติดต่อธุรกิจอย่างเป็นธรรม</p>
+                <p>เราดำเนินธุรกิจด้วยความซื่อสัตย์และปฏิบัติตามพันธกิจที่มีต่องานของเราในทุกมิติ</p>
+                <p>ทุกคนต้องรับผิดชอบต่อการทำงานของตนเองและการตัดสินใจในบทบาทหน้าที่ของตนเอง ในการมีปฏิสัมพันธ์ทางวิชาชีพทุกครั้ง ไม่ว่าจะเป็นกับเพื่อนร่วมงาน ลูกค้า ซัพพลายเออร์ บุคลากรทางการแพทย์ คู่แข่ง หรืออื่นๆ เราต้องมีความยุติธรรมและซื่อสัตย์ต่อวิธีการดำเนินธุรกิจของ Abbott</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>การหลีกเลี่ยงผลประโยชน์ทับซ้อน 1</p>
+                <p>เราระบุและแก้ปัญหาผลประโยชน์ทับซ้อนใดๆ ก่อนที่จะมีการดำเนินการต่อ</p>
+                <p>ผลประโยชน์ทับซ้อนเกิดขึ้นเมื่อผลประโยชน์ส่วนตัวแทรกแซงหรือถูกมองว่าแทรกแซงผลประโยชน์ของ Abbott การตัดสินใจทางธุรกิจควรพิจารณาจากความจำเป็นของ Abbott มิใช่พิจารณาจากผลประโยชน์ส่วนตัวหรืองครอบครัวหรือเพื่อน เราคาดว่าจะใช้มีการตัดสินใจที่ดีและหลีกเลี่ยงสถานการณ์ที่อาจนำไปสู่ผลประโยชน์ทับซ้อนจริงหรือที่รับรู้ได้ หากความสัมพันธ์ ผลประโยชน์ หรือกิจกรรมส่วนตัวภายนอกส่งผลกระทบต่อความสามารถของคุณในการกระทำการอย่างยุติธรรมและมีประสิทธิภาพ หรืออาจเป็นประโยชน์ต่อตัวคุณเองหรือสมาชิกในครอบครัว คุณต้องเปิดเผยผลประโยชน์ทับซ้อนที่อาจเกิดขึ้นและถอนตัวออกจากสถานการณ์ดังกล่าว โดยปฏิบัติตามแนวทางของ Abbott</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>การหลีกเลี่ยงผลประโยชน์ทับซ้อน 2</p>
+                <p>เราให้ความสำคัญกับผลประโยชน์ของ Abbott เป็นอันดับแรกเมื่อตัดสินใจเกี่ยวกับงาน</p>
+                <p>นั่นหมายความว่าต้องให้ความสำคัญกับเป้าหมายของบริษัทมากกว่าเป้าหมายของทีม กลุ่ม หรือบุคคลใดบุคคลหนึ่ง โอกาสหรือทรัพยากรใดๆ ที่เราเข้าถึงได้เนื่องจากบทบาทหน้าที่ของเราที่ Abbott ควรนำไปใช้เพื่อประโยชน์ของบริษัท ไม่ใช่เพื่อผลประโยชน์ส่วนตัว เราไม่ควรแข่งขันกับ Abbott หรือช่วยเหลือบุคคลอื่นให้ดำเนินการดังกล่าว เมื่อมีโอกาสเกิดขึ้น เราต้องมุ่งเน้นไปที่การส่งเสริมผลประโยชน์ของ Abbott</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>การปกป้องทรัพย์สินและชื่อเสียงของบริษัท Abbott</p>
+                <p>เราเป็นผู้ดูแลบริษัทของเรา</p>
+                <p>ทุกคนต่างมีส่วนรับผิดชอบในการปกป้องและใช้ทรัพย์สินของ Abbott อย่างรอบคอบ ซึ่งรวมไปถึงทุกสิ่งทุกอย่างตั้งแต่สิ่งของจับต้องได้อย่าง ยานพาหนะและคอมพิวเตอร์ ไปจนถึงข้อมูลที่มีค่า เช่น ทรัพย์สินทางปัญญา ความลับทางการค้า และความรู้เฉพาะทาง</p>
+                <p>เราควรใช้การตัดสินใจที่ดีอยู่เสมอเพื่อให้แน่ใจว่าทรัพยากรเหล่านี้ถูกใช้อย่างเหมาะสม มีประสิทธิภาพ และด้วยความระมัดระวัง หลีกเลี่ยงการสูญหาย การโจรกรรม การใช้ในทางที่ผิด หรือการสิ้นเปลือง</p>
+                <p>ชื่อเสียงของ Abbott เป็นทรัพย์สินที่มีมูลค่าที่สุดของเรา และทุกคนมีบทบาทในการปกป้อง</p>
+                <p>ทุกคนต้องรับผิดชอบต่อการแสดงตัวว่าเป็นตัวแทนของ Abbott โดยเฉพาะในที่สาธารณะและออนไลน์ ที่ทุกสิ่งที่เราแชร์ ไม่ว่าจะเป็นบทสนทนา อีเมล หรือโซเชียลมีเดีย ก็สามารถสะท้อนถึงบริษัทได้ สิ่งก็สำคัญคือการสื่อสารอย่างรอบคอบ ใช้การตัดสินใจที่ดี และปกป้องข้อมูลที่เป็นความลับของ Abbott</p>
+                <p>เมื่อมีการมีปฏิสัมพันธ์กับภายนอก เราควรคำนึงว่าเราอาจถูกมองว่าเป็นตัวแทนของ Abbott หรือไม่ และคำพูดหรือการกระทำของเราอาจส่งผลกระทบต่อชื่อเสียงของบริษัทอย่างไร เรื่องนี้มีความสำคัญอย่างยิ่งโดยเฉพาะบนโซเชียลมีเดีย เนื่องจากโพสต์ต่างๆ สามารถแพร่กระจายได้อย่างรวดเร็วและกว้างขวาง ความคิดเห็นหรือโพสต์ที่ไม่ใส่ใจอาจสร้างความเสียหายได้</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ข้อมูลที่เป็นความลับ</p>
+                <p>เรามุ่งมั่นที่จะเคารพและปกป้องข้อมูลที่เป็นความลับทั้งหมด รวมไปถึงข้อมูลส่วนบุคคล</p>
+                <p>ข้อมูลที่เป็นความเป็นลับคือหนึ่งในสินทรัพย์ที่มีมูลค่าที่สุดของ Abbott ข้อมูลที่เป็นความเป็นลับรวมไปถึงรายละเอียดที่ไม่เปิดเผยต่อสาธารณะ เช่น การวิจัย ความลับทางการค้า แผนธุรกิจ การกำหนดราคา สัญญา ผลประกอบการทางการเงิน และข้อมูลอื่นๆ ที่อาจเป็นประโยชน์ต่อคู่แข่งหรือส่งผลเสียต่อ Abbott หากถูกเปิดเผย</p>
+                <p>เราต้องปกป้องข้อมูลที่เป็นความลับและป้องกันการใช้งานหรือการแบ่งปันโดยไม่ได้รับอนุญาต ถึงแม้ว่าเราจะไม่ได้ทำงหานให้กับ Abbott แล้วก็ตาม</p>
+                <p>ที่ Abbott เรายังให้ความเคารพในทรัพย์สินทางปัญญาของบุคคลอื่นและหลีกเลี่ยงการใช้ข้อมูลที่เป็นความลับของพวกเขาโดยไม่เหมาะสม การใช้ข้อมูลที่ไม่เป็นสาธารณะในทางที่ผิด เช่น การซื้อขายข้อมูลภายใน ถือเป็นสิ่งผิดกฎหมายและผิดจริยธรรม</p>
+                <p>นอกจากนี้ เรายังปกป้องข้อมูลส่วนบุคคลที่ได้รับความไว้วางใจจากพนักงาน บุคลากรทางการแพทย์ และลูกค้าอีกด้วย เมื่อเราเก็บรวบรวมและใช้ข้อมูลส่วนบุคคล เราจะดำเนินการอย่างมีความรับผิดชอบ โดยต้องได้รับความยินยอมอย่างถูกต้อง และจะไม่ขายหรือรับข้อมูลดังกล่าวจากแหล่งที่ไม่ได้รับอนุญาต หลายประเทศมีกฎหมายความเป็นส่วนตัวที่เข้มงวด และเรามุ่งมั่นที่จะทำความเข้าใจและปฏิบัติตาม โดยเฉพาะอย่างยิ่งสำหรับหมวดหมู่ข้อมูลส่วนบุคคลที่ละเอียดอ่อนที่สุด</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">คุณต้องดูเนื้อหาทั้งหมดก่อนดำเนินการต่อ</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>ที่ Abbott เรามุ่งมั่นที่จะทำธุรกิจอย่างซื่อสัตย์และรักษาคำมั่นสัญญาของเราในงานทุกอย่างที่เป็นของเรา</p>
+          </div>
+          <div>
+            <p>เราให้ความสำคัญกับผลประโยชน์ของ Abbott เหนือกว่าผลประโยชน์ของเราเองเมื่อจัดการกับผลประโยชน์ทับซ้อน เราปกป้องสินทรัพย์และชื่อเสียงของ Abbott รักษาความปลอดภัยของข้อมูลที่เป็นความลับ และเคารพในความเป็นส่วนตัวของบุคคลที่เปิดเผยข้อมูลส่วนบุคคลต่อเราทุกคน</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>การต่อต้านการติดสินบน</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>ของกำนัล การเลี้ยงอาหาร และการเลี้ยงรับรอง</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>สมุดบัญชีและบันทึกข้อมูลที่ถูกต้อง</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>การปฏิบัติตามกฎหมาย</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>การแข่งขันทางการค้าที่เป็นธรรม</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>คลิกแต่ละไอคอนเพื่อดูข้อมูลเพิ่มเติม</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>การต่อต้านการติดสินบน</p>
+                <p>เราต่อต้านการฉ้อโกง การให้สินบน และการทุจริตอย่างจริงจัง เราได้ธุรกิจมาด้วยวิธีการที่ถูกต้อง</p>
+                <p>เราคาดหวังให้บุคลากรทางการแพทย์ตัดสินใจในฐานะบุคคลโดยพิจารณาจากสิ่งที่ดีที่สุดสำหรับผู้ป่วย ไม่ใช่ขึ้นอยู่กับแรงจูงใจจากบริษัท ในทำนองเดียวกัน เราคาดหวังให้เจ้าหน้าที่ของรัฐดำเนินการเพื่อผลประโยชน์ของสาธารณะ โดยปราศจากแรงกดดันจากองค์กรเอกชน</p>
+                <p>ที่ Abbott เราให้ความรู้แก่บุคลากรทางการแพทย์เกี่ยวกับผลิตภัณฑ์ของเรา แต่จะไม่เข้าไปยุ่งเกี่ยวกับการตัดสินใจโดยอิสระของพวกเขา ห้ามมิให้เสนอสิ่งใดๆ ที่มีค่าแก่ผู้ให้บริการการการดูแลสุขภาพ (เช่น แพทย์ เภสัชกร พยาบาล นักวิจัย หรือเจ้าหน้าที่ห้องปฏิบัติการ) เจ้าหน้าที่รัฐ หรือบุคคลอื่นเพื่อหวังผลในการทำธุรกิจหรือให้รางวัลตอบแทนตามความสัมพันธ์ที่ผ่านมา</p>
+                <p>เราปฏิบัติตามกฎหมายการต่อต้านการติดสินบน การต่อต้านการทุจริต และการต่อต้านการมอบหรือรับสิ่งตอบแทนทั่วโลก รวมถึงกฎหมายป้องกันการทุจริตในต่างประเทศของสหรัฐอเมริกา (U.S. Foreign Corrupt Practices Act) ทุกคนใน Abbott จะต้องบริหารความสัมพันธ์กับผู้ให้บริการอย่างรอบคอบ เช่น ผู้จัดจำหน่าย ที่ปรึกษา และวิทยากร โดยดำเนินการตรวจสอบความครบถ้วน จ่ายตามมูลค่าตลาดที่ยุติธรรม และบันทึกการชำระเงินอย่างถูกต้องเพื่อให้แน่ใจว่าเป็นไปตามกฎหมายและมาตรฐานของบริษัท</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ของกำนัล การเลี้ยงอาหาร และการเลี้ยงรับรอง</p>
+                <p>เราไม่เสนอหรือมอบสิ่งใดๆ ที่มีค่าเพื่อให้ได้มาซึ่งข้อได้เปรียบทางธุรกิจ ไม่ว่าจะโดยตรงหรือโดยอ้อม ตามหลักการต่อต้านการติดสินบน</p>
+                <p>เพื่อป้องกันอิทธิพลที่ไม่เหมาะสมในการตัดสินใจทางธุรกิจ เราจึงกำหนดขอบเขตเกี่ยวกับของกำนัล การเลี้ยงอาหาร และการเลี้ยงรับรอง นโยบายของ Abbott ช่วยให้มั่นใจว่าการย้ำเตือนในเรื่องแบรนด์ ความสุภาพตามธรรมเนียม การต้อนรับ และผลประโยชน์อื่นๆ จะไม่รบกวนการตัดสินใจทางวิชาชีพ</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>สมุดบัญชีและบันทึกข้อมูลที่ถูกต้อง</p>
+                <p>เราตรวจวัดความสำเร็จอย่างถูกต้อง</p>
+                <p>บันทึกและแถลงการณ์ต่อสาธารณะของ Abbott จะต้องสะท้อนถึงการกระทำของเราอย่างถูกต้อง โดยมีบริบทเพียงพอที่จะแสดงถึงลักษณะที่แท้จริงของงานของเรา บันทึกทางการเงินจะต้องเป็นไปตามมาตรฐานการบัญชี กฎหมาย และนโยบายภายในของ Abbott</p>
+                <p>เมื่อรายงานราคา การชำระเงิน หรือรายการที่มีค่า โดยเฉพาะต่อบุคลากรทางการแพทย์ เราต้องแน่ใจว่าข้อมูลมีความครบถ้วนและถูกต้อง รัฐบาลของหลายประเทศต้องการความโปร่งใสนี้เพื่อปกป้องเงินทุนของรัฐ Abbott มุ่งมั่นที่จะจัดหาข้อมูลที่เชื่อถือได้เพื่อให้รัฐบาล บริษัทประกันภัย และผู้มีส่วนได้ส่วนเสียอื่นๆ สามารถตัดสินใจได้อย่างมีความรู้</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>การปฏิบัติตามกฎหมาย</p>
+                <p>เราปฏิบัติตามกฎหมาย กฎระเบียบ และข้อกำหนดทั้งหมดของ Abbott ที่เกี่ยวข้องกับงานของเรา</p>
+                <p>พนักงานทุกคนของ Abbott ได้รับการคาดหวังว่าจะปฏิบัติตามกฎหมายที่เกี่ยวข้องทั้งหมด รวมถึงนโยบาย ระเบียบปฏิบัติ และหลักจรรยาบรรณของ Abbott นี่เป็นเงื่อนไขพื้นฐานของการจ้างงาน นโยบายของ Abbott ครอบคลุมประเด็นสำคัญ เช่น การปฏิบัติตามข้อกำหนดการดูแลสุขภาพ คุณภาพ การเงิน การค้า ความปลอดภัย และอื่นๆ ช่วยให้เราปฏิบัติตามข้อกำหนดของกฎหมายและป้องกันการไม่ปฏิบัติตาม</p>
+                <p>ในฐานะบริษัทระดับโลก เรายังต้องตระหนักด้วยว่ากฎหมายในประเทศหนึ่งอาจนำไปใช้กับงานที่ทำในอีกประเทศหนึ่งไม่ได้ หากมีข้อสงสัย โปรดขอคำแนะนำจากฝ่ายกฎหมายหรือสำนักงานจริยธรรมและการปฏิบัติตามกฎระเบียบ</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>การแข่งขันทางการค้าที่เป็นธรรม</p>
+                <p>เราดำเนินการให้แน่ใจว่าการติดต่อใดๆ ของเรากับคู่แข่งนั้นต้องเป็นไปอย่างเหมาะสม</p>
+                <p>ที่ Abbott เรามุ่งมั่นที่จะปฏิบัติตามกฎหมายการแข่งขันทุกที่ที่เราดำเนินงาน กฎหมายเหล่านี้ห้ามการทำข้อตกลงหรือการกระทำใดๆ ที่ไม่สนับสนุนแนวทางปฏิบัติทางการตลาดที่ยุติธรรม โดยเฉพาะอย่างยิ่งในเรื่องราคา เงื่อนไขการขาย และการมีปฏิสัมพันธ์กับคู่แข่ง</p>
+                <p>หลีกเลี่ยงการพูดคุยในหัวข้อที่ละเอียดอ่อน เช่น ราคา ต้นทุน หรือแผนธุรกิจกับคู่แข่ง และติดต่อฝ่ายกฎหมายหรือสำนักงานจริยธรรมและการปฏิบัติตามกฎระเบียบ หากคุณมีคำถามหรือพบเห็นเรื่องที่ไม่เหมาะสม เนื่องจากกฎหมายการแข่งขันมีความซับซ้อนและการฝ่าฝืนอาจนำมาซึ่งบทลงโทษที่ร้ายแรง เราจึงต้องบริหารความสัมพันธ์กับบุคคลที่สามอย่างระมัดระวังเพื่อให้แน่ใจว่าจะเป็นไปตามข้อกำหนดและหลีกเลี่ยงแม้กระทั่งพฤติกรรมที่ดูเหมือนจะเป็นการต่อต้านการแข่งขัน</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>ก่อนที่คุณจะออกจากหลักสูตรนี้ โปรดใช้เวลาสักครู่เพื่อยืนยันว่าคุณเข้าใจในความรับผิดชอบของคุณที่เกี่ยวข้องกับหลักจรรยาบรรณในการดำเนินธุรกิจของ Abbott หรือไม่</p>
+          <p>ข้าพเจ้าขอยืนยันว่าข้าพเจ้าเข้าใจความรับผิดชอบของข้าพเจ้าในหลักจรรยาบรรณในการดำเนินธุรกิจของ Abbott และทราบว่าจะดูและทบทวนนโยบายและระเบียบปฏิบัติที่เกี่ยวข้องได้ที่ใด</p>
+          <button class="qcSubmitBtn">ยืนยัน</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>แบบทดสอบความรู้ประกอบไปด้วยคำถาม 10 ข้อ คุณจะต้องได้คะแนน 80% ขึ้นไปเพื่อเสร็จสิ้นการอบรมหลักสูตรนี้โดยสมบูรณ์</p>
+        <p>เมื่อคุณพร้อมแล้ว ให้คลิกปุ่ม แบบทดสอบความรู้</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>เหตุใดหลักจรรยาบรรณในการดำเนินธุรกิจจึงมีความสำคัญ</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>ให้คำแนะนำที่เฉพาะเจาะจงสำหรับทุกสถานการณ์ที่เราอาจเผชิญในการทำงาน</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>ให้ชุดหลักการและค่าที่นิยมที่ชัดเจนซึ่งเป็นพื้นฐานในการตัดสินใจเมื่อแนวทางดำเนินการที่ดีที่สุดมีความไม่ชัดเจนในขณะนั้น</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">ถัดไป</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>หลักจรรยาบรรณในการดำเนินธุรกิจอธิบายถึงหลักการและค่านิยมต่างๆ อย่างชัดเจนซึ่งเป็นพื้นฐานในการตัดสินใจ ในกรณีที่แนวทางที่พึงปฏิบัตินั้นยังไม่ชัดเจน ณ ขณะนั้น</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>ข้อใดต่อไปนี้ที่<span class="underline">ไม่มีทาง</span>ที่จะเป็นการทำธุรกรรมทางธุรกิจที่เหมาะสม</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>การว่าจ้าง HCP เพื่อพูดคุยเกี่ยวกับโรคเฉพาะด้านเนื่องจากทักษะและความเชี่ยวชาญของพวกเขา</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>การจัดหาอาหารที่เหมาะสมให้แก่ผู้เข้าร่วมโปรแกรมการศึกษาที่ Abbott ให้การสนับสนุน</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>การจัดให้มีการบริจาคเพื่อการกุศลสำหรับองค์กรในท้องถิ่น</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>การว่าจ้าง HCP เพื่อดำเนินโปรแกรมการศึกษาเพื่อขอบคุณที่ใช้ผลิตภัณฑ์ของ Abbott</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">ถัดไป</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>อนุญาตให้ทำการว่าจ้าง HCP เพื่อจัดโปรแกรมการศึกษาเนื่องจากทักษะและความเชี่ยวชาญของพวกเขา อย่างไรก็ตาม การว่าจ้าง HCP เพื่อเป็นการขอบคุณสำหรับการใช้ผลิตภัณฑ์ของ Abbott นั้นไม่เหมาะสม เนื่องจากสิ่งนี้อาจถูกมองว่าเป็นสินบน</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>ผลที่ตามมาสำหรับตัวบุคคลที่เข้าไปมีส่วนเกี่ยวข้องกับการติดสินบนและการทุจริตอาจรวมถึง:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>ความเสียหายต่อชื่อเสียง</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>การจ่ายค่าปรับและบทลงโทษ</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>การเลิกจ้าง</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>โทษจำคุก</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>ถูกทุกข้อ</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">ถัดไป</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>ผลที่ตามมาสำหรับบุคคลที่เกี่ยวข้องกับการติดสินบนและการทุจริตอาจรวมถึงความเสียหายต่อชื่อเสียง การจ่ายค่าปรับและบทลงโทษ การเลิกจ้าง และแม้กระทั่งโทษจำคุก</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>ตัวแทนขายยังเป็นเจ้าของร้านขายเครื่องประดับเล็กๆ อีกด้วย เธอตัดสินใจว่าเป็นการดีที่จะมอบของขวัญเล็กๆ น้อยๆ จากร้านค้าของเธอให้กับ HCP ที่ไม่ได้สั่งจ่ายผลิตภัณฑ์ของ Abbott ในช่วงนี้ การทำเช่นนี้เหมาะสมหรือไม่</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>ใช่</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>ไม่</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">ถัดไป</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>นโยบายของ Abbott ห้ามไม่ให้มอบของกำนัลให้กับบุคลากรทางการแพทย์ (HCP) เนื่องจากตัวแทนขายดำเนินการในฐานะตัวแทนของ Abbott ของกำนัลเป็นข้อห้ามแม้กระทั่งเธอจะจ่ายเงินไปแล้วก็ตาม การให้ของขวัญยังอาจถูกมองว่าเป็นสินบนสำหรับธุรกิจในอนาคต</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>ผู้จัดการฝ่ายขายได้รับโทรศัพท์จากผู้ติดต่อของบริษัทคู่แข่ง คู่แข่งเล่าว่าทีมงานขายของบุคคลที่สามที่ได้ทำสัญญากับ Abbott ในตลาดใหม่กำลังเสนอเลี้ยงมื้ออาหารหรูหราให้กับลูกค้าที่เลือกผลิตภัณฑ์ของ Abbott แทนคู่แข่ง ข้อใดคือการกระทำที่เหมาะสม</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>ไม่ต้องทำอะไร เนื่องจากข้อมูลดังกล่าวมาจากคู่แข่ง</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>ไม่ต้องทำอะไร เพราะมื้ออาหารหรูหราเป็นเรื่องปกติในตลาดนั้น</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>รายงานเรื่องดังกล่าวต่อสำนักงานจริยธรรมและการปฏิบัติตามกฎระเบียบ (OEC) ทันที</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>ค้นหาผู้จัดจำหน่ายรายอื่นในกรณีที่คำกล่าวอ้างนั้นเป็นจริง</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">ถัดไป</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>คุณควรแจ้งข้อกล่าวหาดังกล่าวต่อสำนักงานจริยธรรมและการปฏิบัติตามกฎระเบียบ (OEC) เพื่อให้ดำเนินการสอบสวนได้อย่างถูกต้อง แม้ว่าข้อมูลจะมาจากคู่แข่งก็ตาม</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>บริษัทตัวแทนท่องเที่ยวกำลังจัดเตรียมการเดินทางให้กับบุคลากรทางการแพทย์ (HCP) ที่ให้บริการตัวแทนแก่ Abbott จากการตรวจสอบใบเสร็จที่ส่งมาให้ ได้พบความคลาดเคลื่อน เช่น ยอดรวมไม่ตรงกับการขอเบิกเงินคืน และใบเสร็จบางฉบับไม่มีรายละเอียดสำคัญ เช่น วันที่เดินทาง</p>
+              <p>ข้อใดคือการกระทำที่เหมาะสม</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>แจ้งตัวแทนท่องเที่ยวว่า Abbott ไม่สามารถจ่ายเงินได้หากเอกสารไม่มีข้อมูลที่ครบถ้วนและถูกต้อง</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>ดำเนินการจ่ายตามใบเสร็จรับเงินเนื่องจากมีข้อมูลแค่บางส่วนที่ไม่ครบ</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>แนะนำให้ตัวแทนให้ข้อมูลที่ถูกต้องมากขึ้นในครั้งต่อไป</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>ไม่ทำอะไร เนื่องจากตัวแทนรายนี้ยังใหม่อยู่</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">ถัดไป</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>สมุดบัญชีและบันทึกรายการของ Abbott จะต้องถูกต้องและครบถ้วนซึ่งสะท้อนถึงธุรกรรมทั้งหมด ดังนั้นจึงเป็นเรื่องสำคัญที่บุคคลที่สามที่ให้บริการแก่ Abbott จะต้องจัดเตรียมเอกสารที่ครบถ้วนซึ่งสะท้อนถึงวัตถุประสงค์ที่แท้จริงและรายละเอียดการทำธุรกรรมอย่างถูกต้อง</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>คุณกำลังทำงานกับบริษัทในเครือซึ่งอนุญาตให้มีการสนับสนุนค่าใช้จ่ายให้ HCP เข้าร่วมการประชุมวิชาการ และคุณกำลังอยู่ในกระบวนการคัดเลือก HCP ที่จะเข้าร่วมการประชุมวิชาการ หลักเกณฑ์ที่คุณใช้สำหรับการคัดเลือก ได้แก่: (1) หัวข้อของการประชุมวิชาการอยู่ในขอบเขตความเชี่ยวชาญของ HCP ท่านนั้นหรือไม่ (2) Abbott ได้สนับสนุน HCP รายนั้นในปีที่ผ่านมาหรือไม่ (3) HCP รายนั้นมีแนวโน้มที่จะแนะนำผลิตภัณฑ์ของ Abbott หรือใช้อุปกรณ์ของ Abbott ภายหลังการเข้าร่วมกิจกรรมดังกล่าวหรือไม่ เกณฑ์เหล่านี้เหมาะสมแล้วใช่หรือไม่</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>ใช่ หลักเกณฑ์สำคัญสองข้อที่ต้องปฏิบัติตามเสมอเมื่อให้การสนับสนุนบุคคลต่างๆ คือ การสนับสนุนนั้นจะต้อง: ก) เกี่ยวข้องกับขอบเขตความเชี่ยวชาญของ HCP และ ข.) ไม่ถูกนำมาใช้เป็นของรางวัลหรือสิ่งจูงใจสำหรับธุรกิจ ข้อเท็จจริงที่ว่าคุณกำลังตรวจสอบเพื่อให้แน่ใจว่า Abbott ไม่ได้ให้การสนับสนุน HCP ดังกล่าวในปีที่ผ่านมาจะช่วยให้มั่นใจได้ในหลักเกณฑ์ส่วนหลัง</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>ใช่ ตราบใดที่เหตุผลสำหรับการสนับสนุน HCP รายดังกล่าวไม่ได้เป็นไปเพื่อจูงใจหรือเพื่อเป็นรางวัลตอบแทนต่อบุคคลใดบุคคลหนึ่ง คุณสามารถพิจารณาผลตอบแทนจากการลงทุนของคุณได้ ไม่ว่าบุคคลดังกล่าวจะยังคงสั่งจ่ายผลิตภัณฑ์ของ Abbott หรือไม่ก็ตาม</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>ไม่ใช่ การตัดสินใจให้การสนับสนุนอาจจะไม่มาจากปัจจัยที่ HCP รายดังกล่าวมีแนวโน้มที่จะแนะนำผลิตภัณฑ์ของ Abbott หรือใช้อุปกรณ์ของ Abbott หลังจากที่ได้เข้าร่วมกิจกรรมที่ให้การสนับสนุน</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>ใช่ ตราบใดที่เกณฑ์อย่างน้อยหนึ่งข้อมีความเหมาะสม การมีอยู่ของเกณฑ์ที่ไม่เหมาะสมเพิ่มเติมก็ไม่เกี่ยวข้อง</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">ถัดไป</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>การตัดสินใจให้การสนับสนุนจะต้องไม่ดำเนินการเสมือนเป็นสิ่งตอบแทนจากการใช้ผลิตภัณฑ์ในอดีต หรือเป็นแรงจูงใจให้ใช้ผลิตภัณฑ์หรืออุปกรณ์ของเรามากขึ้นในอนาคต พึงระลึกอยู่เสมอว่าการให้การสนับสนุนเป็นสิ่งต้องห้ามตามกฎหมายในหลายเขตอำนาจทางกฎหมาย ศึกษาข้อมูลจากระเบียบปฏิบัติของกิจการในเครือเสมอก่อนที่จะให้การสนับสนุน</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>ตัวแทนขายของ Abbott ให้ความรู้แก่บุคลากรทางการแพทย์ (HCP) เกี่ยวกับผลิตภัณฑ์ หลังจากการอภิปราย HCP เปิดเผยว่าคู่แข่งรายหนึ่งเสนอ iPad รุ่นใหม่เพื่อแลกกับการช่วยเพิ่มยอดขายของพวกเขา</p>
+              <p>ข้อใดคือการกระทำที่เหมาะสม</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>เสนอแรงจูงใจแบบเดียวกันเพื่อให้ยังคงมีความสามารถในการแข่งขัน</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>ปฏิเสธการเสนอ iPad แต่เสนออาหารเย็นราคาแพงเพื่อพูดคุยกันต่อ</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>อธิบายว่า Abbott ดำเนินธุรกิจอย่างถูกต้องและไม่สามารถเสนออะไรที่มีคุณค่าที่อาจส่งผลต่อการตัดสินใจโดยไม่เหมาะสมได้ จากนั้น รายงานสถานการณ์ต่อสำนักงานจริยธรรมและการปฏิบัติตามกฎระเบียบ (OEC) โดยทันที</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>ขอบคุณ HCP สำหรับข้อมูลและสัญญาว่าจะพิจารณาในเรื่องนี้</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">ถัดไป</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>คุณไม่ควรเสนอ สัญญา ให้ หรือรับสิ่งของที่มีมูลค่าใดๆ เพื่อได้มาซึ่งข้อได้เปรียบทางธุรกิจอย่างไม่เหมาะสม หรือเพื่อให้ได้มา หรือเพื่อรักษาธุรกิจไว้ ไม่ว่าคู่แข่งจะทำอะไร คุณจะต้องปฏิบัติตามกฎหมายที่มีผลบังคับใช้และนโยบายของ Abbott รวมถึงข้อกำหนดในนโยบายต่อต้านการทุจริตทั่วโลกของ Abbott (GLB-ANTI-CORRUPTION) เมื่อมีข้อสงสัย โปรดปรึกษาฝ่ายกฎหมายหรือ OEC</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>ข้อใดต่อไปนี้คือตัวอย่างของสิ่งของที่มีมูลค่าที่ไม่ควรมอบให้ได้มาซึ่งธุรกิจ</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>การเดินทางไปหา HCP และครอบครัวเพื่อเยี่ยมชมสปา คาสิโน หรือสถานที่อื่นๆ ที่มีชื่อเสียงด้านความบันเทิง</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>เงินช่วยเหลือสำหรับโครงการวิจัยหรือการศึกษาในอนาคต</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>การบริจาคให้กับองค์กรการกุศลที่ชื่นชอบของเจ้าหน้าที่ของรัฐ</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>ถูกทุกข้อ</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">ถัดไป</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>มาตรฐานของ Abbott ในเรื่องการติดสินบนและการทุจริตซึ่งพบได้ในนโยบายต่อต้านการทุจริตทั่วโลก (GLB-ANTI-CORRUPTION) สอดคล้องกับความมุ่งมั่นของเราในการดำเนินธุรกิจด้วยความจริงใจ เที่ยงธรรม และซื่อสัตย์ ซึ่งหมายถึงเราไม่อนุญาตให้ทำการเสนอหรือมอบสิ่งของที่มีมูลค่าเพื่อให้ได้มาซึ่งธุรกิจ</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>HCP ที่เป็นผู้นำทางความคิดคนสำคัญถามว่าคุณสามารถจัดให้มีการสนับสนุนแก่โปรแกรมการศึกษาที่เขาจะเข้าร่วมเพื่อแลกกับโอกาสทางธุรกิจที่ Abbott จะได้รับเพิ่มเติมได้หรือไม่ ตัวเลือกใดเหมาะสมที่สุด</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>ปฏิเสธคำขออย่างหนักแน่นเพราะว่ามันละเมิดนโยบายต่อต้านการทุจริตของ Abbott</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>แจ้งให้ HCP ทราบว่าคุณจะถามผู้จัดการของคุณ</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>ตามคำขอ เนื่องจาก HCP เป็นผู้นำทางความคิดหลักที่มีอิทธิพลอย่างมาก</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>ไม่มีข้อใดถูก</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">ส่ง</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>เราไม่เสนอหรือมอบสิ่งใดๆ ที่มีค่าเพื่อให้ได้มาซึ่งข้อได้เปรียบทางธุรกิจ ไม่ว่าจะโดยตรงหรือโดยอ้อม ตามหลักการต่อต้านการติดสินบน</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>ไม่มีคะแนนเนื่องจากคุณยังทำแบบทดสอบความรู้ไม่เสร็จ</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>ขอแสดงความยินดี! คุณผ่านแบบทดสอบความรู้แล้ว</p>
+          <p>โปรดตรวจสอบคะแนนด้านล่างโดยการคลิกที่แต่ละคำถาม</p>
+          <p>เมื่อดำเนินการเสร็จสิ้นแล้ว ให้คลิกที่ลูกศรชี้ไปด้านขวาเพื่อตอบแบบสำรวจสั้นๆ</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>ขออภัย คุณไม่ผ่านแบบทดสอบความรู้ ใช้เวลาสักครู่เพื่อตรวจสอบคะแนนของคุณด้านล่างโดยการคลิกที่แต่ละคำถาม</p>
+          <p>เมื่อคุณทำเสร็จแล้ว คลิกที่ปุ่มทำแบบทดสอบอีกครั้ง</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>${C_199.1}</p>
+          <p>${C_199.2}</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.3}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.4}</p>
+                  <p>${C_199.5}</p>
+                  <p>${C_199.6}</p>
+                  <p>${C_199.7}</p>
+                  <p>${C_199.8}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.9}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>จากการเรียนรู้ในเซสชันนี้ ฉันมีความเข้าใจเกี่ยวกับหลักจรรยาบรรณในการดำเนินธุรกิจของ Abbott ดียิ่งขึ้น</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>ไม่เห็นด้วยอย่างยิ่ง</p>
+                  <p>ไม่เห็นด้วย</p>
+                  <p>เฉยๆ</p>
+                  <p>เห็นด้วย</p>
+                  <p>เห็นด้วยอย่างยิ่ง</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.16}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.17}</p>
+                  <p>${C_199.18}</p>
+                  <p>${C_199.19}</p>
+                  <p>${C_199.20}</p>
+                  <p>${C_199.21}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.22}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">${C_199.23}</p>
+          <button class="surveySubmit">
+            <p>${C_199.24}</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">จะขอรับการสนับสนุนได้จากที่ใด</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>ผู้จัดการ</p>
+        <p>หากคุณมีข้อสงสัยใดๆ เกี่ยวกับการติดต่อบุคคลใดๆ ภายนอก Abbott จุดที่ดีที่สุดในการเริ่มต้นคือผู้จัดการของคุณ</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>มาตรฐานที่เป็นลายลักษณ์อักษร</p>
+        <ul>
+          <li>สำหรับรายการความคาดหวังพื้นฐานของบริษัทเราในเรื่องการติดต่อกับผู้อื่น โปรดดูที่ <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">หลักจรรยาบรรณในการดำเนินธุรกิจ</a> ของเรา</li>
+          <li>หากต้องการทราบนโยบายและระเบียบปฏิบัติขององค์กรของเราที่มีผลใช้บังคับทั่วทั้งบริษัท โปรดไปที่ <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">พอร์ทัลนโยบายระดับโลก</a></li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>สำนักงานจริยธรรมและการปฏิบัติตามกฎระเบียบ (OEC)</p>
+        <p>OEC เป็นแหล่งข้อมูลสากลที่พร้อมให้บริการในการตอบคำถามหรือข้อกังวลของคุณเกี่ยวกับค่านิยมและมาตรฐานแนวทางปฏิบัติของบริษัท</p>
+        <ul>
+          <li>โปรดดูที่<a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance/?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">หน้าเว็บ OEC</a> บน Abbott World</li>
+          <li>หากคุณมีข้อกังวลเกี่ยวกับกิจกรรมทางธุรกิจที่ทุจริต ไม่ว่าจะเกิดขึ้นภายในบริษัทหรือจากการติดต่อกับลูกค้าหรือบุคคลที่สามอื่นๆ คุณสามารถรายงานข้อกังวลต่อ OEC (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) หรือฝ่ายกฎหมาย หรือติดต่อ <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> ที่รองรับหลายภาษาทั่วโลกได้ตลอด 24 ชั่วโมงทุกวัน</li>
+          <li>iComply – โปรดดูที่ <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> เพื่อเข้าถึงแอปพลิเคชั่นและแหล่งข้อมูลเกี่ยวกับการปฏิบัติตามกฎระเบียบสำหรับการมีปฏิสัมพันธ์กับบุคลากรทางการแพทย์และองค์กรการดูแลสุขภาพ รวมถึงบุคคลภายนอก</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>ฝ่ายทรัพยากรมนุษย์</p>
+        <p>สำหรับประเด็นปัญหาเกี่ยวกับพนักงาน เช่น ข้อกังวลเกี่ยวกับการบริหารและ/หรือพนักงานอื่นๆ โปรดติดต่อเจ้าหน้าที่<a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">ฝ่ายทรัพยากรมนุษย์</a>ในประเทศของคุณ</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>ฝ่ายกฎหมาย</p>
+        <p>ติดต่อฝ่ายกฎหมายหากมีคำถามหรือข้อกังวลเกี่ยวกับผลกระทบทางกฎหมายที่เกิดจากการติดสินบนและการทุจริต</p>
+        <ul>
+          <li>คลิก ที่นี่ เพื่อไปที่หน้าหลักของฝ่ายกฎหมายบน Abbott World</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>แหล่งข้อมูลอ้างอิงอื่นๆ</p>
+        <p>มีแหล่งข้อมูลอ้างอิงอื่นๆ ที่พร้อมให้บริการสำหรับคุณ</p>
+        <p>ฝ่ายการเงิน – หากคุณมีข้อสงสัยเกี่ยวกับการบัญชีหรือการเงิน โปรดติดต่อฝ่ายการเงินในประเทศของคุณ</p>
+        <p>ฝ่ายตรวจสอบระดับองค์กร (Corporate Audit) – หากคุณมีข้อกังวลที่เฉพาะเจาะจงเกี่ยวกับการบัญชี การควบคุมบัญชีภายใน หรือการตรวจสอบ โปรดรายงานต่อฝ่ายตรวจสอบระดับองค์กรหรือ OEC ทันที</p>
+        <p>ฝ่ายคุณภาพและควบคุมข้อบังคับของ Abbott – หากคุณมีข้อสงสัยเกี่ยวกับคุณภาพและความปลอดภัยของผลิตภัณฑ์ของเรา โปรดติดต่อฝ่ายคุณภาพหรือฝ่ายควบคุมข้อบังคับในประเทศของคุณ</p>
+        <p>ฝ่ายอาชีวอนามัย ความปลอดภัย และสิ่งแวดล้อมระดับโลก – โปรดติดต่อเจ้าหน้าที่ฝ่ายอาชีวอนามัย ความปลอดภัย และสิ่งแวดล้อมระดับโลก หากคุณมีข้อสงสัยเกี่ยวกับสถานที่ทำงานจริงและอันตรายที่อาจเกิดขึ้น</p>
+        <p>ฝ่ายจัดซื้อทั่วโลก – หากคุณมีคำถามเกี่ยวกับความสัมพันธ์กับซัพพลายเออร์ โปรดติดต่อฝ่ายจัดซื้อทั่วโลก</p>
+      </div>
+      <p class="resSubtitles" data-break="true">แหล่งข้อมูลของหลักสูตร</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>บทบรรยาย</p>
+        <p>คลิก <a href="reference/Transcript.pdf" target="_blank">ที่นี่</a> เพื่อดูบทบรรยายทั้งหมดของหลักสูตร</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>หลักสูตรไม่สามารถติดต่อ LMS ได้ คลิก 'ตกลง' เพื่อดำเนินการต่อและทบทวนหลักสูตร หมายเหตุ อาจจะไม่มีเอกสารรับรองหลักสูตรให้ คลิก 'ยกเลิก' เพื่อออก</s1>
+    <s2>ยังไม่ได้ตอบคำถามให้ครบทุกข้อ</s2>
+    <s3>คำถาม</s3>
+    <s4>คำถาม</s4>
+    <s5>ยังไม่ได้ตอบ</s5>
+    <s6>ถูกต้อง!</s6>
+    <s7>ไม่ถูกต้อง!</s7>
+    <s8>ข้อเสนอแนะ:</s8>
+    <s9>หลักจรรยาบรรณในการดำเนินธุรกิจ</s9>
+    <s10>แบบทดสอบความรู้</s10>
+    <s11>ส่ง</s11>
+    <s12>ทำแบบทดสอบอีกครั้ง</s12>
+    <s13>คำอธิบายหลักสูตร: หลักจรรยาบรรณในการดำเนินธุรกิจเป็นเอกสารสำคัญที่อธิบายถึงความคาดหวังของบริษัทที่มีต่อพนักงานทุกคนในฐานะที่เราเป็นตัวแทนของ Abbott ในการทำงานประจำวันของเรา หลักจรรยาบรรณเป็นรากฐานสำหรับความรับผิดชอบและพฤติกรรมของเรา ซึ่งช่วยให้เราสามารถทำการตัดสินใจที่ดีที่สุดสำหรับ Abbott สำหรับตัวเราเอง และสำหรับผู้คนจำนวนมากที่เราให้บริการ หลักสูตรนี้ให้ภาพรวมในระดับสูงเกี่ยวกับหลักจรรยาบรรณ ระบุความคาดหวังของบริษัทและภาระผูกพันของคุณ และให้คำแนะนำเชิงปฏิบัติเกี่ยวกับสิ่งที่ควรทำหากไม่สามารถกำหนดแนวทางที่ดีที่สุดได้ หลักสูตรนี้จะใช้เวลาเรียนประมาณ 35-45 นาที</s13>
+    <s14>เมนู</s14>
+    <s15>แหล่งข้อมูล</s15>
+    <s16>สื่อวัสดุเพื่อการอ้างอิง</s16>
+    <s17>เสียง</s17>
+    <s18>ออก</s18>
+    <s19>ปิด</s19>
+    <s20>แสดงความคิดเห็น…</s20>
+  </strings>
+</course>

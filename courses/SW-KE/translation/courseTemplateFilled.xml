@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="Karibu" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="Kanuni za Maadili ya Biashara">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="Falsafa Yetu">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="Malengo">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="Jedwali la Yaliyomo">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="Umuhimu wa Kanuni ya Maadili ya Biashara ya Abbott" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="Ahadi Zetu za Kila Siku">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="Umuhimu wa Kanuni kwa Biashara Yetu">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="Kanuni Zetu" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="Muhtasari">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="Wateja Wetu">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="Bidhaa Zetu">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="Kuendeleza Sayansi">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="Watu Wetu">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="Jamii Zetu">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="Jinsi tunavyofanya Kazi">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="Ahadi Yako" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="Ahadi Yako">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="Ukaguzi wa Maarifa" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="Utangulizi">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="Tathmini">
+        <nav navId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="Maoni">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="Utafiti">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>Kanuni za Maadili ya Biashara</p>
+      </div>
+      <p class="startInstruction">Bofya kishale cha mbele.</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Kama kiongozi wa huduma ya afya ulimwenguni, tunachofanya kila siku kina umuhimu.</p>
+        <p>Kanuni yetu ya Maadili ya Biashara ni dira yenye nguvu ambayo inatuwezesha kutenda kwa uadilifu, kuongoza kwa kusudi, na kufanya maamuzi yanayoonyesha ubora wetu kwa kiwango cha juu zaidi. Ni jinsi tunavyokuza uaminifu, kudumisha maadili yetu, na kuendelea kuleta manufaa ulimwenguni.</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Baada ya kumaliza kozi hii, utaweza:</p>
+        <ul>
+          <li>Kuelewa umuhimu wa Kanuni za Maadili ya Biashara kwa biashara yetu.</li>
+          <li>Kuwa na uwezo wa kutambua kanuni kuu za Kanuni za Maadili ya Biashara na kuelewa jinsi zinavyotumika katika desturi zetu za kazi za kila siku.</li>
+          <li>Kuelewa matarajio ya Abbott katika kufanya biashara kimataifa kwa njia sahihi.</li>
+          <li>Jua wapi pa kwenda kwa msaada.</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>Karibu</p>
+            <p>Dakika 1</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>Umuhimu wa Kanuni ya Abbott ya Maadili ya Biashara</p>
+            <p>Dakika 2</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>Kanuni Zetu</p>
+            <p>Dakika 18</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>Ahadi Yako</p>
+            <p>Dakika 1</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>Kutathmini Maarifa</p>
+            <p>Dakika 5</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>Maendeleo ya Kujifunza</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">Mada hii sasa inapatikana.</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Tunaongoza kwa uadilifu, usawa, na uaminifu. Kila mtu. Kila siku.</p>
+        <p>Kanuni Zetu za Biashara zinatukumbusha kwamba uadilifu, usawa, na uaminifu si tu mawazo bora, bali ni mambo tunayojitolea kutekeleza kila siku. Ingawa Kanuni hii haiwezi kutarajia kila changamoto inayoweza kutukabili, inatoa msingi thabiti wa maadili ya kutuongoza.</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Tumejitolea kwa viwango vya juu zaidi.</p>
+        <p>Kanuni za Maadili ya Biashara ni muhimu kwa mafanikio ya Abbott kwa sababu zinaweka kiwango cha jinsi tunavyofanya kazi–-kwa uadilifu, usawa, na uaminifu. Zinatusaidia kufanya maamuzi ya uadilifu, hasa katika hali ngumu, na zinahakikisha tunazingatia maadili yetu. Kwa kufuata Kanuni hii, tunalinda hadhi yetu, kujenga uaminifu na wale tunaowahudumia, na kuunda utamaduni wa mahali pa kazi ambapo kufanya jambo sahihi ni muhimu.</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Kuelewa Kanuni hii ni jukumu la kila mtu.</p>
+        <p>Kila mmoja wetu ana jukumu la kutumia Kanuni za Maadili ya Biashara katika kazi yake ya siku na katika kufanya maamuzi. Si hati tu bali ni mwongozo ambao unatusaidia kukabiliana na changamoto kwa uadilifu na ujasiri.</p>
+        <p>Katika sehemu zilizo zinazofuata, tutachunguza kanuni kuu za Kanuni hii na kuona jinsi zinajitokeza katika matendo na maamuzi yetu ya kila siku.</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Ni lazima uangalie maudhui yote kabla ya kuendelea mbele.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Hapa Abbott, tumejitolea kuboresha afya na ustawi wa watu wanaotegemea bidhaa zetu.</p>
+          </div>
+          <div>
+            <p>Ni ukumbusho kwamba kinachosukuma kila uamuzi, kila uvumbuzi, na kila hatua ni lengo la kufanya maisha kuwa bora.</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>Wagonjwa na Watumiaji</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>Wataalamu wa Huduma za Afya</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Bonyeza kila ikoni ili ujifunze zaidi.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>WAGONJWA NA WATUMIAJI</p>
+                <p>Kuwatunza watu ndiyo kiini cha kile tunachofanya. Tunaweka afya na ustawi wa wagonjwa na watumiaji kwanza. Kila siku, tunaweza kuleta mabadiliko ya maana—kuwasaidia watu kuishi maisha bora na kuchangia katika uundaji wa jamii zenye nguvu na afya.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>WATAALAMU WA HUDUMA ZA AFYA</p>
+                <p>Tunafanya kazi na HCPs kusaidia watu kuwa na afya bora. Tunaheshimu maarifa na maamuzi huru ya wataalamu wa huduma za afya - iwe ni madaktari, wauguzi, wanafamasia, watafiti, au wafanyakazi wa maabara. Jukumu lao katika kuwaongoza wagonjwa kuwa na afya bora ni muhimu.</p>
+                <p>Hapa Abbott, tumejitolea kuwasaidia wagonjwa na habari sahihi kwa wakati unaofaa ili waweze kufanya maamuzi bora. Kwa kufanya kazi pamoja, tunaweza kufikia lengo letu la pamoja la kuboresha afya na ustawi kote ulimwenguni.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Ni lazima uangalie maudhui yote kabla ya kuendelea mbele.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Hapa Abbott, tumejitolea kuhakikisha kwamba kila bidhaa tunayotoa ni salama, yenye ufanisi, na inayostahili uaminifu ambao watu wameweka kwetu.</p>
+          </div>
+          <div>
+            <p>Tunachukua hatua kuhakikisha kuwa bidhaa zetu ni salama na zenye ufanisi—kuanzia kuchagua vifaa sahihi hadi jinsi tunavyovitangaza, kuviuza na kuviwasilisha. Katika kila hatua, tunafuata viwango vya juu vya ubora.</p>
+            <p>Tumejitolea pia kutambua kwa wakati unaofaa, kutathmini, na kushughulikia maswala ya usalama wa bidhaa, na pia kuchukua hatua za kuzuia kugushiwa, usambazaji haramu, na wizi wa bidhaa zetu.</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>Ubora wa Bidhaa</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>Kutangaza Bidhaa I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>Kutangaza Bidhaa II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Bonyeza kila ikoni ili ujifunze zaidi.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>UBORA WA BIDHAA</p>
+                <p>Salama, yenye fanisi na yenye kuaminika. Bidhaa zetu huleta manufaa.</p>
+                <p>Tumejitolea kwa ubora katika kila hatua—kuanzia kupata na uzalishaji na jinsi tunavyotangaza, kuuza, na kutoa bidhaa zetu, pamoja na kupitia washirika wetu. Kila hatua ni muhimu kwa sababu watu hututegemea kwa usalama.</p>
+                <p>Tumejitolea kutambua kwa wakati unaofaa, kukagua, na kushughulikia maswala ya usalama wa bidhaa. Tunahakikisha wataalamu wa huduma za afya na taasisi zina habari wanayohitaji kutumia bidhaa zetu kwa njia salama na kwa ufanisi, na tunawasiliana na mashirika ya udhibiti au ya umma endapo kuna wasiwasi kuhusu maswala ya usalama.</p>
+                <p>Tunachukua hatua za kuzuia kugushiwa, usambazaji haramu, na wizi wa bidhaa zetu. Tunafuata kanuni za biashara, pamoja na sheria za udhibiti wa usafirishaji na uagizaji wa bidhaa, na tunazingatia vizuizi na vikwazo vya serikali vya kulinda usalama wa kitaifa na afya ya umma.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KUTANGAZA BIDHAA I</p>
+                <p>Tunatangaza na kuuza bidhaa zetu kwa uaminifu na heshima kwa wale wanaozitegemea.</p>
+                <p>Mawasiliano yetu kuhusu bidhaa ni ya kweli, yenye usawa, na yanaambatana na uwekaji lebo uliodhinishwa, ushahidi wa kisayansi, na desturi bora za matibabu katika nchi ambako tunafanya kazi.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KUTANGAZA BIDHAA II</p>
+                <p>Tunatangaza bidhaa zetu kwa ajili ya matumizi yao yaliyokusudiwa na yaliyoidhinishwa.</p>
+                <p>Tunafanya kazi kulingana na leseni na idhini zilizotolewa na mamlaka ya afya katika nchi ambako tunazofanya kazi. Utangazaji wetu wa bidhaa, mauzo, na usambazaji hufuata sheria madhubuti za biashara na kanuni maalum za nchi husika. Kupitia sera na taratibu madhubuti za ndani, tunahakikisha kwamba tunafuata na kuzingatia kujitolea kwetu kwa desturi za biashara ambazo zinafuata maadili, ni salama na zenye uwajibikaji.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Ni lazima uangalie maudhui yote kabla ya kuendelea mbele.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Hapa Abbott, tumejitolea kuendeleza sayansi kwa uadilifu na kusudi.</p>
+          </div>
+          <div>
+            <p>Tunalenga kufanya uvumbuzi, tukitambua umuhimu wa kutarajia na kushughulikia hatari kwa njia yenye kuwajibika. Tunaheshimu hadhi ya kila mshiriki wa utafiti na kuzingatia viwango vya juu zaidi vya uwazi na usawa katika tafiti za kisayansi.</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>Uvumbuzi I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>Uvumbuzi II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>Kuendeleza Sayansi</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Bonyeza kila ikoni ili ujifunze zaidi.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>UVUMBUZI I</p>
+                <p>Tunabuni suluhisho bunifu za huduma za afya ili kusaidia watu kuishi maisha yenye afya bora na kuboresha matokeo kote ulimwenguni.</p>
+                <p>Tunashughulikia mahitaji ya binadamu kwa kutengeneza matibabu mapya, vifaa vya kuokoa maisha, na bidhaa bunifu zinazosaidia afya kwa njia mpya. Kupitia sayansi na teknolojia ya hali ya juu, tunajitahidi kuboresha matokeo na kuwawezesha watu kuishi maisha yao kamili—tukiunda vumbuzi mwafaka kwa kila hatua ya maisha.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>UVUMBUZI II</p>
+                <p>Tunakuza utamaduni wa uvumbuzi kwa kuchunguza uwezekano mpya na kufanya mipango kwa ajili ya hali zisizotabirika.</p>
+                <p>Ingawa maendeleo mara nyingi huhusisha hatari, tunachukua hatua za kufikiria na zenye uwajibikaji katika kutarajia changamoto na kuzipunguza mapema—siku zote tukiongozwa na Kanuni na sera zetu.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KUENDELEZA SAYANSI</p>
+                <p>Tunafanya utafiti ili kuzalisha data sahihi na isiyoegemea upande wowote ambayo inachochea uvumbuzi, inaboresha matibabu, na kuendeleza huduma za afya.</p>
+                <p>Wakati wa kufanya utafiti, tunawatendea washiriki wa utafiti kwa heshima, kuwalinda kutokana na hatari isiyo ya lazima, na kuhakikisha wanaelewa asili na madhumuni ya utafiti na hatari zinazohusiana. Kupata idhini ya ufahamu kutoka kwa washiriki wa utafiti ni sehemu muhimu ya mchakato wetu wa utafiti.</p>
+                <p>Tunathamini uwazi katika utafiti wa kisayansi na hatutatafuta kushawishi matokeo kwa njia isiyofaa. Tunahakikisha data ya utafiti ni sahihi na tumejitolea kutoa matokeo ya utafiti yanayohusiana na bidhaa zetu, iwe ni matokeo mazuri au mabaya, kwa wakati unaofaa na njia sahihi.</p>
+                <p>Wakati utafiti unafanywa kwa ajili ya Abbott au kuchapishwa kwa niaba yetu, tunashirikiana na wataalamu ambao wana ujuzi madhubuti wa kisayansi na matibabu. Tunatarajia wataweka wazi mahusiano yoyote na Abbott, pamoja na uhusiano wa kifedha au uhusiano mwingine.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Ni lazima uangalie maudhui yote kabla ya kuendelea mbele.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Hapa Abbott, tunakuza utamaduni wa uwazi, utofauti, na heshima—kwa sababu unachochea ubunifu na uvumbuzi.</p>
+          </div>
+          <div>
+            <p>Kila mmoja wetu ana jukumu la kuishi kulingana na Kanuni hii kila siku: kuwatendea wengine kwa heshima, kuunda mahali pa kazi salama na jumuishi, na kuhakikisha fursa sawa kwa wote.</p>
+            <p>Tunauliza maswali wakati mambo hayaeleweki na kuongea wakati tunahisi jambo fulani haliko sawa.</p>
+            <p>Sehemu hii inasisitiza kujitolea kwetu kwa kanuni ya fursa sawa na mazingira salama ya kazi, na inatukumbusha kuelewa, kutumia, na kuzingatia Kanuni hii katika kila kitu tunachofanya.</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>Ushirikiano</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>Uhusiano Kati Yetu</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>Kuripoti Wasiwasi</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>Fursa Sawa</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>Kutendewa Haki</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>Mazingira ya Kazi</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Bonyeza kila ikoni ili ujifunze zaidi.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>USHIRIKIANO</p>
+                <p>Tunathamini uwazi na ushirikiano kwa sababu mawazo mbalimbali hupelekea suluhisho bora zaidi.</p>
+                <p>Tunakumbatia utofauti kwa sababu unaongeza ubunifu, nguvu, na maendeleo. Ili kuleta athari ya maana katika afya ya dunia, tunasikilizana, kuthamini kila sauti, na kushirikiana tukizingatia kusudi letu.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>UHUSIANO KATI YETU</p>
+                <p>Sote tuna wajibu wa pamoja wa kuishi kulingana na maadili ya Abbott kila siku.</p>
+                <p>Kwa kutenda kwa uadilifu, tunaimarisha utamaduni wetu. Kila mtu lazima aelewe jinsi Kanuni hii inavyotumika katika jukumu na kazi yake.</p>
+                <p>Mameneja na wasimamizi wana jukumu maalum kama viongozi–-lazima wawe vielelezo vya maadili yetu, wahamasishe tabia ya kimaadili, na kuunda mazingira salama ambapo wafanyakazi wanahisi kuwa huru kuuliza maswali na kusema wasiwasi walizo nazo bila hofu ya kulipizwa kisasi.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KURIPOTI WASIWASI</p>
+                <p>Tunauliza maswali tunapokosa kuelewa kitu au tunapohisi jambo haliko sawa. Pia tunazungumza na kuripoti ukiukaji wowote unaoweza kutokea wa Kanuni hii.</p>
+                <p>Ni jukumu letu kuuliza maswali wakati maelekezo hayaeleweki na kuhoji na kuripoti tabia yoyote ya kibiashara isiyo ya kimaadili, ukiukaji wa Kanuni, au uvunjaji wa sera za Abbott.</p>
+                <p>Iwapo huna uhakika kuhusu uamuzi au hatua sahihi unayopaswa kuchukua, zungumza na meneja wako au wasiliana na Ofisi ya Maadili na Uzingatiaji wa Sheria (Office of Ethics and Compliance).</p>
+                <p>Meneja na wasimamizi lazima waongoze kwa kuwa mfano bora na kuhakikisha wafanyakazi wanaelewa na kufuata Kanuni hii. Viongozi wana jukumu kubwa zaidi la kuwasilisha matarajio ya Abbott na wanapaswa kuwasiliana na Ofisi ya Maadili na Uzingatiaji wa Sheria (Office of Ethics and Compliance) kuhusu ukiukaji wowote wa Kanuni hii ambao huenda umetokea.</p>
+                <p>Ripoti zote za ukiukaji wa Kanuni hii ambao huenda umetokea zinachukuliwa kwa uzito. Ofisi ya Maadili na Uzingatiaji wa Sheria itashughulikia hatua za kufuatilia, ikiwa ni pamoja na uchunguzi na hatua za marekebisho inapohitajika. Hupaswi kufanya uchunguzi peke yako. Kila mtu lazima ashiriki inavyohitajika na kuhifadhi usiri wa uchunguzi.</p>
+                <p>Hatua za marekebisho zinaweza kujumuisha adhabu (hadi na ikiwa ni pamoja na kufutwa kazi) au hatua za kisheria kwa:</p>
+                <ul>
+                  <li>Kuruhusu au kushiriki katika ukiukaji;</li>
+                  <li>Kukataa kushiriki inavyohitajika katika uchunguzi;</li>
+                  <li>Kukosa kuripoti ukiukaji kutokana na usimamizi duni;</li>
+                  <li>Kutoa ripoti ya uwongo;</li>
+                  <li>Kulipiza kisasi dhidi ya mtu aliyeripoti wasiwasi kwa nia njema.</li>
+                </ul>
+                <p>Ulipizaji kisasi haukubaliki kamwe. Iwapo unaamini kuwa ulipizaji kisasi umefanyika, ripoti kwa Ofisi ya Maadili na Uzingatiaji wa Sheria au Idara ya Rasilimali Watu.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>FURSA SAWA</p>
+                <p>Tunatoa fursa sawa kwa wafanyakazi wote.</p>
+                <p>Tunafanya maamuzi ya ajira kwa kuzingatia mahitaji ya biashara, ujuzi, uzoefu, na utendajkazi. Ubaguzi wa aina yoyote hautavumiliwa. Tunafuata sheria zote zinazodhibiti uhusiano wetu na wafanyakazi kote duniani.</p>
+                <p>Abbott inakataza ubaguzi unaotokana na rangi, kabila, dini, umri, jinsia, asili ya taifa, utambulisho wa kijinsia au namna ya kujieleza kijinsi, mwelekeo wa kingono, ulemavu, hali ya ndoa, hali ya kuwa mwanajeshi wa zamani au hali ya kijeshi, kinasaba, uraia, au hali nyingine yoyote inayolindwa kisheria.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KUTENDEWA HAKI</p>
+                <p>Tunakuza mazingira ya kazi yenye heshima, jumuishi, na usalama.</p>
+                <p>Tunafanya kazi kuhakikisha kila mtu anahisi kukaribishwa, kusaidiwa na kuwezeshwa.</p>
+                <p>Abbott inakuza mazingira yenye afya na yasiyo na unyanyasaji na inathamini maoni ya wafanyakazi ili kuimarisha utofauti na ujumuishi.</p>
+                <p>Tunawatendea wote kwa heshima na hadhi, tukijenga uaminifu kupitia usawa na uaminifu–-si kwa kuhadaa, uwongo au ukosefu wa uwazi.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MAZINGIRA YA KAZI</p>
+                <p>Tunapatia kipaumbele usalama na mazingira ya kazi yenye usawa.</p>
+                <p>Ajali au hali hatarishi lazima ziripotiwe kwa usimamizi mara moja. Abbott pia huchukua hatua za kuzuia na kupiga marufuku taratibu zisizo halali au zisizofaa za kazi na aina yoyote ya ukatili au kutendewa unyama katika shughuli zetu za kibiashara kote duniani.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Ni lazima uangalie maudhui yote kabla ya kuendelea mbele.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Hapa Abbott, tunajenga uaminifu kupitia jamii, mazingira, na ushirikishaji.</p>
+          </div>
+          <div>
+            <p>Tunajitahidi kutoa kwa hisani kwa jamii ambapo tunafanya kazi na kuleta athari nzuri na ya kudumu katika maisha ya watu.</p>
+            <p>Abbott inafanya kazi kupunguza athari yake kwa mazingira kwa kupunguza matumizi ya nishati na kuhifadhi rasilimali asili.</p>
+            <p>Pia tunasaidia ushirikishaji wa kisiasa unaofaa na kuhimiza ushiriki wa jamii katika shughuli zetu zote za kimataifa.</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>Ushiriki wa Jamii</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>Uwajibikaji Katika Mawala ya Mazingira</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>Michango ya Kisiasa</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Bonyeza kila ikoni ili ujifunze zaidi.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>USHIRIKI WA JAMII</p>
+                <p>Tunasaidia ustawi wa jamii.</p>
+                <p>Hapa Abbott, tunasaidia ustawi wa jamii kupitia bidhaa zetu, kazi yetu, na matendo yetu, na tuna historia ndefu ya kutoa kwa hisani kwa jamii katika maeneo tunapoishi na kufanya kazi, kwa sababu tunaamini jamii zenye afya hufana.</p>
+                <p>Kupitia shughuli zetu, ushirikiano, na msaada kwa vikundi na miradi ya ndani, tunajitahidi kuleta athari nzuri na ya kudumu popote tunapofanya biashara.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>UWAJIBIKAJI KATIKA MASWALA YA MAZINGIRA</p>
+                <p>Tunashiriki katika maendeleo endelevu na tunafanya kazi kupunguza athari zetu kwa mazingira.</p>
+                <p>Tunafanya kazi kulinda mazingira katika kila tunachofanya–-kuanzia jinsi tunavyopata malighafi hadi jinsi tunavyotengeneza, kusafirisha, na kutumia bidhaa zetu.</p>
+                <p>Tunachukua hatua za kutumia nishati kidogo na rasilimali asili chache. Tunaunga mkono miradi ya nishati safi kazini na katika jamii zetu. Tunatafuta njia za kupunguza taka, matumizi zaidi ya taka zilizochakatwa upya, na kupunguza hatari za mazingira. Tunafuata pia sheria na kanuni za mazingira ambazo zinatumika kwa shughuli zetu.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MICHANGO YA KISIASA</p>
+                <p>Tunahimiza ushiriki unaofaa katika mchakato wa kisiasa na tunaunga mkono ushiriki wa jamii.</p>
+                <p>Abbott inaunga mkono sera za umma zinazolingana na kazi na maadili yetu. Wakati inapofaa, tunaweza pia kuunga mkono wagombea wa kisiasa au vikundi vya mslahi maalum.</p>
+                <p>Kwa sababu sheria kuhusu michango ya kisiasa na kampuni ni changamano, matumizi yoyote ya fedha za Abbott—au michango iliyotolewa kwa niaba ya Abbott—lazima ichunguzwe na Idara ya Sheria kwanza.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Ni lazima uangalie maudhui yote kabla ya kuendelea mbele.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Hapa Abbott, tumejitolea kufanya biashara kwa uaminifu na kutimiza ahadi zetu katika njanja zote za kazi yetu.</p>
+          </div>
+          <div>
+            <p>Tumeweka maslahi ya Abbott mbele ya maslahi yetu wenyewe tunaposhughulikia migongano ya masilahi. Tunalinda mali na sifa ya Abbott, tunaweka salama taarifa za siri, na kuheshimu faragha ya kila mtu anayeshiriki taarifa binafsi nasi.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>Kuzingatia Haki</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>Kuepuka Migongano ya Misilahi I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>Kuepuka Migongano ya Misilahi II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>Ulinzi wa Mali na Sifa ya Abbott</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>Taarifa za Siri</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Bonyeza kila ikoni ili ujifunze zaidi.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KUZINGATIA HAKI</p>
+                <p>Tunafanya biashara kwa uadilifu na kutimiza ahadi zetu katika kila kipengele cha kazi yetu.</p>
+                <p>Kila mmoja wetu ana jukumu kwa kazi yake na maamuzi anayoyafanya katika majukumu yake. Katika kila mwingiliano wa kitaaluma–-iwe na wenzetu wa kazi, wateja, wasambazaji, wataalamu wa afya, washindani, au wengine–-tunapaswa kuzingatia haki na uaminifu kuhusu jinsi Abbott inavyofanya biashara.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KUEPUKA MIGONGANO YA MISILAHI I</p>
+                <p>Tunabainisha na kushughulikia migogoro yoyote kabla ya kuendelea mbele;</p>
+                <p>Mgongano wa maslahi unaweza kutokea wakati maslahi ya mfanyakazi yanakinzana na au yanaonekana kuingiliana na maslahi ya Abbott. Maamuzi ya kibiashara lazima yajikite kwenye mahitaji ya Abbott, si kwenye manufaa ya kibinafsi au masilahi ya familia au marafiki. Tunatarajiwa kuwa wenye busara na kuepuka hali zinazoweza kusababisha mgongano wa maslahi wa kweli au unaoweza kudhaniwa kuwepo. Iwapo mahusiano ya kibinafsi, masilahi, au shughuli za nje zinaathiri uwezo wako wa kutenda kwa haki na kwa ufanisi—au zinaweza kukuletea wewe au mwanafamilia wako manufaa— lazima ufichue mgongano huo unaoweza kutokea na ujiondoe kwenye hali hiyo, kulingana na miongozo ya Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KUEPUKA MIGONGANO YA MISILAHI II</p>
+                <p>Tunaweka masilahi ya Abbott mbele tunapofanya maamuzi yanayohusiana na kazi.</p>
+                <p>Hiyo inamaanisha kuweka malengo ya kampuni mbele ya yale ya timu, kikundi, au mtu binafsi. Fursa au rasilimali zozote tunazopata kupitia majukumu yetu hapa Abbott zinapaswa kutumiwa kuifaidi kampuni–-si kwa manufaa binafsi. Hatupaswi kushindana na Abbott au kuwasaidia wengine kufanya hivyo. Fursa zinapojitokeza, lengo letu lazima liwe kuendeleza masilahi ya Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ULINZI WA MALI NA SIFA YA ABBOTT</p>
+                <p>Sisi ni watunzaji wa kampuni yetu.</p>
+                <p>Sote tunashiriki jukumu la kulinda na kutumia mali za Abbott kwa hekima. Hii inajumuisha kila kitu kuanzia vitu vinavyoonekana kama magari na kompyuta, hadi taarifa muhimu kama vile haki miliki, siri za kibiashara, na maarifa maalum.</p>
+                <p>Siku zote tunapaswa kutumia busara kuhakikisha rasilimali hizi zinatumika ipasavyo, kwa ufanisi, na kwa makini–-tukiepuka kuzipoteza, wizi, matumizi yasiyofaa, au matumizi badhirifu.</p>
+                <p>Sifa ya Abbott ni moja ya mali zetu muhimu zaidi–-na sote tuna jukumu la kuilinda.</p>
+                <p>Kila mmoja wetu anawajibika katika jinsi tunavyowakilisha Abbott, hasa katika mazingira ya umma na mtandaoni, ambapo chochote tunachoshiriki–-iwe katika mazungumzo, barua pepe, au mitandao ya kijamii–- kinaweza kuonyesha taswira ya kampuni. Ni muhimu kuwasiliana kwa umakini, kutumia busara, na kulinda taarifa za siri za Abbott.</p>
+                <p>Wakati tunaposhirikana na watu wa nje, tunapaswa kuzingatia kwamba huenda tukaonekana tunawakilisha Abbott na jinsi maneno au matendo yetu yanavyoweza kuathiri sifa yake. Hili ni jambo muhimu hasa kwenye mitandao ya kijamii, ambapo machapisho yanaweza kuenea kwa haraka na kwa watu wengi—maoni au chapisho linalotolewa bila kufikiria linaweza kusababisha madhara makubwa.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>TAARIFA ZA SIRI</p>
+                <p>Tumejitolea kuheshimu na kulinda taarifa zote za siri, ikiwa ni pamoja na data ya kibinafsi.</p>
+                <p>Taarifa za siri ni mojawapo ya mali ya thamani zaidi ya Abbott. Zinajumuisha maelezo yasiyo ya umma kama vile utafiti, siri za biashara, mipango ya biashara, bei, mikataba, matokeo ya kifedha na data nyingine ambayo inaweza kuwanufaisha washindani au kudhuru Abbott ikiwa itafichuliwa.</p>
+                <p>Ni lazima tulinde taarifa za siri na tuzuie matumizi au kushiriki kusikoidhinishwa—hata baada ya muda wetu na Abbott kuisha.</p>
+                <p>Hapa Abbott pia tunaheshimu haki miliki ya wengine na tunaepuka matumizi yasiyofaa ya taarifa zao za siri. Kutumia vibaya taarifa zisizo za umma, kama vile biashara haramu kupitia matumizi ya taarifa za ndani, ni kinyume cha sheria na ni ukosefu wa maadili.</p>
+                <p>Pia tunalinda data ya kibinafsi ambayo tumekabidhiwa na wafanyakazi wenzetu, wataalamu wa huduma za afya, na wateja. Tunapokusanya na kutumia taarifa za kibinafsi, tunafanya hivyo kwa kuwajibika, kwa idhini ifaayo, na kamwe hatuziuzi au kuzipata kutoka kwa vyanzo ambavyo havijaidhinishwa. Maeneo mengi yana sheria kali za faragha, na tumejitolea kuzielewa na kuzifuata, hasa kwa kategoria nyeti zaidi za taarifa za kibinafsi.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Ni lazima uangalie maudhui yote kabla ya kuendelea mbele.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Hapa Abbott, tumejitolea kufanya biashara kwa uaminifu na kutimiza ahadi zetu katika njanja zote za kazi yetu.</p>
+          </div>
+          <div>
+            <p>Tumeweka maslahi ya Abbott mbele ya maslahi yetu wenyewe tunaposhughulikia migongano ya masilahi. Tunalinda mali na sifa ya Abbott, tunaweka salama taarifa za siri, na kuheshimu faragha ya kila mtu anayeshiriki taarifa binafsi nasi.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>Kupinga Hongo</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>Zawadi, Milo na Burudani</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>Uhasibu na Rekodi Sahihi</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>Uzingatiaji wa Sheria</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>Ushindani wa Haki</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Bonyeza kila ikoni ili ujifunze zaidi.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KUPINGA HONGO</p>
+                <p>Tunapinga ulaghai, hongo na ufisadi. Tunapata biashara kwa njia sahihi.</p>
+                <p>Kama watu binafsi, tunatarajia wataalamu wa huduma za afya kufanya maamuzi kulingana na kile kinachowafaa wagonjwa—bila kushawishiwa na vichocheo kutoka kwa kampuni. Vivyo hivyo, tunatarajia maafisa wa serikali kutenda kwa kuzingatia maslahi ya umma, bila shinikizo kutoka kwa mashirika.</p>
+                <p>Hapa Abbott, tunaelimisha wataalamu wa huduma za afya kuhusu bidhaa zetu lakini hatuingilii maamuzi yao huru. Hairuhusiwi kamwe kutoa chochote cha thamani kwa watoa huduma za afya (kama vile daktari, mwanafamasia, muuguzi, mtafiti au wafanyakazi wa maabara), maafisa wa serikali, au wengine ili kupata biashara au kutoa zawadi kwa watu uliokuwa na mahusiano nao zamani.</p>
+                <p>Tunafuata sheria za kupinga hongo, kupinga ufisadi na sheria za kuzuia rushwa kote duniani, ikiwa ni pamoja na Sheria ya Ufisadi wa Kigeni ya Marekani (U.S. Foreign Corrupt Practices Act). Kila mtu hapa Abbott lazima asimamie kwa uangalifu mahusiano na watoa huduma—kama vile wasambazaji, washauri, na wasemaji—kwa kufanya uchunguzi unaostahili, kulipa thamani inayolingana ya soko, na kuweka kumbukumbu za malipo ipasavyo ili kuhakikisha utiifu wa sheria na uzingatiaji wa viwango vya kampuni.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ZAWADI, MILO NA BURUDANI</p>
+                <p>Hatutoi au kupeana chochote cha thamani ili kupata manufaa ya kibiashara, moja kwa moja au isivyo moja kwa moja, kulingana na kanuni za kupinga hongo.</p>
+                <p>Ili kuzuia ushawishi usiofaa katika maamuzi ya kibiashara, tunaweka mipaka kuhusu zawadi, milo, na burudani. Sera za Abbott husaidia kuhakikisha kuwa vikumbusho vya chapa, adabu za kitamaduni, ukarimu, na manufaa mengine kamwe hayaingiliani na uamuzi wa kitaaluma.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>UHASIBU NA REKODI SAHIHI</p>
+                <p>Tunapima mafanikio kwa usahihi.</p>
+                <p>Rekodi na taarifa za umma za Abbott lazima ziakisi matendo yetu kwa usahihi, zikiwa na muktadha wa kutosha ili kuonyesha hali halisi ya kazi yetu. Rekodi za fedha lazima zifuate viwango vya uhasibu, sheria, na sera za ndani za Abbott.</p>
+                <p>Tunaporipoti bei, malipo, au bidhaa za thamani—hasa kwa wataalamu wa huduma za afya—ni lazima tuhakikishe kwamba taarifa ni kamili na sahihi. Serikali nyingi zinahitaji uwazi huu ili kulinda fedha za umma. Abbott imejitolea kutoa data ya kuaminika ili serikali, kampuni za bima, na washikadau wengine waweze kufanya maamuzi kwa msingi wa ufahamu.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KUZINGATIA SHERIA</p>
+                <p>Tunafuata sheria, kanuni na mahitaji ya Abbott yanayohusiana na kazi yetu.</p>
+                <p>Kila mfanyakazi wa Abbott anatarajiwa kufuata sheria zote zinazotumika, pamoja na sera, taratibu na Kanuni za Abbott. Hili ni sharti la msingi la kuajiriwa. Sera za Abbott zinashughulikia nyanja muhimu kama vile kuzingatia sheria za huduma za afya, ubora, fedha, biashara, usalama, na mengine, ili kutusaidia kukidhi mahitaji ya kisheria na kuzuia ukikukaji.</p>
+                <p>Kama kampuni ya kimataifa, lazima pia tufahamu kwamba sheria za nchi moja zinaweza kutumika kwa kazi inayofanywa katika nchi nyingine. Unapokuwa na shaka, tafuta mwongozo kutoka kwa Kitengo cha Kisheria au Ofisi ya Maadili na Uzingatiaji wa Sheria.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>USHINDANI WA HAKI</p>
+                <p>Tunahakikisha kwamba miingiliano yoyote tulio nayo na washindani inafaa.</p>
+                <p>Hapa Abbott tumejitolea kufuata sheria za ushindani kila mahali tunapofanya kazi. Sheria hizi zinakataza makubaliano au vitendo vinavyohujumu desturi za soko zinazozingatia haki—hasa katika uwekaji bei, masharti ya mauzo, na mwingiliano na washindani.</p>
+                <p>Epuka kujadili mada nyeti—kama vile uwekaji bei, gharama, au mipango ya biashara—na washindani, na uwasiliane na Kitengo cha Kisheria au Ofisi ya Maadili na Uzingatiaji wa Sheria ikiwa una maswali au umekumbana na jambo lolote lisilofaa. Kwa sababu sheria za ushindani ni changamano na ukiukaji unaweza kusababisha adhabu kali, lazima pia tusimamie kwa uangalifu mahusiano na wahusika wengine ili kuhakikisha uzingatiaji wa sheria na kuepuka hata mwonekano wa tabia ya kupinga ushindani.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>Kabla ya kuondoka kwenye kozi hii, chukua muda kuthibitisha kuwa unaelewa majukumu yako kuhusiana na Kanuni ya Maadili ya Biashara ya Abbott.</p>
+          <p>Ninathibitisha kwamba ninaelewa majukumu yangu kuhusu Kanuni ya Maadili ya Biashara ya Abbott na ninajua mahali pa kupata na kukagua Sera na Taratibu zinazotumika.</p>
+          <button class="qcSubmitBtn">Thibitisha</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>Ukaguzi wa Maarifa unaofuata una maswali 10. Lazima upate 80% au zaidi ili kukamilisha kozi hii kwa mafanikio.</p>
+        <p>UKIWA TAYARI, BONYEZA KITUFE CHA UKAGUZI WA MAARIFA.</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Kwa nini Kanuni za Maadili ya Biashara ni muhimu?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Zinatoa ushauri mahususi kwa kila hali tunayoweza kukabiliana nayo katika kazi yetu.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Zinatoa seti ya wazi ya kanuni na maadili ambayo yanaweza kuwa msingi wa maamuzi yetu wakati njia bora zaidi ya utekelezaji haiko wazi mara moja.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Inayofuata</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Kanuni za Maadili ya Biashara zinatupatia seti ya wazi ya kanuni na maadili ambayo yanaweza kuwa msingi wa maamuzi yetu wakati njia bora zaidi ya utekelezaji haiko wazi mara moja.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Je, ni ipi kati ya zifuatazo ambayo <span class="underline">kamwe</span> si muamala ufaao wa biashara?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Kuajiri HCP kuzungumza kuhusu eneo fulani la ugonjwa kwa sababu ya ujuzi na utaalamu wake.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Kutoa mlo kwa wahudhuriaji wa mpango wa elimu unaofadhiliwa na Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Kupanga mchango wa hisani kwa ajili ya shirika la kieneo.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Kuajiri HCP kuendesha mpango wa elimu ili kumshukuru kwa kutumia bidhaa za Abbott.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Inayofuata</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Kuajiri HCP kuendesha mpango wa elimu kwa sababu ya ujuzi na utaalamu wake kunaruhusiwa, hata hivyo, kuajiri HCP kama shukrani kwa kutumia bidhaa za Abbott hakufai kwa sababu hiyo inaweza kuonekana kama hongo.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Matokeo kwa watu binafsi wanaohusika katika hongo na ufisadi yanaweza kujumuisha:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Kuharibiwa sifa.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Faini na adhabu.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Kufutwa kazi.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Kifungo cha jela.</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>Yote hapo juu.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Inayofuata</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Matokeo kwa watu wanaohusika katika hongo na ufisadi yanaweza kujumuisha kuharibiwa sifa, faini na adhabu, kufutwa kazi, na hata kifungo cha jela.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Mwakilishi wa mauzo pia anamiliki duka dogo la vito. Anaamua kuwa itakuwa vizuri kutoa zawadi ndogo kutoka kwa duka lake kwa HCPs ambao hawajaagiza bidhaa ya Abbott hivi karibuni. Je, hiyo ni sawa?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ndiyo</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Hapana</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Inayofuata</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Sera ya Abbott inakataza kutoa zawadi kwa HCPs kwa sababu mwakilishi wa mauzo anafanya kazi kama mwakilishi wa Abbott. Zawadi ni marufuku ingawa anazilipia. Kutoa zawadi kunaweza pia kuonekana kama hongo kwa ajili ya kupata biashara ya siku zijazo.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Msimamizi wa mauzo anapokea simu kutoka kwa mwasiliani katika kampuni shindani. Mshindani huyo anashiriki kwamba timu ya mauzo iliyopewa kandarasi na Abbott katika soko jipya inadaiwa kutoa milo ya kifahari kwa wateja wanaochagua bidhaa za Abbott badala ya bidhaa za washindani. Je, ni hatua gani inayofaa kuchukuliwa?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Usifanye chochote, kwani habari ilitoka kwa mshindani.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Usifanye chochote, kwa sababu milo ya kifahari ni ya kawaida katika soko hilo.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Ripoti suala hilo mara moja kwa Ofisi ya Maadili na Uzingatiaji wa Sheria (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Tafuta wasambazaji mbadala iwapo dai ni la kweli.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Inayofuata</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Unapaswa kuripoti mara moja madai hayo kwa Ofisi ya Maadili na Uzingatiaji wa Sheria (OEC) ili yaweze kuchunguzwa ipasavyo, hata kama taarifa zimetoka kwa mshindani.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Wakala wa usafiri anapanga safari ya wataalamu wa huduma za afya (HCPs) ambao hutoa huduma za uangalizi kwa Abbott. Baada ya kukagua risiti zilizowasilishwa, hitilafu zitapatikana—jumla hailingani na ombi la urejesho wa pesa, na baadhi ya risiti hazina maelezo muhimu kama vile tarehe za kusafiri.</p>
+              <p>Je, ni hatua gani inayofaa kuchukuliwa?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Fahamisha wakala wa usafiri kwamba Abbott haiwezi kuchakata malipo bila hati kamili na sahihi.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Chakata risiti kwani ni taarifa fulani tu ambazo hazipo.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Shauri wakala kuwa awe sahihi zaidi wakati ujao.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Usifanye chochote, kwani wakala ni mpya.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Inayofuata</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Taarifa za uhasibu na rekodi za Abbott lazima zionyeshe kikamilifu na kwa usahihi miamala yote. Kwa hivyo, ni muhimu kwamba wahusika wengine wanaotoa huduma kwa Abbott watoe hati kamili ambayo inaonyesha kwa usahihi madhumuni halisi na maelezo ya miamala hiyo.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Unafanya kazi katika mshirika ambapo inaruhusiwa kufadhili HCP kuhudhuria makongamano ya elimu. Uko katika mchakato wa kuteua HCPs watakaohudhuria kongamano hilo. Vigezo unavyotumia kwa uteuzi ni pamoja na: (1) ikiwa mada ya mkutano iko ndani ya nyanja ya utaalamu wa HCP husika; (2) ikiwa Abbott imefadhili HCP husika katika mwaka uliopita; na (3) ikiwa HCP husika ana uwezekano wa kupendekeza bidhaa za Abbott au kutumia vifaa vya Abbott baada ya kuhudhuria hafla hiyo. Je, vigezo hivi vinafaa?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ndiyo. Vigezo viwili muhimu ambavyo lazima vitimizwe kila wakati unapofadhili watu binafsi ni kwamba ufadhili: a) unafaa kwa nyanja ya utaalamu wa HCP husika, na b) hautumiwi kama zawadi au kishawishi cha biashara. Ukweli kwamba unachunguza ili kuhakikisha kuwa Abbott hajafadhili HCP husika katika mwaka uliopita inasaidia kuhakikisha kigezo cha pili.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Ndiyo. Mradi sababu ya kufadhili HCP husika si kumshawishi au kumtuza mtu binafsi, unaweza kuzingatia manufaa yatakayotokana na kumfadhili HCP husika – iwe mtu huyo ataendelea kuagiza bidhaa za Abbott au la.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Hapana. Maamuzi ya ufadhili hayawezi kutegemea sababu kwamba HCP husika anaweza kupendekeza bidhaa za Abbott au kutumia vifaa vya Abbott baada ya kuhudhuria hafla iliyofadhiliwa.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ndiyo. Mradi angalau kimoja kati ya vigezo hivyo kinafaa, uwepo wa vigezo vya ziada visivyofaa si muhimu.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Inayofuata</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Maamuzi ya ufadhili hayawezi kamwe kufanywa kama zawadi kwa matumizi ya awali, au kama kichocheo cha kutumia bidhaa au vifaa vyetu zaidi katika siku zijazo. Kumbuka, katika maeneo mengi ufadhili ni marufuku. Siku zote chunguza taratibu za shirika lako kabla ya kutoa ufadhili.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Mwakilishi wa mauzo wa Abbott anamwelimisha maalamu wa huduma za afya (HCP) kuhusu bidhaa fulani. Baada ya majadiliano, HCP huyo anasema kwamba mshindani fulani alitaka kumpa iPad mpya ili HCP huyo awasaidie kuongeza mauzo yao.</p>
+              <p>Je, ni hatua gani inayofaa kuchukuliwa?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Toa kichocheo sawa ili kubaki kuwa mshindani.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Kataa iPad hiyo lakini pendekeza mlo wa jioni wa bei ghali ili kuendeleza mazungumzo.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Eleza kwamba Abbott hufanya biashara kwa njia ifaayo na hawezi kutoa chochote cha thamani ambacho kinaweza kuathiri ufanyaji maamuzi kwa njia isiyofaa. Kisha, ripoti hali hiyo kwa Ofisi ya Maadili na Uzingatiaji wa Sheria (OEC) mara moja.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Mshukuru HCP huyo kwa taarifa hiyo na uahidi utaifikiria.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Inayofuata</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Hupaswi kamwe kutoa, kuahidi, kutoa, au kupokea chochote cha thamani ili kupata faida isiyofaa ya kibiashara au kupata au kuhifadhi biashara. Bila kujali kinachofanywa na washindani, ni lazima utii sheria inayotumika na sera ya Abbott, ikijumuisha mahitaji katika Sera ya Kimataifa ya Kupinga Ufisadi ya Abbott (GLB-ANTI-CORRUPTION). Unapokuwa na shaka, wasiliana na Kitengo cha Kisheria au OEC kila wakati.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Je, ni ipi kati ya zifuatazo ni mifano ya vitu vya thamani ambavyo havipaswi kutolewa ili kupata biashara?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Safari za HCPs na familia zao kutembelea spa, kasino au maeneo mengine yanayojulikana kwa burudani.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Ruzuku kwa ajili ya utafiti wa siku zijazo au miradi ya elimu.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Michango kwa mashirika ya hisani yanayopendwa zaidi na maafisa wa serikali.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Yote hapo juu.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Inayofuata</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Viwango vya Abbott kuhusu hongo na ufisadi, vinavyopatikana katika Sera ya Kimataifa ya Kupinga Ufisadi (GLB-ANTI-CORRUPTION), vinalingana na dhamira yetu ya kufanya biashara kwa uaminifu, haki, na uadilifu. Hii inamaanisha kutoa vitu vya thamani ili kupata biashara hakuruhusiwi kamwe.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>HCP ambaye ni kiongozi muhimu wa maoni anauliza kama unaweza kupanga usaidizi fulani kwa mpango fulani wa elimu ambao angependa kuhudhuria naye atafutie Abbott fursa za ziada za biashara. Je, ni chaguo gani linafaa zaidi?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Kataa ombi hilo kwa uthabiti kwa msingi kwamba linakiuka Sera ya Abbott ya Kupinga Ufisadi.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Mwambie HCP huyo kwamba utamuuliza meneja wako.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Kubali ombi hilo, kwani HCP huyo ni kiongozi muhimu wa maoni na ana ushawishi mkubwa.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Hakuna kati ya yaliyo hapo juu.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">Wasilisha</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Hatutoi au kupeana chochote cha thamani ili kupata manufaa ya kibiashara, moja kwa moja au isivyo moja kwa moja, kulingana na kanuni za kupinga hongo.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>Hakuna matokeo yanayopatikana, kwa kuwa hujakamilisha Ukaguzi wa Maarifa.</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>Hongera! Umefaulu kupita Ukaguzi wa Maarifa.</p>
+          <p>Tafadhali kagua matokeo yako hapa chini kwa kubofya kila swali.</p>
+          <p>Ukimaliza, bofya kishale cha mbele ili kufanya utafiti mfupi.</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>Pole, hukupita Ukaguzi wa Maarifa. Chukua dakika chache kukagua matokeo yako hapa chini kwa kubofya kila swali.</p>
+          <p>Ukishamaliza, bofya kitufe cha Rudia.</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>${C_199.1}</p>
+          <p>${C_199.2}</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.3}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.4}</p>
+                  <p>${C_199.5}</p>
+                  <p>${C_199.6}</p>
+                  <p>${C_199.7}</p>
+                  <p>${C_199.8}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.9}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Kutokana na kipindi hiki, nina ufahamu mzuri zaidi wa Kanuni ya Maadili ya Biashara ya Abbott.</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Sikubali Kabisa</p>
+                  <p>Sikubali</p>
+                  <p>Siegemei Upande Wowote</p>
+                  <p>Nakubali</p>
+                  <p>Nakubali Kabisa</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.16}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.17}</p>
+                  <p>${C_199.18}</p>
+                  <p>${C_199.19}</p>
+                  <p>${C_199.20}</p>
+                  <p>${C_199.21}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.22}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">${C_199.23}</p>
+          <button class="surveySubmit">
+            <p>${C_199.24}</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">Mahali pa kwenda kwa Usaidizi</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Meneja</p>
+        <p>Ikiwa una maswali kuhusu mwingiliano wako na wale walio nje ya Abbott, mahali pazuri pa kuanzia ni kwa meneja wako</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Viwango Vilivyoandikwa</p>
+        <ul>
+          <li>Kwa seti ya msingi ya matarajio ya kampuni yetu kuhusu mwingiliano na wengine, wasiliana na <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Kanuni zetu za Maadili ya Biashara</a>.</li>
+          <li>Kwa sera na taratibu zetu za shirika zinazotumika kote kwenye kampuni, tembelea <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">Tovuti ya Sera ya Kimataifa.</a></li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>Ofisi ya Maadili na Uzingatiaji wa Sheria (OEC)</p>
+        <p>OEC ni rasilimali ya kimataifa inayopatikana ili kushughulikia maswali au wasiwasi wako kuhusu maadili na viwango vya mwenendo vya kampuni yetu.</p>
+        <ul>
+          <li>Tembelea <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">ukurasa wa tovuti wa OEC</a> kwenye Abbott World.</li>
+          <li>Ikiwa una wasiwasi wowote kuhusu shughuli za kifisadi za biashara, iwe ndani ya kampuni au katika shughuli zako na wateja au wahusika wengine, unaweza kuripoti matatizo yako kwa OEC (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) au kwa Kitengo cha Kisheria, au piga simu kwa huduma yetu ya lugha nyingi ya <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> inayopatikana kote duniani 24/7.</li>
+          <li>iComply – Tembelea <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> ili kufikia programu na rasilimali zinazohusiana na uzingatiaji wa sheria zinazolenga mwingiliano na Wataalamu wa Huduma za Afya na Mashirika ya Afya, pamoja na wahusika wengine.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Rasilimali Watu</p>
+        <p>Kwa masuala yanayohusiana na mfanyakazi, kama vile masuala yanayohusu usimamizi na/au wafanyakazi wengine, wasiliana na <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">mwakilishi wa Rasilimali Watu wa eneo lako.</a>.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>Kitengo cha Kisheria</p>
+        <p>Wasiliana na Kitengo cha Kisheria kwa maswali au hoja kuhusu athari za kisheria za hongo na ufisadi.</p>
+        <ul>
+          <li>Bofya hapa ili kufikia ukurasa wa nyumbani wa Sheria kwenye Abbott World.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>RASILIMALI NYINGINE</p>
+        <p>Kuna rasilimali nyingine nyingi zinazopatikana kwako:</p>
+        <p>Fedha – Ikiwa swali lako linahusu uhasibu au fedha, wasiliana na idara ya Fedha ya eneo lako.</p>
+        <p>Ukaguzi wa Shirika – Ikiwa una matatizo mahususi kuhusu uhasibu, udhibiti wa ndani wa uhasibu, au masuala ya ukaguzi, yaripoti mara moja kwa Ukaguzi wa Shirika au OEC.</p>
+        <p>Ubora na Udhibiti wa Abbott – Ikiwa una maswali kuhusu ubora na usalama wa bidhaa zetu, wasiliana na idara ya Ubora au Udhibiti ya eneo lako.</p>
+        <p>Mazingira ya Ulimwenguni, Afya, na Usalama – Wasiliana na mwakilishi wa Mazingira, Afya, na Usalama Ulimwenguni ikiwa una maswali kuhusu kituo fulani na hatari zinazoweza kutokea.</p>
+        <p>Ununuzi wa Kimataifa -– Ikiwa una maswali kuhusu mahusiano na wasambazaji, wasiliana na Ununuzi wa Kimataifa.</p>
+      </div>
+      <p class="resSubtitles" data-break="true">Rasilimali za Kozi</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Nakala</p>
+        <p>Bofya <a href="reference/Quick_Reference.pdf" target="_blank">hapa</a> kwa nakala kamili ya kozi</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>Kozi haiwezi kuwasiliana na LMS. Bofya 'SAWA' ili kuendelea na kukagua kozi. Kumbuka, Uthibitishaji wa Kozi huenda usipatikane Bofya 'Ghairi' ili kuondoka</s1>
+    <s2>Maswali yote hayajajibiwa</s2>
+    <s3>Maswali</s3>
+    <s4>Swali</s4>
+    <s5>halijajibiwa</s5>
+    <s6>Hiyo ni sahihi!</s6>
+    <s7>Hiyo si sahihi!</s7>
+    <s8>Maoni:</s8>
+    <s9>Kanuni za Maadili ya Biashara</s9>
+    <s10>Ukaguzi wa Maarifa</s10>
+    <s11>Wasilisha</s11>
+    <s12>Rudia</s12>
+    <s13>Maelezo ya Kozi: Kanuni zetu za Maadili ya Biashara ni hati muhimu sana ambayo inaelezea matarajio ya kampuni yetu kwa kila mfanyakazi tunapowakilisha Abbott katika kazi yetu ya kila siku. Inatoa msingi wa majukumu na tabia zetu ambazo zitatusaidia kufanya maamuzi bora zaidi kwa ajili ya Abbott, kwa ajili yetu wenyewe, na kwa ajili ya watu wengi tunaowahudumia. Kozi hii inatoa muhtasari wa hali ya juu wa Kanuni, inaelezea matarajio ya kampuni yetu na wajibu wako, na inatoa ushauri wa kiutendaji kuhusu kile unachopaswa kufanya wakati njia bora zaidi ya kusonga mbele ni ngumu kubaini. Kozi itachukua dakika 35-45 kukamilisha.</s13>
+    <s14>Menyu</s14>
+    <s15>Rasilimali</s15>
+    <s16>Nyenzo za Marejeo</s16>
+    <s17>Sauti</s17>
+    <s18>Toka</s18>
+    <s19>Funga</s19>
+    <s20>Toa maoni…</s20>
+  </strings>
+</course>

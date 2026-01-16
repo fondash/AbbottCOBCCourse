@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="Soo-dhawow" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="Xeerka Anshaxa Ganacsiga">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="Mabaa'iideena">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="Ujeedooyinka">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="Shaxda Nuxurka">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="Muhiimadda Xeerka Dhaqanka Ganacsi ee Abbott" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="Ballanqaadkeena Maalin kasta">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="Muhiimadda uu Xeerku u leeyahay Ganacsigeena">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="Xeerkeena" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="Guudmar">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="Macaamiisheena">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="Badeecooyinkeena">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="Horumarinta Sayniska">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="Dadkeena">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="Bulshooyinkeena">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="Sidaan U Shaqeyno">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="Ballanqaadkaaga" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="Ballanqaadkaaga">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="Baaris Cilmi" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="Hordhac">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="Qiimeynta">
+        <nav navId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="Warcelin">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="Sahan">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>Xeerka Anshaxa Ganacsiga</p>
+      </div>
+      <p class="startInstruction">Guji falaarta hore.</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Ka hogaamiye daryeel caafimaad oo caalami ah ahaan, waxaan sameyno maalin kasta waa muhiim.</p>
+        <p>Xeerka Anshaxa Ganacsigeena waa nidaam awood badan oo awood nasiiya si hawlaha ugu wajahno qaab daacadnimo leh, ku hogaamino ujeedo, oo aan samayno doorashooyin ka tarjumaya cidda aan nahay. Waa sida aan u dhisno kalsoonida, u ilaalino qiyamkeena, oo aana u sii wadno ka sameynta isbadel micno leh adduunka.</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Kadib marka aad dhamestirto koorsadan, waxaad</p>
+        <ul>
+          <li>fahmi doonta muhiimada Xeerka Dhaqanka Ganacsigu u leeyahay ganacsigeenna.</li>
+          <li>Awoodi doonta inaad aqoonsato mabaad’iida muhiimka ah ee Xeerka Anshaxa Ganacsi waxaadna fahami doontaa sida loogu dabaqo dhaqamadayada shaqo ee maalinta kasta.</li>
+          <li>Fahamto filashooyinka Abbott ee la xariira dhaqanka ganacsiga caalamiga ah iyo sida qaab sax ah loogu sameeyo.</li>
+          <li>Ogaato meesha laga raadsado caawimaad iyo taageero.</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>Soo dhawaaw</p>
+            <p>1 daqiiqo</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>Muhiimada Xeerka Anshaxa Ganacsiga ee Abbott</p>
+            <p>2 daqiiqo</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>Xeerkeena</p>
+            <p>18 daqiiqo</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>Dadaalkaaga</p>
+            <p>1 daqiiqo</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>Hubinta Fahamka</p>
+            <p>5 daqiiqo</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>Horumarka Waxbarashada</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">Mawduucaan hadda waa diyaar</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Waxaan shaqada u qabanaa si daacadnimo, sinnaan, iyo caddaalad leh. Qof walba. Maalin walba.</p>
+        <p>Xeerka Anshaxa ganacsigeena wuxuu ina xasuusinayaa in daacadnimada, caddaalada, iyo sinnaanta aysan ahayn kaliya fikrado—laakiin ay yihiin ballanqaadyo maalinle ah. In kastoo Xeerku aanu saadaalin karin caqabad kasta oo naga hor imaan karta, haddana wuxuu bixiyaa aasaas adag oo qiyam ah nagu hagaya.</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Waxaa naga go'an inaan gaarno heerarka ugu sarreeya.</p>
+        <p>Xeerka Anshaxa Ganacsigu wuxuu muhiim u yahay guusha Abbott sababtoo ah wuxuu dejiyaa halbeega sida aanu u shaqayno—si daacadnimo, caddaalad iyo sinnaan ku jirto. Waxay naga caawisaa inaan sameyno go'aano anshax, gaar ahaan xaaladaha adag, waxayna hubisaa inaan la socono qiyamkayaga. Marka aan raacno Xeerka, waxaan ilaalinaa sumcadeena, waxaan dhiseynaa kalsoonida dadka aan u adeegno, waxaana abuurnaa dhaqanka goobta shaqada oo awooda lagu saaro waxyaabaha saxda ah.</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Fahamka Xeerka waa waajibaad saaran qof walba.</p>
+        <p>Qof kasta oo naga mid ah wuxuu leeyahay door uu ku isticmaalaayo Xeerka Anshaxa Ganacsiga shaqadeena maalinlaha ah iyo inuu ku gaaro go'aan. Kaliya maaha dukumiinti—waa hage naga caawinata inaan caqabadaha ku wajahno qaab daacadnimo iyo kalsooni leh.</p>
+        <p>Qaybaha soo socda, waxaynu ku baran doonaa mabaadi'da muhiimka ah ee Xeerka waxaana arki doonaa sida aan u adeegsano ficiladeena iyo doorashooyinkeena maalinlaha ah.</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Waa inaad eegtaa dhammaan nuxurka kahor intaadan horey u socon.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott, waxaa naga go'an inaan horumarino caafimaadka iyo badqabka guud ee dadka ku tiirsan alaabadeena.</p>
+          </div>
+          <div>
+            <p>Waa xasuusin in go’aan kasta, hal abuur kasta, iyo in tallaabo kasta ay tahay ujeedo—lagu horumarinaayo nolasha.</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>Bukaannada iyo Macaamiisha</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>Xirfadlayda Daryeelka Caafimaadka</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Guji mid kasta oo kamid ah badhamada si aad wax badan u barato.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>Bukaannada iyo Macaamiisha</p>
+                <p>Daryeelida dadka waa mudnaanta koowaad ee waxa aan sameyno. Waxaan mudnaan siinaa caafimaadka iyo badqabka guud ee bukaanada iyo Macaamiisha. Maalin kasta, waxaan sameyn kartaa isbadel micno leh—caawinta dadka si ay u helaan nolal caafimaad qabta ayna u geystaan taburacaad adag, iyo helida bulshooyin caafimaad qaba.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>XIRFADLEYDA DARYEELKA CAAFIMAADKA</p>
+                <p>Waxaan la shaqeynaa HCPs si aan u taageerno caafimaadka. Waxaan ixtiraamnaa aqoonta iyo xukunka madaxa banaan ee xirfadlayaasha daryeelka caafimaadka - haddii ay ahaan lahaayeen dhakhaatiir, kalkaaliyaal, farmasiilayaal, cilmi-baarayaal, ama shaqaalaha shaybaarka. Doorkooda ku hagida bukaanka arrimaha caafimaad wanaagsan waa lama huraan.</p>
+                <p>Abbott, waxaa naga go'an inaan ku taageerno iyaga xog sax ah, waqti ku habboon si ay u gaaraan go'aanada ugu fiican. Anagoo wada jirna, waxaan ku gaari karnaa yoolka aan wadaagno ee ah horumarinta caafimaadka iyo badqabka guud ee adduunka oo dhan.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Waa inaad eegtaa dhammaan nuxurka kahor intaadan horey u socon.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott, waxaa naga go'an inaan hubino in alaabo kasta oo aan bixino ay yihiin kuwo badbaado ah, waxtar leh, oo u qalma kalsoonida ay dadku nagu aaminayn.</p>
+          </div>
+          <div>
+            <p>Waxaan qaadnaa tallaabooyin si aan u hubino in alaabaheenu ay badqab yihiin oo waxtar leeyihiin —laga bilaabo doorashada alaabaha saxda ah ilaa sida aan u suuqgeyno, u iibino, una gaarsiinno dadka. Marxalad kasta oo jirta, waxaan raacnaa heerarka sare ee tayada.</p>
+            <p>Sidoo kale waxaa naga go'aan inaanu waqtiga saxda ah ku ogaano, qiimayno, oo wax ka qabano arrimaha badqabka alaabaha, iyo sidoo kale qaadista tallaabooyin lagaga hortagayo been-abuurka, leexinta sharci darrada ah, iyo xatooyada alaabaha.</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>Tayada Badeecada</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>Xayeysiinta Badeeco I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>Xayeysiinta Badeeco II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Guji mid kasta oo kamid ah badhamada si aad wax badan u barato.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>TAYADA BADEECADA</p>
+                <p>Badqab, wax ku ool iyo aaminaad. Alaabaheenu waxay sameeyaan isbadel.</p>
+                <p>Waxaa naga go’an tayada marxalad kasta—laga bilaabo doorashada alaabaha saxda ah ilaa sida aan u suuqgeyno, u iibino, una gaarsiinno dadka, oo ay ku jiraan ayadoo loo maraayo iskaashatadeena. Tallaabo kasta waa muhiim sababtoo ah dadku waa ay nagu tashtaan marka la eegaayo badqabka.</p>
+                <p>Waxaa naga go’an aqoonsashada, qiimeynta, iyo wax ka qabasho wakhtiyeysan ee arrimaha badqabka badeecadeena. Waxaan hubinaa xirfadlayaasha daryeelka caafimaadka iyo machadyada inay helaan macluumaadka ay u baahan yihiin si ay ugu isticmaalaan alaabaheena si badbaado leh oo wax ku ool ah, waxaana la xiriirnaa hay'adaha sharciyada ama caafimaadka dadweynaha haddii ay dhacaan walaacyo badqab oo suurtagal ah.</p>
+                <p>Waxaan qaadnaa tallaabooyin si looga hortago been-abuur, jeedin sharci darro ah, iyo xatooyo badeecadeena ah. Waxaan raacnaa xeerarka ganacsiga, oo ay ku jiraan xeerarka xakameynta dhoofinta iyo soo dejinta alaabaha, waxaana u hoggaansanahay xanibaadaha dawladda iyo cunaqabateynta si loo ilaaliyo amniga qaranka iyo caafimaadka bulshada.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>XAYEYSIINTA BADEECO I</p>
+                <p>Waxaan kor u qaadnaa oo aan uga iibinaa alaabaheena si daacad ah iyo ixtiraamka dadka ku tiirsan.</p>
+                <p>Xogta aan ka sheegno alaabaheena waa run, dheelitiran, waxayna la jaanqaadaysa calaamadaynta la ansixiyay, caddaynta sayniska, iyo hababka ugu fiican ee caafimaadka ee wadamada aan ka shaqeyno.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>XAYEYSIINTA BADEECO II</p>
+                <p>Waxaan xayeysiinaa alaabaheena loogu talagalay isticmaalkooda iyo kuwa la ansixiyay.</p>
+                <p>Waxaanu u shaqeynaa si waafaqsan shatiyada iyo oggolaanshaha ay bixiyaan maamulada caafimaadka ee wadamada aanu ka shaqeyno. Xayeysiinta alaabaheena, iibinta, iyo qaybinteenu waxay raacaan sharciyo ganacsi oo adag iyo xeerar u gaar ah dalka. Anagoo adeegsanayna siyaasadaha gudaha ah ee xooggan iyo habraacyo, waxaan hubineynaa u hoggaansanaanta waxaana ilaalineynaa go'aankeena ku aaddan dhaqamada ganacsi ee anshaxa, badqabka iyo mas'uuliyada leh.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Waa inaad eegtaa dhammaan nuxurka kahor intaadan horey u socon.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott, waxaa naga go'an inaan u hormarino sayniska si daacad iyo ujeedo leh.</p>
+          </div>
+          <div>
+            <p>Waxaan raadinaynaa hal-abuurnimo, anaga oo aqoonsanayna muhiimada ay leedahay kahortagga iyo wax ka qabashada khataraha ayadoo loo maraayo si masuuliyad ku dheehan tahay. Waxaan ixtiraamaynaa sharafta ka qaybgale kasta oo daraasada kamid ah waxaana ilaalinaa heerarka ugu sarreeya ee daahfurnaanta iyo ujeeddooyinka cilmi-baarista sayniska.</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>Hal-abuurka I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>Hal-abuurka II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>Horumarinta Sayniska</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Guji mid kasta oo kamid ah badhamada si aad wax badan u barato.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>HAL-ABUURKA I</p>
+                <p>Waxaan abuurnaa xalal cusub oo daryeel hal abuur leh ah si looga caawiyo dadka inay ku noolaadaan nolol caafimaad leh iyo si aan kor ugu qaadno natiijooyinka adduunka oo dhan.</p>
+                <p>Waxaa ka jawaabnaa baahiyaha bini'aadamka annagoo hormuud ka ah daawaynta horumarsan, aaladaha nolosha ee badqabka la xariira, iyo alaabada cusub ee caafimaadka ka taageera siyaabo cusub. Anagoo adeegsanayna sayniska casriga ah iyo teknoolajiyada, waxaan ku dadaalnaa inaan kor u qaadno natiijooyinka oo aan awoodno dadka si ay ugu noolaadaan noloshooda qaab buux-abuurista hal-abuur macno leh oo heer kasta oo nolosha ah.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>HAL-ABUURKA II</p>
+                <p>Waxaan kor u qaadnaa dhaqanka hal-abuurnimada leh anagoo wax ka baranayna fursado cusub iyo qorsheynta xaaladaha lama filaanka ah.</p>
+                <p>In kastoo horumarku inta badan ku lug leeyahay khatarta, waxaanu qaadnaa tallaabooyin taxadar leh, mas'uuliyad leh si aan u eegno caqabadaha oo aan horay u yareyno - had iyo jeerna waxaa haga Xeerka iyo siyaasadeena.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>HORUMARINTA SAYNISKA</p>
+                <p>Waxaan sameynaa cilmi baaris si aan u soo saarno xog sax ah, ujeedo ah oo dhaqaajisa hal-abuurka, kor u qaada daawaynta, iyo horumarinta daryeelka caafimaadka.</p>
+                <p>Marka aanu samaynayno cilmi-baaris, waxaanu ula dhaqanaa ka qaybgalayaasha daraasadda si sharaf leh, waxaanu ka ilaalinaa khatarta aan loo baahnayn, waxaana hubinaynaa inay fahmaan dabeecada iyo ujeedada cilmi-baarista iyo khataraha la xiriira. Ka helida oggolaansho xogeysan ka qeyb galayaasha daraasada waa qeyb muhiim u ah nidaamkeena cilmi-baariseed.</p>
+                <p>Waxaan qiimeynaa hufnaanta cilmi-baarista mana raadin doono inaan si khaldan u saameyno natiijooyinka. Waxaan hubinaynaa in xogta daraasadu ay tahay mid sax ah waxaana ka go'an inaan bixinno natiijooyinka cilmi-baarista ee la xiriira alaabaheena, haddii ay natiijadu yihiin kuwo togan ama kuwo xun, waqti ku habboon oo sax ah.</p>
+                <p>Marka cilmi-baarista loo sameeyo Abbott ama la daabaco ayadoo la matalaayo, waxaan iskaashi la sameynaa khabiiro leh asal saynis iyo caafimaad adag. Waxaan ka fileynaa inay shaaciyaan xiriir kasta oo ay la leeyihiin Abbott, oo ay ku jiraan xiriirada maaliyadeed ama kuwa kale.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Waa inaad eegtaa dhammaan nuxurka kahor intaadan horey u socon.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott, waxaan kobcinaynaa dhaqanka furfurnaanta, kala duwanaanta, iyo ixtiraamka—sababtoo ah waxay horseedaa hal-abuur iyo wax ku oolnimo.</p>
+          </div>
+          <div>
+            <p>Mid kasta oo naga mid ah waxa naga saaran masuuliyad ah inaan ku noolaado Xeerka maalin kasta: ula dhaqmo dadka kale si xushmad leh, abuurista goob shaqo oo ammaan ah oo loo dhan yahay, iyo hubinta fursad siman oo dhammaan ah.</p>
+            <p>Waxaan weydiinaa su'aalo marka ay arrimuhu kala caddayn oo aan ka hadalno marka ay wax saxan yihiin.</p>
+            <p>Qaybtaan waxay xoojinaysaa sida ay nooga go'an tahay inaan helno fursad loo siman yahay iyo jawi shaqo oo ammaan ah, waxayna na xasuusineysaa in aan fahamno, codsano, oo aan ilaalino Xeerka wax kasta oo aan sameyno.</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>Wada-shaqeyn</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>Xiriirkeena Qofwalbo oo Kale</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>Soo-tabinta Cabashooyin</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>Fursad Siman</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>La-dhaqan Caddaaladeed</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>Deegaan Shaqo</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Guji mid kasta oo ka mid ah badhamada si aad wax badan u barato.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ISKAASHIGA</p>
+                <p>Waxaan qiimeynaa furfurnaanta iyo iskaashiga sababtoo ah fikradaha kala duwan ayaa keena xalal habboon.</p>
+                <p>Waxaynu aqbalnaa kala duwanaanshiyaha sababtoo ah waxay sii hurisaa hal-abuurka, tamarta, iyo horumarka. Si aan saameyn macno leh oo la xariira caafimaadka caalamka, waanu is dhegaysanaa, waxaanu qiimaynaa cod kasta, waxaanu u wada shaqaynaa qaab ujeedo leh.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>XIRIIRKEENA ISKU XIDHKA</p>
+                <p>Dhammaanteen waxaan wadaagnaa mas'uuliyada inaan ku noolaano qiyamka Abbott maalin kasta.</p>
+                <p>Anagoo u dhaqmayna si anshax leh, waxaan xoojinaynaa dhaqankeena. Qof kastaa waa inuu fahmo sida xeerku u khuseeyo doorkooda iyo shaqadooda.</p>
+                <p>Maamulayaasha iyo kormeerayaashu waxay leeyihiin mas'uuliyad gaar ah ka hoggaamiye ahaan—waa inay qaabeeyaan qiyamkeena, kor u qaadaan dhaqanka anshaxa, oo ay abuuraan meel ammaan ah halkaas oo shaqaaluhu ku dareemaan raaxo inay waydiiyaan su'aalo iyo kor u qaadista welwelka iyaga oo aan ka cabsanayn aargoosi.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KA WARBIXINTA WALAACYADA</p>
+                <p>Waxaan weydiinaa su'aalo marka shey aysan caddayn ama u muuqan mid sax ah. Waxaan sidoo kale ka hadlaynaa oo aan soo sheegnaa wixii xadgudub ah ee suurtagalka ah ee la xariira Xeerka.</p>
+                <p>Waa mas'uuliyadeena inaan weydiino su'aalo marka jihadu aysan caddayn oo aan ka doodno oo aan ka warbixino dhaqannada ganacsi ee la tuhunsan yahay, xadgudubyada Xeerka, ama jebinta siyaasadaha Abbott.</p>
+                <p>Haddii aadan hubin doorashada saxda ah ama ficilka, la hadal maamulahaaga ama la xiriir Xafiiska Anshaxa iyo Hogaaminta.</p>
+                <p>Maamulayaasha iyo kormeerayaashu waa inay tusaale u noqdaan oo ay hubiyaan in shaqaaluhu fahmaan oo ay raacaan Xeerka. Hogaamiyaasha ayaa mas'uuliyad wayn ka saaran inay la xiriiraan waxa Abbott laga filayo waana inay la xiriiraan Xafiiska Anshaxa iyo U Hogaansanaanta wixii la xariira xadgudubka Xeerarka.</p>
+                <p>Dhammaan warbixinada ku saabsan xadgudubyada Xeerarka waxaa loo qaataa si dhab ah. Xafiiska Anshaxa iyo U Hogaansanaanta ayaa qaban doona tallaabooyinka daba-galka ah, oo ay ku jiraan baaritaanada iyo tallaabooyinka sixitaanka marka loo baahdo. Waa inaadan kaligaa baarin. Qof kasta waa inuu la shaqeeyaa oo u ilaaliyaa baaritaanada si qarsoodi ah.</p>
+                <p>Ficilada sixitaanka waxaa ku jiri kara anshax (ilaa iyo ay ku jirto joojinta) ama tallaabo sharci ah:</p>
+                <ul>
+                  <li>Oggolaanshaha ama ka qayb qaadashada xadgudubyada;</li>
+                  <li>Diidmada in lala shaqeeyo baaritaanka;</li>
+                  <li>Ku guuldareysiga in la soo sheego xadgudub sababo la xariira kormeer xumo;</li>
+                  <li>Samaynta warbixin been abuur ah;</li>
+                  <li>Ka aargoosiga qof si daacad ah uga warbixiyay walaac.</li>
+                </ul>
+                <p>Aargoosi marna lama aqbali karo. Haddii aad aaminsan tahay in aargoosi dhacay, u soo sheeg Xafiiska Anshaxa iyo U Hogaansanaanta ama Ilaha Aadanaha.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>FURSAD LOO SIMAN YAHAY</p>
+                <p>Waxaan siinaa fursado siman dhammaan shaqaalaha.</p>
+                <p>Waxaanu samaynaa go'aamo shaqo oo ku salaysan baahida ganacsiga, xirfadaha, khibrada, iyo waxqabadka. Takoorka nooc kasta ha ahaadee looma dulqaadan karo. Waxaan raacnaa dhammaan sharciyada xukuma xiriirka aan la leenahay shaqaalaha adduunka oo dhan.</p>
+                <p>Abbott wuxuu mamnuucay takoorka ku salaysan midabka, qowmiyada, diinta, da'da, jinsiga, asalka qaranka, aqoonsiga jinsiga ama hadalka, nooca galmada, naafanimada, xaaladda guurka, xaalada halyeynimo ama heerka milatariga, hidaha, heerka dhalashada, ama xaalad kasta oo kale oo si sharci ah loo ilaaliyo.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>CADAALADA LOO SIMAN YAHAY</p>
+                <p>Waxaan kobcinaynaa ixtiraam, loo dhan yahay, iyo goob shaqo oo badqab ah.</p>
+                <p>Waxaan ka shaqeynaynaa inaan hubino in qof walba uu dareemo soo dhaweyn, taageero, iyo awood.</p>
+                <p>Abbott wuxuu kor u qaadaa caafimaad, deegaan ka madax banaan xadgudub wuxuuna qiimeeyaa tallooyinka shaqaalaha si loo xoojiyo kala duwanaanshaha iyo ka mid noqoshada.</p>
+                <p>Waxaan qof walba ula dhaqannaa si xushmad iyo karaamo leh, anagoo ku dhisna kalsoonida caddaalad iyo daacadnimada leh—Weligayna iyada oo aan loo marin wax is daba marin, been abuur ama daahfurnaan la’aan ah.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>DEEGAANKA SHAQADA</p>
+                <p>Waxaan mudnaanta siinaa badqabka iyo xaaladaha shaqada ee cadaaladda ah.</p>
+                <p>Shilalka ama xaaladaha aan ammaanka ahayn waa in isla markiiba maamulka loo soo sheegaa. Abbott waxa kale oo uu qaadaa tallaabooyin uu kaga hortagayo oo uu mamnuucaayo sharci-darrada, dhaqamada shaqada ee aan habboonayn iyo nooc kasta oo naxariis darro ah ama bini'aadantinimada ka baxsan ee hawlaheena ganacsi ee adduunka oo dhan.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Waa inaad eegtaa dhammaan nuxurka kahor intaadan horey u socon.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott ka ahaan, waxaan dhisnaa kalsoonida iyadoo loo marayo bulshada, deegaanka, iyo ka qaybgalka.</p>
+          </div>
+          <div>
+            <p>Waxaan ku dadaalaynaa inaan dib ugu celino bulshooyinka aan ka hawlgalno oo aan sameyno saameyn togan oo waarta oo nolosha dadka.</p>
+            <p>Abbott waxay ka shaqeysaa inay yareyso raadkiisa deegaanka isagoo yaraynaya isticmaalka tamarta iyo ilaalinta ilaha dabiiciga ah.</p>
+            <p>Waxaan sidoo kale taageernaa ka qaybgalka siyaasadeed ee ku habboon, waxaana dhiirigelinaynaa ka-qaybgalka bulshada guud ahaan hawlgalladayada caalamiga ah.</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>Ku lug lahaansho Bulsho</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>Masuuliyada Deegaanka</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>Ku-biirinada Siyaasada</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Guji mid kasta oo ka mid ah badhamada si aad wax badan u barato.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KU LUG LAHAANSHO BULSHO</p>
+                <p>Waxaan taageernaa badqabka guud ee bulshada.</p>
+                <p>Abbott, waxaan ku taageernaa badqabka bulshooyinka iyada oo loo marayo badeecadeena, shaqadeena, iyo ficiladeena waxaana leenahay taariikh dheer oo aan dib ugu celinayno meelaha aan ku noolnahay oo aan ka shaqeyno, sababtoo ah waxaan aaminsanahay in bulshooyin caafimaad qaba ay sameeyaan horumar.</p>
+                <p>Iyadoo loo marayo hawlgaladeena, iskaashiga, iyo taageerada kooxaha deegaanka iyo sababaha, waxaan ku dadaaleynaa inaan sameyno saameyn wanaagsan oo waarta meel kasta oo aan ganacsi ku sameyneyno.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MASUULIYADA DEEGAANKA</p>
+                <p>Waxaan ka qaybqaadanaynaa horumar waara waxaana ka shaqeyneynaa sidii aan u dhimi lahayn saameynta aan ku leenahay deegaanka.</p>
+                <p>Waxaan ka shaqeynaa inaan ilaalino deegaanka wax kasta oo aan sameyno—laga bilaabo sida aan u soo saarno agabka ilaa sida aan u sameyno, u gaarsiino dadka, una isticmaalno alaabadeena.</p>
+                <p>Waxaan qaadeynaa tallaabooyin aan ku isticmaaleyno tamarta yar iyo ilaha dabiiciga ah oo yar. Waxaan taageernaa mashruucyada tamarta nadiifka ah ee shaqada iyo bulshooyinkeena. Waxaan raadinaynaa habab lagu dhimo qashinka, dib u warshadeynta badan, iyo hoos u dhigista khatarta deegaanka. Waxaan sidoo kale raacnaa sharciyada deegaanka iyo xeerarka khuseeya hawlgalladeena.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>TABARUCAADA SIYAASADA</p>
+                <p>Waxaan dhiirigelinaa ku lug yeelasho habboon ee geedi socodka siyaasada waxaana taageernaa ka qeyb-galin bulsheed.</p>
+                <p>Abbott waxay taageertaa siyaasadaha dadwaynaha ee la jaan qaadaya himiladeena iyo qiyamkeena. Marka ay munaasib tahay, waxa laga yaabaa inaan sidoo kale taageerno musharixiinta siyaasadda ama kooxaha danta ah.</p>
+                <p>Sababo la xariira sharciyada ku saabsan tabarucaada siyaasadeed ee shirkaduhu waa adag yihiin, isticmaal kasta oo loo isticmaalo lacagaha Abbott—ama tabarucaadka lagu sameeyo magaca Abbott—waa in marka hore dib loo eego Qaybta Sharciga.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Waa inaad eegtaa dhammaan nuxurka kahor intaadan horey u socon.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott ka ahaan, waxaa naga go'an inaan si daacadnimo ah u ganacsi sameyno oo aan u ilaalino ballamaheena dhammaan dhinacyada shaqadeena la xariira.</p>
+          </div>
+          <div>
+            <p>Waxaan danaha Abbot kahor marinaa kuweena marka aan maarayneyno khilaafaadka danaha. Waxaanu ilaalinaa hantida iyo sumcada Abbott, waxaanu ilaalinaa macluumaadka sirta ah, waxaanu ixtiraamnaa sirta qof kasta oo nala wadaaga xog gaarka ah.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>La-shaqeynta Caddaalada ah</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>Ka Fogaanshaha Danaha iska Hor-imaanaya I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>Ka Fogaanshaha Danaha iska Hor-imaanaya II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>Ilaalinta Hantida &amp; Sharafka Abbott</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>Macluumaad Qarsoodi ah</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Guji mid kasta oo ka mid ah badhamada si aad wax badan u barato.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>LA-SHAQEYNTA CADDAALADA AH</p>
+                <p>Waxaan u sameynaa ganacsi si daacad ah waxaana raacnaa ballanqaadkeena dhinac kasta oo shaqadeena la xariira.</p>
+                <p>Mid walba oo naga mid ah wuxuu mas'uul ka yahay shaqadeena iyo go'aamada aan ku samayno doorkeena. Wada-shaqeyn kasta oo xirfad—ha noqoto asxaabta, macaamiisha, alaab qeybiyaasha, xirfadlayaasha daryeelka caafimaadka, tartamayaasha, ama kuwa kale—waa inaan caddaalad iyo daacad ka noqonnaa sida Abbott ganacsi u sameeyo.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KA FOGAANSHAHA DANAHA ISKA HOR-IMAANAYA I</p>
+                <p>Waxaan aqoonsanaa oo aan wax ka qabanaa khilaafaadka danaha kahor intaanan horay loo socon.</p>
+                <p>Khilaafaadka danta ku saleysan wuxuu dhacaa marka danaha gaarka ah ay farageliyaan—ama ay u muuqdaan inay faragelinayaan—waxa u wanaagsan Abbott. Go'aannada ganacsigu waa inay ku saleysnaadaan baahida Abbott, ee waa inaysan ku saleysnayn dano gaar ah ama danaha qoyska ama asxaabta. Waxaa la inooga baahan yahay inaan isticmaalno go’aan wanaagsan oo aan ka fogaano xaaladaha keeni kara khilaaf dhab ah ama la dareemo dhab ah. Haddii cilaaqaadka shaqsi, danaha, ama hawlaha dibada ay saameeyaan awoodaada inaad u dhaqanto si caddaalad ah oo waxtar leh—ama ay faa'iido u yeelan karto adiga ama xubin qoyska kamid ah—waa inaad muujisaa isku dhaca imaan kara oo aad naftaada ka saartaa xaaladdaas, adoo raacaya tilmaamaha Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KA FOGAANSHAHA DANAHA ISKA HOR-IMAANAYA II</p>
+                <p>Waxaan mudnaanta saarnaa danaha Abbott marka aan gaareyno go'aannada shaqada la xiriira.</p>
+                <p>Taas macneheedu waxa weeye inaan mudnaanta saarno yoolalka shirkadda kana hormarino kuwa koox gaar ah, koox, ama shakhsi. Fursad kasta ama agab kasta oo aan ku sameyno doorarkeena Abbott waa in loo istcimaalaa faa'iidada shirkadda—ee aysan noqon dano gaar ah. Waa in aynaan la tartamin Abbot ama aynaan caawin dadka kale sidaas. Marka ay fursadaha soo baxaan, diiradeenu waa inay ahaadaan horumarinta danaha Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ILAALINTA HANTIDA IYO SHARAFTA ABBOTT</p>
+                <p>Waxaan nahay daryeelayaasha shirkadeena.</p>
+                <p>Dhammaanteen waxaan wadaagnaa mas'uuliyadda ilaalinta iyo u isticmaalka hantida Abbott si xigmad leh. Tan waxaa ku jira wax walba laga bilaabo waxyaabaha la taaban karo sida baabuurta iyo kumbayutarada, ilaa macluumaadka qiimaha leh sida hantida garaadka, sirta ganacsiga, iyo aqoonta gaarka ah.</p>
+                <p>Waa inaan had iyo jeer isticmaalno go'aano wanaagsan si aan u hubino in agabkaan si habboon, hufan, iyo taxaddar leh loo isticmaalo ka-hortagga luminta, xatooyada, si xun u isticmaalka, ama qashinka.</p>
+                <p>Sumcada Abbott waa mid ka mid ah hantideena ugu qiimaha badan—dhamaanteena waxaan ka ciyaarnaa door ilaalin.</p>
+                <p>Mid kasta oo naga mid ah ayaa mas'uul ka ah sida aan u matalo Abbott, gaar ahaan goobaha dadweynaha iyo interneetka, oo wax kasta oo aan wadaagno—haddii ay tahay wada hadal, iimaylo, ama warbaahinta bulshada—waxay ka tarjumaysaa shirkada. Waa muhiim in si fikir leh loo wada xiriiro, la isticmaalo sabab wanaagsan, oo la ilaaliyo xogta sirta ah ee Abbott.</p>
+                <p>Marka aan ku hawlanahay hawlaha dibadda, waa inaan tixgelino haddii naloo arki karo in aan matalo Abbott iyo sida erayadeena ama ficilladeenu u saameyn karaan sumcada shirkada. Tani waxay si gaar ah muhiim ugu tahay warbaahinta bulshada, oo qoraallada ay ku faafi karaan si degdeg ah oo ballaaran—faallooyinka taxadar la'aanta ah ama qoraalka waxay keeni karaan waxyeelo dhab ah.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MACLUUMAAD QARSOODI AH</p>
+                <p>Waxaa naga go'an inaan ixtiraamno oo ilaalino dhammaan macluumaadka sirta ah, oo ay ku jiraan xogta shaqsi ee gaarka ah.</p>
+                <p>Macluumaadka qarsoodiga ah waa mid ka mid ah hantida ugu qiimaha badan Abbott. Waxaa ka mid ah faahfaahinta aan dawliga ahayn sida cilmi-baarista, sirta ganacsiga, qorshayaasha ganacsiga, qiimaha, qandaraasyada, natiijooyinka maaliyada, iyo xog kale oo ka faa'iideysan karta tartamayaasha ama waxyeelo gaarsiin karta Abbott haddii la shaaciyo.</p>
+                <p>Waa inaan ilaalinaa macluumaadka qarsoodiga ah oo aan ka hortagnaa isticmaalka iyo wadaagista aan la ogolayn—xitaa ka dib marka uu dhamaado wakhtiga aan la leenahay Abbott.</p>
+                <p>Abbott ka ahaan waxaanu sidoo kale ixtiraamnaa hantida garaadka dadka kale waxaana ka fogaannaa isticmaalka khaldan ee xogtooda sirta ah. Si xun u isticmaalka macluumaadka aan dawliga ahayn, sida ganacsiga gudaha, waa sharci daro iyo anshax darro.</p>
+                <p>Waxaan sidoo kale ilaalinaa xogta shaqsi ee gaarka ah ee ay nagu aamineen asxaabta, xirfadlayaasha daryeelka caafimaadka, iyo macaamiisha. Markaan uruurino oo aan isticmaalno macluumaadka shaqsi ee gaarka ah, waxaan u samaynaa si mas'uuliyad leh, annagoo oggolaansho sax ah haysano, waligeena ma iibino ama ka helin ilo aan la ogalayn. Goobo badan ayaa leh sharciyo gaar ah oo adag, waxaana naga go'an inaan fahamno oo oo raacno iyaga, gaar ahaan qaybaha ugu xasaasisan ee macluumaadka shakhsiyeed.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Waa inaad eegtaa dhammaan nuxurka kahor intaadan horey u socon.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott ka ahaan, waxaa naga go'an inaan si daacadnimo ah u ganacsi sameyno oo aan u ilaalino ballamaheena dhammaan dhinacyada shaqadeena la xariira.</p>
+          </div>
+          <div>
+            <p>Waxaan danaha Abbot kahor marinaa kuweena marka aan maarayneyno khilaafaadka danaha. Waxaanu ilaalinaa hantida iyo sumcada Abbott, waxaanu ilaalinaa macluumaadka sirta ah, waxaanu ixtiraamnaa sirta qof kasta oo nala wadaaga xog gaarka ah.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>Kahortaga Laaluush</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>Hadiyado, Cuntooyin &amp; Mada-daalo</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>Buugaagda iyo Diiwaanada Saxsan</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>U-hoggaansanaanta Sharciyada</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>Tartar Xalaal ah</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Guji mid kasta oo ka mid ah badhamada si aad wax badan u barato.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KAHORTAGA LAALUUSH</p>
+                <p>Waxaan si joogto ah uga soo horjeedsanaa khayaanada, laaluush, iyo musuqmaasuq. Waxaan u helnaa ganacsi qaabka saxda ah.</p>
+                <p>Ka shaqsi ahaan, waxaanu ka filaynaa xirfadlayaasha daryeelka caafimaadku inay sameeyaan go'aamo ku salaysan waxa u wanaagsan bukaanada—waxaana saamayn ku yeelan dhiirigelinta shirkadaha. Sidoo kale, waxaan ka fileynaa mas’uuliyiinta dowladda inay awooda saaran danta shacabka, oo ka madax banaan cadaadiska shirkadaha.</p>
+                <p>Abbott ka ahaan, waxaanu barnaa xirfadlayaasha daryeelka caafimaadka alaabaheena laakiin kama faragelinno xukunkooda madaxa banaan. Marna lama ogola in wax qiimo leh la siiyo dhakhaatiirta caafimaadka (sida dhakhtarka, farmashiistaha, kalkaalisada, cilmi-baaraha ama shaqaalaha shaybaarka), saraakiisha dawladda, ama kuwa kale si ay u helaan ganacsi ama abaal-marin u helaan xiriiradii hore.</p>
+                <p>Waxaan raacnaa sharciyada ka hortagga laaluushka, musuqmaasuqa, iyo la dagaalanka dib u-celinta caalamka oo dhan, oo uu ku jiro Sharciga Dhaqanada Musuqmaasuqa Dibadda ee Mareykanka. Qof kasta oo Abbott katirsan waa inuu si taxadar leh u maareeyaa cilaaqaadka uu la leeyahay bixiyaasha adeegga—sida qaybiyaasha, la-taliyaasha, iyo dadka hadlas—iyaga oo samaynaya dedaalka saxda ah, bixinta qiimaha suuqa oo cadaalada ah, iyo si sax ah u diiwaangelinaya lacagaha si loo hubiyo u hoggaansanaanta shuruucda iyo heerarka shirkadda.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>HADIYADO, CUNTOOYIN IYO MADA-DAALO</p>
+                <p>Ma bixinno mana soo bandhigno wax qiimo leh si aan u helno faa'iido ganacsi, si toos ah ama si dadbanba, oo waafaqsan mabaadi'da ka-hortagga laaluushka.</p>
+                <p>Si looga hortago saamaynta aan habboonayn ee go'aamada ganacsiga, waxaanu dejinnay xad ku xeeran hadiyadaha, cuntada, iyo madadaalada. Siyaasadaha Abbott waxay caawiyaan hubinta xasuusinta sumada, xushmada dhaqameed, soo dhawaynta, iyo faa'iidooyinka kale ee aan waligood faragelin xukunka xirfadda.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>BUUGAAGDA IYO DIIWAANADA SAXAN</p>
+                <p>Waxaan guulaha u cabbirnaa si sax ah.</p>
+                <p>Diiwaanka Abbott iyo bayaanada dadwaynaha waa inay si sax ah u muujiyaan ficiladeena, oo leh macno ku filan si loo muujiyo nooca dhabta ah ee shaqadeena. Diiwaanada maaliyada waa inay raacaan heerarka xisaabaadka, sharciyada, iyo siyaasadaha gudaha ee Abbott.</p>
+                <p>Marka aan ka warbixineyno qiimaha, lacag-bixinta, ama alaabta qiimaha leh—gaar ahaan xirfadlayaasha daryeelka caafimaadka—waa in aan hubino in macluumaadka uu yahay mid dhamaystiran oo sax ah. Dawlado badan ayaa u baahan daahfurnaantaan si loo ilaaliyo hantida dadweynaha. Abbott waxaa ka go'an inay bixiso xog la isku halleyn karo si dowladaha, caymiska, iyo daneeyaasha kale ay u gaaraan go'aano xog ogaal ah.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>U-HOGGAANSANAANTA SHARCIYADA</p>
+                <p>Waxaan raacnaa dhammaan sharciyada, xeerarka iyo shuruudaha Abbott ee khuseeya shaqadeena.</p>
+                <p>Shaqaale kasta oo Abbott katirsan waxaa laga filayaa inuu raaco dhammaan sharciyada lagu dabaqi karo, iyo sidoo kale siyaasadaha Abbott, nidaamyada, iyo Xeerka. Tani waa shuruudaha aasaasiga ah ee shaqada. Siyaasadaha Abbott waxay daboolayaan meelaha muhiimka ah sida u hoggaansanaanta daryeelka caafimaadka, tayada, maaliyadda, ganacsiga, amniga, iyo in ka badan, taasoo naga caawinaysa buuxinta shuruudaha sharciga iyo ka hortagga u hogaansanaan la'aanta.</p>
+                <p>Shirkad caalami ah ka ahaan, waa inaan sidoo kale ogaano in sharciyada dal laga yaabo in lagu dabaqo shaqada laga qabto mid kale. Marka shaki ku galo, ka raadso hagitaan Qaybta Sharciga ama Xafiiska Anshaxa iyo U Hogaansanaanta.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>TARTAN XALAAL AH</p>
+                <p>Waxaan xaqiijineynaa in is-dhexgal walbo aan la yeelano qolooyinka nala tartarma uu yahay mid haboon.</p>
+                <p>Abbott ka ahaan waxaa naga go'an inaan raacno sharciyada tartanka meel kasta oo aan ka shaqeyno. Sharciyadaan waxay mamnuucayaan heshiisyada ama ficilada niyad jabinaya ku dhaqanka suuqa cadaalad ahs—gaar ahaan qiimaha, shuruudaha iibka, iyo isdhexgalka tartamayaasha.</p>
+                <p>Ka fogoow inaad mawduucyada xasaasiga ah kala hadasho tartamayaasha, sida qiimaha, kharashyada, ama qorshayaasha ganacsiga, oo la xiriir laanta Sharciga ama Xafiiska Anshaxa iyo U Hogaansanaanta haddii aad wax su'aalo ah qabto ama aad la kulanto wax aan habboonayn. Sababo la xariira sharciyada tartanka waa adag yihiin xadgudubkuna wuxuu keeni karaa ciqaabo culus, waa inaan sidoo kale si taxadar leh u maareyno xiriirka aan la leenahay dhinacyada saddexaad si aan u hubinno u hoggaansanaanta oo aana uga fogaano xitaa muuqaalka dabeecadda tartanka.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>Kahor intaadan bixin koorsadaan, qaado xoogaa si aad u xaqiijiso inaad fahantay masuuliyadaada la xidhiidha Xeerka Dhaqanka ee Abbott.</p>
+          <p>Waxaan xaqiijinayaa inaan fahmay mas'uuliyadaheena ku saabsan Xeerka Dhaqanka ee Abbott oo aan ogahay halka aan ka helo oo aan dib u eego Siyaasadaha iyo Nidaamyada khuseeya.</p>
+          <button class="qcSubmitBtn">Xaqiiji</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>Hubinta Aqoonta ee soo socota waxay ka kooban tahay 10 su'aalood. Waa inaad ka keentaa 80% ama ka sare si aad si guul leh ugu dhamestirtid koorsadan.</p>
+        <p>MARKAAD DIYAAR TAHAY, GUJI BADHANKA HUBINTA AQOONTA.</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Muxuu Xeerka Dhaqanka Ganacsigu muhiim u yahay?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Wuxu bixiyaa talo gaar ah xaalad kasta oo laga yaabo inaan kula kulanno shaqadeena.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Wuxuu bixiyaa mabaadi'da cad iyo qiyamka lagu saleynayo go'aamada marka habka ugu wanaagsan ee ficilku aanu isla markiiba caddayn.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Xiga</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Xeerka Anshaxa Ganacsiga si uu inoogu soo bandhigo mabaadii'da cad iyo qiyamka aan ku saleyno go'aamada marka habka ugu wanaagsan ee ficilku aanu isla markiiba caddeyn.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Midkee ka mid ah kuwaan soo socda oo aan waligeed <span class="underline">ahayn</span> macaamil ganacsi oo habboon?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Shaqaaleysiinta HCP si uu uga hadlo meel cudur oo gaar ah sababo la xariira xirfadahooda iyo khibraddooda.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Siinta cunto macquul ah ka qaybgalayaasha barnaamijka waxbarashada ay maalgeliso Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Diyaarinta tabarucaad samafal oo urur deegaan.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Shaqaaleysiinta HCP si ay u qabato barnaamij waxbarasho si looga mahadceliyo isticmaalka alaabaha Abbott.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Xiga</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Shaqaaleynta HCP si ay u qabato barnaamij waxbarasho sababo la xariira xirfadahooda iyo khibradooda waa la oggol yahay, si kastaba ha ahaatee, shaqaaleysiinta HCP adiga oo uga mahadcelinaya isticmaalka alaabaha Abbott waa mid aan habboonayn sababtoo ah tan waxaa loo qaadan karaa laaluush.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Cawaaqibka shaqsiyaadka ku lug leh laaluushka iyo musuqmaasuqa waxaa ka mid noqon kara:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Waxyeello sumcadeed.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Ganaax lacag iyo shaqo joojin.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Joojinta shaqada.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Gelida xabsi.</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>Dhammaan kuwa sare.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Xiga</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Cawaaqiibta qofka sameeya laaluushka iyo musuqmaasuqa waxaa ka mid noqon kara sumcad xumo, ganaaxyo iyo ganaaxyo lacageed, joojinta shaqada, iyo xitaa gelida xabsi.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Wakiilka iibka wuxuu kale oo leeyahay dukaan yar oo dahabka lagu iibiyo. Waxay go'aansatay inay fiicnaan lahayd inay hadiyado yaryar dukaankeeda ka siiso HCP-yada kuwaas oo aan qorin badeecada Abbott waayahaan. Tani ma caadi baa?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Haa</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Maya</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Xiga</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Siyaasada Abbott waxay mamnuucday hadiyadaha HCP-yada sababo la xariira in wakiilka iibku wuxuu u dhaqmaayo sidii wakiilka Abbott. Haddiyadu waa mamnuuc inkasta oo ay iyadu bixinayso. Bixinta hadiyadaha sidoo kale waxaa loo arki karaa laaluush ganacsi mustaqbalka.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Maamulaha iibka wuxuu wacitaan ka helaa xiriiriyaha shirkad la tartamaysa. Shirkada la tartamaysa waxay la wadaagtaa in koox saddexaad oo iib oo uu Abbott qandaraas kula galay suuq cusub in lagu eedeeyay inay cunto qaali ah siinayso macaamiisha ka doorta badeecadaha Abbott kuwa shirkada la tartamaya. Waa maxay tallaabada ku habboon?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Waxba ha samayn, maadaama macluumaadka uu ka yimid tartame.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Waxba ha samayn, sababtoo ah cuntooyin macaan ayaa ku badan suuqaas.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>U soo sheeg arrinta isla markaaba Xafiiska Anshaxa iyo U Hogaansanaanta (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Baar alaab qaybiyaasha badel ah haddii sheegashadu run tahay.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Xiga</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Waa inaad isla markiiba u soo sheegtaa eedaymaha Xafiiska Anshaxa iyo U Hogaansanaanta (OEC) si qaab sax ah loogu baaro, xataa haddii macluumaadka uu ka yimi tartame.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Wakaalada socdaalku waxay qabanqaabinaysaa safarka xirfadlayaasha daryeelka caafimaadka (HCPs) kuwaas oo bixiya adeegyada wax ka qabashada Abbott. Marka dib loo eego rasiidhada la gudbiyay, waxaa la helay kala duwanaansho—wadarta guud kuma habboona codsiga lacag-celinta, iyo rasiidhada qaar ayaa ka maqan faahfaahinta muhiimka ah sida taariikhaha safarka.</p>
+              <p>Waa maxay tallaabada ku habboon?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ku wargeli wakaalada socdaalka in Abbott uusan socodsiin karin lacag bixinta dukumeenti dhamaystiran oo sax ah haddii aan la helin.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Sii wad rasiidhada mar haddii macluumaadka qaar uun ka maqan yahay.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>U sheeg hay'ada inay saxdo marka xigta.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Waxba ha samayn, maadaama hay'adu cusub tahay.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Xiga</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Buugaagta iyo diiwaanada Abbott waa inay si buuxda oo sax ah u muujiyaan dhammaan wax iibabka. Sidaas darteed, waxaa muhiim ah in dhinacyada saddexaad ee u adeega Abbott ay bixiyaan dukumiinti dhammaystiran oo si sax ah oo ka tarjumaya ujeedada dhabta ah iyo faahfaahinta wax kala iibsiga.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Waxaad ka shaqaynaysaa meel kale oo xiriir la leh oo loo oggol yahay inay kafaala-qaadaan HCP-yada si ay uga qaybgalaan shirarka waxbarashada. Waxaad ku gudajirtaa doorashada HCP-yada si aad uga qaybgasho shir. Shuruudaha aad u isticmaasho doorashada waxaa ka mid ah:(1) haddii mawduuca shirku uu taabanaayo aagga khibradda ee HCP; (2) haddii Abbott ay kafaala qaaday HCP sannadkii hore; iyo (3) haddii HCP ay u badan tahay inay ku taliso alaabta Abbott ama ay isticmaasho aaladaha Abbott ka dib ka qaybgalka dhacdada. Qodobadaan ma ku haboon yihiin?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Haa. Labada shuruudood ee muhiimka ah ee ay tahay in had iyo jeer la buuxiyo marka la kafaala qaadayo shakhsiyaadka waa in kafaala-qaadka: a) ay khuseyso aagga khibradda HCP, iyo b) aan loo isticmaalin abaal-marin ama dhiirigelin ganacsi. Xaqiiqada ah inaad hubinayso si aad u hubiso in Abbott aanu kafaala qaadin HCP sanadkii la soo dhaafay ayaa kaa caawinaysa xaqiijinta tan dambe.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Haa. Ilaa inta sababta kafaala qaadka HCP aysan ahayn in la saameeyo ama lagu abaalmariyo shakhsiga, waxaad awoodaa inaad tixgeliso soo celinta maalgashigaaga - haddii shakhsigu uu sii wadi doono qorida alaabaha Abbott iyo in kale.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Maya. Go'aamada kafaalaqaadku kuma saleysna qodobka in HCP ay u badan tahay inay ku taliso alaabada Abbott ama ay isticmaasho aaladaha Abbott ka dib ka qaybgalka dhacdo la maalgeliyay.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Haa. Ilaa inta ugu yaraan mid ka mid ah shuruudaha ay ku habboon tahay, joogitaanka shuruudo dheeraad ah oo aan habboonayn maaha kuwo khuseeya.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Xiga</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Go'aannada maalgelinta marnaba looma samayn karo abaal-marin ahaan isticmaalka hore, ama dhiirigelinta isticmaalka in badan oo ka mid ah alaabteenana ama qalabkeena mustaqbalka. Maskaxda ku hay, xukuno badan oo maalgelin ayaa mamnuuc ah. Had iyo jeer la tasho nidaamka xiriirkaaga ka hor inta aadan bixin kafaalaqaad.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Wakiilka iibka Abbott wuxuu baraa xirfadle daryeel caafimaad (HCP) alaabaha. Doodda ka dib, HCP waxay la wadaagtaa in tartame uu bixiyay iPad cusub si uu uga caawiyo kordhinta iibkooda.</p>
+              <p>Waa maxay tallaabada ku habboon?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Sii dhiirigelin isku mid ah si aad ugu sii jirto tartanka.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Diid soo jeedinta iPadka laakiin soo jeedi casho qaali ah si aad u sii wadato wada hadalka.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>U sharax in Abbott uu ganacsi ku sameeyo dariiqa saxda ah oo uusan bixin karin wax qiimo leh oo si khaldan u saameeya go'aan gaarista. Kadib, u soo sheeg xaalada Xafiiska Anshaxa iyo U Hogaansanaanta (OEC) isla markiiba.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Uga mahadceli HCP macluumaadka oo ballan inaad ka fikiri doonto.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Xiga</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Waa inaadan waligaa bixin, ballan qaadin, bixin, ama helin wax qiimo leh si aad u hesho faa'iido ganacsi oo aan habboonayn ama aad u hesho ama u sii haysato ganacsi. Iyadoo aan loo eegin waxa ay tartamayaashu sameeyaan, waa inaad u hoggaansantaa sharciga khuseeya iyo siyaasadda Abbott, oo ay ku jiraan shuruudaha Abbott ee Siyaasada Kahortaga Musuqmaasuqa (GLB-ANTI-CORRUPTION). Markaad shaki qabto, had iyo jeer la tasho Laan Sharci ama OEC.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Kuwaan soo socda keebaa ah tusaalayaal shey qiimo leh oo ay tahay inaan la bixin si loogu guuleysto ganacsiga?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Safarrada HCP-yada iyo qoysaskooda si ay u booqdaan saaloon, kasiino ama meelaha kale ee loo yaqaan madadaalada.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Deeqaha cilmi baarista mustaqbalka ama mashaariicda waxbarashada.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Deeqaha la siiyo hay'adaha samo-falka ee ay jecel yihiin saraakiisha dawladda.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Dhammaan kuwa kore.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Xiga</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Halbeegyada Abbott ee la xariira laaluushka iyo musuqmaasuqa, ee ku jirta Siyaasadda Caalamiga ah ee La-dagaalanka Musuqmaasuqa (GLB-ANTI-MUSUQMAASUQA), waxay waafaqsan yihiin ballan-qaadkeena inaan u samayno ganacsi si daacadnimo, caddaalad iyo daacadnimo ku jirto. Tani waxay ka dhigan tahay bixinta ama soo bandhigida alaab qiimo leh si loogu guuleysto ganacsiga inaan marnaba la ogolayn.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>HCP oo ah hoggaamiyaha ra'yiga muhiimka ah ayaa ku weydiinaya haddii aad diyaarin karto taageero ku aadan barnaamij waxbarasho oo uu jeclaan lahaa inuu ka qayb galo si uu ugu badelo fursado ganacsi oo dheeraad ah Abbott. Dookhee ayaa ugu habboon?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Si adag u diid codsiga adoo ku saleynaya in codsigu jabiyay Siyaasadda La-dagaallanka Musuqmaasuqa ee Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>U sheeg HCP inaad weydiiso maamulahaaga.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Oggoloow codsiga, maadaama HCP uu yahay hogaamiyaha ra'yiga muhiimka ah oo saameyn badan leh.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Midkoodna kuwa kore.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">Gudbi</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Ma bixinno mana soo bandhigno wax qiimo leh si aan u helno faa'iido ganacsi, si toos ah ama si dadbanba, oo waafaqsan mabaadi'da ka-hortagga laaluushka.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>Wax natiijo ah lama hayo, maadaama aanad dhamaystirin Hubinta Aqoonta.</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>Hambalyo! Waxaad si guul leh ugu baastay Hubinta Aqoonta.</p>
+          <p>Fadlan dib u eeg natiijooyinka hoose adigo gujnaya su’aal walba.</p>
+          <p>Markaad sidaa sameysid, guji fallaarta hore si aad u sameysid xog aruurin gaaban.</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>Waan ka xunahay, kumaadan baasin Baarista Cilmiga. Ku qaado dhowr daqiiqo si aad dib ugu eegtid natiijooyinka hoose adigoo gujinaya su’aal kasta.</p>
+          <p>Marka aad sameyso, guji badhanka dib u qaadashada.</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>${C_199.1}</p>
+          <p>${C_199.2}</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.3}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.4}</p>
+                  <p>${C_199.5}</p>
+                  <p>${C_199.6}</p>
+                  <p>${C_199.7}</p>
+                  <p>${C_199.8}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.9}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Natiijada kulankaan oowgiis, faham wanaagsan baan ka haystaa Xeerka Anshaxa Ganacsi.</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Aad u Diidanahay</p>
+                  <p>Ku Diidanahay</p>
+                  <p>Dhexdhexaad</p>
+                  <p>Ku Raacsanahay</p>
+                  <p>Aad ugu Raacsanahay</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.16}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.17}</p>
+                  <p>${C_199.18}</p>
+                  <p>${C_199.19}</p>
+                  <p>${C_199.20}</p>
+                  <p>${C_199.21}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.22}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">${C_199.23}</p>
+          <button class="surveySubmit">
+            <p>${C_199.24}</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">Meesha taageero laga raadsado</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Maamulaha</p>
+        <p>Haddii aad qabto su'aalo ku saabsan dhexgalkaaga dadka ka baxsan Abbott, meesha ugu fiican ee aad ka bilaabi karto waa maamulahaaga</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Heerarka qoraalka ah</p>
+        <ul>
+          <li>Qodobada aasaasiga ah ee shirkadeena ee la xariira waxyaabaha laga filayo ee ku saabsan is dhexgalka dadka kale, ka eeg <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Xeerkeena Anshaxa Ganacsiga</a>.</li>
+          <li>Ku aadan siyaasadaheena iyo habraacyadeena shirkadeed ee ku dabaqma shirkada oo idil, booqo <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">Bogga Siyaasada Caalamiga</a>.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>Xafiiska Anshaxa iyo U-hogaansanka (OEC)</p>
+        <p>OEC-da waa kheyraad shirkadeed oo caalami ah oo u furan inuu wax ka qabto su’aalahaada iyo cabashooyinkaaga ku aadan qiyamka iyo heerarka fulineed ee shirkadeena.</p>
+        <ul>
+          <li>Booqo <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance/?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">webseedka OEC</a> si aad wax uga oggaato Abbott.</li>
+          <li>Haddii aad qabto wax walaac ah oo ku saabsan dhaqdhaqaaqyada ganacsi ee musuqmaasuqa la xariira, ha ahaato shirkadda dhexdeeda ama la macaamilkaaga macaamiisha ama qaybaha kale ee saddexaad, waxaad u sheegi kartaa walaacaaga OEC (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) ama laanta Sharciga, ama waxaad wici kartaa waaxda luuqadaha badan <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> oo aduunka oo dhan laga heli karo 24/7.</li>
+          <li>iComply - Booqo <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> si aad u hesho dabaqyada iyo kheyraadyada u-hogaansanka la xiriira ee loo jeediyey is-dhexgalo lala yeesho Xirfadlayaal Daryeel Caafimaad iyo Ururo Daryeel Caafimaad, iyo sidookale qolooyinka saddexaad.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Kheyraadka Aadanaha</p>
+        <p>Arrimaha la xiriira sahqaalaha, sida cabashooyinka ku lug leh maamulka iyo/ama shaqaalaha kale, la xiriir <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">Wakiilkaaga Kheyraadyada Aadanaha</a>.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>Qeybta Sharciga</p>
+        <p>La xiriir Qaybta sharciga haddii aad qabto su'aalo ama walaac ku saabsan saamaynta sharci ee laaluushka iyo musuqmaasuqa.</p>
+        <ul>
+          <li>Guji halkan si aad u gasho bogga koowaad ee Laanta Sharciga ee Abbott World.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>KHEYRAADKA KALE</p>
+        <p>Waxaa jira kheyraadyo kale ee kuu diyaar ah:</p>
+        <p>Maaliyad - Haddii su’aashaada quseyso xisaabin ama maaliyad, la xiriir waaxdaada Maaliyada ee maxaliga ah.</p>
+        <p>Xisaab-hubin Shirkadeed - Haddii aad cabasho gaar ah qabtid ee quseysa xisaabin, xakameynada xisaabinta gudaha, ama arrimaha xisaab-hubinta, si degdeg ah ugu soo tabi Xisaab-hubinta Shirkada ama OEC-da.</p>
+        <p>Tayada iyo Nidaaminta Abbott - Haddii aad su’aalo ka qabtid tayada iyo badqabka badeecooyinkeena, la xiriir waaxdeena Tayada iyo Nidaaminta.</p>
+        <p>Deegaanka, Caafimaad, iyo Badqabka Caalamiga - La xiriir wakiil Deegaan, Caafimaad, iyo Badqab haddii aad qabtid su’aalo ku saabsan goob muuqata iyo khataro suuragal ah.</p>
+        <p>Qalqaalinta Caalamiga ah - Haddii aad su’aalo ka qabtid xiriirada alaab-qeybiyeyaasha, la xiriir Qalqaalinta Caalamiga ah.</p>
+      </div>
+      <p class="resSubtitles" data-break="true">Ilaha Koorsada</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Qoraalka</p>
+        <p>Guji <a href="reference/Transcript.pdf" target="_blank">halkan</a> si aad u hesho qoraal dhamestiran oo koorsadaan ah.</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>Koorsadan lama xiriiri karto LMS. Guji ‘OK’ si aad u sii wadid aadna dib ugu eegtid koorsada. Xusuusin, Shahaadeynta Koorsada waxaa laga yaabaa ineysan diyaar ahayn. Guji ‘Cancel’ si aad uga baxdo</s1>
+    <s2>Dhammaan su’aaluhu waa kuwo aan laga jawaabin</s2>
+    <s3>Su’aalo</s3>
+    <s4>Su’aal</s4>
+    <s5>laga jawaabin</s5>
+    <s6>Taasi waa sax!</s6>
+    <s7>Taasi ma saxna!</s7>
+    <s8>Warcelin:</s8>
+    <s9>Xeerka Anshaxa Ganacsiga</s9>
+    <s10>Baaris Cilmi</s10>
+    <s11>Gudbi</s11>
+    <s12>Dib u sameynta</s12>
+    <s13>Sharaxaada Koorsada: Xeerkeena Anshaxa Ganacsi waa dukuminti aad muhiim u ah oo qeexa filashooyinka shaqaale kasta ee shirkadeena intaan ku mataleyno Abbott shaqo maalmeedkeena. Waxey bixisaa aasaaska masuuliyadaheena iyo dhaqamadeena taas oo naga caawin doonta inaan u sameyno dooqyada ugu wacan ee Abbott, nafteena, iyo dadka faraha badan ee aan u adeegno. Koorsadan waxey bixisaa dulmar sare ee Xeerka ah, waxey bidhaamisaa filashooyinka iyo waajibaadyada shirkadeena, waxeyna bixisaa talo muuqata ee ku aadan waxa la sameeyo marka dariiqa ugu fiican ee horey loo qaado ay adagtahay in la sameeyo. Koorsada waxey qaadan doontaa abaare 35-45 daqiiqo in la dhamestiro.</s13>
+    <s14>Meenuga</s14>
+    <s15>Kheyraadyada</s15>
+    <s16>Agab Tixraaca</s16>
+    <s17>Maqal</s17>
+    <s18>Ka-bax</s18>
+    <s19>Xir</s19>
+    <s20>Faallo…</s20>
+  </strings>
+</course>

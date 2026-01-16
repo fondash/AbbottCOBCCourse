@@ -1,0 +1,21 @@
+#player{
+	padding: 0 20px 40px 20px;
+}
+
+.imgPopup .popBody,
+.widePopup .popBody,
+.clrPopup .popBody
+{
+	max-height: none !important;
+}
+
+.fullImgPopup{
+	/*height: auto;*/
+}
+
+.refPanel{
+	height: auto;
+	overflow-y: auto;
+	top: 25px;
+	margin-bottom: 30px;
+}

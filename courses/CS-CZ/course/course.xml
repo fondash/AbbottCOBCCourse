@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="Vítejte" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="Kodex obchodního chování">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="Naše filozofie">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="Cíle">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="Obsah">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="Důležitost Kodexu obchodního chování společnosti Abbott" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="Naše každodenní závazky">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="Důležitost Kodexu pro naše podnikání">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="Náš Kodex" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="Přehled">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="Naši zákazníci">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="Naše produkty">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="Vědecké pokroky">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="Naši lidé">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="Naše komunity">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="Jak fungujeme">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="Váš závazek" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="Váš závazek">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="Prověření získaných znalostí" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="Úvod">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="Hodnocení">
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="Zpětná vazba">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="Průzkum">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>Kodex obchodního chování</p>
+      </div>
+      <p class="startInstruction">Klikněte na šipku Další.</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Na poli globální zdravotní péče jsme na špičce. Na tom, co děláme každý den, opravdu záleží.</p>
+        <p>Náš Kodex obchodního chování je účinný kompas, který nám dává sílu, abychom jednali poctivě, při vedení druhých postupovali účelově a dělali taková rozhodnutí, do kterých se promítá to nejlepší, co v nás je. Tímto způsobem si získáváme důvěru, dodržujeme naše hodnoty a neustále pracujeme na tom, abychom smysluplně a pozitivně ovlivňovali svět kolem nás.</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Po absolvování tohoto kurzu budete:</p>
+        <ul>
+          <li>chápat, proč je Kodex obchodního chování důležitý pro naše podnikání,</li>
+          <li>schopni určit klíčové zásady Kodexu obchodního chování a uvědomit si, jak se vztahují na naše každodenní pracovní postupy,</li>
+          <li>chápat správným způsobem očekávání společnosti Abbott týkající se globálního podnikání,</li>
+          <li>schopni vyhledat pomoc a podporu.</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>Vítejte</p>
+            <p>1 minuta</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>Důležitost Kodexu obchodního chování společnosti Abbott</p>
+            <p>2 minuty</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>Náš Kodex</p>
+            <p>18 minut</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>Váš závazek</p>
+            <p>1 minuta</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>Prověření získaných znalostí</p>
+            <p>5 minut</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>Pokrok v učení</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">Toto téma je nyní k dispozici.</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Do vedení vkládáme integritu, čestnost a poctivost. Každý z nás, každý den.</p>
+        <p>Náš Kodex obchodního chování nám připomíná, že integrita, čestnost a poctivost nejsou jen nějaké ideály, ale každodenní závazky. I když Kodex nemůže předvídat všechny výzvy, kterým musíme čelit, formuluje pro nás stabilní základní hodnoty, podle kterých se řídíme.</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Zavázali jsme se dodržovat ty nejpřísnější standardy.</p>
+        <p>Kodex obchodního chování je pro úspěch společnosti Abbott zásadním předpokladem. Stanovuje totiž laťku pro to, jakým způsobem pracujeme – spravedlivě, čestně a poctivě. Pomáhá nám rozhodovat se eticky, zejména ve složitých situacích, a zajišťuje, abychom se dokázali držet našich hodnot. Dodržováním Kodexu chráníme naši dobrou pověst, získáváme si důvěru u subjektů, kterým poskytujeme naše služby, a vytváříme podnikovou kulturu, ve které je to nejdůležitější jednat správně.</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Pochopení Kodexu je odpovědností každého z nás.</p>
+        <p>Každý z nás má svou úlohu při prosazování Kodexu obchodního chování do každodenní praxe a rozhodování. Není to jen dokument – je to průvodce, který nám pomáhá čelit výzvám čestně a sebejistě.</p>
+        <p>V následujících částech probereme hlavní zásady Kodexu. Probereme, jak se promítají do našich každodenních praktických činností a rozhodnutí.</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Než budete pokračovat, musíte si prohlédnout veškerý obsah.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Ve společnosti Abbott jsme si dali závazek zlepšovat zdraví a kvalitu života lidí, kteří se spoléhají na naše produkty.</p>
+          </div>
+          <div>
+            <p>Jedná se o připomenutí, že za každým rozhodnutím, každou inovací i každým krokem stojí jeden cíl – zlepšovat kvalitu životů.</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>Pacienti a spotřebitelé</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>Zdravotničtí odborníci</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Kliknutím na jednotlivé ikony se dozvíte víc.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PACIENTI A SPOTŘEBITELÉ</p>
+                <p>Všechno, co děláme, se točí kolem péče o lidi. Zdraví a kvalitu života pacientů i spotřebitelů klademe na první místo. Každý den smysluplně přispíváme k tomu, aby lidé žili zdravěji, i k budování silnějších a zdravějších komunit.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ZDRAVOTNIČTÍ ODBORNÍCI</p>
+                <p>Cílem naší spolupráce se zdravotnickými odborníky je zlepšování zdraví lidí. Respektujeme odborné znalosti i nezávislý úsudek zdravotnických odborníků, ať už jsou to lékaři, zdravotní sestry, lékárníci, výzkumní pracovníci, nebo laboratorní pracovníci. Hrají totiž zásadní úlohu ve vedení pacientů k lepšímu zdraví.</p>
+                <p>Ve společnosti Abbott jsme se zavázali je podporovat přesnými a včasnými informacemi, aby dokázali dělat ta nejlepší rozhodnutí. Když budeme spolupracovat, podaří se nám dosáhnout našeho společného cíle – zlepšování zdraví a kvality života všude na světě.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Než budete pokračovat, musíte si prohlédnout veškerý obsah.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Společnost Abbott si stanovila závazek postarat se o to, aby každý výrobek, který nabízíme, byl bezpečný, účinný a zasloužil si důvěru, kterou do nás lidé vkládají.</p>
+          </div>
+          <div>
+            <p>Podnikáme kroky, kterými se o bezpečnost a účinnost našich produktů staráme – od výběru správných materiálů až po způsob jejich uvádění na trh, prodeje a formu doručení. V každé fázi dodržujeme přísná měřítka kvality.</p>
+            <p>Kromě toho jsme také odhodláni včas identifikovat, analyzovat a řešit problémy týkající se bezpečnosti produktů a zajistit odpovídající opatření, jejichž cílem bude prevence padělání, nežádoucího odklánění nebo krádeží našich produktů.</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>Kvalita produktů</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>Propagace produktů I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>Propagace produktů II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Kliknutím na jednotlivé ikony se dozvíte víc.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KVALITA PRODUKTŮ</p>
+                <p>Naše produkty jsou bezpečné, efektivní a lidé jim důvěřují. Mají prostě pozitivní přínos pro život.</p>
+                <p>Zavázali jsme se k zajištění kvality v každé fázi – od nákupu surovin a výroby až po marketing, prodej a doručování produktů. A platí to i tehdy, když k tomu využíváme naše partnery. Každý krok je důležitý, protože se ohledně bezpečnosti na nás lidé spoléhají.</p>
+                <p>Záležitosti spojené s bezpečností našich produktů se zavazujeme včas určit, posoudit a řešit. Staráme se o to, aby zdravotničtí odborníci a instituce měli po ruce informace, které potřebují, k bezpečnému a efektivnímu používání našich produktů. V případě možných pochybností ohledně bezpečnosti komunikujeme s regulačními úřady nebo orgány působícími v oblasti veřejného zdraví.</p>
+                <p>Podnikáme opatření na prevenci padělání, nežádoucího odklánění i krádeží našich produktů. Dodržujeme obchodní předpisy (včetně pravidel pro kontrolu vývozu a dovozu) i omezení a sankce vydané státními úřady na ochranu národní bezpečnosti a veřejného zdraví.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PROPAGACE PRODUKTŮ I</p>
+                <p>Naše produkty propagujeme a prodáváme čestně a s respektem k těm, kteří se na ně spoléhají.</p>
+                <p>Naše komunikace o produktech je pravdivá, vyvážená a v souladu se schválenými příbalovými informacemi, vědeckými důkazy i doporučenými zdravotnickými postupy v zemích, kde podnikáme.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PROPAGACE PRODUKTŮ II</p>
+                <p>Naše produkty propagujeme pro zamýšlené a schválené účely.</p>
+                <p>Podnikáme v souladu s licencemi a osvědčeními, které nám udělily zdravotnické orgány v zemích, kde působíme. Propagace, prodej i distribuce našich produktů se řídí přísnými obchodními zákony a konkrétními nařízeními dané země. Formou přísných vnitropodnikových směrnic a postupů zajišťujeme jak dodržování předpisů, tak i našeho závazku podnikat eticky, bezpečně a odpovědně.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Než budete pokračovat, musíte si prohlédnout veškerý obsah.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Ve společnosti Abbott jsme si dali jako závazek prosazovat pokroky na poli vědy čestně a účelově.</p>
+          </div>
+          <div>
+            <p>Usilujeme o inovace, současně si ale uvědomujeme, jak je důležité předvídat rizika a odpovědně je řešit. Ctíme důstojnost každého účastníka studie. Dodržujeme ty nejvyšší standardy na poli transparentnosti a objektivity vědeckého výzkumu.</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>Inovace I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>Inovace II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>Vědecké pokroky</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Kliknutím na jednotlivé ikony se dozvíte víc.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>INOVACE I</p>
+                <p>Přinášíme inovativní řešení na poli zdravotní péče. Pomáhají lidem žít zdravěji a zlepšují výsledky jejich léčby ve všech částech světa.</p>
+                <p>Reagujeme na potřeby lidí tím, že přicházíme s revolučními léčebnými postupy, zařízeními na záchranu životů a inovativními produkty, které ke zlepšování zdraví přispívají nově pojatými přístupy. Formou špičkové vědy a technologií se snažíme zlepšovat výsledky léčby a umožňovat lidem žít naplno – přicházíme proto se smysluplnými inovacemi pro každou fázi života.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>INOVACE II</p>
+                <p>Rozvíjíme kulturu inovací tím, že hledáme nové možnosti, a plánujeme, jak postupovat, když něco nevyjde.</p>
+                <p>Jakkoli platí, že pokroky s sebou často nesou i související rizika, podnikáme promyšlené a odpovědné kroky, abychom předvídali potíže a dopředu je minimalizovali. Samozřejmě vždy v souladu s Kodexem a našimi zásadami.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>VĚDECKÉ POKROKY</p>
+                <p>Cílem našeho výzkumu je získat přesná a objektivní data, která se stanou hnacím motorem inovací, zlepšování léčby i pokroků ve sféře zdravotní péče.</p>
+                <p>Při provádění výzkumu jednáme s účastníky studií s úctou, chráníme je před zbytečnými riziky a současně se staráme, aby rozuměli povaze a účelu výzkumu a s ním souvisejícím rizikům. Zásadní součástí našich výzkumných procesů je získání informovaného souhlasu od účastníků průzkumů.</p>
+                <p>Ve vědeckém výzkumu si ceníme transparentnosti. Nesnažíme se nevhodně ovlivňovat výsledky. Dbáme na to, aby data získaná studiemi byla přesná. Ruku v ruce s tím se zavazujeme, že budeme výsledky výzkumů souvisejících s našimi produkty (ať už pozitivní, nebo negativní) poskytovat včas a že budou přesné.</p>
+                <p>V případě výzkumů, které jsou realizovány pro společnost Abbott nebo zveřejněny jejím jménem, spolupracujeme s odborníky se silným vědeckým i zdravotnickým zázemím. Očekáváme od nich, že nás informují o veškerých propojeních se společností Abbott, včetně finančních nebo jiných vztahů.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Než budete pokračovat, musíte si prohlédnout veškerý obsah.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Ve společnosti Abbott propagujeme podnikovou kulturu založenou na otevřenosti, diverzitě a respektu k druhým. Taková kultura je živnou půdou podporující rozvoj kreativity a inovací.</p>
+          </div>
+          <div>
+            <p>Každý z nás má odpovědnost dodržovat tento Kodex každý den: chovat se k druhým s respektem, vytvářet bezpečné a inkluzivní pracovní prostředí a současně dávat všem rovné příležitosti.</p>
+            <p>Když je nám něco nejasné, umíme se zeptat. Když máme pocit, že něco není správně, nebojíme se promluvit.</p>
+            <p>Tato část posiluje náš závazek k rovným příležitostem a bezpečnému pracovnímu prostředí. Připomíná nám, že Kodexu bychom měli rozumět, uplatňovat ho v praxi i dodržovat ve všem, co děláme.</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>Spolupráce</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>Naše vzájemné propojení</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>Nahlašování pochybností</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>Rovné příležitosti</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>Spravedlivé zacházení</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>Pracovní prostředí</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Kliknutím na jednotlivé ikony se dozvíte víc.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>SPOLUPRÁCE</p>
+                <p>Ceníme si otevřenosti a spolupráce. Jedině pestrá šíře nápadů nás totiž dokáže navést na lepší řešení.</p>
+                <p>Vítáme diverzitu, protože je naším impulzem pro kreativitu, energičnost i pokrok. Abychom dokázali mít na celosvětovou zdravotní péči pozitivní vliv, nasloucháme si navzájem, ceníme si každého názoru a naše spolupráce je založena na stanoveném účelu.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>NAŠE VZÁJEMNÉ PROPOJENÍ</p>
+                <p>Naší společnou povinností je denně žít v souladu s hodnotami společnosti Abbott.</p>
+                <p>Naše podniková kultura je silnější díky tomu, že jednáme eticky. Každý z nás musí mít jasnou představu o tom, jakým způsobem se Kodex promítá do jeho či její pracovní pozice a práce samotné.</p>
+                <p>Manažeři a vedoucí pracovníci mají z pozice lídrů zvláštní odpovědnost – musí se stát vzorem našich hodnot, podporovat etické chování a vytvářet bezpečné pracovní prostředí, ve kterém se zaměstnanci nebojí ptát a vyjadřovat obavy bez obav z odvety.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>NAHLAŠOVÁNÍ POCHYBNOSTÍ</p>
+                <p>Když nám něco není jasné nebo se nám něco nezdá správné, ptáme se. Také se nebojíme ozvat a nahlásit jakékoli možné porušení Kodexu.</p>
+                <p>Na naší odpovědnosti je, abychom se dokázali zeptat, když nevíme, co máme dělat dál, případně abychom se nebáli zpochybnit a oznámit jakékoli podezření na neetické obchodní chování, porušení tohoto Kodexu či zásad společnosti Abbott.</p>
+                <p>Pokud si nejste jisti tím, jaká volba nebo opatření je správné, promluvte si s nadřízeným nebo se obraťte na oddělení pro etiku a dodržování předpisů.</p>
+                <p>Manažeři a vedoucí pracovníci musí jít příkladem. Jsou povinni se postarat o to, aby jejich podřízení Kodex chápali a dodržovali. Pokud jde o informování ohledně očekávání kladených ze strany společnosti Abbott, nesou v tomto ohledu vedoucí pracovníci větší odpovědnost. Co se týče jakýchkoli potenciálních porušení Kodexu by se měli obracet na oddělení pro etiku a dodržování předpisů.</p>
+                <p>Veškerá hlášení o potenciálním porušení Kodexu bereme velice vážně. V nezbytných případech se oddělení pro etiku a dodržování předpisů postará o navazující opatření (včetně prošetření a nápravných opatření). Vyšetřování nikdy nepodnikejte na vlastní pěst. Každý je povinen spolupracovat a postarat se o to, aby vyšetřování zůstávalo vždy důvěrné.</p>
+                <p>Mezi nápravná opatření může patřit disciplinární řízení (až do výše ukončení pracovního poměru) nebo soudní řízení za následující přestupky:</p>
+                <ul>
+                  <li>schvalování porušování Kodexu nebo účast na něm,</li>
+                  <li>odmítnutí podílet se na vyšetřování,</li>
+                  <li>nenahlášení porušení z důvodu nevyhovujícího dozoru,</li>
+                  <li>podání nepravdivého hlášení,</li>
+                  <li>odvetné opatření vůči osobě, která v dobré víře oznámila svoje obavy.</li>
+                </ul>
+                <p>Odveta je vždy nepřijatelná. Pokud se domníváte, že došlo k odvetě, nahlaste to na oddělení pro etiku a dodržování předpisů nebo na personálním oddělení.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ROVNÉ PŘÍLEŽITOSTI</p>
+                <p>Všem našim zaměstnancům nabízíme rovné příležitosti.</p>
+                <p>Naše rozhodnutí ohledně pracovního poměru vycházejí z obchodních potřeb, dovedností, odborných zkušeností a pracovního výkonu. Netolerujeme žádný druh diskriminace. Dodržujeme všechny právní předpisy, které upravují naše vztahy se zaměstnanci všude na světě.</p>
+                <p>Společnost Abbott zakazuje diskriminaci na základě rasy, barvy, víry, věku, pohlaví, národnostního původu, genderové identity nebo vyjádření, sexuální orientace, invalidity, rodinného stavu, stavu veterána nebo vojenského stavu, genetického stavu nebo občanství nebo jakéhokoli jiného právně chráněného statutu.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>SPRAVEDLIVÉ ZACHÁZENÍ</p>
+                <p>Formujeme respektující, inkluzivní a bezpečné pracovní prostředí.</p>
+                <p>Snažíme se zajistit, aby se u nás každý cítil vítán, podporován a mohl ukázat své schopnosti.</p>
+                <p>Společnost Abbott podporuje zdravé pracovní prostředí, kde nedochází k obtěžování. Ceníme si příspěvků zaměstnanců k posílení diverzity a inkluze.</p>
+                <p>Každému projevujeme respekt a chráníme jeho čest. Důvěru lidí si získáváme prostřednictvím spravedlnosti a poctivosti, nikdy ne formou manipulace, zkreslování faktů nebo nedostatku transparentnosti.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PRACOVNÍ PROSTŘEDÍ</p>
+                <p>Bezpečnost a spravedlivé pracovní podmínky jsou pro nás prioritou.</p>
+                <p>Nehody nebo nebezpečné situace je třeba neprodleně oznamovat vedení. Společnost Abbott v souvislosti s našimi pracovními činnostmi na celém světě rovněž podniká opatření zakazující a zabraňující nelegálním a nevhodným pracovním podmínkám a jakýmkoli formám krutého či nelidského zacházení.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Než budete pokračovat, musíte si prohlédnout veškerý obsah.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Ve společnosti Abbott si získáváme důvěru prostřednictvím komunit, životního prostředí a angažovanosti.</p>
+          </div>
+          <div>
+            <p>Komunitám, ve kterých podnikáme, se snažíme vracet to, co nám daly. Kromě toho usilujeme, abychom měli pozitivní a dlouhodobý vliv na životy lidí.</p>
+            <p>Společnost Abbott se snaží minimalizovat svůj dopad na životní prostředí, a to tak, že snižujeme spotřebu energie a šetříme přírodní zdroje.</p>
+            <p>Kromě toho v rámci našich globálních provozů podporujeme zapojování do politického života i angažovanost v rámci komunit.</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>Zapojování do komunit</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>Zodpovědnost vůči životnímu prostředí</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>Politické příspěvky</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Kliknutím na jednotlivé ikony se dozvíte víc.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ZAPOJOVÁNÍ DO KOMUNIT</p>
+                <p>Podporujeme kvalitu života v rámci komunit.</p>
+                <p>Ve společnosti Abbott podporujeme kvalitu života komunit prostřednictvím našich produktů, práce i činností. Můžeme se pochlubit dlouholetou tradicí charitativních příspěvků do lokalit, ve kterých žijeme a pracujeme. Domníváme se totiž, že zdravé komunity dokážou prosperovat.</p>
+                <p>Prostřednictvím našich činností, partnerské spolupráce a podpory lokálních skupin a dobročinných projektů se snažíme mít pozitivní a dlouhodobý vliv kdekoli, kde naše firma podniká.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ZODPOVĚDNOST VŮČI ŽIVOTNÍMU PROSTŘEDÍ</p>
+                <p>Podílíme se na vývoji v oblasti životního prostředí a usilujeme o to, abychom snížili náš dopad na něj.</p>
+                <p>Životní prostředí chráníme v rámci veškerých našich aktivit – od získávání surovin přes výrobu, expedici i používání našich produktů.</p>
+                <p>Podnikáme opatření zaměřená na to, abychom snižovali spotřebu energie a spotřebovávali méně přírodních zdrojů. V našem podnikání i komunitách podporujeme projekty zaměřené na čistou energii. Snažíme se hledat způsoby, jak snižovat množství odpadu, více recyklovat a omezit rizika pro životní prostředí. Dodržujeme také právní předpisy a nařízení o ochraně životního prostředí, které se vztahují na naše provozy.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>POLITICKÉ PŘÍSPĚVKY</p>
+                <p>Podporujeme vhodné zapojení do politického procesu a podporujeme zapojení v rámci komunit.</p>
+                <p>Společnost Abbott podporuje veřejné politické aktivity, které vyznávají naši misi a hodnoty. Ve vhodných případech podporujeme také uchazeče o politické posty a zájmové skupiny.</p>
+                <p>Vzhledem k tomu, že zákony týkající se politických příspěvků ze strany firem jsou složité, je třeba jakékoli použití finančních prostředků společnosti Abbott (nebo příspěvků poskytnutých jménem naší společnosti) nejprve nechat analyzovat právním oddělením.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Než budete pokračovat, musíte si prohlédnout veškerý obsah.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Ve společnosti Abbott jsme odhodláni podnikat čestně a dodržovat, co jsme slíbili, ve všech oblastech naší práce.</p>
+          </div>
+          <div>
+            <p>Když narazíme na střet zájmů, upřednostňujeme zájmy společnosti Abbott před našimi vlastními. Chráníme majetek a dobrou pověst společnosti Abbott, dbáme na zabezpečení důvěrných informací a respektujeme soukromí všech, kteří nám svěří své osobní údaje.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>Spravedlivé jednání</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>Zamezení střetu zájmů I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>Zamezení střetu zájmů II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>Ochrana majetku a dobré pověsti společnosti Abbott</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>Důvěrné informace</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Kliknutím na jednotlivé ikony se dozvíte víc.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>SPRAVEDLIVÉ JEDNÁNÍ</p>
+                <p>Podnikáme čestně. Plníme své závazky ve všech aspektech našich pracovních činností.</p>
+                <p>Každý z nás je zodpovědný za vlastní práci i rozhodnutí, která na své pozici dělá. V každé profesionální interakci – ať už s kolegy, zákazníky, dodavateli, zdravotnickými odborníky, konkurenty, nebo jinými osobami – musíme spravedlivě a upřímně vymezit, jak společnost Abbott podniká.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ZAMEZENÍ STŘETU ZÁJMŮ I</p>
+                <p>Než přejdeme na další kroky, zjistíme, zda nedochází ke střetu zájmů, a tyto střety vyřešíme.</p>
+                <p>Střet zájmů může nastat, kdykoli osobní zájmy zaměstnanců (reálně nebo zdánlivě) zasahují do toho, co je nejlepší pro společnost Abbott. Obchodní rozhodnutí musí být založena na potřebách společnosti Abbott, ne na osobním zisku nebo zájmech rodiny či přátel. Očekává se od nás, že budeme používat zdravý úsudek a vyhýbat se situacím, které by mohly vést ke střetu zájmů (byť jen zdánlivému). Pokud osobní vztahy, zájmy nebo činnosti mimo náš podnik ovlivňují vaši schopnost jednat spravedlivě a efektivně (případně by mohly být profitabilní pro vás nebo některého člena rodiny), jste povinni daný potenciální střet zájmů ohlásit a, v souladu s pokyny společnosti Abbott, se dané situace dále neúčastnit.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ZAMEZENÍ STŘETU ZÁJMŮ II</p>
+                <p>Při rozhodování v souvislosti s prací klademe zájmy společnosti Abbott na první místo.</p>
+                <p>To znamená upřednostňovat cíle společnosti před cíli konkrétního týmu, skupiny či jednotlivce. Veškeré příležitosti nebo zdroje, které máme v rámci naší pracovní pozice u společnosti Abbott k dispozici, bychom měli využívat ve prospěch společnosti, nikoli pro osobní zisk. Neměli bychom vůči společnosti Abbott vystupovat v konkurenční pozici ani v tom napomáhat někomu jinému. Když narazíme na nějakou příležitost, měli bychom se soustředit na to, jak by dokázala prospět zájmům společnosti Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>OCHRANA MAJETKU A DOBRÉ POVĚSTI SPOLEČNOSTI ABBOTT</p>
+                <p>Jsme správci naší společnosti.</p>
+                <p>My všichni sdílíme odpovědnost za ochranu a rozumné využívání majetku společnosti Abbott. Sem patří všechno od fyzických předmětů, jako jsou vozidla a počítače, až po cenné údaje, jako je duševní vlastnictví, obchodní tajemství nebo specializované odborné znalosti.</p>
+                <p>Abychom se postarali, že zmíněné zdroje budou využívány správně, efektivně a bude jim věnována potřebná péče a současně aby nedocházelo ke ztrátám, krádežím, zneužívání ani plýtvání, měli bychom se vždy spoléhat na zdravý úsudek.</p>
+                <p>Dobrá pověst společnosti Abbott je jedním z našich nejcennějších aktiv. Její ochrana je v rukou nás všech.</p>
+                <p>My všichni neseme odpovědnost za to, jak společnost Abbott reprezentujeme, zejména na veřejnosti a na internetu. Všechno, co sdílíme – ať už v rámci konverzací, e-mailů, nebo na sociálních sítích – se může odrazit v dobré pověsti naší společnosti. Je důležité, abyste komunikovali uvážlivě, spoléhali se na zdravý úsudek a chránili důvěrné informace společnosti Abbott.</p>
+                <p>Při komunikaci směrem mimo společnost bychom měli myslet na to, jestli nás nemohou vnímat jako zástupce společnosti Abbott a jak mohou naše slova nebo jednání ovlivnit její dobrou pověst. To je zvlášť důležité na sociálních sítích, na kterých se můžou příspěvky šířit velice rychle a široké cílové skupině. Neopatrný komentář nebo příspěvek tam může způsobit opravdovou škodu.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>DŮVĚRNÉ INFORMACE</p>
+                <p>Vynakládáme potřebné úsilí na to, abychom respektovali veškeré důvěrné informace a chránili je (včetně osobních údajů).</p>
+                <p>Důvěrné informace jsou totiž jedním z nejcennějších aktiv společnosti Abbott. Patří sem neveřejné informace týkající se takových oblastí, jako jsou výzkum, obchodní tajemství, obchodní plány, nacenění, smlouvy, finanční výsledky a jiné údaje, ze kterých by v případě zveřejnění mohli profitovat konkurenti nebo by mohly poškodit společnost Abbott.</p>
+                <p>Důvěrné informace musíme chránit a zabránit jejich neoprávněnému zneužití nebo sdílení – a to i po tom, co ve společnosti Abbott přestaneme pracovat.</p>
+                <p>Ve společnosti Abbott respektujeme práva k duševnímu vlastnictví druhých. Dbáme na to, abychom jejich důvěrné informace nevyužívali nepatřičně. Zneužití neveřejných informací, například pro účely obchodování zasvěcených osob, je nezákonné a neetické.</p>
+                <p>Chráníme také osobní údaje, které nám svěřili kolegové, zdravotničtí odborníci i zákazníci. Když už osobní údaje shromažďujeme a využíváme, děláme to zodpovědně a s řádným souhlasem. Nikdy je neprodáváme ani nezískáváme z neautorizovaných zdrojů. V řadě lokalit platí přísné zákony na ochranu soukromí. Zavazujeme se je chápat a dodržovat, zejména co se týče nejcitlivějších kategorií osobních údajů.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Než budete pokračovat, musíte si prohlédnout veškerý obsah.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Ve společnosti Abbott jsme odhodláni podnikat čestně a dodržovat, co jsme slíbili, ve všech oblastech naší práce.</p>
+          </div>
+          <div>
+            <p>Když narazíme na střet zájmů, upřednostňujeme zájmy společnosti Abbott před našimi vlastními. Chráníme majetek a dobrou pověst společnosti Abbott, dbáme na zabezpečení důvěrných informací a respektujeme soukromí všech, kteří nám svěří své osobní údaje.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>Boj proti úplatkářství</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>Dary, pohoštění a zábava</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>Přesné účetnictví a účetní záznamy</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>Dodržování zákonů</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>Férová hospodářská soutěž</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Kliknutím na jednotlivé ikony se dozvíte víc.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>BOJ PROTI ÚPLATKÁŘSTVÍ</p>
+                <p>Aktivně odmítáme podvody, úplatkářství a korupci. Podnikáme správně.</p>
+                <p>Z pozice jednotlivce očekáváme, že se budou zdravotničtí odborníci rozhodovat podle toho, co je nejlepší pro pacienty, a nebudou zohledňovat pobídky ze strany firem. Obdobně platí, že i od státních úředníků očekáváme, že budou jednat v zájmu veřejnosti a nenechají se ovlivnit tlakem ze strany podniků.</p>
+                <p>Společnost Abbott informuje zdravotnické odborníky o našich výrobcích, nezasahujeme ale do jejich nezávislého úsudku. Je naprosto nepřípustné nabízet poskytovatelům zdravotní péče (například lékařům, lékárníkům, zdravotním sestrám, výzkumníkům nebo laboratorním zaměstnancům), státním úředníkům či jiným osobám cokoli hodnotného, abyste získali určitou zakázku nebo je tak odměnili za kroky provedené v minulosti.</p>
+                <p>Řídíme se globálními zákony o boji proti úplatkářství, korupci a nezákonným odměnám, a to včetně amerického zákona o zahraničních korupčních praktikách (Foreign Corrupt Practices Act). Abychom měli jistotu, že dodržujeme příslušné právní předpisy i směrnice společnosti, musí všichni zaměstnanci společnosti Abbott pečlivě řídit vztahy s poskytovateli služeb (jako jsou třeba distributoři, konzultanti nebo přednášející). Jste povinni vykonávat náležitou péči (due diligence), vyplácet spravedlivou tržní hodnotu a řádně evidovat platby.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>DARY, POHOŠTĚNÍ A ZÁBAVA</p>
+                <p>V souladu se zásadami o boji proti úplatkářství za účelem získání obchodní výhody nenabízíme ani neposkytujeme nic hodnotného, a to přímo, ani nepřímo.</p>
+                <p>Abychom zabránili nepatřičnému vlivu na obchodní rozhodnutí, stanovili jsme určité limity ohledně darů, pohoštění a zábavy. Zásady společnosti Abbott pomáhají zajistit, že připomenutí značky, zdvořilostní jednání vycházející z kulturního kontextu, pohoštění a jiné výhody nikdy neovlivní náš odborný úsudek.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PŘESNÉ VEDENÍ ÚČETNICTVÍ A ZÁZNAMŮ</p>
+                <p>Dosažené výsledky měříme přesně.</p>
+                <p>Záznamy a veřejná prohlášení společnosti Abbott musí přesně vyjadřovat naše jednání a uvádět dostatek kontextu na to, aby byly skutečným obrazem naší práce. Finanční záznamy musí být v souladu s účetními standardy, právními předpisy a interními směrnicemi společnosti Abbott.</p>
+                <p>Při vykazování cen, plateb nebo položek určité hodnoty, zejména u zdravotnických odborníků, je třeba dbát na to, aby dané informace byly úplné a přesné. Požadavek na dané transparentní vykazování stanoví řada státních úřadů jako způsob ochrany veřejných financí. Společnost Abbott se zavazuje poskytovat spolehlivé údaje, aby státní úřady, pojišťovatelé a další zainteresované strany mohly dělat informovaná rozhodnutí.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>DODRŽOVÁNÍ ZÁKONŮ</p>
+                <p>Dodržujeme všechny právní předpisy a nařízení i požadavky společnosti Abbott platné pro naši práci.</p>
+                <p>Od každého zaměstnance společnosti Abbott se očekává, že bude dodržovat všechny platné právní předpisy i zásady, postupy a Kodex společnosti Abbott. Jedná se o základní podmínku pracovního poměru. Zásady společnosti Abbott se vztahují na nejdůležitější oblasti, jako je dodržování předpisů v oblasti poskytování zdravotní péče, kvalita, finance, obchodování, zabezpečení a další. Pomáhají nám plnit požadavky kladené zákony a předcházet tomu, aby nedocházelo k jejich porušování.</p>
+                <p>Protože podnikáme po celém světě, musíme pamatovat také na to, že se na práci realizovanou v určité zemi mohou vztahovat i právní předpisy z jiné země. V případě pochybností se obraťte o radu na právní oddělení nebo oddělení pro etiku a dodržování předpisů (OEC).</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>SPRAVEDLIVÁ HOSPODÁŘSKÁ SOUTĚŽ</p>
+                <p>Ručíme za to, že veškeré naše interakce s konkurenty jsou vhodné.</p>
+                <p>Ve společnosti Abbott se zavazujeme dodržovat zákony o hospodářské soutěži všude tam, kde podnikáme. Tyto zákony zakazují smluvní dohody nebo jednání, které podrývá spravedlivou tržní praxi, a to zejména v oblasti cenotvorby, prodejních podmínek nebo jednání s konkurenty.</p>
+                <p>O citlivých tématech, jako jsou ceny, náklady nebo obchodní plány, nediskutujte s konkurenty. Pokud máte otázky nebo narazíte na jakékoli nevhodné chování, obraťte se na právní oddělení nebo oddělení pro etiku a dodržování předpisů. Zákony o hospodářské soutěži jsou složité. Jejich porušení může mít za následek závažné postihy. Musíme proto také pečlivě řídit vztahy s třetími stranami, abychom zajistili dodržování předpisů a současně zabránili byť jen pouhému zdání chování porušujícího hospodářskou soutěž.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>Než odejdete z tohoto kurzu, věnujte chvilku potvrzení, že chápete svoje povinnosti související s Kodexem obchodního chování společnosti Abbott.</p>
+          <p>Potvrzuji, že rozumím svým povinnostem týkajícím se Kodexu obchodního chování společnosti Abbott a že vím, kde mohu najít příslušné zásady a postupy a seznámit se s nimi.</p>
+          <button class="qcSubmitBtn">Potvrzuji</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>Prověření získaných znalostí, které následuje, se skládá z 10 otázek. Úspěšné dokončení tohoto kurzu vyžaduje skóre minimálně 80 %.</p>
+        <p>AŽ BUDETE PŘIPRAVENÍ, KLIKNĚTE NA TLAČÍTKO KONTROLA ZÍSKANÝCH ZNALOSTÍ.</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Proč je Kodex obchodního chování tak důležitý?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Nabízí konkrétní rady na každou situaci, která by mohla v práci nastat.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Vytyčuje jasně daný soubor zásad a hodnot, na kterých je třeba zakládat rozhodnutí, když není hned zcela jasné, jak máme postupovat.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Další</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Kodex obchodního chování nám vytyčuje jasně daný soubor zásad a hodnot, na kterých je třeba zakládat rozhodnutí, když není hned zcela jasné, jak máme postupovat.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Co z následujícího není <span class="underline">nikdy</span> vhodnou obchodní transakcí?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Najmutí zdravotnického odborníka na základě jeho dovedností a znalostí, aby hovořil o určité oblasti onemocnění.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Poskytnutí přiměřeného občerstvení účastníkům vzdělávacího programu sponzorovaného společností Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Zajištění charitativního příspěvku pro místní organizaci.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Najmutí zdravotnického odborníka, aby uskutečnil vzdělávací program, jako poděkování za používání produktů společnosti Abbott.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Další</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Najmout zdravotnického odborníka, aby uskutečnil vzdělávací program na základě jeho dovedností a odbornosti je povoleno, nicméně najmout zdravotnického odborníka jako poděkování za používání produktů společnosti Abbott je nevhodné, protože to může být vnímáno jako úplatek.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Mezi důsledky pro jednotlivce, kteří se podílí na úplatkářství a korupci, může patřit:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Poškození dobrého jména.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Pokuty a postihy.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Ukončení pracovního poměru.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Pobyt ve vězení.</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>Vše výše uvedené.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Další</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Důsledky pro jednotlivce zapojené do úplatkářství a korupce mohou zahrnovat poškození dobré pověsti, pokuty a penále, ukončení zaměstnání a dokonce i vězení.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Obchodní zástupkyně vlastní také malé klenotnictví. Rozhodla se, že by bylo hezké poskytnout drobné dárky ze svého obchodu zdravotnickým odborníkům, kteří v poslední době nepředepisovali produkt společnosti Abbott. Je to v pořádku?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ano</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Ne</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Další</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Zásady společnosti Abbott zakazují poskytovat zdravotnickým odborníkům dárky, protože obchodní zástupci jednají jménem společnosti Abbott. Dárky jsou zakázány, i když za ně platí ona sama. Poskytování dárků by také mohlo být vnímáno jako úplatek za budoucí obchody.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Obchodní manažer obdrží telefonát od známého, který pracuje u konkurence. Ten ho informuje, že externí obchodní tým, kterého si společnost Abbott najala na novém trhu, podle všeho nabízí zákazníkům, kteří upřednostňují produkty společnosti Abbott před konkurencí, luxusní pohoštění. Jak byste měli vhodně zareagovat?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Nic nepodniknete, protože informace pochází od konkurenta.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Nic nepodniknete, protože luxusní pohoštění je na daném trhu běžnou praktikou.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Záležitost neprodleně ohlásíte oddělení pro etiku a dodržování předpisů (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Zkusíte najít jiné distributory pro případ, že je dané tvrzení pravdivé.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Další</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Záležitost byste měli neprodleně ohlásit oddělení pro etiku a dodržování předpisů (OEC), aby ji bylo možné řádně prošetřit. Platí to i tehdy, pokud dané informace pochází od konkurenční firmy.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Pracovní cesty zdravotnických odborníků (HCP), kteří společnosti Abbott zajišťují zprostředkovatelské služby, pořádá jistá cestovní kancelář. Po překontrolování předložených účtenek narazíte na určité nesrovnalosti – celková částka přesně neodpovídá žádosti o úhradu nákladů a u některých účtenek chybí důležité informace (třeba termíny cest).</p>
+              <p>Jak byste měli vhodně zareagovat?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Informovat danou cestovní kancelář, že společnost Abbott nemůže platbu provést bez přesné a úplné dokumentace.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Účtenky zpracovat, protože přece chybí jen některé informace.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Agentuře doporučit, aby příště informace evidovali přesněji.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Nic nepodniknete, protože agentura je nová.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Další</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Účetnictví a záznamy společnosti Abbott musí zcela a přesně odrážet veškeré transakce. Proto je zásadní, aby třetí strany provádějící služby pro společnost Abbott poskytly kompletní dokumentaci, ze které jasně vyplývá skutečný účel a podrobnosti transakcí.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Pracujete v pobočce, kde je povoleno sponzorovat účast zdravotnických odborníků na vzdělávacích konferencích. Vybíráte zdravotnické odborníky, kteří se mají zúčastnit konference. Používáte následující kritéria výběru: (1) zda téma konference spadá do odbornosti daného odborníka, (2) zda společnost Abbott daného odborníka sponzorovala minulý rok a (3) zda je pravděpodobné, že bude daný odborník po účasti na této akci doporučovat nebo využívat přístroje společnosti Abbott. Jsou uvedená kritéria vhodná?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ano. Při sponzorování jednotlivců je nutné vždy splňovat tato dvě klíčová kritéria: a) akce je relevantní pro odbornost daného zdravotnického odborníka b) akce neslouží jako odměna nebo pobídka k získání zakázky. Skutečnost, že si ověřujete, zda společnost Abbott daného odborníka v minulém roce nesponzorovala, potvrzuje druhou možnost.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Ano. Pokud není důvodem sponzoringu zdravotnického odborníka jeho ovlivnění nebo odměna, lze zvážit návratnost investice – tedy zda bude daná osoba nadále předepisovat produkty společnosti Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Ne. Rozhodnutí o sponzoringu nelze zakládat na tom, že zdravotnický odborník bude na základě účasti na dané akci pravděpodobně doporučovat nebo využívat produkty společnosti Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ano. Pokud je alespoň jedno z kritérií vhodné, je přítomnost dalších nevhodných kritérií irelevantní.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Další</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Rozhodnutí o sponzoringu nelze nikdy přijímat jako odměnu za předchozí používání nebo jako pobídku k používání většího množství našich produktů či přístrojů v budoucnu. Pamatujte na to, že sponzoring je v mnoha jurisdikcích zakázán. Před poskytnutím sponzoringu se vždy podívejte do postupů vaší pobočky.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Obchodní zástupkyně společnosti Abbott proškolí zdravotnického odborníka ohledně určitého přípravku. Po diskuzi jí zdravotnický odborník sdělí, že konkurence mu za to, že bude prodávat víc jejich přípravků, nabízí nový iPad.</p>
+              <p>Jak byste měli vhodně zareagovat?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Nabídnete stejnou pobídku, abychom zůstali konkurenceschopní.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>iPad sice nenabídnete, navrhnete ale, že byste v rozhovoru mohli pokračovat u drahé večeře.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Vysvětlíte, že společnost Abbott podniká správně a nemůžete nabídnout cokoli, co by mohlo nevhodně ovlivnit rozhodování. Situaci pak neprodleně ohlásíte oddělení pro etiku a dodržování předpisů (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Zdravotnickému odborníkovi za informaci poděkujete a slíbíte, že nad tím budete přemýšlet.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Další</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Nikdy byste neměli nabízet, slibovat, dávat ani přijímat cokoli cenného, abyste získali nepatřičnou obchodní výhodu nebo získali zakázku, případně si ji udrželi. Bez ohledu na to, co dělají konkurenti, vy musíte dodržovat platné zákony a směrnice společnosti Abbott včetně požadavků globální protikorupční směrnice společnosti Abbott (GLB-ANTI-CORRUPTION). Pokud máte pochybnosti, vždy se obraťte na právní oddělení nebo oddělení OEC.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Které z následujících jsou příklady hodnotných položek, které nesmí být poskytnuty za účelem získání obchodu?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Výlety pro zdravotnické odborníky a jejich rodiny za účelem návštěvy lázní, kasin nebo jiných míst známých jako poskytující zábavu.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Granty na budoucí výzkumné nebo vzdělávací projekty.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Dary oblíbeným charitativním organizacím vládních úředníků.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Vše výše uvedené.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Další</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Standardy společnosti Abbott týkající se úplatkářství a korupce uvedené v globální protikorupční směrnici (GLB-ANTI-CORRUPTION) jsou v souladu s naším závazkem podnikat poctivě, čestně a bezúhonně. To znamená, že nabízení nebo dávání cenných položek za účelem získání zakázky není nikdy přípustné.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Zdravotnický odborník, který je klíčovým názorovým vůdcem, se vás ptá, jestli byste mu nemohli výměnou za další obchodní příležitosti pro společnost Abbott zařídit nějakou podporu pro vzdělávací program, kterého by se rád zúčastnil. Která možnost je nejvhodnější?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Striktně nabídku odmítnout s tím, že porušuje protikorupční směrnice společnosti Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Sdělit zdravotnickému odborníkovi, že se zeptáte svého manažera.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Souhlasit s žádostí, protože zdravotnický odborník je klíčový názorový vůdce a má velký vliv.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Nic z výše uvedeného.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">Odeslat</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>V souladu se zásadami o boji proti úplatkářství za účelem získání obchodní výhody nenabízíme ani neposkytujeme nic hodnotného, a to ať už přímo, nebo nepřímo.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>Nejsou k dispozici žádné výsledky, protože jste nedokončili kontrolu získaných znalostí.</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>Blahopřejeme! Úspěšně jste absolvovali prověření získaných znalostí.</p>
+          <p>Níže si prosím zkontrolujte své výsledky kliknutím na jednotlivé otázky.</p>
+          <p>Až budete hotovi, klikněte na šipku vpřed a absolvujte krátký průzkum.</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>Je nám líto, v prověření získaných znalostí jste neuspěli. Věnujte pár minut překontrolování výsledků kliknutím na jednotlivé otázky.</p>
+          <p>Po dokončení klikněte na tlačítko Zkusit znovu.</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>Tento průzkum je nepovinný.</p>
+          <p>Důležité upozornění: Ať už se rozhodnete průzkum absolvovat, či nikoli, musíte kliknout na ikonu KONEC (X) v záhlaví kurzu, abyste dokončili kurz a odeslali svoje výsledky.</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Jak byste tento kurz celkově zhodnotili?</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Špatný</p>
+                  <p>Slabý</p>
+                  <p>Průměrný</p>
+                  <p>Skvělý</p>
+                  <p>Vynikající</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Vysvětlete prosím své hodnocení podrobněji.</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Díky tomuto kurzu lépe chápu Kodex obchodního chování společnosti Abbott.</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Rozhodně nesouhlasím</p>
+                  <p>Nesouhlasím</p>
+                  <p>Nevím</p>
+                  <p>Souhlasím</p>
+                  <p>Rozhodně souhlasím</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Do jaké míry je obsah tohoto kurzu relevantní pro vaši práci?</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Zcela nerelevantní</p>
+                  <p>Málo relevantní</p>
+                  <p>Nevím</p>
+                  <p>Částečně relevantní</p>
+                  <p>Velmi relevantní</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>O kterém z témat tohoto kurzu byste se chtěli dozvědět více?</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">Kliknutím na tlačítko Odeslat dokončete kurz, odešlete vaše data a zavřete okno kurzu.</p>
+          <button class="surveySubmit">
+            <p>Odeslat</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">Kde hledat podporu</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Nadřízený</p>
+        <p>Pokud máte otázku týkající se vašich interakcí s osobami mimo společnost Abbott, je nejlepší začít u nadřízeného.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Standardy v písemné podobě</p>
+        <ul>
+          <li>Základní sadu našich očekávání ohledně interakcí s jinými osobami najdete v našem <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Kodexu obchodního chování</a>.</li>
+          <li>Pokud se chcete dozvědět něco o našich podnikových zásadách a postupech platných v celé společnosti, navštivte <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">portál Globální zásady</a>.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>Oddělení pro etiku a dodržování předpisů (OEC)</p>
+        <p>OEC je globální zdroj, který je k dispozici pro řešení vašich dotazů nebo nejasností týkajících se hodnot společnosti a norem chování.</p>
+        <ul>
+          <li>Navštivte web <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">OEC</a> na portálu Abbott World.</li>
+          <li>Pokud máte nějaké pochybnosti o korupčních obchodních aktivitách ve společnosti nebo při svých jednáních se zákazníky či jinými třetími stranami, můžete je ohlásit oddělení OEC (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) nebo právnímu oddělení, případně zavolat na naši <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">linku SpeakUp</a>, která je nonstop globálně dostupná a nabízí podporu v několika jazycích.</li>
+          <li>Nástroj iComply – Navštivte stránky nástroje <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a>, kde získáte přístup k aplikacím a prostředkům souvisejícím s dodržováním předpisů, které jsou zaměřené na interakce se zdravotnickými odborníky a organizacemi zdravotní péče i na třetí strany.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Personální oddělení (HR)</p>
+        <p>V případě záležitostí souvisejících se zaměstnáním, jako jsou pochybnosti týkající se vedení a ostatních zaměstnanců, se obracejte na zástupce <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">personálního oddělení</a>.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>Právní oddělení</p>
+        <p>Máte-li otázky nebo obavy týkající se právních důsledků úplatkářství a korupce, obraťte se na právní oddělení.</p>
+        <ul>
+          <li>Kliknutím sem získáte přístup na domovskou stránku právního oddělení na portále Abbott World.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>DALŠÍ ZDROJE INFORMACÍ</p>
+        <p>K dispozici je řada dalších zdrojů:</p>
+        <p>Finance – Pokud máte otázky týkající se účetnictví nebo financí, kontaktujte místní finanční oddělení.</p>
+        <p>Podnikový audit – Pokud máte konkrétní pochybnosti týkající se účetnictví, interních účetních kontrol nebo záležitostí spojených s auditem, neprodleně je oznamte oddělení podnikového auditu nebo OEC.</p>
+        <p>Oddělení kvality a regulačních záležitostí společnosti Abbott – Pokud máte otázky týkající se kvality a bezpečnosti našich produktů, kontaktujte místní oddělení kvality nebo oddělení regulačních záležitostí.</p>
+        <p>Globální oddělení pro životní prostředí, zdraví a bezpečnost – zástupce globálního oddělení pro životní prostředí, zdraví a bezpečnost kontaktujte v případě, že máte otázky týkající se vlastního pracoviště a možného nebezpečí.</p>
+        <p>Globální nákup – Pokud máte otázky týkající se vztahů s dodavateli, kontaktujte oddělení globálního nákupu.</p>
+      </div>
+      <p class="resSubtitles" data-break="true">Zdroje kurzu</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Přepis</p>
+        <p>Úplný přepis kurzu zobrazíte kliknutím <a href="reference/Transcript.pdf" target="_blank">sem</a>.</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>Kurz nemůže kontaktovat LMS. Pokračujte kliknutím na tlačítko OK a projděte si kurz. Certifikace kurzu nemusí být k dispozici. Kurz ukončete kliknutím na tlačítko Zavřít.</s1>
+    <s2>Všechny otázky zůstaly bez odpovědi.</s2>
+    <s3>Otázky</s3>
+    <s4>Otázka</s4>
+    <s5>bez odpovědi</s5>
+    <s6>To je správně!</s6>
+    <s7>To není správně!</s7>
+    <s8>Zpětná vazba:</s8>
+    <s9>Kodex obchodního chování</s9>
+    <s10>Prověření získaných znalostí</s10>
+    <s11>Odeslat</s11>
+    <s12>Zkusit znovu</s12>
+    <s13>Popis kurzu: Kodex obchodního chování je zásadně důležitý dokument, který popisuje očekávání společnosti Abbott od každého jejího zaměstnance při jejím reprezentování v rámci každodenní práce. Nese v sobě naše hodnoty. Představuje základ pro naše povinnosti a chování a pomáhá nám dělat ta nejlepší rozhodnutí pro společnost Abbott, pro nás samotné i pro spousty lidí, jimž poskytujeme služby. V tomto kurzu vám Kodex všeobecně představíme. Řekneme si o očekáváních, která na vás společnost klade, i o vašich závazcích, a prakticky vám poradíme, jak postupovat v případě nejasností. Kurz vám zabere 35–45 minut.</s13>
+    <s14>Nabídka</s14>
+    <s15>Zdroje</s15>
+    <s16>Referenční materiály</s16>
+    <s17>Audio</s17>
+    <s18>Konec</s18>
+    <s19>Zavřít</s19>
+    <s20>Komentář...</s20>
+  </strings>
+</course>

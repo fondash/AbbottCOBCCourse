@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="Welkom" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="Zakelijke gedragscode">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="Onze filosofie">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="Doelstellingen">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="Inhoudsopgave">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="Het belang van de zakelijke gedragscode van Abbott" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="Onze doorlopende beloften">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="Het belang van de code voor ons bedrijf">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="Onze gedragscode" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="Overzicht">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="Onze klanten">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="Onze producten">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="Vergroten van wetenschappelijke kennis">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="Onze mensen">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="Onze gemeenschappen">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="Hoe we werken">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="Uw inzet" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="Uw inzet">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="Kennischeck" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="Inleiding">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="Toets">
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="Feedback">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="Enquête">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>Zakelijke gedragscode</p>
+      </div>
+      <p class="startInstruction">Klik op de pijl vooruit.</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Als wereldleider in de gezondheidszorg is ons dagelijkse werk van belang.</p>
+        <p>Onze zakelijke gedragscode is een krachtig kompas dat ons in staat stelt om met integriteit te handelen, doelgericht te handelen en keuzes te maken die het beste van onszelf weerspiegelen. Zo bouwen we vertrouwen op, houden we onze waarden hoog en blijven we een betekenisvol verschil maken in de wereld.</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Na het afronden van de cursus zult u:</p>
+        <ul>
+          <li>begrijpen hoe belangrijk de zakelijke gedragscode voor ons bedrijf is.</li>
+          <li>de belangrijkste principes van de zakelijke gedragscode kunnen identificeren en begrijpen hoe deze toegepast worden in de dagelijkse praktijk;</li>
+          <li>begrijpen wat de verwachtingen van Abbott zijn om wereldwijd op de juiste manier zaken te doen;</li>
+          <li>weten waar u hulp en ondersteuning kunt vinden.</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>Welkom</p>
+            <p>1 minuut</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>Het belang van de zakelijke gedragscode van Abbott</p>
+            <p>2 minuten</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>Onze Code</p>
+            <p>18 minuten</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>Uw inzet</p>
+            <p>1 minuut</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>Kennischeck</p>
+            <p>5 minuten</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>Voortgang van het leren</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">Dit onderwerp is nu beschikbaar.</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Wij leiden met integriteit, eerlijkheid en oprechtheid. Iedereen. Elke dag.</p>
+        <p>Onze zakelijke gedragscode herinnert ons eraan dat integriteit, eerlijkheid en rechtvaardigheid niet alleen idealen zijn, maar dagelijkse verplichtingen. Hoewel de Code niet alle uitdagingen kan voorzien waarmee we te maken kunnen krijgen, biedt het een stevig fundament van waarden die ons kunnen leiden.</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Wij streven naar de hoogste normen.</p>
+        <p>De zakelijke gedragscode is van cruciaal belang voor het succes van Abbott, omdat deze de norm stelt voor de manier waarop wij werken: met integriteit, eerlijkheid en billijkheid. Het helpt ons ethische beslissingen te nemen, vooral in complexe situaties, en zorgt ervoor dat we trouw blijven aan onze waarden. Door de Code te volgen, beschermen we onze reputatie, bouwen we vertrouwen op bij de mensen die we dienen en creëren we een werkcultuur waarin het van het grootste belang is om het juiste te doen.</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Het is ieders verantwoordelijkheid om de Code te begrijpen.</p>
+        <p>Wij spelen allemaal een rol bij het toepassen van de zakelijke gedragscode op ons dagelijks werk en onze besluitvorming. Het is niet zomaar een document, maar een gids die ons helpt om uitdagingen met integriteit en vertrouwen aan te gaan.</p>
+        <p>In de komende paragrafen gaan we dieper in op de belangrijkste principes van de Code en bekijken we hoe deze tot leven komen in onze dagelijkse handelingen en keuzes.</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">U kunt pas verder gaan nadat u alle inhoud hebt bekeken.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Bij Abbott streven we ernaar de gezondheid en het welzijn te verbeteren van de mensen die op onze producten vertrouwen.</p>
+          </div>
+          <div>
+            <p>Het herinnert ons eraan dat achter elke beslissing, elke innovatie en elke actie een doel schuilgaat: het verbeteren van levens.</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>Patiënten en consumenten</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>Zorgverleners</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik op alle pictogrammen voor meer informatie.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PATIËNTEN EN CONSUMENTEN</p>
+                <p>Zorg voor mensen staat centraal in alles wat wij doen. Wij geven prioriteit aan de gezondheid en het welzijn van patiënten en consumenten. Elke dag kunnen wij een betekenisvol verschil maken: mensen helpen gezonder te leven en bijdragen aan sterkere, gezondere gemeenschappen.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ZORGVERLENERS</p>
+                <p>Wij werken samen met zorgverleners om een betere gezondheid te ondersteunen. Wij respecteren de kennis en het onafhankelijke oordeel van zorgverleners, of het nu gaat om artsen, verpleegkundigen, apothekers, onderzoekers of laboratoriumpersoneel. Hun rol bij het begeleiden van patiënten naar een betere gezondheid is essentieel.</p>
+                <p>Bij Abbott streven we ernaar hen te ondersteunen met nauwkeurige en tijdige informatie, zodat zij de beste beslissingen kunnen nemen. Door samen te werken kunnen we ons gezamenlijke doel bereiken: de gezondheid en het welzijn over de hele wereld verbeteren.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">U kunt pas verder gaan nadat u alle inhoud hebt bekeken.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Bij Abbott streven we ernaar dat elk product dat we aanbieden veilig, effectief en het vertrouwen waard is dat mensen in ons stellen.</p>
+          </div>
+          <div>
+            <p>Wij nemen maatregelen om ervoor te zorgen dat onze producten veilig en effectief zijn: van de keuze van de juiste materialen tot de manier waarop we ze op de markt brengen, verkopen en leveren. In elke fase hanteren wij hoge kwaliteitsnormen.</p>
+            <p>Dit hoofdstuk benadrukt onze inzet om kwesties van productveiligheid tijdig te identificeren, evalueren en aan te pakken, naast het nemen van maatregelen om namaak, illegale verspreiding en diefstal van onze producten te voorkomen.</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>Productkwaliteit</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>Productpromotie I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>Productpromotie II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik op alle pictogrammen voor meer informatie.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PRODUCTKWALITEIT</p>
+                <p>Veilig, effectief en betrouwbaar. Onze producten maken het verschil.</p>
+                <p>Wij streven naar kwaliteit in elke fase: van inkoop en productie tot de manier waarop we onze producten op de markt brengen, verkopen en leveren, ook via onze partners. Elke stap telt, omdat mensen op ons rekenen voor hun veiligheid.</p>
+                <p>Wij streven ernaar om problemen met productveiligheid tijdig te identificeren, beoordelen en aan te pakken. Wij geven zorgverleners en instellingen de informatie die ze nodig hebben om de producten van Abbott veilig en effectief te kunnen gebruiken, en we communiceren met de toezichthoudende of volksgezondheidsinstellingen wanneer er zich potentiële veiligheidsrisico's voordoen.</p>
+                <p>We nemen maatregelen om namaak, illegaal misbruik en diefstal van onze producten te voorkomen. Wij houden ons aan handelsvoorschriften, waaronder regels voor export- en importcontroles, en leven de beperkingen en sancties van de overheid na om de nationale veiligheid en de volksgezondheid te beschermen.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PRODUCTPROMOTIE I</p>
+                <p>Wij promoten en verkopen onze producten met eerlijkheid en respect voor degenen die op onze producten vertrouwen.</p>
+                <p>Onze productcommunicatie is waarheidsgetrouw, evenwichtig en in overeenstemming met goedgekeurde etikettering, wetenschappelijk bewijs en de beste medische praktijken in de landen waar we actief zijn.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PRODUCTPROMOTIE II</p>
+                <p>Wij promoten onze producten voor het beoogde en goedgekeurde gebruik.</p>
+                <p>Wij werken in overeenstemming met de vergunningen en goedkeuringen die zijn verleend door de gezondheidsautoriteiten in de landen waar wij actief zijn. Onze productpromotie, verkoop en distributie voldoen aan strikte handelswetten en landspecifieke regelgevingen. Met behulp van strenge interne beleidsregels en procedures zorgen wij ervoor dat de regels worden nageleefd en dat we ons houden aan onze toewijding aan ethische, veilige en verantwoorde bedrijfspraktijken.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">U kunt pas verder gaan nadat u alle inhoud hebt bekeken.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Bij Abbott streven we ernaar de wetenschap met integriteit en doelgerichtheid te bevorderen.</p>
+          </div>
+          <div>
+            <p>Wij streven naar innovatie en beseffen hoe belangrijk het is om risico's op een verantwoorde manier te anticiperen en aan te pakken. Wij respecteren de waardigheid van iedere deelnemer aan een onderzoek en hanteren de hoogste normen van transparantie en objectiviteit in wetenschappelijk onderzoek.</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>Innovatie I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>Innovatie II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>Vergroten van wetenschappelijke kennis</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik op alle pictogrammen voor meer informatie.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>INNOVATIE I</p>
+                <p>Wij creëren innovatieve oplossingen voor de gezondheidszorg om mensen te helpen gezonder te leven en hun resultaten over de hele wereld te verbeteren.</p>
+                <p>Wij spelen in op menselijke behoeften door baanbrekende behandelingen, levensreddende apparaten en innovatieve producten te ontwikkelen die de gezondheid op nieuwe manieren ondersteunen. Met behulp van geavanceerde wetenschap en technologie streven we ernaar om resultaten te verbeteren en mensen in staat te stellen hun leven zo optimaal mogelijk te leiden. Zo creëren we zinvolle innovaties voor elke levensfase.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>INNOVATIE II</p>
+                <p>We stimuleren een cultuur van innovatie, zoeken naar nieuwe mogelijkheden en plannen voor onvoorziene omstandigheden.</p>
+                <p>Hoewel vooruitgang vaak risico's met zich meebrengt, nemen we weloverwogen en verantwoorde maatregelen om uitdagingen te voorzien en deze van tevoren tot een minimum te beperken. Dit doen we altijd aan de hand van de Code en ons beleid.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>VERGROTEN VAN WETENSCHAPPELIJKE KENNIS</p>
+                <p>Wij voeren onderzoek uit om nauwkeurige, objectieve gegevens te genereren die innovatie stimuleren, behandelingen verbeteren en de gezondheidszorg vooruithelpen.</p>
+                <p>Bij het uitvoeren van onderzoek behandelen wij de deelnemers aan het onderzoek met waardigheid, beschermen wij hen tegen onnodige risico's en zorgen wij ervoor dat zij de aard en het doel van het onderzoek en de daaraan verbonden risico's begrijpen. Geïnformeerde toestemming verkrijgen van deelnemers aan het onderzoek is een essentieel onderdeel van ons onderzoeksproces.</p>
+                <p>Wij hechten waarde aan transparantie in wetenschappelijk onderzoek en zullen niet proberen de uitkomsten ervan op oneigenlijke wijze te beïnvloeden. We zorgen ervoor dat onderzoeksgegevens accuraat zijn en hebben ons gecommitteerd aan het op een tijdige en accurate wijze verstrekken van de onderzoeksresultaten met betrekking tot onze producten, ongeacht of de resultaten positief of negatief zijn.</p>
+                <p>Wanneer er namens Abbott onderzoek uitgevoerd of gepubliceerd wordt, selecteren we partners met een sterke medische en wetenschappelijke achtergrond. Wij verwachten van hen dat zij alle mogelijke banden met Abbott bekendmaken, waaronder financiële of andere relaties.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">U kunt pas verder gaan nadat u alle inhoud hebt bekeken.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Bij Abbott bevorderen we een cultuur van openheid, diversiteit en respect, omdat dit creativiteit en innovatie stimuleert.</p>
+          </div>
+          <div>
+            <p>Wij hebben allemaal de verantwoordelijkheid om de Code elke dag na te leven: anderen met respect behandelen, een veilige en inclusieve werkplek creëren en zorgen voor gelijke kansen voor iedereen.</p>
+            <p>We stellen vragen als iets onduidelijk is en zeggen het als iets niet klopt.</p>
+            <p>Dit gedeelte benadrukt onze toewijding aan gelijke kansen en een veilige werkomgeving. Het herinnert ons eraan dat we de Code moeten begrijpen, toepassen en naleven bij alles wat we doen.</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>Samenwerking</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>Onze relatie met elkaar</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>Zorgen melden</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>Gelijke kansen</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>Eerlijke behandeling</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>Werkomgeving</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik op alle pictogrammen voor meer informatie.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>SAMENWERKING</p>
+                <p>Wij hechten waarde aan openheid en samenwerking, omdat uiteenlopende ideeën tot betere oplossingen leiden.</p>
+                <p>Wij omarmen diversiteit omdat het creativiteit, energie en vooruitgang stimuleert. Om een betekenisvolle impact te hebben op de wereldwijde gezondheid, luisteren we naar elkaar, waarderen we iedere stem en werken we doelgericht samen.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ONZE RELATIE MET ELKAAR</p>
+                <p>Wij zijn er allemaal verantwoordelijk voor om de waarden van Abbott elke dag na te leven.</p>
+                <p>Door ethisch te handelen versterken wij onze cultuur. Iedereen moet begrijpen hoe de Code van toepassing is op zijn of haar rol en werk.</p>
+                <p>Managers en supervisors hebben als leiders een bijzondere verantwoordelijkheid: zij moeten onze waarden uitdragen, ethisch gedrag bevorderen en een veilige omgeving creëren waarin werknemers zich op hun gemak voelen om vragen te stellen en zorgen te uiten, zonder angst voor represailles.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ZORGEN MELDEN</p>
+                <p>We stellen vragen als iets niet duidelijk is of niet goed voelt. Ook melden wij eventuele schendingen van de Code.</p>
+                <p>Wij zijn er verantwoordelijk voor om vragen te stellen wanneer we het gevoel hebben dat aanwijzingen onduidelijk zijn en iedereen wordt uitgedaagd om vermoedelijk onethisch zakelijk gedrag, schending van deze gedragscode of schending van het beleid van Abbott of procedures te melden.</p>
+                <p>Als u niet zeker weet wat de juiste keuze of actie is, praat dan met uw manager of neem contact op met het Bureau voor ethiek en naleving.</p>
+                <p>Managers en supervisors moeten het goede voorbeeld geven en ervoor zorgen dat werknemers de Code begrijpen en naleven. Leiders hebben een grotere verantwoordelijkheid om de verwachtingen van Abbott te communiceren en moeten contact opnemen met het Bureau voor ethiek en naleving over mogelijke schendingen van de Code.</p>
+                <p>Alle meldingen van mogelijke overtredingen van de Code worden serieus genomen. Het Bureau voor ethiek en naleving verzorgt de vervolgstappen, waaronder onderzoeken en indien nodig corrigerende maatregelen. U moet niet zelf op onderzoek uitgaan. Iedereen moet meewerken en het onderzoek vertrouwelijk houden.</p>
+                <p>Corrigerende acties kunnen zich uitstrekken tot disciplinaire maatregelen (tot en met ontslag) of juridische actie voor:</p>
+                <ul>
+                  <li>het autoriseren van of deelnemen aan een overtreding;</li>
+                  <li>weigering om mee te werken aan een onderzoek;</li>
+                  <li>het niet melden van een overtreding als gevolg van slecht toezicht;</li>
+                  <li>het doen van een valse melding;</li>
+                  <li>Represailles nemen tegen iemand die te goeder trouw een probleem heeft gemeld.</li>
+                </ul>
+                <p>Vergelding is nooit acceptabel. Vermeende represailles moeten aan het Bureau voor ethiek en naleving (OEC) of aan Human Resources gemeld worden.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>GELIJKE KANSEN</p>
+                <p>Wij zorgen voor gelijke kansen voor alle medewerkers.</p>
+                <p>Wij baseren personeelsbesluiten op bedrijfsbehoeften, vaardigheden, ervaring en prestaties. Discriminatie in welke vorm dan ook wordt niet getolereerd. Wij houden ons aan alle wetten die van toepassing zijn op onze relaties met werknemers over de hele wereld.</p>
+                <p>Abbott verbiedt discriminatie op grond van ras, huidskleur, religie, geloofsovertuigingen, leeftijd, geslacht, nationaliteit, gender-identiteit of expressie, seksuele geaardheid, handicap, burgerlijke staat, veteraan of militaire status, genetische of burgerlijke status, of iedere andere wettelijk beschermde status.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>EERLIJKE BEHANDELING</p>
+                <p>Wij bevorderen een respectvolle, inclusieve en veilige werkplek.</p>
+                <p>Wij zorgen ervoor dat iedereen zich welkom, gesteund en bevoegd voelt.</p>
+                <p>Abbott bevordert een gezonde werkomgeving zonder intimidatie en waardeert de inbreng van werknemers om diversiteit en inclusie te versterken.</p>
+                <p>Wij behandelen iedereen met respect en waardigheid en we bouwen vertrouwen op door eerlijkheid en oprechtheid, nooit door manipulatie, verkeerde voorstelling van zaken of gebrek aan transparantie.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>WERKOMGEVING</p>
+                <p>Veiligheid en eerlijke arbeidsomstandigheden zijn voor ons prioriteit.</p>
+                <p>Ongevallen en onveilige situaties moeten onmiddellijk aan het management worden gemeld. Abbott neemt ook maatregelen om illegale en ongepaste arbeidsomstandigheden, en wrede of onmenselijke behandeling te voorkomen en te verbieden, in verband met onze zakelijke activiteiten over de hele wereld.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">U kunt pas verder gaan nadat u alle inhoud hebt bekeken.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Bij Abbott bouwen we vertrouwen op via gemeenschap, milieu en betrokkenheid.</p>
+          </div>
+          <div>
+            <p>Wij streven ernaar om iets terug te doen voor de gemeenschappen waar we actief zijn en een positieve, blijvende impact te hebben op het leven van mensen.</p>
+            <p>Abbott streeft ernaar haar ecologische voetafdruk te minimaliseren door het energieverbruik te verminderen en natuurlijke hulpbronnen te behouden.</p>
+            <p>Wij ondersteunen ook gepaste politieke betrokkenheid en moedigen de betrokkenheid van de gemeenschap aan bij al onze wereldwijde activiteiten.</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>Maatschappelijke betrokkenheid</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>Verantwoordelijkheid voor het milieu</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>Politieke bijdragen</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik op alle pictogrammen voor meer informatie.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MAATSCHAPPELIJKE BETROKKENHEID</p>
+                <p>Wij ondersteunen het welzijn van de gemeenschap.</p>
+                <p>Bij Abbott ondersteunen we het welzijn van gemeenschappen door middel van onze producten, ons werk en onze acties. Bovendien hebben we een lange geschiedenis van teruggeven aan de plaatsen waar we wonen en werken, omdat we ervan overtuigd zijn dat gezonde gemeenschappen floreren.</p>
+                <p>Via onze activiteiten, partnerschappen en steun aan lokale groepen en doelen streven wij ernaar om overal waar we zakendoen een positieve en blijvende impact te maken.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>VERANTWOORDELIJKHEID VOOR HET MILIEU</p>
+                <p>Wij zetten ons in voor duurzame ontwikkeling en werken eraan om onze impact op het milieu te beperken.</p>
+                <p>Wij streven ernaar het milieu te beschermen bij alles wat we doen: van de manier waarop we onze materialen inkopen tot hoe we onze producten maken, verzenden en gebruiken.</p>
+                <p>Wij ondernemen stappen om minder energie en natuurlijke hulpbronnen te gebruiken. Wij ondersteunen schone energieprojecten op het werk en in onze gemeenschappen. Wij zoeken naar manieren om afval te verminderen, meer te recyclen en de risico's voor het milieu te verkleinen We houden ons aan de milieuwet- en regelgeving die op onze activiteiten van toepassing is.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>POLITIEKE BIJDRAGEN</p>
+                <p>Wij moedigen toepasselijke betrokkenheid in het politieke proces aan en ondersteunen betrokkenheid binnen de gemeenschap.</p>
+                <p>Abbott ondersteunt overheidsbeleid dat aansluit bij onze missie en waarden. Indien van toepassing, ondersteunen wij ook politieke kandidaten of belangengroepen.</p>
+                <p>Omdat de wetgeving omtrent politieke bijdragen door bedrijven complex is, moet elk gebruik van Abbott-fondsen (of bijdragen namens Abbott) eerst worden besproken met de juridische afdeling.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">U kunt pas verder gaan nadat u alle inhoud hebt bekeken.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Bij Abbott streven we ernaar om op een eerlijke manier zaken te doen en onze beloften op alle vlakken van ons werk na te komen.</p>
+          </div>
+          <div>
+            <p>Bij het omgaan met belangenconflicten stellen wij de belangen van Abbott voorop. Het verplicht ons tot de bescherming van de bedrijfsmiddelen en de reputatie van Abbott, het beschermen van vertrouwelijke informatie, en het respecteren van de privacy van degenen die ons hun persoonlijke informatie toevertrouwen.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>Eerlijke behandeling</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>Belangenverstrengeling voorkomen I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>Belangenverstrengeling voorkomen II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>De bedrijfsmiddelen en reputatie van Abbott beschermen</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>Vertrouwelijke informatie</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik op alle pictogrammen voor meer informatie.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>EERLIJKE BEHANDELING</p>
+                <p>Wij doen zaken met integriteit en komen onze beloften na in elk aspect van ons werk.</p>
+                <p>Wij zijn ieder verantwoordelijk voor ons eigen werk en de beslissingen die we in onze rol nemen. Bij elke professionele interactie, of het nu gaat om collega's, klanten, leveranciers, zorgverleners, concurrenten of anderen, moeten we eerlijk en rechtvaardig zijn over de manier waarop Abbott zaken doet.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>BELANGENVERSTRENGELING VOORKOMEN I</p>
+                <p>We pakken belangenverstrengeling aan en lossen deze op voordat we verder gaan.</p>
+                <p>Er ontstaat mogelijk een belangenconflict wanneer de persoonlijke belangen van een medewerker de belangen van Abbott in de weg staan, of in de weg lijken te staan. Zakelijke beslissingen moeten gebaseerd worden op de behoeften van Abbott, in plaats van mogelijk persoonlijk gewin of de belangen van familie of vrienden. Er wordt van ons verwacht dat we ons gezonde verstand gebruiken en situaties vermijden die tot een reëel of vermeend conflict kunnen leiden. Als persoonlijke relaties, belangen of externe activiteiten uw vermogen om eerlijk en effectief te handelen beïnvloeden, of u of een familielid ten goede kunnen komen, moet u het potentiële conflict melden en uzelf uit de situatie verwijderen, volgens de richtlijnen van Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>BELANGENVERSTRENGELING VOORKOMEN II</p>
+                <p>Bij het nemen van werkgerelateerde beslissingen stellen wij de belangen van Abbott voorop.</p>
+                <p>Dat betekent dat de doelen van het bedrijf voorrang krijgen boven die van een specifiek team, groep of individu. Alle kansen of middelen die we via onze functies bij Abbott benutten, moeten ten goede komen aan het bedrijf, en niet voor persoonlijk gewin. We mogen niet met Abbott concurreren of anderen helpen om dit te doen. Wanneer zich kansen voordoen, moeten we ons richten op het bevorderen van de belangen van Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>DE BEDRIJFSMIDDELEN EN REPUTATIE VAN ABBOTT BESCHERMEN</p>
+                <p>Wij zorgen voor het bedrijf.</p>
+                <p>Wij delen allemaal de verantwoordelijkheid om de activa van Abbott verstandig te beschermen en te gebruiken. Hieronder vallen onder meer fysieke zaken als voertuigen en computers, maar ook waardevolle informatie als intellectueel eigendom, bedrijfsgeheimen en specialistische kennis.</p>
+                <p>We moeten altijd ons gezonde verstand gebruiken om ervoor te zorgen dat deze middelen op de juiste manier, efficiënt en zorgvuldig worden gebruikt, zodat verlies, diefstal, misbruik of verspilling worden voorkomen.</p>
+                <p>De reputatie van Abbott is een van onze meest waardevolle bezittingen, en we spelen allemaal een rol bij de bescherming ervan.</p>
+                <p>Wij zijn er allemaal verantwoordelijk voor hoe we Abbott vertegenwoordigen, vooral in de openbare ruimte en online. Alles wat we delen, of het nu gaat om gesprekken, e-mails of sociale media, kan immers een weerslag hebben op het bedrijf. Het is belangrijk om doordacht te communiceren, uw gezonde verstand te gebruiken en de vertrouwelijke informatie van Abbott te beschermen.</p>
+                <p>Wanneer we met anderen omgaan, moeten we overwegen of we gezien worden als vertegenwoordigers van Abbott en welke impact onze woorden of daden op de reputatie van het bedrijf kunnen hebben. Dit is vooral belangrijk op sociale media, waar berichten zich snel en wijd kunnen verspreiden. Een onzorgvuldige opmerking of post kan grote schade aanrichten.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>VERTROUWELIJKE INFORMATIE</p>
+                <p>Wij streven ernaar alle vertrouwelijke informatie, waaronder persoonsgegevens, te respecteren en te beschermen.</p>
+                <p>Vertrouwelijke informatie is één van de meest waardevolle eigendommen van Abbott. Het gaat hierbij om niet-openbare gegevens zoals onderzoek, bedrijfsgeheimen, bedrijfsplannen, prijzen, contracten, financiële resultaten en andere gegevens die bij openbaarmaking gunstig kunnen zijn voor concurrenten of schadelijk kunnen zijn voor Abbott.</p>
+                <p>Wij moeten vertrouwelijke informatie beschermen en ongeautoriseerd gebruik of delen voorkomen, ook nadat onze samenwerking met Abbott is beëindigd.</p>
+                <p>Bij Abbott respecteren wij ook de intellectuele eigendomsrechten van anderen en vermijden wij oneigenlijk gebruik van hun vertrouwelijke informatie. Het misbruiken van niet-openbare informatie, bijvoorbeeld voor insiderhandel, is illegaal en onethisch.</p>
+                <p>Wij beveiligen ook de persoonsgegevens die collega’s, zorgverleners en klanten aan ons toevertrouwen. Wanneer wij persoonlijke informatie verzamelen en gebruiken, doen wij dat op verantwoorde wijze en met de juiste toestemming. Wij verkopen of verkrijgen deze informatie nooit van ongeautoriseerde bronnen. Op veel locaties geldt strenge privacywetgeving. Wij doen er alles aan om deze te begrijpen en na te leven, vooral als het gaat om de meest gevoelige categorieën persoonsgegevens.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">U kunt pas verder gaan nadat u alle inhoud hebt bekeken.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Bij Abbott streven we ernaar om op een eerlijke manier zaken te doen en onze beloften op alle vlakken van ons werk na te komen.</p>
+          </div>
+          <div>
+            <p>Bij het omgaan met belangenconflicten stellen wij de belangen van Abbott voorop. Het verplicht ons tot de bescherming van de bedrijfsmiddelen en de reputatie van Abbott, het beschermen van vertrouwelijke informatie, en het respecteren van de privacy van degenen die ons hun persoonlijke informatie toevertrouwen.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>Anti-omkoping</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>Geschenken, maaltijden en entertainment</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>Nauwkeurige zakelijke verslaglegging</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>Naleving van wetgeving</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>Eerlijke concurrentie</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik op alle pictogrammen voor meer informatie.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ANTI-OMKOPING</p>
+                <p>Wij zijn actief tegen op fraude, omkoping en corruptie. We doen op de juiste manier zaken.</p>
+                <p>Als individu verwachten we van zorgverleners dat ze beslissingen nemen op basis van wat het beste is voor patiënten, en niet beïnvloed worden door prikkels van bedrijven. Op dezelfde manier verwachten wij van overheidsfunctionarissen dat zij handelen in het algemeen belang, zonder druk van het bedrijfsleven.</p>
+                <p>Bij Abbott informeren we zorgverleners over onze producten, maar we belemmeren hun onafhankelijke oordeel niet. Het is nooit toegestaan om iets van waarde aan te bieden aan zorgverleners (zoals een arts, apotheker, verpleegkundige, onderzoeker of laboratoriumpersoneel), overheidsfunctionarissen of anderen om zaken te doen of om relaties uit het verleden te belonen.</p>
+                <p>Wij houden ons wereldwijd aan de wetgeving ter bestrijding van omkoping, corruptie en steekpenningen, waaronder de Amerikaanse Foreign Corrupt Practices Act. Iedereen bij Abbott moet de relaties met dienstverleners, zoals distributeurs, consultants en sprekers, zorgvuldig beheren door due diligence uit te voeren, een eerlijke marktwaarde te betalen en betalingen correct te documenteren om naleving van wetten en bedrijfsnormen te garanderen.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>GESCHENKEN, MAALTIJDENS EN ENTERTAINMENT</p>
+                <p>Wij bieden niets van waarde aan om, direct of indirect, een zakelijk voordeel te behalen in overeenstemming met de beginselen ter bestrijding van omkoping.</p>
+                <p>Om oneigenlijke beïnvloeding van zakelijke beslissingen te voorkomen, stellen we grenzen aan geschenken, maaltijden en entertainment. Het beleid van Abbott zorgt ervoor dat merkherinneringen, culturele beleefdheden, gastvrijheid en andere voordelen nooit het professionele oordeel in de weg staan.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>NAUWKEURIGE ZAKELIJKE VASTLEGGING</p>
+                <p>We meten prestaties nauwkeurig.</p>
+                <p>De gegevens en openbare verklaringen van Abbott moeten een nauwkeurig beeld geven van onze handelingen, met voldoende context om de ware aard van ons werk te laten zien. Financiële gegevens moeten voldoen aan boekhoudkundige normen, wetten en het interne beleid van Abbott.</p>
+                <p>Bij het rapporteren van prijzen, betalingen of waardevolle zaken, met name aan zorgverleners, moeten we ervoor zorgen dat de informatie volledig en nauwkeurig is. Veel overheden eisen deze transparantie om overheidsgelden te beschermen. Abbott streeft ernaar betrouwbare gegevens te leveren, zodat overheden, verzekeraars en andere belanghebbenden weloverwogen beslissingen kunnen nemen.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>NALEVING VAN WETGEVING</p>
+                <p>Wij houden ons aan alle wetten, verordeningen en vereisten van Abbott die op ons werk van toepassing zijn.</p>
+                <p>Van iedere Abbott-werknemer wordt verwacht dat hij/zij alle toepasselijke wetten naleeft, evenals het beleid, de procedures en de Code van Abbott. Dit is een basisvoorwaarde voor tewerkstelling. Het beleid van Abbott bestrijkt belangrijke gebieden zoals naleving van de wet- en regelgeving in de gezondheidszorg, kwaliteit, financiën, handel, beveiliging en meer. Hiermee kunnen we voldoen aan de wettelijke vereisten en niet-naleving voorkomen.</p>
+                <p>Als wereldwijd opererend bedrijf moeten we ons er ook van bewust zijn dat de wetten van het ene land van toepassing kunnen zijn op werkzaamheden die in een ander land worden uitgevoerd. Bij twijfel kunt u contact opnemen met de juridische afdeling of het Bureau voor ethiek en naleving.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>EERLIJKE CONCURRENTIE</p>
+                <p>Wij zorgen ervoor dat alle interacties die we met concurrenten hebben, acceptabel zijn.</p>
+                <p>Bij Abbott streven we ernaar om overal waar we actief zijn de mededingingswetten na te leven. Deze wetten verbieden overeenkomsten of handelingen die eerlijke marktpraktijken ontmoedigen, met name op het gebied van prijzen, verkoopvoorwaarden en interacties met concurrenten.</p>
+                <p>Vermijd het bespreken van gevoelige onderwerpen, zoals prijzen, kosten of bedrijfsplannen, met concurrenten en neem contact op met de juridische afdeling of het Bureau voor ethiek en naleving als u vragen hebt of iets ongepasts tegenkomt. Omdat mededingingswetten complex zijn en overtreding ervan zware straffen met zich mee kan brengen, moeten we ook zorgvuldig omgaan met relaties met derden om naleving te waarborgen en zelfs de schijn van concurrentieverstorend gedrag te vermijden.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>Neem, voordat u deze cursus verlaat, even de tijd om te bevestigen dat u uw verantwoordelijkheden met betrekking tot de zakelijke gedragscode van Abbott begrijpt.</p>
+          <p>Ik bevestig dat ik mijn verantwoordelijkheden met betrekking tot de zakelijke gedragscode van Abbott heb begrepen en dat ik weet waar ik de toepasselijke beleidsregels en procedures kan vinden en nalezen.</p>
+          <button class="qcSubmitBtn">Bevestigen</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>De Kennischeck die nu volgt bestaat uit 10 vragen. U moet 80% of hoger scoren om deze cursus met succes af te ronden.</p>
+        <p>WANNEER U ER KLAAR VOOR BENT, KLIKT U OP DE KNOP KENNISCHECK.</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Waarom is de zakelijke gedragscode belangrijk?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Het geeft specifiek advies voor elke situatie waarmee we in ons werk te maken kunnen krijgen.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Een duidelijke reeks van beginselen en waarden waarop beslissingen gebaseerd moeten worden als de beste handelwijze niet direct duidelijk is.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Volgende</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>De zakelijke gedragscode biedt een duidelijke reeks van beginselen en waarden waarop beslissingen gebaseerd moeten worden als de beste handelwijze niet direct duidelijk is.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Welke van de volgende is <span class="underline">nooit</span> een gepaste zakelijke transactie?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Een zorgverlener inhuren om over een bepaald ziektegebied te spreken vanwege hun vaardigheden en expertise.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Een redelijke maaltijd verstrekken aan de deelnemers van een door Abbott gesponsord voorlichtingsprogramma.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Een liefdadigheidsbijdrage regelen voor een plaatselijke organisatie.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Een zorgverlener inhuren om een voorlichtingsprogramma te geven om hem/haar te bedanken voor zijn/haar gebruik van Abbott-producten.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Volgende</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Een zorgverlener inhuren om een voorlichtingsprogramma te geven vanwege zijn/haar vaardigheden en expertise is toegestaan, maar het inhuren van een zorgverlener als dank voor het gebruik van Abbott-producten is ongepast, omdat dit als omkoping kan worden opgevat.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>De gevolgen voor personen die betrokken zijn bij omkoping en corruptie kunnen omvatten:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Reputatieschade.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Boetes en straffen.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Beëindiging van het dienstverband.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Gevangenisstraf.</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>Alle bovenstaande opties.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Volgende</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>De gevolgen voor personen die betrokken zijn bij omkoping en corruptie kunnen bestaan uit reputatieschade, boetes en straffen, beëindiging van het dienstverband en zelfs gevangenisstraf.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Een vertegenwoordiger is ook eigenaar van een kleine juwelierszaak. Ze besluit dat het leuk zou zijn om kleine cadeautjes uit haar winkel te geven aan zorgverleners die de afgelopen tijd geen product van Abbott hebben voorgeschreven. Is dit oké?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ja</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Nee</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Volgende</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Het beleid van Abbott verbiedt geschenken aan zorgverleners omdat de salesvertegenwoordiger optreedt als vertegenwoordiger van Abbott. De geschenken zijn verboden, ook al betaalt zij ervoor. Het geven van geschenken kan ook worden opgevat als omkoping voor toekomstige opdrachten.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Een salesmanager krijgt een telefoontje van een contactpersoon bij een concurrerend bedrijf. De concurrent meldt dat een extern verkoopteam dat door Abbott is ingehuurd in een nieuwe markt, naar verluidt luxe maaltijden aanbiedt aan klanten die voor producten van Abbott kiezen in plaats van producten van de concurrentie. Wat is de meest gepaste actie?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Niets doen, omdat de informatie van een concurrent afkomstig is.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Niets doen omdat luxe maaltijden normaal zijn in die markt.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Het voorval direct melden aan het Bureau voor ethiek en naleving (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Alternatieve distributeurs overwegen als de bewering waar is.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Volgende</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>U dient de aantijging onmiddellijk te melden bij het Bureau voor ethiek en naleving (OEC), zodat deze grondig kan worden onderzocht, zelfs als de informatie van een concurrent afkomstig is.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Een reisbureau regelt reizen voor zorgverleners die toezichtdiensten verlenen voor Abbott. Bij controle van de ingediende bonnen worden discrepanties geconstateerd. Zo komt het totaalbedrag niet overeen met het verzoek tot vergoeding en ontbreken op sommige bonnen belangrijke gegevens, zoals reisdata.</p>
+              <p>Wat is de meest gepaste actie?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Het reisbureau informeren dat Abbott geen betaling kan doen zonder nauwkeurige en volledige documentatie.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>De ontvangstbewijzen verwerken, omdat er maar een paar gegevens ontbreken.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Het reisbureau adviseren om de volgende keer nauwkeuriger te zijn.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Niets, omdat het bureau nieuw is.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Volgende</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>De boekhouding en administratie van Abbott moet alle transacties volledig en nauwkeurig weergeven. Daarom is het cruciaal dat derden die diensten verlenen voor Abbott volledige documentatie verstrekken die het werkelijke doel en de details van de transacties nauwkeurig vermeldt.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>U werkt in een vestiging waar het is toegestaan om zorgverleners te sponsoren voor het bijwonen van educatieve conferenties. U bent bezig zorgverleners te selecteren voor het bijwonen van een bepaalde conferentie. De criteria die u gebruikt voor de selectie zijn onder meer: (1) of het onderwerp van de conferentie betrekking heeft op het expertisegebied van de zorgverlener; (2) of Abbott de zorgverlener het afgelopen jaar al eens heeft gesponsord; en (3) of het waarschijnlijk is dat de zorgverlener na afloop van het evenement producten van Abbott zal aanbevelen of apparaten van Abbott zal gebruiken. Zijn deze criteria geschikt?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ja. De twee belangrijkste criteria waaraan altijd moet worden voldaan bij de sponsoring van individuen zijn dat de sponsoring: a) relevant is voor het expertisegebied van de HCP en b) dat het niet wordt gebruikt als een beloning of stimulans voor handel. Het feit dat u controleert of Abbott het afgelopen jaar de zorgverlener niet gesponsord heeft, helpt het laatstgenoemde te voorkomen.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Ja. Mits beïnvloeding of beloning niet de reden is om de zorgverlener te sponsoren, kunt u het rendement op uw investering overwegen, d.w.z. of de persoon wel of niet Abbott-producten zal blijven voorschrijven.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Nee. Sponsoringbesluiten mogen niet worden gebaseerd op het criterium dat de zorgverlener waarschijnlijk Abbott-producten zal aanbevelen of Abbott-apparaten zal gebruiken na het bijwonen van een gesponsord evenement.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ja. Zolang ten minste één van de criteria geschikt is, is het niet relevant of er ook nog andere ongeschikte criteria zijn.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Volgende</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Sponsoringbesluiten mogen nooit worden genomen als beloning voor eerder gebruik van onze producten of apparaten, of als een aansporing om in de toekomst meer van onze producten of apparaten te gebruiken. Vergeet niet dat in veel rechtsgebieden sponsoring verboden is op grond van de wet en/of de gedragscode van de branche. Raadpleeg altijd de procedures van uw vestiging voordat u sponsoring verstrekt.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Een vertegenwoordiger van Abbott geeft een zorgverlener voorlichting over een product. Na het gesprek vertelt de zorgverlener dat een concurrent een nieuwe iPad aanbood in ruil voor een hogere omzet.</p>
+              <p>Wat is de meest gepaste actie?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Hetzelfde cadeau aanbieden om concurrerend te blijven.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Het aanbod voor de iPad weigeren, maar een duur diner voorstellen om het gesprek voort te zetten.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Uitleggen dat Abbott op de juiste manier zaken doet en niets van waarde kan bieden dat de besluitvorming op oneigenlijke wijze zou kunnen beïnvloeden. En dan het voorval direct melden aan het Bureau voor ethiek en naleving (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>De zorgverlener danken voor de informatie en beloven dat u erover na zult denken.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Volgende</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>U mag nooit iets van waarde aanbieden, beloven, geven of ontvangen om een ongepast zakelijk voordeel te behalen of om zakelijke opdrachten te verkrijgen of te behouden. Ongeacht wat concurrenten ook doen, moet u zich houden aan de toepasselijke wetgeving en het beleid van Abbott, inclusief de vereisten van het wereldwijde beleid inzake corruptiebestrijding van Abbott (GLB-ANTI-CORRUPTION). Raadpleeg bij twijfel altijd de juridische afdeling of de OEC.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Welke van de volgende zijn voorbeelden van dingen van waarde die niet mogen worden gegeven om zakelijke opdrachten binnen te halen?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Uitstapjes voor zorgverleners en hun familie naar een kuuroord, casino of andere uitgaansgelegenheid.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Subsidies voor toekomstig onderzoek of onderwijsprojecten.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Donaties aan de favoriete goede doelen van overheidsfunctionarissen.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Alle bovengenoemde opties</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Volgende</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>De normen van Abbott op het gebied van omkoping en corruptie, die in het wereldwijde beleid inzake corruptiebestrijding (GLB-ANTI-CORRUPTION) staan, zijn in overeenstemming met onze inzet om eerlijk, oprecht en integer zaken te doen. Dit betekent dat het aanbieden of geven van items van waarde om opdrachten te verkrijgen nooit is toegestaan.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Een zorgverlener die een belangrijke opinieleider is, vraagt of u in ruil voor extra zakelijke kansen voor Abbott wat ondersteuning kunt regelen voor een opleidingsprogramma. Welke optie is het meest gepast?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Het verzoek duidelijk afwijzen omdat het in strijd is met het beleid inzake corruptiebestrijding van Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>2] Tegen de zorgverlener zeggen dat u dit aan uw manager zult vragen.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Akkoord gaan met het verzoek, omdat de zorgverlener een belangrijke opinieleider is die veel invloed heeft.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Geen van de bovengenoemde opties</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">Verzenden</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Wij bieden niets van waarde aan om, direct of indirect, een zakelijk voordeel te behalen in overeenstemming met de beginselen ter bestrijding van omkoping.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>Er zijn geen resultaten beschikbaar, omdat u de Kennischeck nog niet heeft voltooid.</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>Gefeliciteerd! U bent geslaagd voor de Kennischeck.</p>
+          <p>Bekijk uw resultaten hieronder door op elke vraag te klikken.</p>
+          <p>Klik als u klaar bent op de pijl vooruit om een korte enquête in te vullen.</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>Helaas, u bent niet geslaagd voor de Kennischeck. Neem even de tijd om hieronder uw resultaten te bekijken door op elke vraag te klikken.</p>
+          <p>Klik wanneer u klaar bent op de knop Opnieuw doen.</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>Deze enquête is optioneel.</p>
+          <p>Belangrijk: ongeacht of u ervoor kiest om de enquête in te vullen of niet, moet u op het pictogram VERLATEN (X) in de titelbalk van de cursus klikken om de cursus te voltooien en uw resultaten te uploaden.</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Hoe zou u deze cursus in het algemeen beoordelen?</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Erg slecht</p>
+                  <p>Slecht</p>
+                  <p>Gemiddeld</p>
+                  <p>Goed</p>
+                  <p>Uitstekend</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Geef meer uitleg over uw beoordeling.</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Als gevolg van deze sessie heb ik meer inzicht in de zakelijke gedragscode van Abbott.</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Zeer mee oneens</p>
+                  <p>Oneens</p>
+                  <p>Neutraal</p>
+                  <p>Eens</p>
+                  <p>Zeer mee eens</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>In hoeverre is de inhoud die in deze cursus werd behandeld relevant voor uw werk?</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Helemaal niet relevant</p>
+                  <p>Niet echt relevant</p>
+                  <p>Weet niet</p>
+                  <p>Enigszins relevant</p>
+                  <p>Zeer relevant</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Over welke onderwerpen die in deze cursus zijn behandeld zou u meer willen weten?</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">Klik op de knop Uploaden om de cursus te voltooien, uw gegevens te uploaden en het cursusvenster te sluiten.</p>
+          <button class="surveySubmit">
+            <p>Uploaden</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">Waar u ondersteuning kunt vinden</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Manager</p>
+        <p>Als u vragen hebt over uw interacties met mensen buiten Abbott, kunt u het beste beginnen bij uw manager.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Schriftelijke normen</p>
+        <ul>
+          <li>Raadpleeg onze <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Zakelijke gedragscode</a> voor de fundamentele verwachtingen van het bedrijf over de interacties met anderen.</li>
+          <li>Ons bedrijfsbrede beleidsregels en procedures kunt u vinden op de <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">Global Policy Portal</a>.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>Het Bureau voor ethiek en naleving (OEC)</p>
+        <p>Het OEC is een wereldwijde hulpbron die beschikbaar is voor uw vragen of zorgen over de waarden en gedragsnormen van ons bedrijf.</p>
+        <ul>
+          <li>Ga naar de <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">Abbott World OEC-website</a>.</li>
+          <li>Als u zich zorgen maakt over corrupte zakelijke activiteiten, binnen het bedrijf of in uw relatie met klanten en andere derde partijen, kunt u uw vermoedens of de door u geconstateerde problemen melden aan de OEC (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) of de juridische afdeling, of bellen met de meertalige <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp-lijn</a> die wereldwijd 24/7 beschikbaar is.</li>
+          <li>iComply – Ga naar <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> voor nalevingsgerelateerde toepassingen en hulpmiddelen die toegespitst zijn op interacties met professionele zorgverleners en organisaties voor de gezondheidszorg, evenals andere organisaties.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Human Resources (Personeelszaken)</p>
+        <p>Voor werknemergerelateerde kwesties, zoals bezorgdheid met betrekking tot management en/of andere werknemers, kunt u contact opnemen met uw plaatselijke vertegenwoordiger van <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">Human Resources</a>.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>Juridische afdeling</p>
+        <p>Neem contact op met de juridische afdeling als u vragen of zorgen hebt over de juridische gevolgen van omkoping en corruptie.</p>
+        <ul>
+          <li>Klik hier voor de startpagina van de juridische afdeling op Abbott World.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>ANDERE MIDDELEN</p>
+        <p>U hebt de beschikking over veel andere middelen:</p>
+        <p>Financiële afdeling - Als uw vraag over de boekhouding of financiële zaken gaat, neem dan contact op met uw lokale financiële afdeling.</p>
+        <p>Corporate Audit - Als u specifieke problemen hebt met betrekking tot de boekhouding, interne boekhoudkundige controles, of accountancykwesties, dan dient u deze onmiddellijk aan de afdeling Corporate Audit of de OEC te melden.</p>
+        <p>Abbott Quality and Regulatory (Kwaliteit en regelgeving) - Als u vragen hebt over de kwaliteit en veiligheid van onze producten, neem dan contact op met uw lokale Quality- of Regulatory-afdeling.</p>
+        <p>Global Environment, Health en Safety (Wereldwijd milieu, gezondheid en veiligheid) - Neem contact op met een vertegenwoordiger van Global Environment, Health en Safety als u vragen hebt over een fysieke locatie en mogelijke gevaren.</p>
+        <p>Global Procurement (Wereldwijde inkoop) – Als u vragen hebt over leveranciersrelaties, neem dan contact op met Global Procurement.</p>
+      </div>
+      <p class="resSubtitles" data-break="true">Hulpmiddelen voor de cursus</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Transcriptie</p>
+        <p>Klik <a href="reference/Transcript.pdf" target="_blank">hier</a> voor een volledige transcriptie van de cursus</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>De cursus kan geen verbinding maken met het LMS. Klik op 'OK' om verder te gaan en de cursus opnieuw door te nemen. Let op, het cursuscertificaat is mogelijk niet beschikbaar. Klik op 'Annuleren' om af te sluiten.</s1>
+    <s2>Nog niet alle vragen zijn beantwoord</s2>
+    <s3>Vragen</s3>
+    <s4>Vraag</s4>
+    <s5>niet beantwoord</s5>
+    <s6>Dat klopt!</s6>
+    <s7>Dat klopt niet!</s7>
+    <s8>Feedback:</s8>
+    <s9>Zakelijke gedragscode</s9>
+    <s10>Kennischeck</s10>
+    <s11>Verzenden</s11>
+    <s12>Opnieuw doen</s12>
+    <s13>Cursusbeschrijving: Onze zakelijke gedragscode is een uiterst belangrijk document, omdat het de verwachtingen van ons bedrijf voor elke werknemer beschrijft, wanneer wij Abbott tijdens ons dagelijkse werk vertegenwoordigen. Het biedt een basis voor onze verantwoordelijkheden en gedrag, waardoor wij de beste keuzes kunnen maken voor Abbott, voor onszelf en voor de vele mensen die wij dienen. Deze cursus biedt een algemeen overzicht van de Code, schetst de verwachtingen van ons bedrijf en uw verplichtingen, en geeft praktisch advies over wat u kunt doen als het moeilijk is om de beste weg voorwaarts te bepalen. De cursus duurt 35-45 minuten om te voltooien.</s13>
+    <s14>Menu</s14>
+    <s15>Hulpbronnen</s15>
+    <s16>Referentiemateriaal</s16>
+    <s17>Audio</s17>
+    <s18>Afsluiten</s18>
+    <s19>Sluiten</s19>
+    <s20>Opmerking…</s20>
+  </strings>
+</course>

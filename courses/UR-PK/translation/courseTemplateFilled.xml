@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="خوش آمدید" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="کاروباری طریقہ کار کا ضابطہ">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="ہمارا فلسفہ">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="مقاصد">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="مشمولات کی فہرست">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="Abbott کے کاروباری طریقہ کار کے ضابطہ کی اہمیت" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="ہماری روزمرہ کی وابستگیاں">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="ہمارے کاروبار کے ضابطہ کی اہمیت">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="ہمارا ضابطہ اخلاق" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="عمومی جائزہ">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="ہمارے گاہک">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="ہماری مصنوعات">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="سائنس کو ترقی دینا">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="ہمارے لوگ">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="ہماری معاشرتیں">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="ہمارا طریقہ کار">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="آپ کا عزم" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="آپ کا عزم">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="معلومات کی جانچ" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="تعارف">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="جائزہ">
+        <nav navId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="تاثرات">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="سروے">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>کاروباری طریقہ کار کا ضابطہ</p>
+      </div>
+      <p class="startInstruction">آگے بڑھنے والے تیر پر کلک کریں۔</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>ایک عالمی صحت کی دیکھ بھال کے رہنما کے طور پر، ہم ہر دن جو کرتے ہیں وہ اہم ہوتا ہے۔</p>
+        <p>ہمارا کاروباری طرزِ عمل کا ضابطہ ایک طاقتور قطب نما ہے جو ہمیں دیانت داری کے ساتھ عمل کرنے، مقصد کے ساتھ قیادت کرنے، اور ایسے انتخاب کرنے کا اختیار دیتا ہے جو اس کی بہترین عکاسی کریں کہ ہم کون ہیں۔ اسی طرح ہم اعتماد قائم کرتے ہیں، اپنی قدروں کو برقرار رکھتے ہیں، اور دنیا میں معنی خیز فرق پیدا کرتے رہتے ہیں۔</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>اس کورس کی تکمیل پر، آپ:</p>
+        <ul>
+          <li>ہمارے کاروبار کے لیے ہمارے کاروباری طرزِ عمل کے ضابطے کی اہمیت کو سمجھیں گے۔</li>
+          <li>کاروباری طریقہ کار کے ضابطے کے اہم اصولوں کی شناخت کر سکیں گے اور سمجھیں گے کہ وہ ہمارے روزمرہ کے کاموں پر کیسے لاگو ہوتے ہیں۔</li>
+          <li>یہ سمجھیں گے کہ دنیا بھر میں درست طریقے سے کاروبار کرنے کے لیے Abbott کی کیا توقعات ہیں۔</li>
+          <li>جانیں گے کہ مدد اور تعاون کے لیے کہاں جانا ہے۔</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>خوش آمدید</p>
+            <p>1 منٹ</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>Abbott کے کاروباری طریقہ کار کے ضابطے کی اہمیت</p>
+            <p>2 منٹ</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>ہمارا ضابطہ</p>
+            <p>18 منٹ</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>آپ کا عزم</p>
+            <p>1 منٹ</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>معلوماتی جائزہ</p>
+            <p>5 منٹ</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>سیکھنے کی پیش رفت</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">یہ موضوع اب دستیاب ہے۔</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>ہم دیانت داری، انصاف، اور ایمانداری کے ساتھ قیادت کرتے ہیں۔ ہر کوئی۔ ہر روز۔</p>
+        <p>ہمارا کاروباری طرزِ عمل کا ضابطہ ہمیں یاد دلاتا ہے کہ دیانت داری، انصاف، اور ایمانداری محض نظریات نہیں—یہ روزمرہ کے عہد ہیں۔ اگرچہ ضابطہ ہر چیلنج کی پیش گوئی نہیں کر سکتا جس کا ہم سامنا کر سکتے ہیں، لیکن یہ ہمیں رہنمائی کے لیے قدروں کی ایک مضبوط بنیاد فراہم کرتا ہے۔</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>ہم اعلیٰ ترین معیارات کے پابند ہیں۔</p>
+        <p>کاروباری طریقہ کار کا ضابطہ Abbott کی کامیابی کے لیے بنیادی حیثیت رکھتا ہے کیونکہ یہ اس معیار کو قائم کرتا ہے کہ ہم کیسے کام کرتے ہیں—دیانت داری، انصاف، اور ایمانداری کے ساتھ۔ یہ ہمیں اخلاقی فیصلے کرنے میں مدد دیتا ہے، خاص طور پر پیچیدہ حالات میں، اور اس بات کو یقینی بناتا ہے کہ ہم اپنی قدروں کے مطابق رہیں۔ ضابطے پر عمل کر کے، ہم اپنی ساکھ کا تحفظ کرتے ہیں، اُن لوگوں کے ساتھ اعتماد قائم کرتے ہیں جن کی ہم خدمت کرتے ہیں، اور ایک ایسا کام کا ماحول تشکیل دیتے ہیں جہاں درست کام کرنا اولین ترجیح ہو۔</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>ضابطے کو سمجھنا ہر ایک کی ذمہ داری ہے۔</p>
+        <p>ہم میں سے ہر فرد کا کردار ہے کہ کاروباری طرزِ عمل کے ضابطے کو اپنے روزمرہ کے کام اور فیصلہ سازی میں لاگو کرے۔ یہ صرف ایک دستاویز نہیں—یہ ایک رہنما ہے جو ہمیں چیلنجوں سے دیانت داری اور اعتماد کے ساتھ نمٹنے میں مدد دیتا ہے۔</p>
+        <p>اگلے حصوں میں، ہم ضابطے کے اہم اصولوں کا جائزہ لیں گے اور دیکھیں گے کہ یہ ہمارے روزمرہ کے اعمال اور انتخاب میں کیسے زندہ ہوتے ہیں۔</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">آپ کو آگے بڑھنے سے پہلے تمام مواد دیکھنا ضروری ہے۔</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott میں، ہم اُن لوگوں کی صحت اور بہبود کو بہتر بنانے کے لیے پُرعزم ہیں جو ہمارے مصنوعات پر انحصار کرتے ہیں۔</p>
+          </div>
+          <div>
+            <p>یہ ایک یاد دہانی ہے کہ ہر فیصلے، ہر جدت، اور ہر عمل کے پیچھے ایک مقصد ہوتا ہے—زندگی کو بہتر بنانا۔</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>مریض اور صارفین</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>نگہداشت صحت کے پیشہ ور</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>مزید جاننے کے لیے ہر آئیکن پر کلک کریں۔</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>مریض اور صارفین</p>
+                <p>لوگوں کی دیکھ بھال کرنا ہمارے کام کا مرکز ہے۔ ہم مریضوں اور صارفین کی صحت اور بہبود کو اولین ترجیح دیتے ہیں۔ ہر روز، ہم ایک معنی خیز فرق لا سکتے ہیں—لوگوں کو زیادہ صحت مند زندگی گزارنے میں مدد دے کر اور مضبوط، صحت مند کمیونٹیز میں تعاون کرکے۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>نگہداشت صحت کے پیشہ ور</p>
+                <p>ہم بہتر صحت کے لیے نگداشت صحت کے پیشہ ور افراد (HCPs) کے ساتھ کام کرتے ہیں۔ ہم نگہداشت صحت کے پیشہ ور افراد کے علم اور آزادانہ فیصلہ سازی کا احترام کرتے ہیں—چاہے وہ ڈاکٹر ہوں، یا نرسیں، فارماسسٹ، محققین، یا لیب کا عملہ ہو۔ مریضوں کو بہتر صحت کی طرف رہنمائی کرنے میں ان کا کردار ضروری ہے۔</p>
+                <p>Abbott میں، ہم اُنہیں درست اور بروقت معلومات فراہم کرکے مدد دینے کے لیے پُرعزم ہیں تاکہ وہ بہترین فیصلے کر سکیں۔ مل کر کام کر کے، ہم دنیا بھر میں صحت اور بہبود کو بہتر بنانے کے اپنے مشترکہ ہدف کو حاصل کر سکتے ہیں۔</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">آپ کو آگے بڑھنے سے پہلے تمام مواد دیکھنا ضروری ہے۔</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott میں، ہم اس بات کو یقینی بنانے کے پابند ہیں کہ ہم جو بھی مصنوعات فراہم کریں وہ محفوظ، مؤثر، اور اُن لوگوں کے اعتماد کے قابل ہوں جو ہم پر بھروسہ کرتے ہیں۔</p>
+          </div>
+          <div>
+            <p>ہم یہ یقینی بنانے کے لیے اقدامات کرتے ہیں کہ ہماری مصنوعات محفوظ اور مؤثر ہوں—درست مواد کے انتخاب سے لے کر اس بات تک کہ ہم انہیں کیسے مارکیٹ کرتے ہیں، فروخت کرتے ہیں، اور پہنچاتے ہیں۔ ہر مرحلے پر، ہم کوالٹی کے اعلیٰ معیارات پر عمل کرتے ہیں۔</p>
+            <p>ہم مصنوعات کی حفاظت کے مسائل کی بروقت شناخت، جائزہ، اور حل کرنے کے بھی پابند ہیں، ساتھ ہی جعلی سازی، غیر قانونی منتقلی، اور ہماری مصنوعات کی چوری کو روکنے کے اقدامات کرنے کے بھی پابند ہیں۔</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>مصنوع کا معیار</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>مصنوع کی تشہیر I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>مصنوع کی تشہیر II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>مزید جاننے کے لیے ہر آئیکن پر کلک کریں۔</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>مصنوع کا معیار</p>
+                <p>محفوظ، مؤثر اور قابلِ اعتماد۔ ہماری مصنوعات فرق پیدا کرتی ہیں۔</p>
+                <p>ہم ہر مرحلے پر معیار کے پابند ہیں—ذرائع سے حاصل کرنے اور پیداوار سے لے کر اس بات تک کہ ہم اپنی مصنوعات کو کیسے مارکیٹ کرتے ہیں، فروخت کرتے ہیں، اور پہنچاتے ہیں، بشمول اپنے شراکت داروں کے ذریعے۔ ہر قدم اہم ہے کیونکہ لوگ حفاظت کے لیے ہم پر انحصار کرتے ہیں۔</p>
+                <p>ہم مصنوعات کی حفاظت کے مسائل کی بروقت شناخت، جانچ، اور حل کرنے کے پابند ہیں۔ ہم اس بات کو یقینی بناتے ہیں کہ صحت کی دیکھ بھال کے پیشہ ور افراد اور اداروں کے پاس وہ معلومات ہوں جن کی انہیں ضرورت ہے تاکہ وہ ہماری مصنوعات کو محفوظ اور مؤثر طریقے سے استعمال کر سکیں، اور ممکنہ حفاظتی خدشات کی صورت میں ہم ریگولیٹری یا عوامی صحت کی ایجنسیوں سے رابطہ کرتے ہیں۔</p>
+                <p>ہم اپنی مصنوعات کی جعلی سازی، غیر قانونی منتقلی، اور چوری کو روکنے کے لیے اقدامات کرتے ہیں۔ ہم تجارتی ضوابط کی پیروی کرتے ہیں، بشمول برآمد اور درآمد کنٹرول کے قواعد، اور قومی سلامتی اور عوامی صحت کے تحفظ کے لیے حکومتی بندشوں اور پابندیوں کی تعمیل کرتے ہیں۔</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>مصنوع کی تشہیر I</p>
+                <p>ہم اپنی مصنوعات کو ایمانداری کے ساتھ اور اُن لوگوں کے احترام کے ساتھ فروغ دیتے اور فروخت کرتے ہیں جو ان پر انحصار کرتے ہیں۔</p>
+                <p>ہماری مصنوعات کی مواصلات سچّی، متوازن، اور منظور شدہ لیبلنگ، سائنسی شواہد، اور اُن ممالک میں طبی بہترین طریقوں کے مطابق ہوتی ہیں جہاں ہم کام کرتے ہیں۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>مصنوع کی تشہیر II</p>
+                <p>ہم اپنی مصنوعات کو اُن کے ارادی اور منظور شدہ استعمالات کے لیے فروغ دیتے ہیں۔</p>
+                <p>ہم اُن لائسنسوں اور منظوریوں کے مطابق کام کرتے ہیں جو صحت کے حکام نے ہمیں اُن ممالک میں دی ہیں جہاں ہم کام کرتے ہیں۔ ہماری مصنوعات کی تشہیر، فروخت، اور تقسیم سخت تجارتی قوانین اور ملک کے مخصوص ضوابط کی پیروی کرتی ہے۔ مضبوط اندرونی پالیسیوں اور طریقۂ کار کے ذریعے، ہم تعمیل کو یقینی بناتے ہیں اور اخلاقی، محفوظ، اور ذمہ دارانہ کاروباری طریقوں کے لیے اپنے عہد کو برقرار رکھتے ہیں۔</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">آپ کو آگے بڑھنے سے پہلے تمام مواد دیکھنا ضروری ہے۔</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott میں، ہم دیانت داری اور مقصد کے ساتھ سائنس کو آگے بڑھانے کے پابند ہیں۔</p>
+          </div>
+          <div>
+            <p>ہم جدت کا پیچھا کرتے ہیں، اس اعتراف کے ساتھ کہ خطرات کی پیش گوئی اور انہیں ذمہ داری سے حل کرنا اہم ہے۔ ہم ہر مطالعہ کے شریک کی وقار کا احترام کرتے ہیں اور سائنسی تحقیق میں شفافیت اور معروضیت کے اعلیٰ ترین معیارات کو برقرار رکھتے ہیں۔</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>جدت و اختراع I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>جدت و اختراع II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>سائنس کو ترقی دینا</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>مزید جاننے کے لیے ہر آئیکن پر کلک کریں۔</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>جدت و اختراع I</p>
+                <p>ہم لوگوں کو زیادہ صحت مند زندگی گزارنے اور دنیا بھر میں نتائج کو بہتر بنانے میں مدد کے لیے جدید صحت کی دیکھ بھال کے حل تخلیق کرتے ہیں۔</p>
+                <p>ہم انسانی ضروریات کا جواب دیتے ہیں انقلابی علاج، جان بچانے والے آلات، اور جدید مصنوعات کی تخلیق کے ذریعے جو صحت کو نئے طریقوں سے سہارا دیتی ہیں۔ جدید ترین سائنس اور ٹیکنالوجی کے ذریعے، ہم نتائج کو بہتر بنانے اور لوگوں کو اپنی بہترین زندگی گزارنے کے قابل بنانے کی کوشش کرتے ہیں—زندگی کے ہر مرحلے کے لیے معنی خیز جدتیں تخلیق کرتے ہوئے۔</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>جدت و اختراع II</p>
+                <p>ہم نئی امکانات کی تلاش کر کے اور ممکنہ حالات کی منصوبہ بندی کر کے جدت کی ثقافت کو پروان چڑھاتے ہیں۔</p>
+                <p>اگرچہ ترقی اکثر خطرے پر مشتمل ہوتی ہے، ہم چیلنجوں کی پیش گوئی کرنے اور انہیں پہلے سے کم کرنے کے لیے سوچ سمجھ کر اور ذمہ داری سے اقدامات کرتے ہیں—ہمیشہ ضابطے اور اپنی پالیسیوں سے رہنمائی حاصل کرتے ہیں۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>سائنس کو ترقی دینا</p>
+                <p>ہم تحقیق کرتے ہیں تاکہ درست، معروضی ڈیٹا تیار کریں جو جدت کو آگے بڑھاتا ہے، علاج بہتر بناتا ہے، اور صحت کی دیکھ بھال کو آگے لے جاتا ہے۔</p>
+                <p>تحقیق کرتے وقت، ہم مطالعہ کے شرکاء کے ساتھ وقار کے ساتھ پیش آتے ہیں، انہیں غیر ضروری خطرات سے بچاتے ہیں، اور اس بات کو یقینی بناتے ہیں کہ وہ تحقیق کی نوعیت اور مقصد اور متعلقہ خطرات کو سمجھیں۔ مطالعہ کے شرکت کنندگان سے باخبر رضامندی کا حصول ہمارے تحقیقی عمل کا ایک لازمی حصہ ہوتا ہے۔</p>
+                <p>ہم سائنسی تحقیق میں شفافیت کو قدر کی نگاہ سے دیکھتے ہیں اور نتائج پر غیر مناسب طریقے سے اثر انداز ہونے کی کوشش نہیں کریں گے۔ ہم اس بات کو یقینی بناتے ہیں کہ مطالعہ کا ڈیٹا درست ہو اور ہم اپنی مصنوعات سے متعلق تحقیق کے نتائج—خواہ مثبت ہوں یا منفی—بروقت اور درست طریقے سے فراہم کرنے کے پابند ہیں۔</p>
+                <p>جب تحقیق Abbott کے لیے کی جاتی ہے یا ہماری جانب سے شائع کی جاتی ہے، تو ہم ایسے ماہرین کے ساتھ شراکت کرتے ہیں جن کا سائنسی اور طبی پس منظر مضبوط ہو۔ ہم توقع کرتے ہیں کہ وہ Abbott سے کسی بھی تعلق، بشمول مالی یا دیگر تعلقات، کا انکشاف کریں گے۔</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">آپ کو آگے بڑھنے سے پہلے تمام مواد دیکھنا ضروری ہے۔</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott میں، ہم کھلے پن، تنوع، اور احترام کی ثقافت کو پروان چڑھاتے ہیں—کیونکہ یہ تخلیقی صلاحیت اور جدت کو آگے بڑھاتا ہے۔</p>
+          </div>
+          <div>
+            <p>ہم میں سے ہر ایک کی یہ ذمہ داری ہے کہ ہم ہر روز ضابطے کے مطابق زندگی گزاریں: دوسروں کے ساتھ احترام سے پیش آنا، محفوظ اور جامع کام کی جگہ بنانا، اور سب کے لیے مساوی مواقع کو یقینی بنانا۔</p>
+            <p>ہم سوالات پوچھتے ہیں جب چیزیں واضح نہيں ہوتی ہیں اور آواز اٹھاتے ہیں جب کچھ ٹھیک محسوس نہيں ہوتا ہے۔</p>
+            <p>یہ حصہ مساوی مواقع اور محفوظ کام کے ماحول کے لیے ہمارے عہد کو مضبوط کرتا ہے، اور ہمیں یاد دلاتا ہے کہ ہم جو بھی کریں اس میں ضابطے کو سمجھیں، لاگو کریں، اور برقرار رکھیں۔</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>اشتراک</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>ایک دوسرے سے ہمارا ربط</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>تشویشات کی اطلاع دہی</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>مساوی موقع</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>منصفانہ برتاؤ</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>کام کی جگہ کا ماحول</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>مزید جاننے کے لیے ہر آئیکن پر کلک کریں۔</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>اشتراک</p>
+                <p>ہم کھلے پن اور تعاون کو قدر کی نگاہ سے دیکھتے ہیں کیونکہ متنوع خیالات بہتر حل پیدا کرتے ہیں۔</p>
+                <p>ہم تنوع کو اپناتے ہیں کیونکہ یہ تخلیقی صلاحیت، توانائی، اور ترقی کو فروغ دیتا ہے۔ عالمی صحت پر معنی خیز اثر ڈالنے کے لیے، ہم ایک دوسرے کو سنتے ہیں، ہر آواز کی قدر کرتے ہیں، اور مقصد کے ساتھ مل کر کام کرتے ہیں۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ایک دوسرے سے ہمارا ربط</p>
+                <p>ہم سب ہر روز Abbott کی قدروں کے مطابق زندگی گزارنے کی ذمہ داری رکھتے ہیں۔</p>
+                <p>اخلاقی طور پر عمل کر کے، ہم اپنی ثقافت کو مضبوط کرتے ہیں۔ ہر کسی کے لیے ضروری ہے کہ وہ سمجھے کہ ضابطہ ان کے کردار اور کام پر کیسے لاگو ہوتا ہے۔</p>
+                <p>منیجرز اور سپروائزرز پر رہنماؤں کے طور پر خاص ذمہ داری ہوتی ہے—انہیں ہماری قدروں کی مثال پیش کرنی چاہیے، اخلاقی رویّے کو فروغ دینا چاہیے، اور ایسا محفوظ ماحول پیدا کرنا چاہیے جہاں ملازمین انتقامی کارروائی کے خوف کے بغیر سوالات پوچھنے اور تشویشات اٹھانے میں خود کو آرام دہ مح سوس کریں ۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>تشویشات کی اطلاع دہی</p>
+                <p>ہم سوالات پوچھتے ہیں جب کوئی چيز واضح نہيں ہوتی ہے یا ٹھیک محسوس نہيں ہوتی ہے۔ ہم آواز بھی اٹھاتے ہیں اور ضابطے کی کسی بھی ممکنہ خلاف ورزی کی رپورٹ کرتے ہیں۔</p>
+                <p>جب ہدایت واضح نہ ہو، تو سوال پوچھنا ہماری ذمہ داری ہے، اور مشتبہ غیر اخلاقی کاروباری رویے، ضابطے کی خلاف ورزی، یا Abbott کی پالیسیوں کی خلاف ورزی کو چیلنج کرنا اور رپورٹ کرنا ضروری ہے۔</p>
+                <p>اگر آپ صحیح انتخاب یا عمل کے بارے میں پریقین نہیں ہیں، تو اپنے منیجر سے بات کریں یا دفترِ اخلاقیات و تعمیل سے رابطہ کریں۔</p>
+                <p>منیجرز اور سپروائزرز کو مثال کے ذریعہ قیادت کرنی چاہیے اور یقینی بنانا چاہیے کہ ملازمین ضابطے کو سمجھیں اور اس کی پیروی کریں۔ رہنماؤں پر یہ ذمہ داری زیادہ عائد ہوتی ہے کہ وہ Abbott کی توقعات کو واضح کریں اور ضابطے کی کسی بھی ممکنہ خلاف ورزی کے بارے میں دفترِ اخلاقیات و تعمیل سے رابطہ کریں۔</p>
+                <p>ضابطے کی ممکنہ خلاف ورزیوں کی تمام رپورٹیں سنجیدگی سے لی جاتی ہیں۔ دفترِ اخلاقیات و تعمیل فالو اپ کے اقدامات کو سنبھالے گا، جس میں ضرورت پڑنے پر تحقیقات اور اصلاحی اقدامات کرنا شامل ہے۔ آپ کو خود تحقیقات نہیں کرنی چاہیے۔ ہر ایک کو تعاون کرنا چاہیے اور تحقیقات کو خفیہ رکھنا چاہیے۔</p>
+                <p>اصلاحی اقدامات میں نظم و ضبط (برطرفی تک اور بشمول) یا قانونی کارروائی شامل ہو سکتی ہے اگر:</p>
+                <ul>
+                  <li>کسی خلاف ورزی کی اجازت دی یا حصہ لیا؛</li>
+                  <li>تحقیقات میں تعاون کرنے سے انکار کیا؛</li>
+                  <li>کمزور نگرانی کی وجہ سے خلاف ورزی کی رپورٹ کرنے میں ناکام رہا؛</li>
+                  <li>غلط رپورٹ دی؛</li>
+                  <li>اچھی نیت سے تشویش ظاہر کرنے والے کے خلاف انتقامی کارروائی کی۔</li>
+                </ul>
+                <p>انتقامی کارروائی کبھی بھی قابلِ قبول نہیں ہے۔ اگر آپ کو لگتا ہے کہ انتقامی کارروائی ہوئی ہے، تو اسے دفترِ اخلاقیات و تعمیل یا انسانی وسائل کو رپورٹ کریں۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>مساوی موقع</p>
+                <p>ہم سبھی ملازمین کو مساوی مواقع فراہم کرتے ہیں۔</p>
+                <p>ہم کاروبار کی ضروریات، مہارتوں، تجربہ اور متعلقہ کام کی کارکردگی کی بنیاد پر ملازمت کے فیصلے لیتے ہیں۔ کسی بھی قسم کا امتیازی سلوک برداشت نہیں کیا جاتا۔ ہم اُن تمام قوانین کی پیروی کرتے ہیں جو دنیا بھر میں ملازمین کے ساتھ ہمارے تعلقات کو منظم کرتے ہیں۔</p>
+                <p>Abbott ذات، رنگ، مذہب، عمر، جنس، ملکی نژاد، صنفی شناخت یا اظہار، صنفی رجحان، معذوری، ازدواجی حیثیت، تجربہ کاری اور فوجی حیثیت، موروثی یا شہری حٰیثٰیت یا قانونی طور پر محفوظ کسی دیگر حیثیت کی بنیاد پر امتیاز برتنے کی ممانعت کرتا ہے۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>منصفانہ برتاؤ</p>
+                <p>ہم ایک بااخلاق، جامع، اور محفوظ کام کی جگہ کو پروان چڑھاتے ہیں۔</p>
+                <p>ہم اس بات کو یقینی بنانے کے لیے کام کرتے ہیں کہ ہر کوئی خوش آمدید، تعاون یافتہ، اور بااختیار محسوس کرے۔</p>
+                <p>Abbott صحت مند، ہراسانی سے پاک ماحول کو فروغ دیتا ہے اور تنوع اور شمولیت کو مضبوط بنانے کے لیے ملازمین کی رائے کی قدر کرتا ہے۔</p>
+                <p>ہم ہر ایک کے ساتھ احترام اور وقار کے ساتھ پیش آتے ہیں، انصاف اور ایمانداری کے ذریعے اعتماد پیدا کرتے ہیں—کبھی بھی دھوکہ دہی، غلط بیانی، یا شفافیت کی کمی کے ذریعے نہیں۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>کام کی جگہ کا ماحول</p>
+                <p>ہم حفاظت اور منصفانہ کام کرنے کے حالات کو ترجیح دیتے ہیں۔</p>
+                <p>حادثات یا غیر محفوظ حالات کو فوراً انتظامیہ کو رپورٹ کرنا ضروری ہے۔ Abbott غیر قانونی، نامناسب مزدوری کے طریقوں اور دنیا بھر میں ہماری کاروباری سرگرمیوں میں کسی بھی قسم کے ظالمانہ یا غیر انسانی سلوک کو روکنے اور ممنوع قرار دینے کے لیے بھی اقدامات کرتا ہے۔</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">آپ کو آگے بڑھنے سے پہلے تمام مواد دیکھنا ضروری ہے۔</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott میں، ہم کمیونٹی، ماحول، اور شمولیت کے ذریعے اعتماد قائم کرتے ہیں۔</p>
+          </div>
+          <div>
+            <p>ہم اُن کمیونٹیز کو واپس دینے کی کوشش کرتے ہیں جہاں ہم کام کرتے ہیں اور لوگوں کی زندگیوں پر مثبت، دیرپا اثر ڈالتے ہیں۔</p>
+            <p>Abbott توانائی کے استعمال کو کم کر کے اور قدرتی وسائل کے تحفظ کے ذریعے اپنے ماحولیاتی اثرات کو کم کرنے کے لیے کام کرتا ہے۔</p>
+            <p>ہم مناسب سیاسی شمولیت کی بھی حمایت کرتے ہیں اور اپنی عالمی سرگرمیوں میں کمیونٹی کی شمولیت کی حوصلہ افزائی کرتے ہیں۔</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>کمیونٹی کی شمولیت</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>ماحولیاتی ذمہ داری</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>سیاسی تعاون</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>مزید جاننے کے لیے ہر آئیکن پر کلک کریں۔</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>کمیونٹی کی شمولیت</p>
+                <p>ہم کمیونٹی کی فلاح و بہبود کی حمایت کرتے ہیں۔</p>
+                <p>Abbott میں، ہم اپنی مصنوعات، اپنے کام، اور اپنے اقدامات کے ذریعے کمیونٹیز کی فلاح و بہبود کی حمایت کرتے ہیں اور ہمارے پاس اُن جگہوں کو واپس دینے کی طویل تاریخ ہے جہاں ہم رہتے اور کام کرتے ہیں، کیونکہ ہم یقین رکھتے ہیں کہ صحت مند کمیونٹیز ترقی کرتی ہیں۔</p>
+                <p>اپنی کارروائیوں، شراکت داریوں، اور مقامی گروہوں اور مقاصد کی حمایت کے ذریعے، ہم جہاں بھی کاروبار کرتے ہیں وہاں مثبت اور دیرپا اثر ڈالنے کی کوشش کرتے ہیں۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ماحولیاتی ذمہ داری</p>
+                <p>ہم پائیدار ترقی میں حصہ لیتے ہیں اور ماحول پر اپنے اثر کو کم کرنے کے لیے کام کرتے ہیں۔</p>
+                <p>ہم ہر کام میں ماحول کے تحفظ کے لیے کام کرتے ہیں—مواد کیسے حاصل کیا جاتا ہے، مصنوعات کیسے بنائی جاتی ہیں، کیسے بھیجی جاتی ہیں، اور کیسے استعمال ہوتی ہیں، ان تمام مراحل سے۔</p>
+                <p>ہم کم توانائی اور کم قدرتی وسائل کے استعمال کے لیے اقدامات کرتے ہیں۔ ہم کام کی جگہوں اور اپنی کمیونٹیز میں صاف توانائی کے منصوبوں کی حمایت کرتے ہیں۔ ہم فضلہ کم کرنے، زیادہ ری سائیکل کرنے، اور ماحولیاتی خطرات کم کرنے کے طریقے تلاش کرتے ہیں۔ ہم اُن ماحولیاتی قوانین اور ضوابط کی بھی پیروی کرتے ہیں جو ہماری کارروائیوں پر لاگو ہوتے ہیں۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>سیاسی تعاون</p>
+                <p>ہم سیاسی عمل میں مناسب شمولیت کی حوصلہ افزائی کرتے ہیں اور کمیونیٹی کی شمولیت کی حمایت کرتے ہیں۔</p>
+                <p>Abbott ایسی عوامی پالیسیوں کی حمایت کرتا ہے جو ہمارے مشن اور اقدار کے مطابق ہوں۔ مناسب حالات میں، ہم سیاسی امیدواروں یا مفاداتی گروہوں کی بھی حمایت کر سکتے ہیں۔</p>
+                <p>چونکہ کمپنیوں کی جانب سے سیاسی شراکتوں سے متعلق قوانین پیچیدہ ہیں، اس لیے Abbott کے فنڈز کے کسی بھی استعمال—یا Abbott کی جانب سے کی گئی معاونت—کو پہلے قانونی شعبے کے ساتھ جائزہ لینا ضروری ہے۔</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">آپ کو آگے بڑھنے سے پہلے تمام مواد دیکھنا ضروری ہے۔</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott میں، ہم کاروبار ایمانداری سے کرنے اور اپنے وعدوں کو اپنے کام کے ہر شعبے میں پورا کرنے کے پابند ہیں۔</p>
+          </div>
+          <div>
+            <p>ہم مفادات کے ٹکراؤ کو سنبھالتے وقت Abbott کے مفادات کو اپنے مفادات پر ترجیح دیتے ہیں۔ ہم Abbott کے اثاثوں اور ساکھ کا تحفظ کرتے ہیں، خفیہ معلومات کو محفوظ رکھتے ہیں، اور ہر اس شخص کی رازداری کا احترام کرتے ہیں جو ہمارے ساتھ ذاتی معلومات شیئر کرتا ہے۔</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>منصفانہ لین دین</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>مفادات کے تصادم سے گریز کرنا I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>مفادات کے تصادم سے گریز کرنا II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>Abbott کی املاک اور وقار کا تحفظ</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>رازدارانہ معلومات</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>مزید جاننے کے لیے ہر آئیکن پر کلک کریں۔</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>منصفانہ لین دین</p>
+                <p>ہم اپنے کاروبار کی ساری سرگرمیوں میں دیانت داری کے ساتھ کاروبار کرتے ہیں اور اپنے وعدوں کو پورا کرتے ہیں۔</p>
+                <p>ہم میں سے ہر ایک اپنے کام اور اپنے کردار میں کیے گئے فیصلوں کا ذمہ دار ہے۔ ہر پیشہ ورانہ تعامل میں—چاہے ساتھی کارکنوں، صارفین، سپلائرز، صحت کے پیشہ ور افراد، حریفوں، یا دوسروں کے ساتھ ہو—ہمیں اس بارے میں منصفانہ اور ایماندار ہونا چاہیے کہ Abbott کاروبار کیسے کرتا ہے۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>مفادات کے تصادم سے گریز کرنا I</p>
+                <p>آگے بڑھنے سے پہلے ہم کسی بھی مفاد کے تصادم کی شناخت کرتے ہیں اور اسے حل کرتے ہیں۔</p>
+                <p>مفاد کا تصادم اس وقت واقع ہوتا ہے جب ذاتی مفادات Abbott کے بہترین مفاد میں مداخلت کریں—یا مداخلت کرتے ہوئے نظر آئیں۔ کاروباری فیصلے Abbott کی ضروریات پر مبنی ہونے چاہئیں، نہ کہ ذاتی فائدے یا خاندان یا دوستوں کے مفادات پر۔ ہم سے توقع کی جاتی ہے کہ ہم اچھا فیصلہ استعمال کریں اور اُن حالات سے بچیں جو حقیقی یا ممکنہ مفادات کے ٹکراؤ کا باعث بن سکتے ہیں۔ اگر ذاتی تعلقات، مفادات، یا بیرونی سرگرمیاں آپ کی منصفانہ اور مؤثر طریقے سے کام کرنے کی صلاحیت کو متاثر کرتی ہیں—یا آپ یا کسی خاندان کے فرد کو فائدہ پہنچا سکتی ہیں—تو آپ کو ممکنہ ٹکراؤ کا انکشاف کرنا چاہیے اور Abbott کی ہدایات کے مطابق خود کو اس صورتِ حال سے الگ کرنا چاہیے۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>مفادات کے تصادم سے گریز کرنا II</p>
+                <p>ہم کام سے متعلق فیصلے کرتے وقت Abbott کے مفادات کو پہلے رکھتے ہیں۔</p>
+                <p>اس کا مطلب ہے کہ کسی مخصوص ٹیم، گروہ، یا فرد کے اہداف کے مقابلے میں کمپنی کے اہداف کو ترجیح دینا۔ وہ تمام مواقع یا وسائل جن تک ہمیں Abbott میں اپنے کردار کے ذریعے رسائی ملتی ہے، کمپنی کے فائدے کے لیے استعمال ہونے چاہئیں—نہ کہ ذاتی فائدے کے لیے۔ ہمیں Abbott کے ساتھ مقابلہ نہیں کرنا چاہیے اور نہ ہی دوسروں کو ایسا کرنے میں مدد دینی چاہیے۔ جب مواقع پیدا ہوں، ہمارا فوکس Abbott کے مفادات کو آگے بڑھانے پر ہونا چاہیے۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>Abbott کی املاک اور وقار کا تحفظ</p>
+                <p>ہم اپنی کمپنی کے نگہباں ہیں۔</p>
+                <p>Abbott کے اثاثوں کی حفاظت کرنا اور انہیں دانشمندی سے استعمال کرنا ہم سب کی مشترکہ ذمہ داری ہے۔ اس میں جسمانی اشیاء جیسے گاڑیاں اور کمپیوٹرز سے لے کر قیمتی معلومات جیسے دانشورانہ ملکیت، تجارتی راز، اور خصوصی علم تک ہر چيز شامل ہے۔</p>
+                <p>ہمیں ہمیشہ اچھا فیصلہ استعمال کرنا چاہیے تاکہ یہ یقینی بنایا جا سکے کہ یہ وسائل مناسب، مؤثر، اور احتیاط سے استعمال ہوں—نقصان، چوری، غلط استعمال، یا ضیاع سے بچاتے ہوئے۔</p>
+                <p>Abbott کی ساکھ ہمارے سب سے قیمتی اثاثوں میں سے ایک ہے—اور ہم سب اس کے تحفظ میں کردار ادا کرتے ہیں۔</p>
+                <p>ہم میں سے ہر ایک اس بات کا ذمہ دار ہے کہ ہم Abbott کی نمائندگی کیسے کرتے ہیں، خاص طور پر عوامی ماحول اور آن لائن، جہاں ہم جو کچھ بھی شیئر کرتے ہیں—چاہے گفتگو میں، ای میلز میں، یا سوشل میڈیا پر—وہ کمپنی کی عکاسی کر سکتا ہے۔ سوچ سمجھ کر بات چیت کرنا، اچھا فیصلہ استعمال کرنا، اور Abbott کی خفیہ معلومات کی حفاظت کرنا اہم ہے۔</p>
+                <p>بیرونی طور پر بات چیت کرتے وقت، ہمیں غور کرنا چاہیے کہ آیا ہمیں Abbott کی نمائندگی کرتے ہوئے دیکھا جا سکتا ہے اور ہماری باتیں یا اقدامات اس کی ساکھ پر کیسے اثر ڈال سکتے ہیں۔ یہ خاص طور پر سوشل میڈیا پر اہم ہے، جہاں پوسٹس تیزی سے اور وسیع پیمانے پر پھیل سکتی ہیں—ایک لاپرواہ تبصرہ یا پوسٹ سے حقیقی نقصان ہو سکتا ہے۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>رازدارانہ معلومات</p>
+                <p>ہم تمام خفیہ معلومات، بشمول ذاتی ڈیٹا، کا احترام اور تحفظ کرنے کے پابند ہیں۔</p>
+                <p>رازدارانہ معلومات Abbott کے قیمتی ترین اثاثوں میں سے ایک ہے ۔ اس میں غیر عوامی تفصیلات شامل ہیں جیسے تحقیق، تجارتی راز، کاروباری منصوبے، قیمتیں، معاہدے، مالی نتائج، اور دیگر ڈیٹا جو اگر ظاہر ہو جائے تو مقابلہ کرنے والوں کو فائدہ دے سکتا ہے یا Abbott کو نقصان پہنچا سکتا ہے۔</p>
+                <p>ہمیں خفیہ معلومات کی حفاظت کرنی چاہیے اور غیر مجاز استعمال یا اشتراک کو روکنا چاہیے—حتیٰ کہ Abbott میں ہمارے وقت کے ختم ہونے کے بعد بھی۔</p>
+                <p>Abbott میں ہم دوسروں کی دانشورانہ ملکیت کا بھی احترام کرتے ہیں اور ان کی خفیہ معلومات کے غلط استعمال سے بچتے ہیں۔ غیر عوامی معلومات کا غلط استعمال، جیسے اندرونی تجارت کے لیے، غیر قانونی اور غیر اخلاقی ہے۔</p>
+                <p>ہم ان ذاتی ڈیٹا کی بھی حفاظت کرتے ہیں جو ہمیں ساتھیوں، صحت کی دیکھ بھال کے پیشہ ور افراد، اور صارفین کی طرف سے سونپا جاتا ہے۔ جب ہم ذاتی معلومات جمع کرتے اور استعمال کرتے ہیں، تو ہم اسے ذمہ داری سے، درست رضامندی کے ساتھ کرتے ہیں، اور اسے غیر مجاز ذرائع کو نہ فروخت کرتے ہیں اور نہ ہی ان سے حاصل کرتے ہیں۔ بہت سے مقامات پر سخت رازداری کے قوانین ہوتے ہیں، اور ہم انہیں سمجھنے اور ان کی پیروی کرنے کے پابند ہیں، خاص طور پر ذاتی معلومات کی سب سے حساس اقسام کے لیے۔</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">آپ کو آگے بڑھنے سے پہلے تمام مواد دیکھنا ضروری ہے۔</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott میں، ہم کاروبار ایمانداری سے کرنے اور اپنے وعدوں کو اپنے کام کے ہر شعبے میں پورا کرنے کے پابند ہیں۔</p>
+          </div>
+          <div>
+            <p>ہم مفادات کے ٹکراؤ کو سنبھالتے وقت Abbott کے مفادات کو اپنے مفادات پر ترجیح دیتے ہیں۔ ہم Abbott کے اثاثوں اور ساکھ کا تحفظ کرتے ہیں، خفیہ معلومات کو محفوظ رکھتے ہیں، اور ہر اس شخص کی رازداری کا احترام کرتے ہیں جو ہمارے ساتھ ذاتی معلومات شیئر کرتا ہے۔</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>انسداد رشوت</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>تحائف، کھانے اور تفریح</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>درست بہی کھاتے اور ریکارڈز</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>قوانین کی تعمیل</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>منصفانہ مسابقت</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>مزید جاننے کے لیے ہر آئیکن پر کلک کریں۔</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>انسداد رشوت</p>
+                <p>ہم دھوکہ دہی، رشوت خوری اور بدعنوانی کی سرگرمیوں کی سختی سے مخالفت کرتے ہیں۔ ہم درست طریقہ پر کاروبار کرتے ہیں۔</p>
+                <p>بطور افراد، ہم توقع کرتے ہیں کہ صحت کی دیکھ بھال کے پیشہ ور افراد فیصلے مریضوں کے بہترین مفاد میں کریں—نہ کہ کمپنیوں کی جانب سے مراعات کے ذریعے متاثر ہوں۔ اسی طرح، ہم توقع کرتے ہیں کہ سرکاری اہلکار عوامی مفاد میں کام کریں، اور کارپوریٹ دباؤ سے آزاد رہيں۔</p>
+                <p>Abbott میں، ہم صحت کی دیکھ بھال کے پیشہ ور افراد کو اپنی مصنوعات کے بارے میں آگاہ کرتے ہیں لیکن ان کے آزادانہ فیصلے میں مداخلت نہیں کرتے۔ صحت کی دیکھ بھال فراہم کرنے والوں (جیسے معالج، فارماسسٹ، نرس، محقق یا لیبارٹری اسٹاف)، سرکاری اہلکاروں، یا دوسروں کو کاروبار حاصل کرنے یا سابقہ تعلقات کا صلہ دینے کے لیے کسی قسم کی قیمتی چیز پیش کرنا کبھی بھی جائز نہیں ہے۔</p>
+                <p>ہم دنیا بھر میں انسداد رشوت ستانی، انسداد بدعنوانی، اور انسداد کک بیک قوانین کی پیروی کرتے ہیں، جس میں امریکی فارن کرپٹ پریکٹسز ایکٹ شامل ہے۔ Abbott کے ہر فرد کو سروس فراہم کرنے والوں—جیسے تقسیم کاروں، مشیروں، اور مقررین—کے ساتھ تعلقات کو احتیاط سے منظم کرنا چاہیے، جانچ پڑتال کر کے، منصفانہ مارکیٹ قیمت ادا کر کے، اور ادائیگیوں کی مناسب دستاویز بندی کر کے تاکہ قوانین اور کمپنی کے معیارات کی تعمیل کو یقینی بنایا جا سکے۔</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>تحائف، کھانے اور تفریح</p>
+                <p>ہم انسداد رشوت ستانی کے اصولوں کے مطابق کاروباری فائدہ حاصل کرنے کے لیے، براہ راست یا بالواسطہ، کسی بھی قیمتی چیز کی پیشکش یا فراہمی نہیں کرتے ۔</p>
+                <p>کاروباری فیصلوں میں غیر مناسب اثر و رسوخ کو روکنے کے لیے، ہم تحائف، کھانوں، اور تفریح کے حوالے سے حدود طے کرتے ہیں۔ Abbott کی پالیسیاں اس بات کو یقینی بنانے میں مدد کرتی ہیں کہ برانڈ یاد دہانیاں، ثقافتی روایات، مہمان نوازی، اور دیگر فوائد کبھی بھی پیشہ ورانہ فیصلے میں مداخلت نہ کریں۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>درست بہی کھاتے اور ریکارڈز</p>
+                <p>ہم درستگی کے ساتھ حصولیابیوں کی پیمائش کرتے ہیں۔</p>
+                <p>Abbott کے ریکارڈز اور عوامی بیانات کو ہماری کارروائیوں کی درست عکاسی کرنی چاہیے، اتنے سیاق و سباق کے ساتھ کہ ہمارے کام کی حقیقی نوعیت ظاہر ہو سکے۔ مالی ریکارڈز کو اکاؤنٹنگ کے معیار، قوانین، اور Abbott کی داخلی پالیسیوں کی پیروی کرنی چاہیے۔</p>
+                <p>جب قیمتوں، ادائیگیوں، یا قدر رکھنے والی اشیاء—خاص طور پر صحت کی دیکھ بھال کرنے والے پیشہ ور افراد کو—رپورٹ کرتے ہیں، تو ہمیں یقینی بنانا چاہیے کہ معلومات مکمل اور درست ہوں۔ بہت سی حکومتیں عوامی فنڈز کی حفاظت کے لیے اس شفافیت کا تقاضا کرتی ہیں۔ Abbott اس بات کے لیے پُرعزم ہے کہ قابلِ اعتماد ڈیٹا فراہم کرے تاکہ حکومتیں، بیمہ کنندگان، اور دیگر فریقین باخبر فیصلے کر سکیں۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>قوانین کی تعمیل</p>
+                <p>ہم ان سبھی قوانین، ضوابط اور Abbott کے تقاضوں پر عمل کرتے ہیں جن کا اطلاق ہمارے کام پر ہوتا ہے۔</p>
+                <p>Abbott کے ہر ملازم سے توقع کی جاتی ہے کہ وہ تمام قابلِ اطلاق قوانین، ساتھ ہی Abbott کی پالیسیوں، طریقہ کار، اور ضابطے کی پیروی کرے۔ یہ ملازمت کی بنیادی شرط ہے۔ Abbott کی پالیسیوں میں صحت کی دیکھ بھال کی تعمیل، معیار، مالیات، تجارت، سیکیورٹی، اور دیگر اہم شعبے شامل ہیں، جو ہمیں قانونی تقاضوں کو پورا کرنے اور عدم تعمیل سے بچنے میں مدد دیتے ہیں۔</p>
+                <p>ایک عالمی کمپنی ہونے کے ناطے، ہمیں یہ بھی معلوم ہونا چاہیے کہ ایک ملک کے قوانین دوسرے میں کیے گئے کام پر لاگو ہو سکتے ہیں۔ شک کی صورت میں، قانونی ڈویژن یا دفترِ اخلاقیات و تعمیل سے رہنمائی حاصل کریں۔</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>منصفانہ مسابقت</p>
+                <p>ہم اس بات کو یقینی بناتے ہیں کہ حریفوں کے ساتھ ہمارا کوئی بھی معاملہ مناسب ہو۔</p>
+                <p>Abbott میں ہم ہر جگہ جہاں ہم کام کرتے ہیں مقابلے کے قوانین کی پیروی کرنے کے پابند ہیں۔ یہ قوانین ایسے معاہدوں یا کارروائیوں کو منع کرتے ہیں جو منصفانہ مارکیٹ کے طریقوں—خاص طور پر قیمتوں، فروخت کی شرائط، اور حریفوں کے ساتھ تعاملات—کو کمزور کرتے ہیں۔</p>
+                <p>حساس موضوعات—جیسے قیمتیں، اخراجات، یا کاروباری منصوبے—پر حریفوں کے ساتھ گفتگو سے بچیں، اور اگر کوئی سوال ہو یا کوئی نامناسب چیز سامنے آئے تو قانونی یا دفترِ اخلاقیات و تعمیل سے رابطہ کریں۔ کیونکہ مقابلے کے قوانین پیچیدہ ہوتے ہیں اور خلاف ورزیوں پر سنگین جرمانے عائد کیے جا سکتے ہیں، ہمیں تیسرے فریقوں کے ساتھ تعلقات کو بھی احتیاط سے سنبھالنا چاہیے تاکہ تعمیل یقینی بنائی جا سکے اور مخالف مسابقتی رویے کے ظاہر ہونے سے بھی بچا جا سکے۔</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>اس کورس سے نکلنے سے پہلے، ایک لمحہ نکالیں تاکہ اس بات کی تصدیق کر لیں کہ آپ Abbott کے ضابطۂ اخلاقِ کاروبار سے متعلق اپنی ذمہ داریوں کو سمجھتے ہیں۔</p>
+          <p>میں تصدیق کرتا/کرتی ہوں کہ میں Abbott کے ضابطۂ اخلاقِ کاروبار سے متعلق اپنی ذمہ داریوں کو سمجھتا/سمجھتی ہوں اور جانتا/جانتی ہوں کہ متعلقہ پالیسیوں اور طریقہ کار کو کہاں تلاش کرنا اور جائزہ لینا ہے۔</p>
+          <button class="qcSubmitBtn">تصدیق کریں</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>مندرجہ ذیل معلومات کی جانچ 10 سوالات پر مشتمل ہے۔ اس کورس کو کامیابی کے ساتھ مکمل کرنے کے لیے آپ کا 80 فیصد یا اس سے زیادہ اسکور حاصل کرنا ضروری ہے۔</p>
+        <p>جب آپ تیار ہوں تو معلومات کی جانچ والے بٹن پر کلک کریں۔</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>کاروباری طریقہ کار کا ضابطہ کیوں اہم ہے؟</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>یہ ہمیں اپنے کام میں پیش آنے والی ہر صورتحال کے لیے مخصوص مشورہ فراہم کرتا ہے۔</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>یہ اصولوں اور اقدار کا واضح مجموعہ فراہم کرتا ہے جس کی بنیاد پر ہم فیصلے کر سکتے ہیں جب بہترین راستہ فوراً واضح نہ ہو۔</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">اگلا</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>ضابطۂ اخلاقِ کاروبار ہمیں اصولوں اور اقدار کا واضح مجموعہ فراہم کرتا ہے تاکہ جب بہترین راستہ واضح نہ ہو تو ہم اس کی بنیاد پر فیصلے کر سکیں۔</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>درج ذیل میں سے کون سا کاروباری لین دین ایک مناسب کام <span class="underline">ہرگز نہیں</span> ہے؟</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>کسی خاص بیماری کے شعبے میں مہارت رکھنے کی وجہ سے ایک HCP کو لیکچر دینے کے لیے رکھنا۔</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Abbott کی اسپانسر کردہ تعلیمی پروگرام کے شرکاء کو مناسب کھانا فراہم کرنا۔</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>کسی مقامی تنظیم کے لیے خیراتی عطیہ کا انتظام کرنا۔</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Abbott کی مصنوعات استعمال کرنے پر شکریہ ادا کرنے کے لیے ایک HCP کو تعلیمی پروگرام انجام دینے کے لیے رکھنا۔</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">اگلا</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>مہارت کی بنیاد پر تعلیمی پروگرام انجام دینے کے لیے HCP کو رکھنا درست ہے، لیکن Abbott کی مصنوعات استعمال کرنے کا شکریہ ادا کرنے کے طور پر HCP کو رکھنا نامناسب ہے کیونکہ اسے رشوت سمجھا جا سکتا ہے۔</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>رشوت اور بدعنوانی میں ملوث افراد کے نتائج میں درج ذیل شامل ہو سکتے ہیں:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>ساکھ کو نقصان۔</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>جرمانے اور سزائیں۔</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>ملازمت کا خاتمہ۔</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>قید۔</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>مذکورہ بالا سبھی۔</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">اگلا</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>رشوت اور بدعنوانی میں ملوث افراد کو ساکھ کو نقصان، جرمانے و سزائیں، ملازمت کا خاتمہ، اور یہاں تک کہ قید بھی ہو سکتی ہے۔</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>ایک سیلز نمائندہ کے پاس ایک چھوٹی جیولری کی دکان بھی ہے۔ وہ فیصلہ کرتی ہے کہ ایسے HCPs کو اپنی دکان سے چھوٹے تحائف دینا اچھا ہوگا جنہوں نے حال ہی میں Abbott کی مصنوعات تجویز نہیں کیں۔ کیا یہ ٹھیک ہے؟</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>ہاں</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>نہیں</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">اگلا</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Abbott کی پالیسی HCPs کو تحائف دینے سے منع کرتی ہے کیونکہ سیلز نمائندہ Abbott کے نمائندے کے طور پر کام کر رہی ہے۔ تحائف ممنوع ہیں چاہے وہ اپنی جیب سے ادائیگی کر رہی ہو۔ تحائف فراہم کرنا مستقبل کے کاروبار کے لیے رشوت کے طور پر بھی سمجھا جا سکتا ہے۔</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>ایک سیلز مینیجر کو ایک مقابل کمپنی کے رابطہ کار کی طرف سے کال موصول ہوتی ہے۔ مقابل کمپنی بتاتی ہے کہ ایک تیسرے فریق کی سیلز ٹیم، جسے Abbott نے ایک نئی مارکیٹ میں کنٹریکٹ کیا ہے، مبینہ طور پر ان گاہکوں کو شاندار کھانے پیش کر رہی ہے جو حریفوں کی بجائے Abbott کی مصنوعات کا انتخاب کرتے ہیں۔ مناسب کارروائی کیا ہے؟</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>کچھ نہ کریں، کیونکہ معلومات ایک مقابل کمپنی سے آئی ہے۔</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>کچھ نہ کریں، کیونکہ شاندار کھانے اس مارکیٹ میں عام ہیں۔</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>معاملے کو فوراً دفترِ اخلاقیات و تعمیل (OEC) کو رپورٹ کریں۔</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>متبادل ڈسٹریبیوٹرز کی تحقیق کریں اگر دعویٰ درست ہو۔</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">اگلا</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>آپ کو الزام کو فوراً دفترِ اخلاقیات و تعمیل (OEC) کو رپورٹ کرنا چاہیے تاکہ اس کی مناسب تحقیقات ہو سکے، چاہے معلومات کسی مقابل سے آئی ہو۔</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>ایک ٹریول ایجنسی ان ہیلتھ کیئر پروفیشنلز (HCPs) کے لیے سفر کا انتظام کر رہی ہے جو Abbott کے لیے پرکٹرنگ خدمات فراہم کرتے ہیں۔ جمع کرائی گئی رسیدوں کا جائزہ لینے پر تضادات پائے جاتے ہیں—کل رقم ادائیگی کی درخواست سے مطابقت نہیں رکھتی، اور کچھ رسیدوں میں سفر کی تاریخوں جیسی اہم تفصیلات غائب ہیں۔</p>
+              <p>مناسب کارروائی کیا ہے؟</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>ٹریول ایجنسی کو مطلع کریں کہ مکمل اور درست دستاویزات کے بغیر Abbott ادائیگی پر عمل نہیں کر سکتا۔</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>رسیدوں پر عمل کریں کیونکہ کچھ معلومات ہی غائب ہیں۔</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>ایجنسی کو مشورہ دیں کہ اگلی بار زیادہ درست ہو۔</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>کچھ نہ کریں، کیونکہ ایجنسی نئی ہے۔</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">اگلا</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Abbott کے بہی کھاتوں اور ریکارڈز میں تمام لین دین کا مکمل اور درست اندراج کرنا ضروری ہے۔ لہٰذا، یہ ضروری ہے کہ وہ تیسرے فریق جو Abbott کے لیے خدمات انجام دیتے ہیں مکمل دستاویزات فراہم کریں جو لین دین کے اصل مقصد اور تفصیلات کی درست عکاسی کرتی ہوں۔</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>آپ ایک الحاق یافتہ کمپنی میں کام کر رہے ہیں جہاں تعلیمی کانفرنسوں میں HCPs کی شرکت کے لیے ان کی کفالت کرنے کی اجازت ہے۔ کسی کانفرنس میں شرکت کے لیے آپ ایچ سی پیز (HCPs) کے انتخاب کے عمل میں شامل ہیں۔ وہ معیار جو آپ انتخاب کے لیے استعمال کرتے ہیں یہ ہیں: (1) آیا کانفرنس کا موضوع HCP کے دائرہ مہارت کے اندر آتا ہے؛ (2) آیا Abbott نے گزشتہ سال HCP کی کفالت کی ہے؛ اور (3) آیا HCP کے تقریب میں شامل ہونے کے بعد Abbott کی مصنوعات کی سفارش کرنے یا Abbott کے آلات استعمال کرنے کی سفارش کرنے کا امکان ہے۔ کیا یہ معیارات مناسب ہیں؟</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>ہاں۔ دو اہم کسوٹیاں جنہیں لوگوں کی کفالت کرتے وقت پورا کرنا ضروری ہے وہ یہ ہیں کہ کفالت: (a) HCP کے دائرہ مہارت سے متعلق ہو، اور (b) کاروبار کے لیے انعام یا لالچ کے طور پر اس کا استعمال نہ کیا جا رہا ہو۔ دوسری کسوٹی کو یقینی بنانے میں یہ حقیقت مدد کرتی ہے کہ آپ اس بات کو یقینی بنانے کے لیے جانچ کررہے ہیں کہ Abbott نے گزشتہ سال HCP کی کفالت نہیں کی ہے۔</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>ہاں۔ جب تک HCP کی کفالت کرنے کی وجہ کسی فرد کو متاثر کرنا یا اسے انعام دینا نہ ہو، آپ اپنی سرمایہ کاری کے منافع پر غور کر سکتے ہیں - آیا وہ فرد Abbott کی مصنوعات مریضوں کو تجویز کرنا جاری رکھے گا یا نہیں۔</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>نہیں۔ کفالت سے متعلق فیصلے اس کسوٹی کی بنیاد پر نہیں کیے جا سکتے ہیں کہ HCP کے کسی کفالت کردہ پروگرام میں شرکت کرنے کے بعد اس کے ذریعے Abbott کی مصنوعات کی سفارش کرنے یا Abbott کے آلات استعمال کرنے کی سفارش کرنے کا امکان ہے۔</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>ہاں۔ جب تک کم از کم ایک معیار مناسب ہو، اضافی نامناسب معیار کی موجودگی متعلقہ نہیں ہے۔</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">اگلا</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>کفالت سے متعلق فیصلے ہماری مصنوعات یا آلات کے ماقبل استعمال کے لیے ایک انعام کے طور پر یا مستقبل میں زیادہ استعمال کے لیے ایک لالچ کے طور پر کبھی نہیں کیے جانے چاہئیں۔ یہ بات یاد رکھیں کہ بہت سے علاقوں میں اسپانسرشپ پر پابندی عائد ہے۔ اسپانسرشپ فراہم کرنے سے پہلے ہمیشہ اپنے متعلقہ طریق کار کو مدنظر رکھیں۔</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>ایک Abbott سیلز رپریزنٹیٹو ایک صحت کے پیشہ ور (HCP) کو کسی پروڈکٹ کے بارے میں معلومات فراہم کرتا ہے۔ گفتگو کے بعد، HCP بتاتا ہے کہ ایک حریف نے فروخت بڑھانے میں مدد کے بدلے ایک نیا آئی پیڈ پیش کیا ہے۔</p>
+              <p>مناسب کارروائی کیا ہے؟</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>وہی ترغیب پیش کریں تاکہ مقابلہ برقرار رہے۔</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>آئی پیڈ کی پیشکش کو مسترد کریں لیکن گفتگو جاری رکھنے کے لیے مہنگے کھانے کی تجویز دیں۔</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>وضاحت کریں کہ Abbott صحیح طریقے سے کاروبار کرتا ہے اور فیصلہ سازی پر غلط اثر ڈالنے والی کوئی بھی قیمتی چیز پیش نہیں کر سکتا۔ پھر، معاملے کو فوراً دفترِ اخلاقیات و تعمیل (OEC) کو رپورٹ کریں۔</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>HCP کا معلومات دینے پر شکریہ ادا کریں اور وعدہ کریں کہ آپ اس پر غور کریں گے۔</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">اگلا</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>کاروبار کا غلط فائدہ اٹھانے کے لیے یا کاروبار حاصل کرنے کے لیے یا اسے برقرار رکھنے کے لیے آپ کو ہرگز کسی قیمتی چیز کی پیشکش، وعدہ، اور وصول نہیں کرنا چاہیے۔ آپ کے حریف جو بھی کریں، آپ کے لیے قابل اطلاق قانون اور Abbott کی پالیسی کی پابندی ضروری ہے، جس میں Abbott کی عالمی انسداد بدعنوانی پالیسی (GLB-ANTI-CORRUPTION) کی شرائط بھی شامل ہیں۔ شک کی صورت میں ہمیشہ قانونی شعبہ (Legal) یا او ای سی سے مشورہ کریں۔</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>درج ذیل میں سے کون سی مثالیں ایسی قیمتی چیزوں کی ہیں جو کاروبار حاصل کرنے کے لیے نہیں دی جانی چاہئیں؟</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>HCPs اور ان کے خاندانوں کو اسپا، کیسینو یا دیگر تفریحی مقامات کے دوروں پر لے جانا۔</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>مستقبل کی تحقیق یا تعلیمی منصوبوں کے لیے گرانٹس۔</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>سرکاری اہلکاروں کی پسندیدہ چیریٹی اداروں کو عطیات۔</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>مذکورہ بالا سبھی۔</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">اگلا</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>رشوت خوری اور بدعنوانی سے متعلق عالمی انسداد بدعنوانی میں موجود Abbott کے معیارات ایمانداری، غیر جانبداری اور دیانت داری کے ساتھ کاروبار کرنے کے لیے ہمارے عہد کے مطابق ہے۔ اس کا مطلب یہ ہے کہ کاروباری کامیابی حاصل کرنے کے لیے قیمتی اشیا دینے یا پیشکش کرنے کی اجازت نہیں ہے۔</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>ایک HCP جو ایک اہم رائے ساز ہے، پوچھتا ہے کہ آیا آپ Abbott کے لیے اضافی کاروباری مواقع کے بدلے اس کے لیے اس تعلیمی پروگرام کے لیے کچھ مدد کا انتظام کر سکتے ہیں جس میں وہ شرکت کرنا چاہتا ہے ۔ کون سا آپشن سب سے زیادہ مناسب ہے؟</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>درخواست کو سختی سے مسترد کریں کیونکہ یہ Abbott کی اینٹی کرپشن پالیسی کی خلاف ورزی ہے۔</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>HCP کو بتائیں کہ آپ اپنے مینیجر سے پوچھیں گے۔</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>درخواست سے اتفاق کریں، کیونکہ HCP ایک اہم رائے ساز ہے اور بہت اثر رکھتا ہے۔</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>ان میں سے کوئی نہیں۔</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">جمع کریں</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>ہم انسداد رشوت ستانی کے اصولوں کے مطابق کاروباری فائدہ حاصل کرنے کے لیے، براہ راست یا بالواسطہ، کسی بھی قیمتی چیز کی پیشکش یا فراہمی نہیں کرتے۔</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>کوئی نتائج دستیاب نہیں ہیں کیونکہ آپ نے معلومات کی جانچ مکمل نہیں کی ہے۔</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>مبارک ہو! آپ نے کامیابی کے ساتھ معلومات کی جانچ پاس کرلی ہے۔</p>
+          <p>براہ مہربانی ہر سوال پر کلک کر کے نیچے اپنے نتائج کا جائزہ لیں۔</p>
+          <p>جب آپ مکمل کر لیں، تو ایک مختصر سروے لینے کے لیے فارورڈ تیر پر کلک کریں۔</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>معذرت، آپ معلومات کی جانچ میں کامیاب نہیں ہوئے۔ کچھ وقت نکال کر ہر سوال پر کلک کرکے نیچے اپنے نتائج کا جائزہ لیں۔</p>
+          <p>جب آپ مکمل کرلیں تو دوبارہ کریں بٹن پر کلک کریں۔</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>${C_199.1}</p>
+          <p>${C_199.2}</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.3}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.4}</p>
+                  <p>${C_199.5}</p>
+                  <p>${C_199.6}</p>
+                  <p>${C_199.7}</p>
+                  <p>${C_199.8}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.9}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>اس سیشن کے نتیجے میں، مجھے Abbott کے کوڈ آف بزنس کنڈکٹ کی بہتر سمجھ حاصل ہوئی ہے۔</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>مکمل غیر متفق</p>
+                  <p>غیر متفق</p>
+                  <p>غیر جانبدار</p>
+                  <p>متفق</p>
+                  <p>مکمل متفق</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.16}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.17}</p>
+                  <p>${C_199.18}</p>
+                  <p>${C_199.19}</p>
+                  <p>${C_199.20}</p>
+                  <p>${C_199.21}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.22}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">${C_199.23}</p>
+          <button class="surveySubmit">
+            <p>${C_199.24}</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">معاونت کے لیے کہاں جائیں</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>مینیجر</p>
+        <p>اگر آپ کے پاس Abbott سے باہر دیگر لوگوں کے ساتھ اپنے میل جول کے بارے میں سوالات ہوں تو سب سے پہلے اپنے مینیجر سے پوچھیں۔</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>تحریری معیارات</p>
+        <ul>
+          <li>دوسروں کے ساتھ میل جول کے بارے میں ہماری کمپنی کی بنیادی توقعات کے لیے، ہمارے <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">کاروباری ضابطہ اخلاق</a>ملاحظہ فرمائیں۔</li>
+          <li>کمپنی بھر میں قابل اطلاق ہماری کارپوریٹ پالیسی اور طریقۂ کار کے لیے، <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">عالمی پالیسی پورٹل</a> پر جائیں۔</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>اخلاقیات اور تعمیل کا دفتر (او ای سی)</p>
+        <p>او ای سی ایک عالمی ذریعہ ہے جو ہماری کمپنی کی اقدار اور کنڈکٹ کے معیار کے بارے میں آپ کے سوالات کا جواب دینے کے لیے دستیاب ہے۔</p>
+        <ul>
+          <li>Abbott World پر <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">OEC ویب پیج</a> ملاحظہ کریں۔</li>
+          <li>اگر بدعنوان کاروباری سرگرمیوں کے بارے میں آپ کی کوئی تشویش ہو، خواہ کمپنی کے اندر یا گاہکوں یا دیگر فریقین ثالث کے ساتھ آپ کے معاملات میں، تو اپنے خدشات کی رپورٹ او ای سی کو (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) پر یا قانونی شعبہ کو دیں یا ہماری کثیر لسانی <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">اسپیک اپ</a> پر فون کریں جو 24/7 دنیا بھر میں دستیاب ہے۔</li>
+          <li>iComply –نگہداشت صحت کے پیشہ ور اور نگہداشت صحت کے اداروں، اور فریق ثالث کے ساتھ تعامل کے لیے تیار کردہ تعمیل سے متعلق ایپلی کیشنز اور وسائل تک رسائی کے لیے <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> ملاحظہ فرمائیں۔</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>انسانی وسائل</p>
+        <p>ملازم سے متعلق مسائل کے لیے جیسے کہ مینجمنٹ اور/یا دیگر ملازمین سے متعلق مسائل کے لیے، اپنے مقامی <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">انسانی وسائل کے نمائندے</a> سے رابطہ کریں۔</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>قانونی شعبہ</p>
+        <p>رشوت خوری اور بدعنوانی کے قانونی مضمرات کے بارے میں سوالات اور مسائل کے لیے قانونی شعبے سے رابطہ کریں۔</p>
+        <ul>
+          <li>Abbott World میں قانونی ہوم پیج تک رسائی کے لیے یہاں کلک کریں۔</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>دیگر وسائل</p>
+        <p>آپ کے لئے دیگر بہت سے وسائل دستیاب ہیں:</p>
+        <p>مالیات – اگر آپ کا سوال حساب یا مالیات کے بارے میں ہے تو اپنے مقامی مالیات محکمہ سے رابطہ کریں۔</p>
+        <p>کارپوریٹ آڈٹ – اگر آپ کو حساب کتاب، داخلی اکاؤنٹنگ کنٹرولز یا آڈٹنگ معاملات کے بارے میں تشویشات ہیں تو فوراً اس کی اطلاع کارپوریٹ آڈٹ یا او ای سی کو دیں۔</p>
+        <p>Abbott معیار اور انضباط – اگر آپ کے پاس ہماری مصنوعات کے معیار اور سلامتی کے بارے میں سوالات ہوں تو اپنے مقامی معیار یا انضباط محکمہ سے رابطہ کریں۔</p>
+        <p>عالمی ماحولیاتی صحت اور سلامتی – اگر آپ کے پاس کسی فزیکل سائٹ یا ممکنہ خطرات کے بارے میں سوالات ہوں تو عالمی ماحولیاتی صحت اور سلامتی کے نمائندہ سے رابطہ کریں۔</p>
+        <p>عالمی حصولیابی - اگر آپ کے پاس سپلائر کے تعلقات سے متعلق سوالات ہیں تو عالمی حصولیابی سے رابطہ کریں۔</p>
+      </div>
+      <p class="resSubtitles" data-break="true">کورس کے وسائل</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>ٹرانسکرپٹ</p>
+        <p>کورس کی ایک مکمل تحریری نقل کے لیے <a href="reference/Quick_Reference.pdf" target="_blank">یہاں</a> کلک کریں</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>کورس LMS سے رابطہ نہیں کر سکتا۔ کورس کو جاری رکھنے اور جائزہ لینے کے لیے 'اوکے' پر کلک کریں۔ نوٹ، کورس سرٹیفیکیشن ہو سکتا ہے دستیاب نہ ہو۔ باہر نکلنے کے لیے 'منسوخ' پر کلک کریں۔</s1>
+    <s2>تمام سوالات بغیر جواب کے ہیں</s2>
+    <s3>سوالات</s3>
+    <s4>سوال</s4>
+    <s5>جواب نہیں دیا گیا</s5>
+    <s6>یہ درست ہے!</s6>
+    <s7>یہ درست نہیں ہے!</s7>
+    <s8>تاثرات:</s8>
+    <s9>کاروباری طریقہ کار کا ضابطہ</s9>
+    <s10>معلومات کی جانچ</s10>
+    <s11>جمع کریں</s11>
+    <s12>دوبارہ لیں</s12>
+    <s13>کورس کی تفصیل: ہمارے کاروبار کا ضابطہ اخلاق ایک انتہائی اہم دستاویز ہے جو ہر ملازم سے وابستہ ہماری کمپنی کی توقعات کو بیان کرتا ہے کیونکہ ہم اپنے روز مرّہ کے کام میں Abbott کی نمائندگی کرتے ہیں۔ یہ ہماری ذمہ داریوں اور برتاؤ کے لیے بنیاد فراہم کرتا ہے جو Abbott کے لیے، ہمارے اپنے لیے اور ان بہت سارے لوگوں کے لیے، بہترین فیصلے کرنے میں ہماری مدد کرتا ہے، جن کی ہم خدمت کرتے ہیں۔ یہ کورس کوڈ کا اعلیٰ سطحی جائزہ فراہم کرتا ہے، ہماری کمپنی کی توقعات اور آپ کے فرائض کی وضاحت کرتا ہے، اور عملی مشورہ دیتا ہے کہ جب آگے کا بہترین راستہ طے کرنا مشکل ہو تو کیا کرنا چاہئے۔ کورس کو مکمل کرنے میں 35-45 منٹ لگیں گے۔</s13>
+    <s14>مینو</s14>
+    <s15>وسائل</s15>
+    <s16>حوالہ جاتی مواد</s16>
+    <s17>آڈیو</s17>
+    <s18>باہر نکلیں</s18>
+    <s19>بند کریں</s19>
+    <s20>تبصرہ کریں…</s20>
+  </strings>
+</course>

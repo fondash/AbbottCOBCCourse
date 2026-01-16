@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="歡迎" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="業務行為準則">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="我們的理念">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="目標">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="目錄">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="亞培《業務行為準則》的重要性" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="我們的日常承諾">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="《準則》對我們業務的重要性">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="我們的《準則》" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="概述">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="我們的客戶">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="我們的產品">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="促進科學">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="我們的成員">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="我們的社區">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="我們的運營方式">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="您的承諾" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="您的承諾">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="知識測驗" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="簡介">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="評估">
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="意見回饋">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="調查">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>業務行為準則</p>
+      </div>
+      <p class="startInstruction">點選前進箭頭。</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>作為全球醫療保健業的領先者，我們每一天所做的事項都很緊要。</p>
+        <p>我們的《業務行為準則》是一份強效的指南，賦予我們能力而做到以誠信行事、以目標引領，並做出能反映我們最好一面的選擇。它是我們建立信任、堅持我們的價值觀，並持續對這個世界大有作為的方式。</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>在完成本課程之後，您將：</p>
+        <ul>
+          <li>明白《業務行為準則》對公司業務的重要性。</li>
+          <li>能夠辨識《業務行為準則》的核心原則，並瞭解其於日常工作實務的應用。</li>
+          <li>瞭解亞培對以正確方式在全球進行業務的期望。</li>
+          <li>瞭解何處可取得協助與支援。</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>歡迎</p>
+            <p>1 分鐘</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>亞培《業務行為準則》的重要性</p>
+            <p>2 分鐘</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>我們的《準則》</p>
+            <p>18 分鐘</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>您的承諾</p>
+            <p>1 分鐘</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>知識測驗</p>
+            <p>5 分鐘</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>學習進度</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">此主題現可供學習。</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>我們以誠信、公平和誠實為引領。每個人。每一天。</p>
+        <p>我們的《業務行為準則》提醒我們，誠信、公平和誠實不僅僅是理念——更是日常要致力實現的承諾。雖然本《準則》預料不到我們可能面臨的每一個挑戰，但它提供了一個強大的、可引導我們的價值觀基準。</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>我們致力於達到最高標準。</p>
+        <p>《業務行為準則》是亞培成功的關鍵所在，因為它為我們以誠信、公平和誠實的方式工作設定了標準。它幫助我們做出合乎道德的決定，尤其是在複雜情況下的決定，並確保我們與公司的價值觀保持一致。透過遵守《準則》，我們保護了公司的聲譽、與我們的服務對象建立了信任，並培養起一種正確行事至高無上的職場文化。</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>理解《準則》是每位員工的責任。</p>
+        <p>我們每位員工都有責任將《業務行為準則》付諸於我們的日常工作與決定。《準則》不只是一份文檔，它是幫助我們以誠信和信心應對挑戰的指引。</p>
+        <p>在接下來的課節中，我們將會探索《準則》的核心原則，並看看這些原則是如何活靈活現地實現於我們的日常行動和所作選擇之中。</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">您必須先檢視所有內容，然後才能繼續。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>在亞培，我們致力於改善那些依賴我們產品之人的健康與福祉。</p>
+          </div>
+          <div>
+            <p>這是一個提醒，貫穿在每個決定、每個創新和每個行動的背後都是同一個目標——讓生活更美好。</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>患者與消費者</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>醫護人員</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>點選每個圖示以進一步瞭解。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>患者與消費者</p>
+                <p>照護人們是我們工作的核心。我們將患者與消費者的健康與福祉置於首位。我們每天都能有所作為——幫助人們過上更健康的生活，並為建立更強大、更健康的社區貢獻力量。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>醫護人員</p>
+                <p>我們與 HCP 合作，共同增進更好的健康。我們尊重醫護人員（醫師、護理師、藥師、研究人員還是實驗室職員皆然）的知識和獨立判斷。對於引導患者獲得更好的健康，他們的作用不可或缺。</p>
+                <p>在亞培，我們致力以及時準確的資訊為醫護人員提供支援，以便他們做出最佳決斷。透過共同努力，我們可以實現我們改善全球健康與福祉的同心目標。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">您必須先檢視所有內容，然後才能繼續。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>在亞培，我們致力於確保我們提供的每一種產品都安全、有效、不會辜負人們對我們的信任。</p>
+          </div>
+          <div>
+            <p>我們採取措施確保我們的產品安全有效——從選擇正確的材料到行銷、銷售和交付產品的方式，都嚴格把關。在每個階段，我們都遵循高品質標準。</p>
+            <p>我們也致力於及時辨識、評估和解決產品安全問題，並採取行動防範我們的產品被偽造、非法轉用和竊取。</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>產品品質</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>產品推廣 I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>產品推廣 II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>點選每個圖示以進一步瞭解。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>產品品質</p>
+                <p>安全、有效且受人信賴。我們的產品與眾不同。</p>
+                <p>我們致力於每個階段都維持高品質，從採購和生產，到產品的行銷、銷售和交付，包括透過合作夥伴完成的環節。每一步都至關緊要，因為人們將安全寄託在我們身上。</p>
+                <p>我們致力於及時辨識、評估和解決產品安全問題。我們確保醫護人員與機構擁有所需資訊，以利其安全有效地使用我們的產品，並且與主管機關及公共衛生機構保持溝通以妥善處理潛在安全顧慮。</p>
+                <p>我們採取措施防止我們的產品被偽造、非法轉用和竊取。我們遵循貿易法規，包括出口和進口管制規則，也遵從政府為保護國家安全和公眾健康而實行的限制與制裁措施。</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>產品推廣 I</p>
+                <p>在推廣和銷售我們的產品時，我們恪守誠實無欺原則，並尊重那些依賴我們產品的人。</p>
+                <p>我們的產品通訊是真實、平衡的，並與經批准的標籤、科學證據以及我們經營所在國的醫療最佳實務保持一致。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>產品推廣 II</p>
+                <p>我們依據產品的預期用途和核准用途進行推廣。</p>
+                <p>我們遵照我們經營所在國衛生主管機關頒發的執照和許可證來經營業務。我們的產品推廣、銷售和分銷遵循嚴格的貿易法律和國家特定法規。透過強效的內部政策和程序，我們確保法規遵循，並致力踐行我們合乎道德、安全和負責任的商業實務。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">您必須先檢視所有內容，然後才能繼續。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>在亞培，我們致力於以誠信和宗旨推動科學進步</p>
+          </div>
+          <div>
+            <p>我們追求創新，認識到負責任地預測和化解風險的重要性。我們敬重每位研究參與者的尊嚴，在科學研究中堅守最高的透明度和客觀性標準。</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>創新 I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>創新 II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>促進科學</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>點選每個圖示以進一步瞭解。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>創新 I</p>
+                <p>我們建立創新的醫護解決方案，好幫助人們過上更健康的生活並改善全球的健康成果。</p>
+                <p>我們開拓出突破性的治療方法、挽救生命的裝置及以新途徑支援健康的創新產品，由此因應人類需求。透過尖端科技，我們努力改善健康成果，使人們能過上最充實的生活——為生活的每個階段建立有意義的創新。</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>創新 II</p>
+                <p>我們透過探索新的可能性來培養創新文化，並做好應變計劃。</p>
+                <p>雖然進步往往要有所冒險，但我們採取周到、負責任的措施來預測挑戰，並最大限度地提前將風險降到最低——始終以《準則》和我們的政策為指引。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>促進科學</p>
+                <p>我們進行研究以產生準確、客觀的資料，用以推動創新、改進治療方法並推動醫療保健的發展。</p>
+                <p>在進行研究時，我們讓研究參與者感受到其尊、保護他們免受不必要的風險、確保他們瞭解研究的性質與目的及相關風險。我們研究程序中不可或缺的一環在於取得研究參與者之知情同意書。</p>
+                <p>我們重視科學研究的透明度，不會試圖不當影響結果。我們確保研究資料準確無誤，無論結果好壞，我們承諾及時準確地提供與我們產品相關之研究結果。</p>
+                <p>我們與擁有堅實科學和醫療經歷的專家合作，為亞培進行研究，或代表亞培發表研究成果。我們期望他們揭露與亞培的任何聯繫，包括財務或其他關係。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">您必須先檢視所有內容，然後才能繼續。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>在亞培，我們培養開放、多元與尊重的文化——因為這樣的文化能夠促生創意與創新。</p>
+          </div>
+          <div>
+            <p>我們每個人都有責任在每一天踐行《準則》：尊重他人、建立安全、包容的職場，並確保人人機會平等。</p>
+            <p>情況不明，我們提出問題；感覺不對勁，我們直言不諱。</p>
+            <p>本節重申了我們對平等機會和安全工作環境的承諾，其提醒我們去理解、應用，並在我們的一切行事中堅守《準則》。</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>合作</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>彼此間的聯繫</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>報告疑慮</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>平等機會</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>公平對待</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>工作環境</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>點選每個圖示以進一步瞭解。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>合作</p>
+                <p>我們重視開放與合作，因為多元的創意會帶來更佳的解決方案。</p>
+                <p>我們擁抱多元化，因為它能激發創意、活力和進步。為了對全球健康產生有意義的影響，我們傾聽彼此、重視每個聲音，並協力達成目標。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>彼此間的聯繫</p>
+                <p>我們每個人、每一天都有責任實踐亞培的價值觀。</p>
+                <p>我們行事合乎道德，以此增強我們的文化。每個人都必須瞭解《準則》如何適用於他們的角色和工作。</p>
+                <p>經理和主管作為領導者負有特殊責任——他們必須以身作則踐行我們的價值觀、倡導道德行為、建立一個安全的環境，讓員工能自在地提出問題和疑慮而無需擔心報復。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>報告疑慮</p>
+                <p>情況不明或感覺不對勁時，我們提出問題。我們也會發聲並舉報任何可能有違《準則》的行為。</p>
+                <p>當方向不明確時，我們有責任提出問題，並且質疑和舉報疑似不道德的業務行為、違反《準則》或者違反亞培政策之情況。</p>
+                <p>如果您不確定正確的選擇或做法是什麽，請與您的經理交談或聯絡道德合規辦公室。</p>
+                <p>經理和主管必須以身作則，確保員工理解並遵守《準則》。領導者有更大的責任來傳達亞培的期望，並應針對任何潛在有違《準則》的行為聯絡道德合規辦公室。</p>
+                <p>所有事關可能有違《準則》行為的舉報都會認真對待。道德合規辦公室會處理後續步驟，包括必要時的調查和糾正措施。您不應自行調查。每個人都必須配合調查並對調查保密。</p>
+                <p>對於下列行為，糾正措施可能包含紀律處分（最嚴重可至解雇）或法律行動：</p>
+                <ul>
+                  <li>授權或參與違規行為；</li>
+                  <li>拒絕配合調查；</li>
+                  <li>因監督不力而未能舉報違規行為；</li>
+                  <li>做出虛假舉報；</li>
+                  <li>報復善意舉報疑慮者。</li>
+                </ul>
+                <p>絕不容許報復。如果您認為發生了報復行為，請向道德合規辦公室或人力資源部門舉報。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>平等機會</p>
+                <p>我們對所有員工提供平等機會。</p>
+                <p>我們是以業務需求、技能、經驗和表現為依據來做出雇用決定。不容忍任何形式的歧視。我們遵守制約我們與全球員工關係的所有法律。</p>
+                <p>亞培禁止任何基於族裔、膚色、宗教、年齡、性別、國籍、性別認同或表現、性傾向、身心障礙、婚姻狀態、退伍軍人或軍籍、基因、公民狀態，或任何其他法律所保障之狀態的歧視。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>公平對待</p>
+                <p>我們營造尊重、包容、安全的工作場所。</p>
+                <p>我們努力確保每個人都感受到歡迎、支援和賦能。</p>
+                <p>亞培倡導健康、無騷擾的環境，並重視員工的意見，以加強多元性和包容性。</p>
+                <p>我們以尊重和尊嚴對待每一個人，透過公平和誠實建立信任，絕不操縱、歪曲事實或缺乏透明度。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>工作環境</p>
+                <p>我們將安全和公平的工作條件置於首位。</p>
+                <p>任何意外事故或危安情況必須立即報告給管理階層。亞培也在全球業務活動中採取行動，以防範並禁止非法或不當勞務做法，以及任何形式的殘酷或不人道待遇。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">您必須先檢視所有內容，然後才能繼續。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>在亞培，我們透過社區、環境和參與建立信任。</p>
+          </div>
+          <div>
+            <p>我們努力回饋我們經營所在的社區，並對人們的生活產生長久的積極影響。</p>
+            <p>亞培致力於減少能源用量及節約自然資源，將環境足跡降至最低。</p>
+            <p>我們亦在全球運營中支援適當的政治參與，並鼓勵社區參與。</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>社區參與</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>環保責任</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>政治捐獻</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>點選每個圖示以進一步瞭解。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>社區參與</p>
+                <p>我們支援社區福祉。</p>
+                <p>在亞培，我們透過我們的產品、我們的工作和我們的行動來支援社區福祉，我們擁有回饋生活和工作所在地的悠久傳統，因為我們相信健康的社區會茁壯成長。</p>
+                <p>透過我們的營運、合作夥伴關係以及對當地團體和事業的支援，我們努力在我們經營業務的任何地方都產生長久的積極影響。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>環保責任</p>
+                <p>我們參與永續發展，並努力減少給環境造成的影響。</p>
+                <p>從材料採購，到產品的製造、運輸和使用，我們在所做的每件事中致力於保護環境。</p>
+                <p>我們採取措施減少能源和自然資源的用量。我們在工作和社區中支援清潔能源專案。我們尋找少浪費、多回收和降低環境風險的方法。我們還遵守適用於我們營運的環境法律與法規。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>政治捐獻</p>
+                <p>我們鼓勵適當參與政治程序並支持社區參與。</p>
+                <p>亞培支援符合我們使命和價值觀的公共政策。適當情況下，我們也有可能支援政治候選人或利益團體。</p>
+                <p>由於涉及公司政治捐獻的法律非常複雜，任何使用亞培資金——或代表亞培捐獻——之行為都必須事先經過法務部門的審查。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">您必須先檢視所有內容，然後才能繼續。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>在亞培，我們承諾誠實地開展業務，並在我們工作的所有領域都信守承諾。</p>
+          </div>
+          <div>
+            <p>在處理利益衝突時，我們要將個人的利益讓步於亞培的利益。我們保護亞培的資產和聲譽、保護機密資訊安全無虞，且尊重每個與我們共享個人資訊者的隱私。</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>公平交易</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>避免利益衝突 I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>避免利益衝突 II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>保護亞培資產及聲譽</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>機密資訊</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>點選每個圖示以進一步瞭解。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>公平交易</p>
+                <p>我們以誠信開展業務，並在我們工作的各個面向信守我們的承諾。</p>
+                <p>我們每個人都要對自己的工作和自己在履行職務中做出的決定負責。在每一次專業互動中——無論是與同事、客戶、供應商、醫護人員、競爭對手還是其他方——我們都必須公平且誠實地說明亞培經營業務的方式。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>避免利益衝突 I</p>
+                <p>我們要先識別並解決利益衝突，再進入下一步工作。</p>
+                <p>當個人的利益干擾，或看似干擾到亞培的最佳利益時，就發生了利益衝突。業務決定必須以亞培的需求為根據，而不是個人的獲利或家人朋友的利益。我們應運用良好判斷力來避免可能導致實際或看似衝突的情況。如果個人關係、利益或外部活動影響到您行事公平有效的能力——或可能有利您或家庭成員——您必須揭露該潛在的衝突，並遵循亞培的指引而從該境況中脫身抽離。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>避免利益衝突 II</p>
+                <p>在做出與工作相關的決定時，我們要將亞培的利益放在首位。</p>
+                <p>這意味著將公司的目標置於特定團隊、團體或個人的目標之上。我們透過亞培職務存取的任何機會或資源都應該用來使公司受益——而不是用來讓個人獲利。我們自己不得與亞培競業，也不能協助他人與亞培競業。機會出現時，我們的重點必須是增進亞培的利益。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>保護亞培資產及聲譽</p>
+                <p>我們是公司的守護者。</p>
+                <p>我們共同承擔著保護和明智使用亞培資產的責任。這包括從車輛和電腦等實物，到智慧財產、商業秘密和專業知識等有價值的資訊。</p>
+                <p>我們應始終運用良好的判斷力以確保這些資源得到適當、高效和謹慎的使用——避免損失、竊取、濫用或浪費。</p>
+                <p>亞培的聲譽是我們最寶貴的資產之一，而維護這份聲譽，我們每個人都責無旁貸。</p>
+                <p>我們每個人都對我們如何呈現亞培負責，尤其是我們在公開場合和在線分享的任何內容上——無論是在對話中、電子郵件，還是社群媒體上——都可能反映公司形象。重要的是要深思熟慮地溝通、運用良好的判斷力，並保護好亞培的機密資訊。</p>
+                <p>對外互動時，我們應考慮會不會讓人以為我們在代表亞培，以及我們的言行可能如何影響亞培的聲譽。這在社群媒體上尤為重要，其中的貼文會迅速廣泛傳播，而一則粗心的評論或貼文就可能會造成真正的傷害。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>機密資訊</p>
+                <p>我們致力於尊重和保護所有機密資訊，包括個人資料。</p>
+                <p>機密資訊是亞培最重要的資產之一。它包括非公開的細節，如研究、商業秘密、業務計畫、定價、合約、財務績效以及若揭露可能會使競爭對手受益或使亞培受到損傷的其他資料。</p>
+                <p>即使在我們離開亞培之後，我們也必須保護機密資訊並防止其遭受未經授權的使用或共享。</p>
+                <p>在亞培，我們也尊重其他方的智慧財產，並避免不當使用他們的機密資訊。濫用非公開資訊（例如用於內線交易）是非法也不道德的行為。</p>
+                <p>我們還保護同事、醫護人員和客戶委託我們保管的個人資料。我們在收集和使用個人資訊時，我們會獲得適當的同意及負責任地收集和使用，但絕不會將其出售或從未經授權的來源獲取。許多地方都有嚴格的隱私保護法律，我們承諾理解並遵守此類法律，對於最敏感的個人資訊類別則更是如此。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">您必須先檢視所有內容，然後才能繼續。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>在亞培，我們承諾誠實地開展業務，並在我們工作的所有領域都信守承諾。</p>
+          </div>
+          <div>
+            <p>在處理利益衝突時，我們要將個人的利益讓步於亞培的利益。我們保護亞培的資產和聲譽、保護機密資訊安全無虞，且尊重每個與我們共享個人資訊者的隱私。</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>反賄賂</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>禮品、餐飲及招待</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>正確帳目及記錄</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>法規遵守</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>公平競爭</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>點選每個圖示以進一步瞭解。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>反賄賂</p>
+                <p>我們積極反欺詐、賄賂以及貪腐。我們以正當方式經營業務。</p>
+                <p>作為個人，我們期望醫護人員根據最有益患者的原則做決定，而百受公司激勵措施的影響來做決定。同樣，我們期望政府官員是為公共利益行事，而非受企業壓力下行事。</p>
+                <p>在亞培，我們向醫護人員介紹我們的產品，但不干涉他們的獨立判斷。絕不允許向醫療保健提供者（例如醫師、藥師、護理師、研究員或實驗室職員）、政府官員或其他人提供任何有價物以獲得業務或回報既往的關係。</p>
+                <p>我們在全球範圍遵守反賄賂、反貪腐和反回扣法律，包括美國《反海外貪腐法》。亞培的每個人都必須透過執行盡職調查、支付公平市價並適當記錄付款，謹慎管理與服務提供商（例如經銷商、顧問和演講者）的關係，以確保遵守法律和公司標準。</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>禮品、餐飲及招待</p>
+                <p>根據反賄賂原則，我們不直接或間接提供任何有價物來獲得業務優勢。</p>
+                <p>為防止對業務決定產生不當影響，我們對禮品、餐飲及招待設有限制。亞培的政策有助於確保品牌宣傳品、文化禮遇、招待和其他利益絕不干擾專業判斷。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>正確的帳目及記錄</p>
+                <p>我們正確評量成就。</p>
+                <p>亞培的記錄和公開聲明必須準確反映我們的行為，並提供足夠的背景以表明我們工作的真實性質。財務記錄必須遵循財會標準、法律以及亞培的內部政策。</p>
+                <p>在報告定價、款項或有價物時，特別是向醫護人員報告時，我們必須確保資訊完整且準確。許多政府要求這種透明度以保護公共資金。亞培承諾提供可靠的資料，以便政府、保險公司和其他利害關係人做出明智決策。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>法規遵守</p>
+                <p>我們遵守所有適用我們業務之法律規章，以及亞培之內部要求。</p>
+                <p>每位亞培員工都應遵守所有適用的法律，以及亞培的政策、程序和本《準則》。這是員工受雇的基本前提。亞培的政策涵蓋了醫療保健合規性、品質、財務、貿易、安全等關鍵領域，幫助我們滿足法律要求並防止違規行為。</p>
+                <p>作為一家全球性公司，我們還必須意識到，一國的法律有可能對在另一國完成的工作適用。當有疑問時，請向法務部門或道德合規辦公室尋求指導。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>公平競爭</p>
+                <p>我們應確保與競爭對手之任何互動均為適切。</p>
+                <p>在亞培，我們致力於在我們經營業務的任何地方都遵守公平競爭法。這些法律禁止阻礙公平市場實務的協議或行動——特別是在定價、銷售條款，以及與競爭對手的互動方面。</p>
+                <p>避免與競爭對手討論敏感話題，例如定價、成本或業務計畫，而若您有疑問或遇到任何不當行為，請聯絡法務部或道德合規辦公室。由於公平競爭法很複雜而違規行為可能導致嚴厲的處罰，我們還必須仔細管理與第三方的關係，以確保合規並避免出現任何反競爭的行為。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>在您離開本課程之前，請花些時間確認您瞭解與亞培《業務行為準則》相關的責任。</p>
+          <p>我確認，我瞭解我在亞培《業務行為準則》方面的責任，也知道在哪裡可以找到及檢閱適用的政策與程序。</p>
+          <button class="qcSubmitBtn">確認</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>以下的知識測驗由 10 個問題組成。為了成功完成本課程，您的得分必須為 80% 或更高。</p>
+        <p>準備好後，點選「知識測驗」按鈕。</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>為什麼《業務行為準則》很重要？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>它為我們在工作中可能遇到的每種情況提供了具體建議。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>它提供了一套明確的原則和價值觀，即使最佳行動並不明確時我們亦能據之做出決定。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一題</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>《業務行為準則》為我們提供一套明確的原則和價值觀，即使最佳行動並不明確時我們亦能據之做出決定。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>以下哪項<span class="underline">絕不是</span>適當的業務交易？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>由於醫護人員的技能和專業知識，聘請他們談論特定的疾病領域。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>為出席亞培贊助教育計畫的出席者提供合理的餐飲。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>為某個地方組織安排一場慈善捐款。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>聘請 HCP 開展教育計畫，以感謝他們使用亞培產品。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一題</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>我們允許因為醫護人員的技能和專業知識，而聘請他們開展教育計畫，但是，聘請醫護人員作為表達對使用亞培產品的感謝是不適當的，因為這可能被視為賄賂。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>個人涉及賄賂和貪腐行為的後果可能包括：</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>聲譽受損。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>罰款和處罰。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>終止僱傭關係。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>入獄服刑。</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>以上皆是。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一題</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>個人涉及賄賂和貪腐行為的後果可能包括聲譽受損、罰款和處罰、終止僱傭關係，甚至是入獄服刑。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>一位銷售代表也擁有一家小型珠寶店。她覺得將店裡的小禮物送給最近沒有開立亞培產品處方的 HCP 是挺不錯的主意。這樣做可以嗎？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>可以</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>不可以</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一題</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>亞培的政策禁止向 HCP 贈送禮物，因為這位銷售代表是在作為亞培的代表而行事。即使她自付了該禮物的費用，這些禮物也是受到禁止的。送禮也可能讓人以為是在為將來獲得業務行賄。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>一位銷售經理接到了競爭公司聯絡人打來的電話。該競爭對手透露，亞培在某個新市場聘請的第三方銷售團隊涉嫌向選擇亞培產品而非競爭對手產品的客戶提供奢華餐飲。正確的做法是什麼？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>什麽都不做，因為是競爭對手給的資訊。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>什麽都不做，因為在那個市場奢華餐飲是常事。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>立即向道德合規辦公室 (OEC) 報告此事。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>著手研究更換經銷商，以防該抱怨屬實。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一題</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>就算資訊出自競爭對手，您也應立即向道德合規辦公室 (OEC) 報告此指控，以便發起適當的調查。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>一家旅行社正在為向亞培提供監督服務的醫護人員 (HCP) 安排旅行事宜。審核提交的收據時發現存在差異——總額與提請報銷額不符，還有一些收據缺少關鍵信息，例如旅行日期。</p>
+              <p>正確的做法是什麼？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>告知旅行社，沒有完整且準確的文件，亞培將無法處理付款。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>處理那些收據，因為只缺少部分資訊。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>建議旅行社下次報賬要更加準確。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>什麼都不做，因為近期才剛與該旅行社打交道。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一題</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>亞培的帳簿和紀錄必須完整而正確地反映出所有交易。因此，為亞培提供服務的第三方必須提供能夠準確反映交易實際目的和詳細資訊的完整文件。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>您任職的附屬機構允許贊助醫護人員出席教育性質的會議。您參與選擇參與會議的醫護人員流程。您用於選擇的條件包括：(1) 會議主題是否屬於該醫護人員的專業知識領域；(2) 亞培過去一年內是否提供該醫護人員任何贊助；及 (3) 在出席該活動後，該醫護人員是否可能推薦亞培產品或使用亞培器材。這些條件是否適當？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>是。當贊助個人時務必達成的兩個關鍵條件為該贊助： a) 與該 HCP 專精的領域有所相關，以及 b) 不得作為業務的獎勵或誘因。您檢查亞培在過去一年內並未贊助該醫護人員，即確認了後者。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>是。只要贊助醫護人員的理由不在於試圖影響或回報對方，您就可考慮投資的報酬，即該醫護人員是否將持續開立亞培產品的處方。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>否。是否提供贊助之決策不得以該醫護人員在參加贊助活動後是否可能推薦亞培產品或使用亞培器材為依據來做出。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>是。只要至少有一個條件是適當的，那麼存在其他不適當的標準都無關緊要。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一題</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>贊助決策不得作為既往使用本公司產品之回報，或者鼓勵對方在未來使用更多本公司產品或器材之誘因。請記得，在許多司法管轄區中都禁止贊助。在提供贊助之前，一律要先查明相關程序。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>亞培的一位銷售代表向醫護人員 (HCP) 介紹一個產品。討論後，該 HCP 透露，一家競爭對手提議要贈送一台新的 iPad，以換取幫助他們增加銷售額。</p>
+              <p>正確的做法是什麼？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>提議也給予同等好處以爭過對手。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>拒絕提供 iPad，但提議說要請對方吃頓大餐邊吃邊談。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>解釋說亞培做生意走的是正道，無法提供任何可能不當影響決策的有價物。然後，立即向道德合規辦公室 (OEC) 報告此情況。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>謝謝該 HCP 提供的信息，保證會認真考慮。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一題</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>您絕不得為了取得不正當業務優勢或取得或留住業務而提供、承諾、給予或收受有價值物品。不管競爭對手有何做法，您必須遵守適用法律和亞培政策，包括亞培的《全球反貪腐政策》(GLB-ANTI-CORRUPTION) 中的規定。出現疑惑的時候，一律都要徵詢法務部或 OEC 的意見。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>以下哪一項是不得為了贏得業務而提供的有價物範例？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>為醫護人員及其家人提供前往水療、賭場或其他著名娛樂場所的旅行。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>撥款資助未來的研究或教育專案。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>向政府官員喜愛的慈善機構捐款。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>以上皆是。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">下一題</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>在《全球反貪腐政策》(GLB-ANTI-CORRUPTION) 中，亞培的賄賂和貪腐標準和我們以誠實、公平及誠信經營業務的承諾一致。這表示絕不允許為了贏得業務而提供或給予有價值物品。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>身為關鍵意見領袖的醫護人員詢問您是否可以為一個他想要出席的教育課程安排一些支援，以為亞培換取額外商機。哪個選項是最適宜的做法？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>由於該要求違反亞培的反貪腐政策，因此明確加以拒絕。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>告訴醫護人員您要問問您的經理。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>同意該要求，因為此醫護人員是有很大影響力的關鍵意見領袖。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>以上皆非。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">提交</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>根據反賄賂原則，我們不直接或間接提供任何有價物來獲得業務優勢。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>由於您尚未完成知識測驗，無成績可提供。</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>恭喜！您的知識測驗及格了。</p>
+          <p>請在下方點選各個問題以查閱您的結果。</p>
+          <p>完成後，請點選向前箭頭接受簡短調查。</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>抱歉，您的知識測驗不及格。請花幾分鐘時間，點選各個問題以在下方查閱您的結果。</p>
+          <p>在您完成後，請點選「重新參加測驗」按鈕。</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>這項調查為選擇性參加。</p>
+          <p>注意事項：無論您是否選擇完成調查，您均必須按一下課程標題列的「退出」圖示 (X) 以完成課程並更新您的結果。</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>整體而言，您會如何評分此課程？</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>極差</p>
+                  <p>不佳</p>
+                  <p>普通</p>
+                  <p>佳</p>
+                  <p>極佳</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>請進一步說明您的評分。</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>上完這節課後，我對亞培的《業務行為準則》有了更深的理解。</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>非常不同意</p>
+                  <p>不同意</p>
+                  <p>中立</p>
+                  <p>同意</p>
+                  <p>非常同意</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>本課程涵蓋的內容與您的工作相關程度如何？</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>完全無關</p>
+                  <p>相關性不大</p>
+                  <p>無法決定</p>
+                  <p>有點相關</p>
+                  <p>非常相關</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>在本課程涵蓋的主題中，對哪些您想更深入瞭解？</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">請按一下「上傳」按鈕以完成本課程、上傳您的資料並關閉課程視窗。</p>
+          <button class="surveySubmit">
+            <p>上傳</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">何處求援</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>經理</p>
+        <p>如果您對於和亞培外部的人士互動有所疑問，最好先請教您的經理</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>書面標準</p>
+        <ul>
+          <li>如需瞭解本公司對您與他人互動的基本期望，請查閱我們的<a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">《業務行為準則》</a>。</li>
+          <li>針對全公司適用的企業政策與程序，可造訪<a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">全球政策窗口</a>取得詳情。</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>道德合規辦公室 (OEC)</p>
+        <p>OEC 是全球資源，可解決您有關公司價值觀與操守標準之相關疑問或顧慮。</p>
+        <ul>
+          <li>造訪亞培全球上的 <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">OEC 網頁</a>。</li>
+          <li>如果您對貪腐業務活動有任何疑慮，無論是在公司內部還是在您與客戶或其他第三方交易過程中，您都可以向 OEC（<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>）或法務部舉報，或致電我們每週 7 天、每天 24 小時開放的全球多語言 <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> 專線。</li>
+          <li>iComply - 造訪 <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> 以存取適用於與醫護人員和醫護組織以及第三方打交道的合規管理相關應用程式和資源。</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>人力資源</p>
+        <p>與員工相關問題，諸如涉及管理層及／或其他員工之議題，則可與您當地之<a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">人力資源</a>代表聯繫。</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>法務部門</p>
+        <p>對賄賂和貪污的法律意涵之疑問或疑慮，請聯絡法務部門。</p>
+        <ul>
+          <li>請點選此處以存取亞培全球上的法務首頁。</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>其他資料來源</p>
+        <p>另有許多其他可用資源：</p>
+        <p>財務 - 若您的疑問係針對財務會計相關議題，則應與您當地的財務部門聯繫。</p>
+        <p>公司稽核 - 若您對會計、內部會計控管，或者審計項目有疑問，應即刻向公司稽核部門或 OEC 報告。</p>
+        <p>亞培品質與法規部門 - 若您對本公司產品之品質與安全有問題，則應聯絡您當地之品質或法規部門。</p>
+        <p>全球環境、健康與安全 -如果對於實際工作場合以及潛在風險有所顧慮，則應聯繫全球環境、健康與安全代表。</p>
+        <p>全球採購 –若您對供應商關係有疑問，請與全球採購部聯絡。</p>
+      </div>
+      <p class="resSubtitles" data-break="true">課程資源</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>成績單</p>
+        <p>請點選<a href="reference/Transcript.pdf" target="_blank">此處</a>取得本課程的完整成績單</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>本課程無法連接 LMS。點選「確定」以繼續及複習課程。請注意，可能不會提供課程結業證書。點選「取消」以離開</s1>
+    <s2>仍未答完所有問題</s2>
+    <s3>問題</s3>
+    <s4>問題</s4>
+    <s5>未答</s5>
+    <s6>答對了！</s6>
+    <s7>答錯了！</s7>
+    <s8>意見回饋：</s8>
+    <s9>業務行為準則</s9>
+    <s10>知識測驗</s10>
+    <s11>提交</s11>
+    <s12>重新參加測驗</s12>
+    <s13>課程說明：我們的《業務行為準則》為一份十分重要的文件，其中描述本公司對每位員工的期望，因為我們每日的工作都代表了亞培。它體現了我們的價值觀，是履行責任與日常工作的行為基準，幫助我們作出最助益於亞培、我們自己，以及服務對象的決策。本課程在較高層面概述《準則》，闡述了本公司的期望和您的義務，並提供了在最佳前進道路難以確定時應如何做的實用建議。本課程的課時約為 35 至 45 分鐘。</s13>
+    <s14>選單</s14>
+    <s15>資源</s15>
+    <s16>參考資料</s16>
+    <s17>音訊</s17>
+    <s18>離開</s18>
+    <s19>關閉</s19>
+    <s20>意見……</s20>
+  </strings>
+</course>

@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="Selamat Datang" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="Kod Pengendalian Perniagaan">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="Falsafah Kita">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="Objektif">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="Daftar Kandungan">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="Kepentingan Kod Pengendalian Perniagaan Abbott" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="Komitmen Harian Kita">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="Kepentingan Kod kepada Perniagaan Kita">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="Kod Kita" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="Gambaran Keseluruhan">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="Pelanggan Kita">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="Produk Kita">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="Memajukan Sains">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="Warga Kerja Kita">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="Komuniti Kita">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="Cara kita Beroperasi">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="Komitmen Anda" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="Komitmen Anda">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="Semakan Pengetahuan" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="Pengenalan">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="Penilaian">
+        <nav navId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="Maklum Balas">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="Tinjauan">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>Kod Pengendalian Perniagaan</p>
+      </div>
+      <p class="startInstruction">Klik anak panah ke hadapan.</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Sebagai peneraju penjagaan kesihatan global, apa yang kita lakukan setiap hari adalah penting.</p>
+        <p>Kod Pengendalian Perniagaan kita merupakan kompas yang berkuasa yang memperkasakan kita untuk bertindak dengan integriti, memimpin dengan tujuan dan membuat pilihan yang mencerminkan diri kita yang terbaik. Ia adalah cara kita membina kepercayaan, menegakkan nilai kita dan terus membuat perubahan yang bermakna di dunia.</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Selepas pelengkapan kursus ini, anda akan:</p>
+        <ul>
+          <li>Memahami kepentingan Kod Pengendalian Perniagaan kepada perniagaan kita.</li>
+          <li>Mengenal pasti prinsip utama Kod Pengendalian Perniagaan dan memahami cara ia digunakan dalam amalan kerja harian kita</li>
+          <li>Memahami jangkaan Abbott untuk menjalankan perniagaan secara global dengan cara yang betul.</li>
+          <li>Mengetahui tempat untuk mendapatkan bantuan dan sokongan.</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>Selamat datang</p>
+            <p>1 minit</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>Kepentingan Kod Pengendalian Perniagaan Abbott</p>
+            <p>2 minit</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>Tata Kita</p>
+            <p>18 minit</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>Komitmen Anda</p>
+            <p>1 minit</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>Semakan Pengetahuan</p>
+            <p>5 minit</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>Kemajuan Pembelajaran</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">Topik ini kini tersedia.</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Kita menerajui dengan integriti, keadilan dan kejujuran. Semua orang. Setiap hari.</p>
+        <p>Kod Pengendalian Perniagaan kita mengingatkan kita bahawa integriti, keadilan dan kejujuran bukan sekadar ideal—ia adalah komitmen harian. Walaupun Kod ini tidak dapat menjangka setiap cabaran yang mungkin kita hadapi, ia menawarkan asas nilai yang kukuh untuk membimbing kita.</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Kita komited terhadap standard tertinggi.</p>
+        <p>Kod Pengendalian Perniagaan adalah penting untuk kejayaan Abbott kerana ia menetapkan standard untuk cara kita bekerja—dengan integriti, keadilan dan kejujuran. Ia membantu kita membuat keputusan yang beretika, terutamanya dalam situasi yang kompleks dan memastikan kita kekal selaras dengan semua nilai kita. Dengan mematuhi Tatakelakuan, kita melindungi reputasi kita, membina kepercayaan dengan mereka yang kita berikan khidmat dan mewujudkan budaya tempat kerja di mana melakukan perkara yang betul adalah penting.</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Memahami Tata ini adalah tanggungjawab semua orang.</p>
+        <p>Setiap daripada kita mempunyai peranan dalam menerapkan Kod Pengendalian Perniagaan dalam kerja harian dan pembuatan keputusan kita. Ia bukan sekadar dokumen—ia adalah panduan yang membantu kita mengharungi cabaran dengan integriti dan keyakinan.</p>
+        <p>Dalam bahagian-bahagian seterusnya, kita akan meneroka prinsip utama Tata ini dan melihat bagaimana ia menjadi kenyataan dalam tindakan dan pilihan harian kita.</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Anda mesti melihat semua kandungan sebelum meneruskan.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Di Abbott, kita komited untuk meningkatkan kesihatan dan kesejahteraan orang ramai yang bergantung pada produk kita.</p>
+          </div>
+          <div>
+            <p>Ia merupakan peringatan bahawa di sebalik setiap keputusan, setiap inovasi dan setiap tindakan terdapat tujuan—untuk menjadikan kehidupan lebih baik.</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>Pesakit dan Pengguna</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>Profesional Penjagaan Kesihatan</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik setiap daripada ikon untuk mempelajari lebih lanjut.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PESAKIT DAN PENGGUNA</p>
+                <p>Mengambil berat dan menyayangi insan adalah teras kepada apa yang kita lakukan. Kita mengutamakan kesihatan dan kesejahteraan para pesakit dan pengguna. Setiap hari, kita boleh membuat perubahan yang bermakna—membantu insan menjalani kehidupan yang lebih sihat dan menyumbang kepada komuniti yang lebih kukuh dan sihat.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PROFESIONAL PENJAGAAN KESIHATAN</p>
+                <p>Kita bekerjasama dengan HCP untuk menyokong kesihatan yang lebih baik. Kita menghormati pengetahuan dan pertimbangan bebas profesional penjagaan kesihatan - sama ada mereka ialah doktor, jururawat, ahli farmasi, penyelidik atau kakitangan makmal. Peranan mereka dalam membimbing pesakit ke arah kesihatan yang lebih baik adalah penting.</p>
+                <p>Di Abbott, kita komited untuk menyokong mereka dengan maklumat yang tepat dan tepat pada masanya supaya mereka dapat membuat keputusan terbaik. Dengan bekerjasama, kita dapat mencapai matlamat bersama kita untuk meningkatkan kesihatan dan kesejahteraan di seluruh dunia.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Anda mesti melihat semua kandungan sebelum meneruskan.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Di Abbott, kita komited untuk memastikan setiap produk yang kita tawarkan selamat, berkesan dan layak mendapat kepercayaan orang ramai terhadap kita.</p>
+          </div>
+          <div>
+            <p>Kita mengambil langkah untuk memastikan produk kita selamat dan berkesan — daripada memilih bahan yang betul hinggalah cara kita memasarkan, menjual dan menghantarnya. Pada setiap peringkat, kita mematuhi standard kualiti yang tinggi.</p>
+            <p>Kita juga menekankan komitmen kita terhadap mengenal pasti, menilai dan menangani isu keselamatan produk yang menepati masa serta mengambil tindakan untuk mencegah pemalsuan, pelencongan haram dan pencurian terhadap produk kita.</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>Kualiti Produk</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>Promosi Produk I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>Promosi Produk II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik setiap daripada ikon untuk mempelajari lebih lanjut.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KUALITI PRODUK</p>
+                <p>Selamat, berkesan dan dipercayai. Produk kita membawa perubahan.</p>
+                <p>Kita komited terhadap kualiti pada setiap peringkat—daripada sumber dan pengeluaran hinggalah cara kita memasarkan, menjual dan menyampaikan produk kita, termasuk melalui rakan kongsi kita. Setiap langkah penting kerana orang ramai bergantung pada kita untuk keselamatan.</p>
+                <p>Kita komited untuk mengenal pasti, menilai dan menangani isu keselamatan produk tepat pada masanya. Kita memastikan institusi dan ahli profesional penjagaan kesihatan mempunyai maklumat yang mereka perlukan untuk menggunakan produk kita secara selamat dan berkesan dan kita juga berkomunikasi dengan agensi pengawalaturan dan agensi kesihatan awam sekiranya ada kemungkinan kebimbangan keselamatan.</p>
+                <p>Kita mengambil langkah untuk mencegah pemalsuan, pelencongan haram dan pencurian terhadap produk kita. Kita mematuhi peraturan perdagangan, termasuk peraturan kawalan eksport dan import dan mematuhi batasan dan sekatan kerajaan untuk melindungi keselamatan negara dan kesihatan awam.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PROMOSI PRODUK I</p>
+                <p>Kita mempromosikan dan menjual produk kita dengan jujur dan hormat kepada mereka yang bergantung padanya.</p>
+                <p>Komunikasi produk kita adalah benar, seimbang dan selaras dengan pelabelan yang diluluskan, bukti saintifik dan amalan terbaik perubatan di negara tempat kita beroperasi.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PROMOSI PRODUK II</p>
+                <p>Kita mempromosikan produk kita untuk kegunaan yang dimaksudkan dan diluluskan.</p>
+                <p>Kita beroperasi selaras dengan lesen dan kelulusan yang diberikan oleh pihak berkuasa kesihatan di negara tempat kita beroperasi. Promosi, jualan dan pengedaran produk kita mematuhi undang-undang perdagangan yang ketat dan peraturan khusus negara. Melalui dasar dan prosedur dalaman yang kukuh, kita memastikan pematuhan dan menegakkan komitmen kita terhadap amalan perniagaan yang beretika, selamat dan bertanggungjawab.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Anda mesti melihat semua kandungan sebelum meneruskan.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Di Abbott, kita komited untuk memajukan sains dengan integriti dan tujuan.</p>
+          </div>
+          <div>
+            <p>Kita mengejar inovasi, mengiktiraf kepentingan menjangka dan menangani risiko secara bertanggungjawab. Kita menghormati maruah setiap peserta kajian dan menegakkan standard ketelusan dan objektiviti tertinggi dalam penyelidikan saintifik.</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>Inovasi I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>Inovasi II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>Memajukan Sains</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik setiap daripada ikon untuk mempelajari lebih lanjut.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>INOVASI I</p>
+                <p>Kita mencipta penyelesaian penjagaan kesihatan yang inovatif untuk membantu orang ramai menjalani kehidupan yang lebih sihat dan meningkatkan hasil di seluruh dunia.</p>
+                <p>Kita memenuhi keperluan manusia dengan merintis rawatan terobosan, peranti penyelamat nyawa dan produk inovatif yang menyokong kesihatan dengan cara baharu. Melalui sains dan teknologi canggih, kita berusaha untuk meningkatkan hasil dan memperkasakan orang ramai untuk menjalani kehidupan mereka sepenuhnya—mencipta inovasi yang bermakna untuk setiap peringkat kehidupan.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>INOVASI II</p>
+                <p>Kita menanam budaya inovasi dengan meneroka kemungkinan baharu dan merancang untuk hal luar jangka.</p>
+                <p>Walaupun kemajuan sering melibatkan risiko, kita mengambil beberapa langkah yang teliti dan bertanggungjawab untuk menjangka cabaran dan meminimumkannya terlebih dahulu—sentiasa berpandukan Kod dan dasar kita.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MEMAJUKAN SAINS</p>
+                <p>Kita menjalankan penyelidikan untuk menghasilkan data yang tepat dan objektif yang memacu inovasi, menambah baik rawatan dan memajukan penjagaan kesihatan.</p>
+                <p>Semasa menjalankan penyelidikan, kita melayan peserta kajian dengan penuh maruah, melindungi mereka daripada risiko yang tidak perlu dan memastikan mereka memahami sifat dan tujuan penyelidikan serta risiko yang berkaitan. Usaha mendapatkan keizinan termaklum daripada peserta kajian merupakan bahagian yang penting dalam proses penyelidikan kita.</p>
+                <p>Kita menghargai ketelusan dalam penyelidikan saintifik dan tidak akan cuba mempengaruhi hasil secara tidak wajar. Kita memastikan data kajian adalah tepat dan adalah komited untuk menyediakan hasil penyelidikan yang berkaitan dengan semua produk kita, sama ada hasil tersebut adalah positif atau negatif, dalam cara yang menepati masa dan tepat.</p>
+                <p>Apabila penyelidikan dilakukan untuk Abbott atau diterbitkan bagi pihak kita, kita memilih rakan kongsi yang mempunyai latar belakang saintifik dan perubatan yang kukuh. Kita menjangkakan mereka akan mendedahkan sebarang kaitan kepada Abbott, termasuk hubungan kewangan atau hubungan lain.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Anda mesti melihat semua kandungan sebelum meneruskan.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Di Abbott, kita memupuk budaya keterbukaan, kepelbagaian dan rasa hormat—kerana ia mendorong kreativiti dan inovasi.</p>
+          </div>
+          <div>
+            <p>Kita masing-masing mempunyai tanggungjawab untuk mengamalkan Kod setiap hari: melayan orang lain dengan hormat, mewujudkan tempat kerja yang selamat dan terangkum dan memastikan peluang yang sama rata untuk semua.</p>
+            <p>Kita bertanya soalan apabila keadaan tidak jelas dan bersuara apabila sesuatu terasa tidak kena.</p>
+            <p>Bahagian ini memperkukuh komitmen kita terhadap peluang yang sama rata dan persekitaran kerja yang selamat dan mengingatkan kita untuk memahami, mengaplikasikan dan menegakkan Tata dalam semua yang kita lakukan.</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>Kerjasama</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>Hubungan Kita antara Satu Sama Lain</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>Melaporkan Kebimbangan</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>Peluang Sama Rata</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>Layanan Adil</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>Persekitaran Kerja</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik setiap daripada ikon untuk mempelajari lebih lanjut.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KERJASAMA</p>
+                <p>Kita menghargai keterbukaan dan kerjasama kerana idea yang pelbagai membawa kepada penyelesaian yang lebih baik.</p>
+                <p>Kita menerima kepelbagaian kerana ia mendorong kreativiti, tenaga dan kemajuan. Untuk memberi kesan yang bermakna kepada kesihatan global, kita mendengar antara satu sama lain, menghargai setiap suara dan bekerjasama dengan tujuan.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>HUBUNGAN KITA ANTARA SATU SAMA LAIN</p>
+                <p>Kita semua berkongsi tanggungjawab untuk mengamalkan nilai Abbott setiap hari.</p>
+                <p>Dengan bertindak secara beretika, kita memperkukuhkan budaya kita. Semua orang mesti memahami bagaimana Kod ini terpakai kepada peranan dan kerja mereka.</p>
+                <p>Pengurus dan penyelia mempunyai tanggungjawab khusus sebagai pemimpin—mereka mesti mencontohi nilai kita, menggalakkan tingkah laku beretika dan mewujudkan ruang yang selamat di mana pekerja berasa selesa bertanya soalan dan membangkitkan kebimbangan tanpa rasa takut akan pembalasan.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MELAPORKAN KEBIMBANGAN</p>
+                <p>Kita bertanya soalan apabila sesuatu tidak jelas atau terasa tidak kena. Kita juga bersuara dan melaporkan sebarang kemungkinan pelanggaran Tatakelakuan.</p>
+                <p>Ia menjadi tanggungjawab kita untuk bertanya soalan apabila arahan tidak jelas dan untuk mencabar serta melaporkan kelakuan perniagaan yang tidak beretika, pelanggaran Tata atau pelanggaran dasar Abbott.</p>
+                <p>Jika anda tidak pasti tentang pilihan atau tindakan yang betul, berbincanglah dengan pengurus anda atau hubungi Pejabat Etika dan Pematuhan.</p>
+                <p>Pengurus dan penyelia mesti menunjukkan teladan dan memastikan pekerja memahami dan mematuhi Tatakelakuan. Para pemimpin mempunyai tanggungjawab yang lebih besar untuk menyampaikan jangkaan Abbott dan harus menghubungi Pejabat Etika dan Pematuhan tentang sebarang potensi pelanggaran Tatakelakuan.</p>
+                <p>Semua laporan kemungkinan pelanggaran Kod diambil secara serius. Pejabat Etika dan Pematuhan akan mengendalikan langkah susulan, termasuk siasatan dan tindakan pembetulan apabila diperlukan. Anda tidak seharusnya menyiasat sendiri. Semua orang mesti bekerjasama dan merahsiakan siasatan.</p>
+                <p>Tindakan pembetulan mungkin termasuk tindakan disiplin (sehingga dan termasuk penamatan) atau tindakan undang-undang kerana:</p>
+                <ul>
+                  <li>Membenarkan atau mengambil bahagian dalam pelanggaran;</li>
+                  <li>Enggan bekerjasama dalam siasatan;</li>
+                  <li>Gagal melaporkan pelanggaran kerana penyeliaan yang lemah;</li>
+                  <li>Membuat laporan palsu;</li>
+                  <li>Membalas dendam terhadap seseorang yang melaporkan kebimbangan dengan niat baik.</li>
+                </ul>
+                <p>Pembalasan tidak boleh diterima sama sekali. Jika anda percaya pembalasan telah berlaku, laporkannya segera dilaporkan kepada Pejabat Etika dan Pematuhan atau Sumber Manusia.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PELUANG SAMA RATA</p>
+                <p>Kita menyediakan peluang sama rata kepada semua pekerja.</p>
+                <p>Kita membuat keputusan pengambilan pekerja berdasarkan keperluan perniagaan, kemahiran, pengalaman dan prestasi kerja. Diskriminasi dalam apa jua bentuk tidak akan ditoleransi. Kita mematuhi semua undang-undang yang mengawal hubungan kita dengan pekerja di seluruh dunia.</p>
+                <p>Abbott melarang diskriminasi berdasarkan bangsa, warna kulit, agama, umur, jantina, asal bangsa, identiti jantina atau ekspresi jantina, orientasi seksual, ketidakupayaan, status perkahwinan, status ketenteraan atau bekas tentera, genetik, status kewarganegaraan atau sebarang status lain yang dilindungi undang-undang.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>LAYANAN ADIL</p>
+                <p>Kita memupuk tempat kerja yang hormat, terangkum dan selamat.</p>
+                <p>Kita berusaha untuk memastikan semua orang berasa dialu-alukan, disokong dan diberi kuasa.</p>
+                <p>Abbott menggalakkan persekitaran yang sihat dan bebas gangguan dan menghargai input pekerja untuk mengukuhkan kepelbagaian dan rangkuman.</p>
+                <p>Kita melayan semua orang dengan hormat dan bermaruah, membina kepercayaan melalui keadilan dan kejujuran—tidak sekali-kali melalui manipulasi, salah nyata atau kekurangan ketelusan.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PERSEKITARAN KERJA</p>
+                <p>Kita mengutamakan keselamatan dan keadaan kerja yang adil.</p>
+                <p>Kemalangan atau keadaan yang tidak selamat mesti dilaporkan dengan segera kepada pihak pengurusan. Abbott juga mengambil langkah untuk mencegah dan melarang amalan buruh haram dan tidak bersesuaian dan sebarang bentuk layanan yang kejam atau tidak berperikemanusiaan dalam aktiviti perniagaan kita di seluruh dunia.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Anda mesti melihat semua kandungan sebelum meneruskan.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Di Abbott, kita membina kepercayaan melalui komuniti, alam sekitar dan penglibatan.</p>
+          </div>
+          <div>
+            <p>Kita berusaha untuk memberi kembali kepada komuniti di tempat kita beroperasi dan memberi kesan yang positif dan berkekalan kepada kehidupan orang ramai.</p>
+            <p>Abbott berusaha untuk meminimumkan jejak alam sekitar dengan mengurangkan penggunaan tenaga dan memulihara sumber asli.</p>
+            <p>Kita juga menyokong penglibatan politik yang sewajarnya dan menggalakkan penglibatan komuniti merentasi operasi global kita.</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>Penglibatan Komuniti</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>Tanggungjawab pada Alam Sekitar</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>Sumbangan Politik</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik setiap daripada ikon untuk mempelajari lebih lanjut.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PENGLIBATAN KOMUNITI</p>
+                <p>kita mKnyokong kesejahteraan komuniti.</p>
+                <p>Di Abbott, kita menyokong kesejahteraan komuniti melalui produk, kerja dan tindakan kita dan kita mempunyai sejarah yang panjang dalam memberi kembali kepada tempat tinggal dan bekerja kita, kerana kita percaya komuniti yang sihat sentiasa berkembang maju.</p>
+                <p>Melalui operasi, perkongsian dan sokongan kita untuk kumpulan dan tujuan tempatan, kita berusaha untuk memberi kesan yang positif dan berkekalan di mana sahaja kita menjalankan perniagaan.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>TANGGUNGJAWAB PERSEKITARAN</p>
+                <p>Kita mengambil bahagian dalam pembangunan lestari dan berusaha untuk mengurangkan kesan kita terhadap alam sekitar.</p>
+                <p>Kita berusaha untuk melindungi alam sekitar dalam semua yang kita lakukan—daripada cara kita mendapatkan bahan hinggalah kepada cara kita membuat, menghantar dan menggunakan produk kita.</p>
+                <p>Kita mengambil langkah untuk menggunakan kurang tenaga dan sumber asli. Kita menyokong projek tenaga bersih di tempat kerja dan dalam komuniti kita. Kita mencari cara untuk mengurangkan sisa, mengitar semula lebih banyak dan mengurangkan risiko alam sekitar. Kita juga mematuhi undang-undang dan peraturan alam sekitar yang diguna pakai dalam operasi kita.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>SUMBANGAN POLITIK</p>
+                <p>Kita menggalakkan penglibatan yang bersesuaian dalam proses politik dan menyokong penglibatan komuniti.</p>
+                <p>Abbott menyokong dasar awam yang selaras dengan misi dan nilai kita. Apabila sesuai, kita juga boleh menyokong calon politik atau kumpulan berkepentingan.</p>
+                <p>Oleh kerana undang-undang mengenai sumbangan politik oleh syarikat adalah rumit, sebarang penggunaan dana Abbott—atau sumbangan yang dibuat bagi pihak Abbott—mesti disemak semula dengan Bahagian Undang-undang terlebih dahulu.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Anda mesti melihat semua kandungan sebelum meneruskan.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Di Abbott, kita komited untuk menjalankan perniagaan dengan jujur dan menepati janji kita dalam semua bidang kerja kita.</p>
+          </div>
+          <div>
+            <p>Kita mengutamakan kepentingan Abbott daripada kepentingan kita sendiri semasa mengendalikan konflik kepentingan. Kita melindungi aset dan reputasi Abbott, menjaga maklumat rahsia dengan selamat dan menghormati privasi setiap orang yang berkongssi maklumat peribadi dengan kita.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>Berurusan Secara Adil</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>Mengelakkan Konflik Kepentingan I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>Mengelakkan Konflik Kepentingan II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>Perlindungan Aset &amp; Reputasi Abbott</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>Maklumat Sulit</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik setiap daripada ikon untuk mempelajari lebih lanjut.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>BERURUSAN SECARA ADIL</p>
+                <p>Kita menjalankan perniagaan dengan integriti dan melaksanakan komitmen kita dalam setiap aspek kerja kita.</p>
+                <p>Setiap daripada kita bertanggungjawab terhadap kerja kita dan keputusan yang kita buat dalam peranan kita. Dalam setiap interaksi profesional—sama ada dengan rakan sekerja, pelanggan, pembekal, profesional penjagaan kesihatan, pesaing atau orang lain—kita mesti adil dan jujur tentang cara Abbott menjalankan perniagaan.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MENGELAKKAN KONFLIK KEPENTINGAN I</p>
+                <p>Kita mengenal pasti dan menangani konflik kepentingan sebelum meneruskan sesuatu urusan.</p>
+                <p>Konflik kepentingan berlaku apabila kepentingan peribadi mengganggu––atau kelihatan masuk campur––dengan apa yang terbaik bagi Abbott. Keputusan perniagaan hendaklah dibuat berdasarkan keperluan Abbott, bukannya keuntungan peribadi yang mungkin diraih atau kepentingan keluarga atau rakan. Kita dijangka untuk menggunakan pertimbangan yang baik dan mengelakkan situasi yang boleh membawa kepada konflik sebenar atau yang diangggap. Jika hubungan peribadi, minat atau aktiviti luar mempengaruhi keupayaan anda untuk bertindak secara adil dan berkesan—atau boleh memberi manfaat kepada anda atau ahli keluarga—anda mesti mendedahkan potensi konflik tersebut dan menjauhkan diri daripada situasi tersebut, mengikut garis panduan Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MENGELAKKAN KONFLIK KEPENTINGAN Il</p>
+                <p>Kita mengutamakan kepentingan Abbott semasa membuat keputusan berkaitan kerja.</p>
+                <p>Ini bermakna mengutamakan matlamat syarikat berbanding matlamat pasukan, kumpulan atau individu tertentu. Sebarang peluang atau sumber yang kita akses melalui peranan kita di Abbott hendaklah digunakan untuk memberi manfaat kepada syarikat—bukan untuk keuntungan peribadi. Kita tidak dibenarkan bersaing dengan Abbott atau membantu orang lain melakukannya. Apabila peluang timbul, tumpuan kita mestilah untuk memajukan kepentingan Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PERLINDUNGAN ASET &amp; REPUTASI ABBOTT</p>
+                <p>Kita merupakan penjaga syarikat kita.</p>
+                <p>Kita semua berkongsi tanggungjawab untuk melindungi dan menggunakan aset Abbott dengan bijak. Ini merangkumi segala-galanya daripada barangan fizikal seperti kenderaan dan komputer, kepada maklumat berharga seperti harta intelek, rahsia perdagangan dan pengetahuan khusus.</p>
+                <p>Kita harus sentiasa menggunakan pertimbangan yang baik untuk memastikan sumber-sumber ini digunakan dengan betul, cekap dan berhati-hati—mengelakkan kehilangan, pencurian, penyalahgunaan atau pembaziran.</p>
+                <p>Reputasi Abbott adalah salah satu aset kita yang paling berharga—dan kita semua memainkan peranan dalam melindunginya.</p>
+                <p>Setiap daripada kita bertanggungjawab terhadap cara kita mewakili Abbott, terutamanya di tempat awam dan dalam talian, di mana apa sahaja yang kita kongsi—sama ada dalam perbualan, e-mel atau media sosial—boleh mencerminkan syarikat. Ia penting untuk berkomunikasi dengan teliti, menggunakan pertimbangan yang baik dan melindungi maklumat sulit Abbott.</p>
+                <p>Apabila berinteraksi secara luaran, kita harus mempertimbangkan sama ada kita mungkin dilihat mewakili Abbott dan bagaimana kata-kata atau tindakan kita boleh menjejaskan reputasinya. Ini amat penting terutamanya pada media sosial, di mana catatan boleh tersebar dengan cepat dan meluas—komen atau catatan yang cuai boleh menyebabkan kemudaratan sebenar.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MAKLUMAT SULIT</p>
+                <p>Kita komited untuk menghormati dan melindungi semua maklumat sulit, termasuk data peribadi.</p>
+                <p>Maklumat sulit ialah satu daripada aset Abbott yang paling berharga. Ia merangkumi butiran bukan awam seperti penyelidikan, rahsia perdagangan, rancangan perniagaan, harga, kontrak, keputusan kewangan dan data lain yang boleh memberi manfaat kepada pesaing atau membahayakan Abbott jika didedahkan.</p>
+                <p>Kita mesti melindungi maklumat sulit dan mencegah penggunaan atau perkongsian tanpa kebenaran—walaupun selepas tempoh kita bersama Abbott tamat.</p>
+                <p>Di Abbott, kita juga menghormati harta intelek orang lain dan mengelakkan penggunaan maklumat sulit mereka yang tidak wajar. Menyalahgunakan maklumat bukan awam, seperti untuk perdagangan orang dalam, adalah menyalahi undang-undang dan tidak beretika.</p>
+                <p>Kita juga melindungi data peribadi yang diamanahkan kepada kita oleh rakan sekerja, profesional penjagaan kesihatan dan pelanggan. Apabila kita mengumpul dan menggunakan maklumat peribadi, kita melakukannya secara bertanggungjawab, dengan persetujuan yang sewajarnya dan tidak pernah menjual atau mendapatkannya daripada sumber yang tidak dibenarkan. Banyak lokasi mempunyai undang-undang privasi yang ketat dan kita komited untuk memahami dan mematuhinya, terutamanya untuk kategori maklumat peribadi yang paling sensitif.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Anda mesti melihat semua kandungan sebelum meneruskan.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Di Abbott, kita komited untuk menjalankan perniagaan dengan jujur dan menepati janji kita dalam semua bidang kerja kita.</p>
+          </div>
+          <div>
+            <p>Kita mengutamakan kepentingan Abbott daripada kepentingan kita sendiri semasa mengendalikan konflik kepentingan. Kita melindungi aset dan reputasi Abbott, menjaga maklumat rahsia dengan selamat dan menghormati privasi setiap orang yang berkongssi maklumat peribadi dengan kita.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>Antisogokan</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>Hadiah, Jamuan Makan &amp; Hiburan</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>Akaun dan Rekod yang Tepat</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>Pematuhan Undang-undang</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>Persaingan Adil</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klik setiap daripada ikon untuk mempelajari lebih lanjut.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ANTISOGOKAN</p>
+                <p>Kita giat menentang penipuan, sogokan dan rasuah. Kita memperoleh perjanjian perniagaan dengan cara yang betul.</p>
+                <p>Sebagai individu, kita menjangkakan profesional penjagaan kesihatan membuat keputusan berdasarkan apa yang terbaik untuk pesakit—bukan dipengaruhi oleh insentif daripada syarikat. Begitu juga, kita menjangkakan pegawai kerajaan bertindak demi kepentingan awam, bebas daripada tekanan korporat.</p>
+                <p>Di Abbott, kita mendidik profesional penjagaan kesihatan tentang produk kita tetapi tidak mengganggu pertimbangan bebas mereka. Ia sama sekali tidak dibenarkan untuk menawarkan apa-apa yang bernilai kepada penyedia penjagaan kesihatan (seperti doktor, ahli farmasi, jururawat, penyelidik atau kakitangan makmal), pegawai kerajaan atau orang lain untuk mendapatkan perniagaan atau memberi ganjaran kepada hubungan masa lalu.</p>
+                <p>Kita mematuhi undang-undang antipenyogokan, antirasuah dan antisogokan di seluruh dunia, termasuk Akta Amalan Rasuah Asing A.S. Semua orang di Abbott mesti mengurus hubungan dengan penyedia perkhidmatan dengan teliti—seperti pengedar, perunding dan penceramah—dengan menjalankan usaha wajar, membayar nilai pasaran yang adil dan mendokumenkan pembayaran dengan betul untuk memastikan pematuhan terhadap undang-undang dan standard syarikat.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>HADIAH, JAMUAN MAKAN &amp; HIBURAN</p>
+                <p>Kita tidak menawarkan atau menyediakan apa-apa yang mempunyai nilai untuk mendapatkan kelebihan perniagaan, secara langsung atau tidak langsung, selaras dengan prinsip antisogokan.</p>
+                <p>Untuk mengelakkan pengaruh yang tidak wajar dalam keputusan perniagaan, kita menetapkan had berkaitan hadiah, hidangan dan hiburan. Dasar Abbott membantu memastikan peringatan jenama, kesopanan budaya, layanan mesra dan manfaat lain tidak pernah mengganggu pertimbangan profesional.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>BUKU DAN REKOD YANG TEPAT</p>
+                <p>Kita mengukur pencapaian dengan tepat.</p>
+                <p>Rekod dan kenyataan awam Abbott mesti mencerminkan tindakan kita dengan tepat, dengan konteks yang cukup untuk menunjukkan sifat sebenar kerja kita. Rekod kewangan mesti mematuhi standard perakaunan, undang-undang dan dasar dalaman Abbott.</p>
+                <p>Apabila melaporkan harga, pembayaran atau item bernilai—terutamanya kepada profesional penjagaan kesihatan—kita mesti memastikan maklumat tersebut lengkap dan tepat. Banyak kerajaan memerlukan ketelusan ini untuk melindungi dana awam. Abbott komited untuk menyediakan data yang boleh dipercayai supaya kerajaan, penginsurans dan pihak berkepentingan lain boleh membuat keputusan yang termaklum.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PEMATUHAN DENGAN UNDANG-UNDANG</p>
+                <p>Kita mematuhi semua undang-undang, peraturan dan keperluan Abbott yang diguna pakai dalam kerja kita.</p>
+                <p>Setiap pekerja Abbott dijangka mematuhi semua undang-undang yang terpakai, serta dasar, prosedur dan Kod Abbott. Ini adalah syarat asas pekerjaan. Dasar Abbott merangkumi bidang utama seperti pematuhan penjagaan kesihatan, kualiti, kewangan, perdagangan, keselamatan dan banyak lagi, membantu kita memenuhi keperluan undang-undang dan mencegah ketidakpatuhan.</p>
+                <p>Sebagai sebuah syarikat global, kita juga mesti sedar bahawa undang-undang dari satu negara mungkin terpakai untuk kerja yang dilakukan di negara lain. Apabila ragu-ragu, dapatkan panduan daripada Bahagian Undang-undang atau Pejabat Etika dan Pematuhan.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PERSAINGAN ADIL</p>
+                <p>Kita hendaklah memastikan agar sebarang interaksi kita dengan pesaing dilakukan secara sewajarnya.</p>
+                <p>Di Abbott, kita komited untuk mematuhi undang-undang persaingan di mana sahaja kita beroperasi. Undang-undang ini melarang perjanjian atau tindakan yang menghalang amalan pasaran yang adil—terutamanya dalam penentuan harga, terma jualan dan interaksi dengan pesaing.</p>
+                <p>Elakkan membincangkan topik sensitif—seperti penetapan harga, kos atau rancangan perniagaan—dengan pesaing dan hubungi Bahagian Undang-undang atau Pejabat Etika dan Pematuhan jika anda mempunyai soalan atau menghadapi apa-apa yang tidak sesuai. Oleh kerana undang-undang persaingan adalah rumit dan pelanggaran boleh membawa hukuman yang serius, kita juga mesti menguruskan hubungan dengan pihak ketiga dengan teliti bagi memastikan pematuhan dan mengelakkan penampilan tingkah laku antipersaingan.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>Sebelum anda meninggalkan kursus ini, luangkan masa untuk mengesahkan bahawa anda memahami tanggungjawab anda yang berkaitan dengan Kod Pengendalian Perniagaan Abbott.</p>
+          <p>Saya mengesahkan bahawa saya memahami tanggungjawab saya mengenai Kod Pengendalian Perniagaan Abbott dan tahu di mana untuk mencari dan menyemak semula Dasar dan Prosedur yang berkenaan.</p>
+          <button class="qcSubmitBtn">Sahkan</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>Ujian Pengetahuan berikut mengandungi 10 soalan. Anda mesti mendapat markah 80% atau lebih untuk berjaya menamatkan kursus ini.</p>
+        <p>APABILA ANDA SUDAH BERSEDIA, KLIK BUTANG SEMAKAN PENGETAHUAN.</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Mengapakah Kod Pengendalian Perniagaan penting?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ia memberikan nasihat khusus untuk setiap situasi yang mungkin kita hadapi dalam kerja kita.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Ia menyediakan satu set prinsip dan nilai yang jelas yang mendasari keputusan apabila cara tindakan paling baik tidak dapat difikirkan dengan jelas.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Seterusnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Kod Pengendalian Perniagaan hendaklah menyediakan kepada kita satu set prinsip dan nilai yang jelas yang mendasari keputusan apabila cara tindakan paling baik tidak dapat difikirkan dengan jelas.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Antara yang berikut, yang manakah <span class="underline">tidak pernah</span> menjadi transaksi perniagaan yang sesuai?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Mengupah HCP untuk bercakap tentang bidang penyakit tertentu disebabkan oleh kemahiran dan kepakaran mereka.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Menyediakan hidangan yang berpatutan kepada peserta program pendidikan tajaan Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Mengatur sumbangan amal untuk organisasi tempatan.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Mengupah HCP untuk menjalankan program pendidikan bagi mengucapkan terima kasih kepada mereka kerana menggunakan produk Abbott.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Seterusnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Mengupah HCP untuk menjalankan program pendidikan disebabkan oleh kemahiran dan kepakaran mereka dibenarkan, walau bagaimanapun, mengupah HCP sebagai ucapan terima kasih kerana menggunakan produk Abbott adalah tidak sesuai kerana ini mungkin dianggap sebagai sogokan.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Akibat bagi individu yang terlibat dalam sogokan dan rasuah boleh termasuk:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Kerosakan nama baik.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Denda dan penalti.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Penamatan pekerjaan.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Hukuman penjara.</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>Semua jawapan di atas.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Seterusnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Akibat bagi individu yang terlibat dalam rasuah dan penyelewengan boleh merangkumi kerosakan reputasi, denda dan penalti, penamatan pekerjaan dan juga hukuman penjara.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Seorang wakil jualan juga memiliki sebuah kedai barang kemas kecil. Dia memutuskan adalah lebih baik untuk memberikan hadiah kecil dari kedainya kepada HCP yang tidak menetapkan produk Abbott kebelakangan ini. Adakah ini boleh diterima?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ya</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Tidak</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Seterusnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Dasar Abbott melarang hadiah kepada HCP kerana wakil jualan bertindak sebagai wakil Abbott. Hadiah tersebut dilarang walaupun dia yang membayarnya. Memberikan hadiah juga boleh dianggap sebagai rasuah untuk perniagaan masa hadapan.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Seorang pengurus jualan menerima panggilan daripada kenalan di syarikat pesaing. Pesaing tersebut berkongsi bahawa pasukan jualan pihak ketiga yang dikontrak oleh Abbott di pasaran baharu didakwa menawarkan hidangan mewah kepada pelanggan yang memilih produk Abbott berbanding pesaing. Apakah tindakan yang sewajarnya?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Jangan buat apa-apa, kerana maklumat itu datang daripada pesaing.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Jangan buat apa-apa, kerana hidangan mewah adalah perkara biasa di pasaran itu.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Laporkan perkara tersebut dengan segera kepada Pejabat Etika dan Pematuhan (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Kaji pengedar alternatif sekiranya dakwaan itu benar.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Seterusnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Anda hendaklah segera melaporkan dakwaan tersebut kepada Pejabat Etika dan Pematuhan (OEC) supaya ia dapat disiasat dengan betul, walaupun maklumat itu datang daripada pesaing.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Sebuah agensi pelancongan sedang mengatur perjalanan untuk profesional penjagaan kesihatan (HCP) yang menyediakan perkhidmatan pengawasan untuk Abbott. Setelah menyemak semula resit yang dihantar, percanggahan ditemui—jumlahnya tidak sepadan dengan permintaan pembayaran balik dan beberapa resit tiada butiran penting seperti tarikh perjalanan.</p>
+              <p>Apakah tindakan yang sewajarnya?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Maklumkan kepada agensi pelancongan bahawa Abbott tidak dapat memproses pembayaran tanpa dokumentasi yang lengkap dan tepat.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Proses resit kerana hanya beberapa maklumat yang hilang.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Nasihatkan agensi untuk lebih tepat pada masa akan datang.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Jangan buat apa-apa, kerana agensi ini baharu.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Seterusnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Semua buku dan rekod Abbott mesti menggambarkan semua transaksi dengan lengkap dan tepat. Oleh itu, adalah penting bagi pihak ketiga yang melaksanakan perkhidmatan untuk Abbott menyediakan dokumentasi lengkap yang mencerminkan tujuan dan butiran sebenar transaksi dengan tepat.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Anda bekerja bersama dengan rakan sekutu di mana ia dibenarkan menaja HCP (Profesional Penjagaan Kesihatan) untuk menghadiri persidangan pendidikan. Anda sedang dalam proses memilih HCP untuk menghadiri persidangan. Kriteria yang anda gunakan untuk pemilihan termasuk: (1) sama ada tajuk persidangan berkaitan dengan bidang kepakaran HCP; (2) sama ada Abbott pernah menaja HCP pada tahun lalu; dan, (3) sama ada HCP berkemungkinan mengesyorkan produk Abbott atau menggunakan peranti Abbott selepas menghadiri acara. Adakah kriteria-kriteria ini wajar?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ya. Dua kriteria utama yang mesti sentiasa dipenuhi semasa menaja individu adalah penajaan itu: a) berkaitan dengan bidang kepakaran HCP, dan b) bukan digunakan sebagai balasan atau dorongan untuk perniagaan. Semakan yang anda lakukan untuk memastikan Abbott belum pernah menaja HCP pada tahun lalu membantu anda menepati kriteria yang kedua.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Ya. Asalkan sebab menaja HCP bukan untuk mempengaruhi atau memberi ganjaran kepada individu tersebut, anda boleh mempertimbangkan pulangan ke atas pelaburan anda. – iaitu sama ada individu itu akan terus mempreskripsikan produk Abbott atau tidak.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Tidak. Keputusan penajaan tidak boleh dibuat berdasarkan faktor bahawa HCP berkemungkinan mengesyorkan produk Abbott atau menggunakan peranti Abbott selepas menghadiri acara yang ditaja.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ya. Asalkan sekurang-kurangnya salah satu kriteria itu sesuai, kehadiran kriteria tambahan yang tidak sesuai adalah tidak relevan.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Seterusnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Keputusan penajaan tidak boleh sekali-kali dibuat sebagai ganjaran kepada penggunaan produk sebelum ini atau sebagai dorongan untuk menggunakan lebih banyak produk atau peranti kita pada masa akan datang. Perlu diingat, dalam banyak bidang kuasa, penajaan adalah dilarang. Sentiasa rujuk prosedur sekutu anda sebelum memberikan penajaan.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Seorang wakil jualan Abbott mendidik seorang profesional penjagaan kesihatan (HCP) tentang sesuatu produk. Selepas perbincangan, HCP berkongsi bahawa seorang pesaing menawarkan iPad baharu sebagai pertukaran untuk membantu meningkatkan jualan mereka.</p>
+              <p>Apakah tindakan yang sewajarnya?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Tawarkan insentif yang sama untuk kekal berdaya saing.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Tolak tawaran iPad tetapi mencadangkan makan malam yang mahal untuk meneruskan perbualan.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Jelaskan bahawa Abbott menjalankan perniagaan dengan cara yang betul dan tidak boleh menawarkan apa-apa yang bernilai yang mungkin mempengaruhi proses membuat keputusan secara tidak wajar. Kemudiannya, laporkan situasi dengan segera ke Pejabat Etika dan Pematuhan (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Terima kasih kepada HCP atas maklumat tersebut dan berjanji anda akan memikirkannya.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Seterusnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Anda tidak boleh menawarkan, menjanjikan, memberi, atau menerima apa-apa pun yang bernilai untuk mendapatkan kelebihan perniagaan yang tidak wajar atau untuk mendapatkan atau mengekalkan perniagaan. Tidak kira apa yang dilakukan oleh pesaing, anda mesti mematuhi undang-undang dan dasar Abbott yang terpakai, termasuk keperluan dalam Dasar Antirasuah Global Abbott (ANTIRASUAH-GLB). Apabila ragu-ragu, sentiasa berunding dengan Legal atau Pejabat Etika dan Pematuhan.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Antara berikut, yang manakah merupakan contoh barang bernilai yang tidak boleh diberikan untuk memenangi perniagaan?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Perjalanan ke HCP dan keluarga mereka untuk melawat spa, kasino atau tempat lain yang terkenal dengan hiburan.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Geran untuk penyelidikan atau projek pendidikan masa hadapan.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Derma kepada badan amal kegemaran pegawai kerajaan.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Semua yang di atas.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Seterusnya</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Standard Abbott tentang sogokan dan rasuah, yang terdapat dalam Dasar Antirasuah Global (ANTIRASUAH-GLB) adalah selaras dengan komitmen kita untuk menjalankan perniagaan dengan kejujuran, kesaksamaan dan integriti. Ini bermakna menawarkan atau memberi barang bernilai untuk memenangi perniagaan tidak dibenarkan sama sekali.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Seorang HCP yang merupakan pemimpin pendapat utama bertanya sama ada anda boleh mengatur beberapa sokongan untuk program pendidikan yang ingin dihadirinya sebagai pertukaran untuk peluang perniagaan tambahan untuk Abbott. Pilihan yang manakah paling sesuai?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Menolak dengan tegas permintaan dengan berdasarkan bahawa ia melanggar Dasar Antirasuah Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Maklumkan HCP yang anda akan tanya pengurus anda.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Bersetuju dengan permintaan itu, kerana HCP ialah pemimpin pendapat utama yang mempunyai banyak pengaruh.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Tiada yang di atas.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">Serah</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Kita tidak menawarkan atau menyediakan apa-apa yang mempunyai nilai untuk mendapatkan kelebihan perniagaan, secara langsung atau tidak langsung, selaras dengan prinsip antisogokan.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>Tiada keputusan tersedia, kerana anda belum melengkapkan Semakan Pengetahuan.</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>Tahniah! Anda sudah lulus Semakan Pengetahuan dengan jayanya.</p>
+          <p>Sila semak semula keputusan anda di bawah dengan mengklik setiap soalan.</p>
+          <p>Setelah anda selesai, klik anak panah ke hadapan untuk mengambil satu tinjauan ringkas.</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>Maaf, anda tidak lulus Ujian Pengetahuan. Ambil masa beberapa minit untuk menyemak semula keputusan anda di bawah dengan mengklik setiap soalan.</p>
+          <p>Apabila anda sudah selesai, klik butang Ambil Semula.</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>${C_199.1}</p>
+          <p>${C_199.2}</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.3}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.4}</p>
+                  <p>${C_199.5}</p>
+                  <p>${C_199.6}</p>
+                  <p>${C_199.7}</p>
+                  <p>${C_199.8}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.9}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Hasil daripada sesi ini, saya mempunyai pemahaman yang lebih baik tentang Kod Pengendalian Perniagaan Abbott.</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Sangat Tidak Setuju</p>
+                  <p>Tidak Setuju</p>
+                  <p>Neutral</p>
+                  <p>Setuju</p>
+                  <p>Sangat Setuju</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.16}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.17}</p>
+                  <p>${C_199.18}</p>
+                  <p>${C_199.19}</p>
+                  <p>${C_199.20}</p>
+                  <p>${C_199.21}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.22}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">${C_199.23}</p>
+          <button class="surveySubmit">
+            <p>${C_199.24}</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">Tempat untuk mendapatkan Sokongan</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Pengurus</p>
+        <p>Jika anda ada soalan tentang interaksi anda dengan mereka yang berada di luar Abbott, tempat terbaik untuk bermula adalah dengan pengurus anda.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Standard Bertulis</p>
+        <ul>
+          <li>Untuk mendapatkan set jangkaan asas syarikat kita tentang interaksi dengan orang lain, rujuk <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Kod Pengendalian Perniagaan</a> kita.</li>
+          <li>Untuk mengetahui dasar dan prosedur korporat kita yang diguna pakai di seluruh syarikat, layari <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">Portal Dasar Global.</a></li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>Pejabat Etika dan Pematuhan (OEC)</p>
+        <p>Pejabat Etika dan Pematuhan ialah sumber korporat yang disediakan untuk menjawab soalan atau kebimbangan anda tentang nilai dan standard pengendalian syarikat kita.</p>
+        <ul>
+          <li>Kunjungi <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">halaman web Pejabat Etika dan Pematuhan</a> pada Abbott World.</li>
+          <li>Jika anda ada sebarang kebimbangan tentang aktiviti perniagaan rasuah, sama ada dalam syarikat atau dalam urusan anda dengan pelanggan atau pihak ketiga lain, anda boleh melaporkan kebimbangan anda kepada Pejabat Etika dan Pematuhan (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) atau Unit Undang-Undang atau hubungi <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> pelbagai bahasa kita yang tersedia secara global 24/7.</li>
+          <li>iComply – Kunjungi <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> untuk mengakses sumber dan aplikasi berkaitan pematuhan yang disediakan untuk interaksi dengan Profesional Penjagaan Kesihatan dan Organisasi Penjagaan Kesihatan, serta pihak ketiga.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Sumber Manusia</p>
+        <p>Bagi masalah yang berkaitan dengan kakitangan, seperti kebimbangan yang melibatkan pihak pengurusan dan/atau kakitangan lain, hubungi <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">Wakil Sumber Manusia</a> di tempat anda.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>Bahagian Undang-undang</p>
+        <p>Hubungi Bahagian Undang-undang untuk soalan atau kebimbangan tentang implikasi undang-undang penyogokan dan rasuah.</p>
+        <ul>
+          <li>Klik di sini untuk mengakses laman utama Perundangan pada Abbott World.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>SUMBER LAIN</p>
+        <p>Ada banyak sumber lain yang disediakan untuk anda:</p>
+        <p>Kewangan – Sekiranya anda ada soalan tentang perakaunan atau kewangan, hubungi jabatan Kewangan di tempat anda.</p>
+        <p>Audit Korporat – Sekiranya anda ada kebimbangan khusus tentang perakaunan, kawalan perakaunan dalaman atau hal berkaitan audit, laporkan dengan segera kepada Audit Korporat atau OEC.</p>
+        <p>Kualiti dan Peraturan Abbott – Jika anda ada soalan tentang kualiti serta keselamatan produk kita, hubungi jabatan Kualiti dan Pengawalaturan di tempat anda.</p>
+        <p>Keselamatan dan Kesihatan Alam Sekitar Global – Hubungi wakil Kesihatan dan Keselamatan Alam Sekitar Global jika anda ada soalan tentang tapak fizikal dan potensi bahaya.</p>
+        <p>Pemerolehan Global – Jika anda ada soalan tentang perhubungan pembekal, hubungi Pemerolehan Global.</p>
+      </div>
+      <p class="resSubtitles" data-break="true">Sumber Kursus</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Transkrip</p>
+        <p>Klik <a href="reference/Quick_Reference.pdf" target="_blank">di sini</a> untuk transkrip lengkap kursus</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>Kursus tidak dapat menghubungi LMS. Klik 'OK' untuk meneruskan dan menyemak kursus. Perhatian, Pensijilan Kursus mungkin tidak tersedia. Klik 'Batalkan' untuk keluar</s1>
+    <s2>Semua soalan kekal tidak berjawab</s2>
+    <s3>Soalan</s3>
+    <s4>Soalan</s4>
+    <s5>tidak dijawab</s5>
+    <s6>Jawapan itu betul!</s6>
+    <s7>Jawapan itu tidak betul!</s7>
+    <s8>Maklum Balas:</s8>
+    <s9>Kod Pengendalian Perniagaan</s9>
+    <s10>Ujian Pengetahuan</s10>
+    <s11>Hantar</s11>
+    <s12>Ambil Semula</s12>
+    <s13>Penerangan Kursus: Kod Pengendalian Perniagaan adalah dokumen yang sangat penting. Ia menerangkan jangkaan syarikat kita terhadap setiap kakitangan kerana kita mewakili Abbott dalam tugas harian kita. Kod kita melambangkan asas bagi tanggungjawab dan tingkah laku kita yang akan membantu kita membuat pilihan terbaik untuk Abbott, untuk diri kita dan untuk ramai orang yang menerima khidmat kita. Kursus ini memberikan gambaran keseluruhan Kod peringkat tinggi, menggariskan jangkaan syarikat kita dan kewajipan anda serta memberikan nasihat praktis tentang apa yang perlu dilakukan apabila jalan terbaik ke hadapan sukar ditentukan. Kursus ini akan mengambil masa 35-45 minit untuk dilengkapkan.</s13>
+    <s14>Menu</s14>
+    <s15>Sumber</s15>
+    <s16>Bahan Rujukan</s16>
+    <s17>Audio</s17>
+    <s18>Keluar</s18>
+    <s19>Tutup</s19>
+    <s20>Komen…</s20>
+  </strings>
+</course>

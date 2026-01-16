@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1_copy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45" xml:space="preserve">
+<style type="text/css">
+	.st0a{fill-rule:evenodd;clip-rule:evenodd;fill:#30607F;}
+</style>
+<g transform="translate(-13) scale(-1 1)" transform-origin="70.5%">
+	<path transform-origin="55% center" class="st0a" d="M28.1,16.7v-5.6c0-1,0.4-1.9,1.1-2.7c0.7-0.7,1.7-1.1,2.7-1.1c1,0,1.9,0.4,2.7,1.1c0.7,0.7,1.1,1.7,1.1,2.7v7.5
+		c0,0.5,0.2,1,0.5,1.3c0.4,0.4,0.8,0.5,1.3,0.5s1-0.2,1.3-0.5c0.4-0.4,0.5-0.8,0.5-1.3v-7.5c0-2-0.8-3.9-2.2-5.3
+		c-1.4-1.4-3.3-2.2-5.3-2.2S28,4.4,26.6,5.8c-1.4,1.4-2.2,3.3-2.2,5.3v5.6">
+		<animateTransform attributeName="transform" attributeType="XML" type="scale" from="1 1" to="-1 1" begin="4.2s" dur=".7s" fill="freeze" repeatCount="1" restart="always" />
+	</path>
+</g>
+<path class="st0a" d="M24.4,16.6h-15c-1,0-1.9,0.4-2.7,1.1c-0.7,0.7-1.1,1.7-1.1,2.7v15.1c0,2.1,1.7,3.8,3.8,3.8h18.8
+	c1,0,1.9-0.4,2.7-1.1c0.7-0.7,1.1-1.7,1.1-2.7V20.4c0-1-0.4-1.9-1.1-2.7c-0.7-0.7-1.7-1.1-2.7-1.1"/>
+</svg>

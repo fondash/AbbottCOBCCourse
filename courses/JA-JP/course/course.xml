@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="ようこそ" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="ビジネス行動規範">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="当社の理念">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="目標">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="目次">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="アボットのビジネス行動規範の重要性" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="私たちの毎日のコミットメント">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="当社ビジネスに対する規範の重要性">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="アボットの規範" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="概要">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="当社の顧客">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="当社の製品">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="先進科学">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="当社の社員">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="当社の地域社会">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="私たちの企業理念">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="あなたの取り組み" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="あなたの取り組み">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="理解度チェック" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="はじめに">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="評価">
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="解説">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="アンケート調査">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>ビジネス行動規範</p>
+      </div>
+      <p class="startInstruction">[次へ]矢印をクリックしてください。</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>グローバルなヘルスケアリーダーとして、私たちが毎日行う仕事には重要な意味があります。</p>
+        <p>当社のビジネス行動規範は、誠実さをもって行動し、明確な目的を持ってリードし、私たちのあるべき姿を体現する判断を下すうえで力強い羅針盤になります。この規範によって、私たちは信頼を築き、価値観を守り、世界に対して意義ある貢献を続けていくことができます。</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>このコースを完了すると、以下のことができるようになります。</p>
+        <ul>
+          <li>ビジネス行動規範が私たちのビジネスにとって重要である理由を理解する。</li>
+          <li>ビジネス行動規範の主要原則を把握し、それらが日々の業務にどのように適用されるかを理解する。</li>
+          <li>グローバルレベルでのビジネスを正しい方法で行ううえで、アボットの期待事項を理解する。</li>
+          <li>ヘルプやサポートが必要な際の依頼先を知る。</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>ようこそ</p>
+            <p>1分</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>アボットのビジネス行動規範の重要性</p>
+            <p>2分</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>当社の規範</p>
+            <p>18分</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>あなたの取り組み</p>
+            <p>1分</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>理解度チェック</p>
+            <p>5分</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>学習の進捗状況</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">このトピックが学習可能になりました。</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>すべての人が、日々、誠実に、公平に、そして正直に取り組みます。</p>
+        <p>当社のビジネス行動規範は、誠実さ、公平さ、正直さが単なる理想論ではなく、日々の責任であることを再認識させてくれます。この規範は、私たちが直面するであろうすべての課題は予測できませんが、私たちを導く強い価値観の基盤を提供します。</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>当社は最高水準の行動を約束します。</p>
+        <p>ビジネス行動規範は、誠実さ、公平さ、正直さをもって業務を行うための基準を定めているため、アボットの成功には不可欠です。これは、特に複雑な状況において倫理的な判断を下す助けとなり、私たちが常に価値観に沿って行動できるようにします。規範に従うことで、私たちは企業としての評判を守り、関係者との信頼を築き、「正しいことを行う」ことが何よりも重要であるという文化を育むことができます。</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>規範を理解することは全員の責任です。</p>
+        <p>私たち一人ひとりが、ビジネス行動規範を日々の業務や意思決定に適用する役割を担っています。規範は単なる文書ではなく、誠実さと自信を持って課題を乗り越える際に役立つガイドなのです。</p>
+        <p>この後のセクションでは、行動規範の主要原則を掘り下げ、それが日々の行動や選択の中でどのように生きているのかを見ていきます。</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">先に進む前に、すべての内容を確認しなければなりません。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>アボットでは、私たちの製品に頼る人々の健康とウェルビーイングの向上に取り組んでいます。</p>
+          </div>
+          <div>
+            <p>すべての意思決定、すべての革新、すべての行動の根底には、「人々の生活をより良くする」という目的があります。</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>患者および消費者</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>医療専門家</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>詳細については、各アイコンをクリックしてください。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>患者と消費者</p>
+                <p>人々の健康を守ることは、私たちの事業の中心です。当社は、患者や消費者の健康とウェルビーイングを最優先に考えます。日々の業務の中で、人々がより健康に生活できるよう支援し、より強く健全なコミュニティづくりに貢献することができます。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>医療専門家</p>
+                <p>私たちは医療専門家と協働して、より良い健康の実現を支援しています。医師、看護師、薬剤師、研究者、検査スタッフなど、医療専門家の知識と独立した判断を尊重します。患者をより良い健康へ導く上で、彼らの役割は欠かせません。</p>
+                <p>アボットは、医療専門家が最善の判断を下せるよう、正確でタイムリーな情報の提供に努めています。私たちが力を合わせることで、世界中の健康とウェルビーイングを向上させるという共通の目標を達成できます。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">先に進む前に、すべての内容を確認しなければなりません。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>アボットでは、提供するすべての製品が安全かつ効果的であり、人々から寄せられる信頼に値するものであることを確実にすることを使命としています。</p>
+          </div>
+          <div>
+            <p>当社は、適切な材料の選定から、製品の市場投入、販売、提供方法に至るまで、製品が安全かつ有効であるよう徹底した取り組みを行っています。あらゆる段階で、高い品質基準に従って行動しています。</p>
+            <p>また、製品の安全性に関する問題を迅速に特定、評価、対処することに加え、偽造品、非合法な転用、盗難の防止に積極的に取り組んでいます。</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>製品の品質</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>製品のプロモーションI</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>製品のプロモーションII</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>詳細については、各アイコンをクリックしてください。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>製品の品質</p>
+                <p>安全、効果的、そして信頼できます。当社の製品は価値をもたらします。</p>
+                <p>当社は、原材料の調達から製造、そして自社やパートナーを通じたマーケティング、販売、提供に至るまで、すべての段階で品質を最優先に取り組んでいます。人々は当社に安全を託しているため、すべての段階が重要です。</p>
+                <p>私たちは、製品の安全性に関する問題を迅速に特定し、評価し、対処することに全力で取り組んでいます。医療専門家や医療機関が、当社製品を安全かつ効果的に使用するために必要な情報を確実に入手できるようにしています。また、安全性に関する懸念が生じた場合には、規制当局や公衆衛生機関と適切に連携し、情報を共有します。</p>
+                <p>私たちは、当社製品の偽造、非合法な転用、盗難を防止するための対策を講じています。当社は、輸出入管理規制を含む貿易関連法規を遵守し、国家安全保障および公衆衛生を守るために、政府の制限措置や制裁にも従っています。</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>製品のプロモーションI</p>
+                <p>当社は、製品を信頼している人々に対して誠実さと敬意をもって製品を販促し、販売しています。</p>
+                <p>当社の製品に関するコミュニケーションは、真実で偏りがなく、事業を展開する各国における承認表示、科学的根拠、および医療上のベストプラクティスに沿ったものです。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>製品のプロモーションII</p>
+                <p>当社は、製品が意図され承認された用途に基づいて販促を行います。</p>
+                <p>当社は、事業展開する諸国の保健当局から付与されたライセンスと承認に沿って事業展開します。当社の製品プロモーション、販売、流通は、厳格な貿易法と国固有の規制に従います。強固な社内ポリシーと手続きを通じて、法令遵守を確実にするとともに、倫理的で安全かつ責任ある事業運営へのコミットメントを堅持しています。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">先に進む前に、すべての内容を確認しなければなりません。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>アボットでは、誠実さと明確な目的をもって科学を前進させることに取り組んでいます。</p>
+          </div>
+          <div>
+            <p>当社はイノベーションを追求し、リスクを予測して責任をもって対処することの重要性を認識しています。あらゆる研究参加者の尊厳を尊重し、科学研究において最高水準の透明性と客観性を維持しています。</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>イノベーション I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>イノベーション II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>先進科学</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>詳細については、各アイコンをクリックしてください。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>イノベーション I</p>
+                <p>当社は、人々がより健康に生きられるよう支援し、世界中の健康アウトカムを改善するための革新的なヘルスケアソリューションを創造しています。</p>
+                <p>画期的な治療法、命を救う医療機器、そして新しい形で健康を支える革新的な製品を生み出すことで、人々のニーズに応えています。最先端の科学と技術を通じて、健康アウトカムを向上させ、人々が最大限に力を発揮できるよう支援し、人生のあらゆるステージで意味のあるイノベーションを提供することを目指しています。</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>イノベーション II</p>
+                <p>当社は、新たな可能性を探求し、備えを怠らないことで、イノベーションを育む企業文化を大切にしています。</p>
+                <p>進歩にはリスクが伴うことがありますが、私たちは課題を予測し、それを最小限に抑えるために、慎重かつ責任あるステップを踏むよう努めています。その際、常に行動規範と社内ポリシーを指針としています。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>科学の進歩</p>
+                <p>当社は、イノベーションを促進し、治療を改善し、ヘルスケアの発展につながる正確で客観的なデータを生み出すために研究を行っています。</p>
+                <p>研究を行う際は、治験参加者の尊厳を尊重し、不要なリスクから保護し、研究の内容、目的、関連するリスクを理解してもらうことを徹底しています。インフォームド・コンセントを治験参加者から取得することは、研究プロセスにおける不可欠な要素です。</p>
+                <p>科学研究における透明性を重視し、結果に不適切な影響を与えることはありません。研究データが正確であることを保証し、結果の良否に関係なく、製品に関する研究結果を適時にかつ正確に提供することを約束しています。</p>
+                <p>アボットのために行われる研究や、当社の名の下に発表される研究については、強固な科学的、医学的背景を持つ専門家とパートナーを組みます。私たちは財務面またはその他の関係など、アボットとのあらゆる関係を開示することを期待しています。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">先に進む前に、すべての内容を確認しなければなりません。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>アボットはオープン性、多様性、尊重の文化を育んでいます。それが創造性とイノベーションを生み出す原動力となるからです。</p>
+          </div>
+          <div>
+            <p>私たち一人ひとりに求められるのは、行動規範を毎日実践することです。それはすなわち、他者を尊重して接すること、安全でインクルーシブな職場を作ること、すべての人に平等な機会を確保することを意味します。</p>
+            <p>不明なことがあれば質問し、何か違和感を覚えたときには声を上げます。</p>
+            <p>このセクションでは、均等な機会の提供と安全な職場環境へのコミットメントを改めて確認するとともに、私たちが行うすべての業務において、行動規範を理解し、適用し、守ることの重要性を再確認します。</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>協力</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>互いの絆</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>懸念を報告する</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>機会均等</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>公正な取扱い</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>職場環境</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>詳細については、各アイコンをクリックしてください。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>協力</p>
+                <p>多様なアイデアがより優れたソリューションにつながるため、当社はオープン性とコラボレーションを重視しています。</p>
+                <p>多様性を受け入れることは、創造性、活力、そして前進の原動力となります。世界の医療に真に貢献するために、私たちは互いの意見に耳を傾け、すべての声を尊重し、目的を共有しながら協力して取り組みます。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>互いの絆</p>
+                <p>私たち全員が、アボットの価値観を毎日実践する責任を担っています。</p>
+                <p>倫理的に行動することで、私たちの企業文化はさらに強化されます。誰もが、行動規範が自分の役割や業務にどのように適用されるかを理解しなければなりません。</p>
+                <p>マネージャーおよび監督者には、リーダーとして特別な責任があります。彼らは私たちの価値観の模範となり、倫理的行動を促進し、従業員が報復を恐れずに質問したり懸念を提起したりできる安全な環境を作る必要があります。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>懸念の報告</p>
+                <p>何かが不明確であったり、違和感を覚えたりしたときには質問します。また、規範違反の可能性がある場合は声を上げて報告します。</p>
+                <p>指示が不明確なときには質問し、倫理に反する可能性のあるビジネス行為、行動規範の違反、またはアボットのポリシー違反の疑いがある場合には、それを指摘し、報告する責任があります。</p>
+                <p>正しい判断や行動に確信が持てないときは、マネージャーに相談するか、エシックス　アンド　コンプライアンス　オフィス（OEC）に連絡してください。</p>
+                <p>マネージャーおよび監督者は模範を示し、従業員が行動規範を理解して遵守できるようにする責任があります。リーダーはアボットの期待事項を伝えるうえでより大きな責任を負っており、行動規範違反の可能性がある場合には、エシックス　アンド　コンプライアンス　オフィス（OEC）に連絡すべきです。</p>
+                <p>規範違反の可能性がある報告は、すべて慎重に取り扱われます。エシックス　アンド　コンプライアンス　オフィス（OEC）は、必要に応じて調査や是正措置などのフォローアップ手順を実施します。自分で調査することは認められません。全員が調査に協力し、調査内容を機密として扱わなければなりません。</p>
+                <p>是正措置には、以下の懲戒措置（最高で解雇を含む）または法的措置が含まれる場合があります。</p>
+                <ul>
+                  <li>違反を許可した場合、または違反に関与した場合</li>
+                  <li>調査への協力を拒否した場合</li>
+                  <li>不十分な監督により違反を報告しなかった場合</li>
+                  <li>虚偽の報告を行った場合</li>
+                  <li>善意で懸念を報告した人に対して報復を行った場合</li>
+                </ul>
+                <p>報復は決して許されません。報復がされたと思う場合は、エシックス　アンド　コンプライアンス　オフィス（OEC）または人事に報告してください。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>機会均等</p>
+                <p>当社は従業員全員に均等な機会を与えます。</p>
+                <p>雇用に関する決定は、事業上のニーズ、スキル、経験、成果に基づいて行います。いかなる種類の差別も認められません。また、世界中の従業員との関係に適用されるすべての法律を遵守します。</p>
+                <p>アボットは、人種、肌の色、宗教、年齢、性別、出身国、性自認または性表現、性的指向、身体障がい、婚姻状況、退役軍人または軍務の状況、遺伝情報、市民権の状況、その他法的に保護されているいかなる地位に基づく差別も禁止しています。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>公正な取扱い</p>
+                <p>私たちは、敬意を持ち、インクルーシブで安全な職場環境を育みます。</p>
+                <p>すべての人が歓迎され、支援され、自分の力を発揮できると感じられる環境づくりを目指しています。</p>
+                <p>アボットは、健全でハラスメントのない職場環境を推進し、ダイバーシティとインクルージョン（Ｄ＆Ｉ：多様性と包摂性）を強化するために従業員からの意見を重視しています。</p>
+                <p>私たちは全ての人に敬意と尊厳をもって接し、公平性と誠実さを通じて信頼を築きます。決して、意図的な誘導、虚偽表示、不透明さによって信頼を得ようとしてはなりません。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>職場環境</p>
+                <p>当社は安全性と公正な労働環境を優先します。</p>
+                <p>事故または安全が脅かされるような状況は、すみやかにマネジメントに報告する必要があります。また、アボットは世界中の事業活動において、違法または不適切な労働慣行、さらには残酷・非人道的な扱いを防止・禁止するための措置を講じています。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">先に進む前に、すべての内容を確認しなければなりません。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>アボットは、コミュニティ、環境、従業員エンゲージメントを通じて信頼を築く企業です。</p>
+          </div>
+          <div>
+            <p>私たちは事業を展開する地域社会に貢献し、人々の生活に前向きで持続的な影響をもたらすことを目指しています。</p>
+            <p>アボットは、エネルギー使用量の削減や自然資源の保全に努め、環境負荷の最小化に取り組んでいます。</p>
+            <p>また、適切な形での政治的関与を支持し、世界各地の事業所において、従業員の地域社会への参加を奨励しています。</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>地域社会への関与</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>環境上の責任</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>政治献金</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>詳細については、各アイコンをクリックしてください。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>地域社会への関与</p>
+                <p>私たちは地域社会のウェルビーイングを支援します。</p>
+                <p>アボットでは、製品、業務、そして行動を通じて地域社会のウェルビーイングを支える取り組みを行っています。私たちが暮らし、働く地域に貢献してきた長い歴史があり、健全な地域社会は成長すると信じています。</p>
+                <p>事業運営、パートナーシップ、地域団体や社会的取り組みへの支援を通じて、私たちが事業を行うすべての場所で、前向きで持続的な影響を生み出すことを目指しています。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>環境上の責任</p>
+                <p>当社は持続可能な開発に参加し、環境への影響を軽減するよう取り組んでいます。</p>
+                <p>当社は、原材料の調達方法から、製品の製造、輸送、使用に至るまで、あらゆる活動において環境保護に配慮しています。</p>
+                <p>エネルギーと天然資源の使用量を削減する措置を講じています。職場や地域社会におけるクリーンエネルギープロジェクトをサポートしています。廃棄物を減らし、リサイクルを増やし、環境リスクを下げる方法を模索しています。また、当社は事業運営に適用される環境法や規制に従います。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>政治献金</p>
+                <p>当社は政治的プロセスにおける適切な参加を奨励し、地域社会への関与を支援します。</p>
+                <p>アボットは、当社の使命と価値観に一致する公共政策をサポートします。必要に応じて、政治候補者または利益団体をサポートする場合もあります。</p>
+                <p>企業による政治献金に関する法律は複雑なため、アボットの資金を使用する献金、またはアボットに代わって行われる献金は、事前に、まず最初に法務部の審査を受ける必要があります。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">先に進む前に、すべての内容を確認しなければなりません。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>アボットは、誠実に事業を行い、あらゆる業務領域で約束を守ることに取り組んでいます。</p>
+          </div>
+          <div>
+            <p>利益相反に対処する場合は、自分自身の利益よりもアボットの利益を優先します。また、アボットの資産と評判を守り、機密情報を適切に保護し、個人情報を共有するすべての人々のプライバシーを尊重します。</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>公正な取引</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>利益相反の回避 I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>利益相反の回避 II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>アボットの資産と評判の保護</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>機密情報</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>詳細については、各アイコンをクリックしてください。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>公正な取引</p>
+                <p>当社は誠実に事業に従事し、あらゆる業務領域において約束を確実に果たします。</p>
+                <p>私たち一人ひとりが、自分の業務および役割において行う判断に責任を負っています。同僚、顧客、サプライヤー、医療専門家、競合他社、その他の関係者など、どのような相手との専門的なやり取りにおいても、アボットの事業運営について、公正かつ誠実に向き合うことが求められます。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>利益相反の回避 I</p>
+                <p>当社は利益相反を特定し、対処してから先に進みます。</p>
+                <p>利益相反は、個人の利益がアボットの最善の利益と衝突する場合、またはそのように見える場合に発生します。事業上の決定は、個人的な利益、または家族または友人の利益ではなく、アボットのニーズに基づいて行われるべきです。私たちは健全な判断を行い、実際の利益相反や、そう見える状況を避けることが期待されています。個人的な関係、利害、社外活動などが、公平かつ効果的に行動する能力に影響を及ぼす場合、または自分や家族が利益を得る可能性がある場合は、あなたはその可能性を開示し、アボットのガイドラインに従って状況から身を引く必要があります。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>利益相反の回避 II</p>
+                <p>私たちは、業務に関する判断を行う際、アボットの利益を最優先にします。</p>
+                <p>それは、特定のチーム、部署、あるいは個人の利益よりも、会社全体の目標を優先することを意味します。アボットでの役割を通じて得た機会やリソースは、個人的な利益ではなく、会社の利益のために利用しなければなりません。私たちは、アボットと競合したり、他者が競合することを手助けしたりしてはなりません。新たな機会が生まれた場合は、アボットの利益を高めることに集中する必要があります。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>アボットの資産と評判の保護</p>
+                <p>私たちは、会社の管理者としての責任を担っています。</p>
+                <p>私たち全員がアボットの資産を守り、賢明に使用する責任を共有しています。ここでいう資産には、車両やコンピューターのような物理的資産に加え、知的財産、営業秘密、専門的な知識など、価値ある情報資産も含まれます。</p>
+                <p>私たちは常に健全な判断を持ち、これらの資産が適切かつ効率的に、注意をもって使用されるよう努める必要があります。紛失、盗難、誤用、無駄を防ぐことも重要です。</p>
+                <p>アボットの評判は私たちの最も重要な資産の一つで、私たち全員にそれを守る役割があります。</p>
+                <p>私たち一人ひとりがアボットをどのように表現するかということに責任をもっています。特に公開の場やオンライン上での発言は、会話、メール、ソーシャルメディア上の投稿などの形式にかかわらず、すべて会社に影響を与える可能性があります。コミュニケーションは慎重に行い、健全な判断を下し、アボットの機密情報を保護することが重要です。</p>
+                <p>外部の関係者と接する際には、自分の言動がアボットを代表するものと見なされる可能性があるか、またその言動がアボットの評判にどのような影響を与えるかを常に考慮する必要があります。特にソーシャルメディアでは、投稿が急速かつ広範囲に拡散する可能性があるため、不注意なコメントや投稿は実際の損害を引き起こすことがあります。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>機密情報</p>
+                <p>当社は、個人データを含むすべての機密情報を尊重し、保護することを約束しています。</p>
+                <p>機密情報はアボットの最も重要な資産の一つです。これには、研究内容、営業秘密、事業計画、価格情報、契約書、財務結果、その他、公開された場合に競合他社に利益を与えたり、アボットに損害を与えたりする非公開情報が含まれます。</p>
+                <p>私たちは、アボットでの勤務終了後も、機密情報を保護し、不正使用または共有を防止する必要があります。</p>
+                <p>アボットでは、他者の知的財産を尊重し、彼らの機密情報を不適切に利用しません。公開されていない情報をインサイダー取引などに悪用することは、違法であり倫理にも反します。</p>
+                <p>当社は、同僚、医療専門家、顧客から委託された個人データも保護します。個人情報を収集・利用する際には、責任ある方法で、適切な同意を得たうえで行い、決して無許可の情報源から取得したり、販売したりすることはありません。多くの地域では厳しいプライバシー法が定められており、とりわけ最も機微な個人情報については、それらの法律を理解し、遵守することに努めています。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">先に進む前に、すべての内容を確認しなければなりません。</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>アボットは、誠実に事業を行い、あらゆる業務領域で約束を守ることに取り組んでいます。</p>
+          </div>
+          <div>
+            <p>利益相反に対処する場合は、自分自身の利益よりもアボットの利益を優先します。また、アボットの資産と評判を守り、機密情報を適切に保護し、個人情報を共有するすべての人々のプライバシーを尊重します。</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>贈収賄防止</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>贈物、食事、娯楽</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>正確な記帳と記録</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>法律の遵守</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>公正な競争</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>詳細については、各アイコンをクリックしてください。</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>贈収賄防止</p>
+                <p>当社は積極的に、詐欺、贈収賄、腐敗行為に反対します。当社は、ビジネスを正しいやり方で獲得します。</p>
+                <p>個人として、医療専門家には患者の最善の利益に基づいて意思決定することを期待しており、企業からのインセンティブによって影響を受けるべきではありません。同様に、政府関係者には、企業の圧力とは無関係に、公共の利益のために行動することを期待しています。</p>
+                <p>アボットでは、医療専門家に製品について教育を行うことはありますが、彼らの独立した判断に干渉することはありません。医師、薬剤師、看護師、研究者、検査スタッフなどの医療従事者や、政府関係者、その他の相手に対し、ビジネス獲得や過去の関係への報酬を目的として経済的価値のあるものを提供することは決して許されません。</p>
+                <p>当社は、米国の海外腐敗行為防止法など、贈収賄防止、汚職防止、キックバック防止に関する世界中の法律に従います。アボットの全従業員は、ディストリビューター、コンサルタント、講演者などのサービス提供者との関係を慎重に管理しなければなりません。そのために、デューデリジェンスを実施し、適正市場価格に基づいて支払い、支払い内容を適切に記録して、法令および社内基準への準拠を確保します。</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>贈物、食事、娯楽</p>
+                <p>私たちは、ビジネス上の優位性を得る目的で、経済的価値のあるものを直接的にも間接的にも提供しません。これは贈収賄防止の原則に基づくものです。</p>
+                <p>ビジネス上の決定への不適切な影響を防ぐため、当社は贈物、食事、娯楽に関する限度を設定しています。アボットのポリシーは、ブランド連想品、文化的儀礼としての贈物、ホスピタリティ、その他の便益が、専門的な判断に決して影響を及ぼさないようにするためのものです。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>正確な記帳と記録</p>
+                <p>当社は達成事項を正確に評価します。</p>
+                <p>アボットの記録および公開文書は、私たちの行動を正確に反映し、業務の実態を正しく示すに足る十分な背景情報を備えている必要があります。財務記録は、会計基準、法律、およびアボットの社内ポリシーに従う必要があります。</p>
+                <p>特に医療専門家との関わりにおいて、価格情報、支払い、経済的価値のある提供物を報告する際には、その情報が完全かつ正確であることが求められます。多くの政府は、公的資金を保護するためにこうした透明性を義務付けています。アボットは、政府、保険業者、その他のステークホルダーが適切な判断を行えるよう、信頼性の高いデータを提供することに取り組んでいます。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>法律の遵守</p>
+                <p>当社はすべての法律、規制、および業務に適用されるアボットの要件に従います。</p>
+                <p>すべてのアボット従業員は、適用法、アボットのポリシー、手順、および規範に従うことが求められます。これは雇用の基本条件です。アボットのポリシーは、医療コンプライアンス、品質、財務、貿易、セキュリティなどの重要分野を網羅しており、法的要件を満たし、コンプライアンス違反を防ぐための指針となっています。</p>
+                <p>グローバル企業として、ある国の法律が別の国での業務に適用される可能性があることにも注意しなければなりません。疑問がある場合は、法務部またはエシックス　アンド　コンプライアンス　オフィス（OEC）に相談してください。</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>公正な競争</p>
+                <p>当社は、競合他社との交流は、いかなるものも適切であるよう徹底します。</p>
+                <p>アボットは、事業を展開するすべての地域で競争法を遵守することを約束しています。これらの法律は、公正な市場慣行を妨げる合意や行動、特に価格設定、販売条件、競合他社とのやり取りを禁止しています。</p>
+                <p>競合他社とは、価格、コスト、事業計画などの機微な話題を議論しないようにしてください。疑問がある場合や、不適切と思われる状況に遭遇した場合には、法務部またはエシックス　アンド　コンプライアンス　オフィス（OEC）に相談してください。競争法は複雑であり、違反には重大な制裁が伴う可能性があるため、反競争的行為と見なされるおそれさえも避け、法令遵守を確実にするために、第三者との関係も慎重に管理しなければなりません。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>本コースを終了する前に時間を割いて、アボットのビジネス行動規範に関連する責任を理解していることを確認してください。</p>
+          <p>私は、アボットのビジネス行動規範に関する自らの責任を理解しており、適用されるポリシーや手順を確認する方法を把握しています。</p>
+          <button class="qcSubmitBtn">確認</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>以降の理解度チェックでは10問が出題されます。このコースを修了するには、80％以上を正解する必要があります。</p>
+        <p>準備ができたら、[理解度チェック]ボタンをクリックしてください。</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>ビジネス行動規範はなぜ重要ですか?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>業務で直面し得るあらゆる状況に対して、具体的な助言を提供してくれる。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>最適な判断がすぐに明確でない場合に、意思決定の基盤となる明確な原則と価値観を示してくれる。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">次へ</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>ビジネス行動規範は、最適な行動がすぐに明確でない場合に、意思決定の基盤となる明確な原則と価値観を提供します。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>次のうち、<span class="underline">絶対に</span>適切でないビジネス取引はどれですか？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>スキルと専門知識があるので、特定の疾病について講演するために医療専門家を雇う。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>アボット主催の教育プログラムの参加者に、妥当な食事を提供する。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>地域の団体に慈善寄付をする。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>アボット製品の使用への返礼として、教育プログラムを実施するために医療専門家を雇う。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">次へ</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>スキルと専門知識があるので、教育プログラムを実施するために医療専門家を雇うことは許可されますが、アボット製品の使用への返礼として雇うことは賄賂とみなされかねないため不適切です。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>贈収賄や腐敗行為に関与した個人にもたらされる結果には、以下のようなものがあります。</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>評判の毀損</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>罰金・罰則</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>解雇</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>懲役刑</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>上記すべて</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">次へ</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>贈収賄や腐敗行為に関与した個人にもたらされる結果には、評判の毀損、罰金および罰則、解雇の他、懲役刑さえ含まれる場合があります。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>営業担当者は、小さな宝石店のオーナーでもあります。彼女は、最近アボット製品を処方していない医療専門家に、自分の店にある小さなギフトを贈ったらよいと考えています。これは問題ないでしょうか？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>はい</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>いいえ</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">次へ</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>営業担当者はアボットの代理人として行動しているため、アボットのポリシーでは医療専門家への贈物を禁止しています。たとえ営業担当者が自費で支払っている場合であっても、贈物は禁止されています。こうした贈物の提供は、将来のビジネス機会に対する賄賂とみなされる可能性もあります。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>営業マネージャーが競合会社の担当者から電話を受けます。競合企業によると、アボットが新規市場で契約している第三者の営業チームが、競合製品ではなくアボット製品を選んだ顧客に豪華な食事を提供しているとの疑いがあるとのことです。適切な対応はどれですか？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>情報は競合他社からのものであるため、何もしない。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>その市場では豪華な食事が一般的であるため、何もしない。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>その問題を直ちにエシックス　アンド　コンプライアンス　オフィス（OEC）に報告する。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>その申し立てが事実であった場合に備えて、代替となるディストリビューターを調査する。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">次へ</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>競合他社からの情報であっても、申し立てはエシックス　アンド　コンプライアンス　オフィス（OEC）に直ちに報告し、適切に調査されるようにする必要があります。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>旅行代理店は、アボットにプロクタリングサービスを提供する医療専門家（HCP）の出張を手配しています。提出された領収書を確認したところ、精算依頼額と一致せず、また、一部の領収書は移動日などの重要な情報が欠けているといった不備が見つかりました。</p>
+              <p>適切な対応はどれですか？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>必要な情報が完全で正確に揃っていなければ、支払い処理はできないと旅行代理店に伝える。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>不足している情報が一部だけなので精算処理する。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>次回はより正確に提出するよう旅行代理店に助言する。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>新しい代理店なので何もしない。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">次へ</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>アボットの記帳と記録は、すべての取引を完全かつ正確に反映しなければなりません。そのため、アボットにサービスを提供する第三者は、取引の実際の目的と詳細が正確に記載された完全な書類を提出することが不可欠です。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>あなたは、教育目的の会議に出席する医療専門家にスポンサー型支援を提供することが許可されている現地法人に勤めています。今、会議に出席する医療専門家を選んでいるところです。使用する選定基準には、以下が含まれます。（1）会議の議題がその医療専門家の専門分野に該当するかどうか、（2）アボットが過去1年間にその医療専門家にスポンサー型支援を提供したかどうか、（3）イベントへの出席後、その医療専門家がアボット製品を推奨する、またはアボットの機器を使用する可能性が高いかどうか。これらの基準は適切ですか？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>はい。個人にスポンサー型支援を提供するには、常に次の2つの主要基準を満たしていなければなりません。それは、スポンサー型支援が、a）医療専門家の専門分野に関連していること、b）取引への報奨または誘導として使用されていないことです。アボットが過去1年間にその医療専門家のスポンサー型支援を提供していないことを確認しているという事実は、ｂ）の点を確実にするのに役立ちます。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>はい。医療専門家にスポンサー型支援を提供する理由が、その人に影響や報酬を与えることでない限り、その人がアボット製品を処方し続けるかなど、投資への見返りを考慮することができます。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>いいえ。スポンサー型支援の決定は、その医療専門家（HCP）がスポンサー型支援を受けてイベントに参加した後で、アボット製品を推奨したり、アボットの医療機器を使用したりする可能性が高いという要因に基づいて行ってはなりません。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>はい。少なくとも一つの基準に該当すれば、他の該当しない基準は関係ありません。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">次へ</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>スポンサー型支援の決定は、当社の製品や機器の過去の使用実績に対する見返りとして、または今後の使用を促すために行ってはなりません。多くの司法管轄区域において、スポンサー型支援が禁止されていることに留意してください。スポンサー型支援を行う前に、現地規定を必ず確認してください。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>アボットの営業担当者が医療専門家（HCP）に製品の説明を行いました。話し合いの後、医療専門家から「競合企業が、売上向上に協力する見返りとして新しい iPadを提供すると提案してきた」という話がありました。</p>
+              <p>適切な対応はどれですか？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>競争力を維持するために同じインセンティブを提供する。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>iPadの提供は断るが、会話を続けるために高額なディナーを提案する。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>アボットは正しい方法でビジネスを行う企業であり、意思決定に不適切な影響を与える可能性のある経済的価値のあるものは提供できないと説明する。そのうえで、アボットのエシックス　アンド　コンプライアンス　オフィス（OEC）に直ちに状況を報告する。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>医療専門家に対して情報の提供に感謝し、検討すると約束する。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">次へ</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>不当にビジネス上の優位性を得る目的や、取引を獲得・維持するために、経済的価値のあるものを申し出、約束、授受しては絶対になりません。競合他社の行動に関係なく、皆さんはアボットの「グローバル腐敗行為防止ポリシー」（GLB-ANTI-CORRUPTION）に記載されている要件をはじめ、適用法およびアボットのポリシーに従う必要があります。判断に迷う場合は、必ず法務部またはOECに相談してください。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>次のアイテムうち、ビジネス獲得のために提供してはならない、経済的価値のあるものの例はどれですか？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>医療専門家とその家族をスパ、カジノ、娯楽施設とされる他の場所へ招待する旅行。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>将来の研究または教育プロジェクトに対する助成。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>政府関係者が支援する慈善事業への寄付。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>上記すべて</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">次へ</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>「グローバル腐敗行為防止ポリシー」（GLB-ANTI-CORRUPTION）に記載されている贈収賄・腐敗行為に関するアボットの基準は、ビジネスを正直に、公正に、そして誠実に行うという当社のコミットメントに一致しています。つまり、ビジネスを勝ち取るために経済的価値のあるものを申し出または提供することは、絶対に許されません。</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>キーオピニオンリーダーである医療専門家が、「アボットにとって追加のビジネス機会を提供する見返りに、自分が参加したい教育プログラムへの支援を手配してほしい」と依頼してきました。どの選択肢が最も適切ですか？</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>これはアボットの腐敗行為防止ポリシーに反するので、その依頼をはっきりと断る。</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>医療専門家に、上司に聞いてみると伝える。</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>この医療専門家は大きな影響力を持つキーオピニオンリーダーなので、依頼を承諾する。</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>上記のどれでもない。</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">送信</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>私たちは、ビジネス上の優位性を得る目的で、経済的価値のあるものを直接的にも間接的にも提供しません。これは贈収賄防止の原則に基づくものです。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>理解度チェックを完了していないため、結果を表示できません。</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>おめでとうございます！理解度チェックに合格しました。</p>
+          <p>以下の各質問をクリックして結果を確認してください。</p>
+          <p>完了したら、[次へ]の矢印をクリックして簡単なアンケートにお答えください。</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>残念ながら、理解度チェックに合格しませんでした。数分時間を取って、以下の各質問をクリックして結果を確認してください。</p>
+          <p>確認し終わったら、[再挑戦]ボタンをクリックしてください。</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>このアンケートへの回答は任意です。</p>
+          <p>重要：アンケートに答えるかどうかに関わらず、コースを完了し結果をアップロードするには、コースタイトルバーの「終了」（X）アイコンをクリックしてください。</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>このコースを総合的にどう評価しますか？</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>不満がある</p>
+                  <p>あまり良かったとは思わない</p>
+                  <p>普通</p>
+                  <p>満足</p>
+                  <p>非常に満足</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>あなたの評価について、さらに詳しく説明してください。</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>このセッションを受講した結果、私はアボットのビジネス行動規範についてより詳しく理解できるようになりました。</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>全くそう思わない</p>
+                  <p>そう思わない</p>
+                  <p>どちらとも言えない</p>
+                  <p>そう思う</p>
+                  <p>強くそう思う</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>このコースで取り上げた内容は、ご自身の仕事にどの程度関係がありましたか?</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>全く関係がない</p>
+                  <p>あまり関係がない</p>
+                  <p>分からない</p>
+                  <p>ある程度関係がある</p>
+                  <p>非常に関係がある</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>このコースで取り上げたトピックのうち、どれについてさらに学びたいですか?</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">コースを完了するには、「アップロード」ボタンをクリックし、データをアップロードしてからコースウィンドウを閉じてください。</p>
+          <button class="surveySubmit">
+            <p>アップロード</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">サポートの求め先</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>マネージャー</p>
+        <p>社外の人とのやり取りについて質問がある場合は、まずマネージャーに相談してください。</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>規範文書</p>
+        <ul>
+          <li>外部とのやり取りに関する当社の基本的な期待事項については、<a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">ビジネス行動規範</a>を参照してください。</li>
+          <li>全社的に適用されるコーポレートポリシーや手続きについては、<a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">グローバルポリシーポータル</a>にアクセスしてください。</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>エシックス　アンド　コンプライアンス　オフィス（OEC）</p>
+        <p>OECは、当社の価値観および行動基準に関する質問または懸念がある場合に利用できるグローバルリソースです。</p>
+        <ul>
+          <li>Abbott Worldの<a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance/?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">OECウェブページ</a>にアクセスします。</li>
+          <li>社内、または顧客またはその他の第三者との取引において、不正なビジネス活動について懸念がある場合は、エシックス　アンド　コンプライアンス　オフィス（OEC）（<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>）または法務部に報告、または多言語で対応可能な<a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a>（世界中で24時間年中無休）に電話できます。</li>
+          <li>iComply – <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a>を閲覧し、医療専門家、医療組織、ならびに第三者とのやり取りを対象にしているコンプライアンス関連のアプリケーションとリソースにアクセスします。</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>人事部</p>
+        <p>従業員関連の問題（マネジメントや他の従業員に関する懸念など）については、現地の<a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">人事部</a>担当者に問い合わせてください。</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>法務部</p>
+        <p>贈収賄および腐敗行為に関する法的な意味合いについての質問や懸念は、法務部にお問い合わせください。</p>
+        <ul>
+          <li>Abbott Worldの法務部ホームページにアクセスするには、こちらをクリックしてください。</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>その他のリソース</p>
+        <p>その他にも多くのリソースをご利用いただけます。</p>
+        <p>財務部 – 会計または財務についての質問は、現地の財務部までお問い合わせください。</p>
+        <p>監査部 – 会計、社内の会計統制または監査事項について具体的な懸念がある場合には、すみやかに監査部またはOECに報告してください。</p>
+        <p>アボットの品質および薬事部 – 当社製品の品質および安全性について質問がある場合、現地の品質または薬事部にお問い合わせください。</p>
+        <p>グローバル環境・衛生・安全部 – 物理的な場所および潜在的な危険に関する質問がある場合、グローバル環境・衛生・安全部担当者にお問い合わせください。</p>
+        <p>グローバルプロキュアメント – サプライヤーとの関係について質問がある場合、グローバルプロキュアメントにお問い合わせください。</p>
+      </div>
+      <p class="resSubtitles" data-break="true">コースのリソース</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>全文</p>
+        <p>コース内容の全文を読むには、<a href="reference/Quick_Reference.pdf" target="_blank">こちら</a>をクリックしてください。</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>コースからLMSには連絡できません。コースを続行し、復習するには、[OK]をクリックしてください。注、コース認定は利用できない可能性があります。終了するには、[キャンセル]をクリックしてください</s1>
+    <s2>全問が未回答です</s2>
+    <s3>質問</s3>
+    <s4>質問</s4>
+    <s5>未回答</s5>
+    <s6>正解です！</s6>
+    <s7>不正解です！</s7>
+    <s8>解説：</s8>
+    <s9>ビジネス行動規範</s9>
+    <s10>理解度チェック</s10>
+    <s11>送信</s11>
+    <s12>再挑戦</s12>
+    <s13>コースの説明：当社のビジネス行動規範は、アボットを代表する者として日々の業務にあたる全社員に会社が期待する事項を記載した重要文書です。当社の規範は、私たちの責任と行動の基盤となり、アボットのために、そして私たち自身や、私たちが支える多くの人々のために、最良の選択を行う助けとなります。本コースでは、規範の概要をおおまかに説明し、会社としての期待事項と皆さんの責務を示すとともに、最適な進め方の判断が難しい場合に取るべき行動について、実践的なアドバイスを提供します。研修コースの所要時間は35～45分です。</s13>
+    <s14>メニュー</s14>
+    <s15>リソース</s15>
+    <s16>参考資料</s16>
+    <s17>音声</s17>
+    <s18>終了</s18>
+    <s19>閉じる</s19>
+    <s20>コメント…</s20>
+  </strings>
+</course>

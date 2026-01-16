@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="Velkommen" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="Retningslinjer for forretningsadferd">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="Filosofien vår">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="Målsetninger">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="Innholdsfortegnelse">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="Viktigheten av Abbotts retningslinjer for forretningsadferd" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="De daglige forpliktelsene våre">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="Viktigheten av retningslinjene for virksomheten vår">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="Våre retningslinjer" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="Oversikt">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="Våre kunder">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="Våre produkter">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="Videreutvikle vitenskap">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="Våre ansatte">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="Våre lokalsamfunn">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="Hvordan vi drifter">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="Din forpliktelse" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="Din forpliktelse">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="Kunnskapssjekk" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="Introduksjon">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="Vurdering">
+        <nav navId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="Tilbakemelding">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="Spørreundersøkelse">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>Retningslinjer for forretningsadferd</p>
+      </div>
+      <p class="startInstruction">Klikk på fremoverpilen.</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Som en global leder innen helsetjenester, er det vi gjør hver dag viktig.</p>
+        <p>Retningslinjene våre for forretningsadferd er et mektig kompass som styrker oss til å handle med integritet, lede med formål og foreta valg som reflekterer det aller beste av hvem vi er. Det er slik vi bygger tillit, opprettholder verdiene våre, og fortsetter å gjøre en meningsfylt forskjell i verden.</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Når kurset er fullført, vil du:</p>
+        <ul>
+          <li>Forstå viktigheten av retningslinjene for forretningsadferd for virksomheten vår.</li>
+          <li>Være i stand til å identifisere de sentrale prinsipper i retningslinjene for forretningsadferd, og forstå hvordan de gjelder for den daglige arbeidspraksisen vår.</li>
+          <li>Forstå Abbotts forventninger for forretningsvirksomhet globalt på den rette måten.</li>
+          <li>Vite hvor du skal ta kontakt for hjelp og støtte.</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>Velkommen</p>
+            <p>1 minutt</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>Viktigheten av Abbotts retningslinjer for forretningsadferd</p>
+            <p>2 minutter</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>Retningslinjene våre</p>
+            <p>18 minutter</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>Din forpliktelse</p>
+            <p>1 minutt</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>Kunnskapssjekk</p>
+            <p>5 minutter</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>Læringsprosess</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">Dette emnet er nå tilgjengelig.</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Vi leder med integritet, rettferdighet og ærlighet. Alle. Hver dag.</p>
+        <p>Retningslinjene våre for forretningsadferd minner oss på at integritet, rettferdighet og ærlighet ikke bare er idealer – de er forpliktelser hver dag. Selv om retningslinjene ikke kan forutse enhver utfordring vi kan støte på, tilbyr de et sterkt grunnlag av verdier for å veilede oss.</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Vi er forpliktet til de høyeste standardene.</p>
+        <p>Retningslinjene for forretningsadferd er vesentlig for Abbotts suksess, fordi de setter standarden for hvordan vi jobber – med integritet, rettferdighet og ærlighet. De hjelper oss med å foreta etiske beslutninger, spesielt i komplekse situasjoner, og sikrer at vi holder oss på linje med verdiene våre. Ved å følge retninglinjene, beskytter vi omdømmet vårt, bygger tillit hos de vi betjener og skaper en arbeidsplasskultur der det å gjøre det rette er avgjørende.</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Det er alles ansvar å forstå retningslinjene.</p>
+        <p>Hver av oss spiller en rolle i å bruke retningslinjene for forretningsadferd i det daglige arbeidet og beslutningstakingen vår. Det er ikke bare et dokument – det er en veiledning som hjelper oss med å navigere utfordringer med integritet og sikkerhet.</p>
+        <p>I avsnittene fremover vil vi utforske de sentrale prinsippene i retningslinjene og se hvordan de blir levende i de daglige handlingene og valgene våre.</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Du må se på alt innholdet før du går videre.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Hos Abbott er vi forpliktet til å forbedre helsen og velværet til menneskene som støtter seg på produktene våre.</p>
+          </div>
+          <div>
+            <p>Det er en påminnelse om at det ligger et formål bak hver beslutning, hver innovasjon og hver handling – å gjøre liv bedre.</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>Pasienter og forbrukere</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>Helsepersonell</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klikk på hvert enkelt ikon for å lære mer.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PASIENTER OG FORBRUKERE</p>
+                <p>Omsorg for mennesker er i kjernen av det vi gjør. Vi setter pasienters og forbrukeres helse og velvære først. Hver dag kan vi gjøre en meningsfylt forskjell – å hjelpe mennesker å leve sunnere liv og bidra til sterkere, sunnere lokalsamfunn.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>HELSEPERSONELL</p>
+                <p>Vi jobber med helsepersonell for å støtte bedre helse. Vi respekterer helsepersonells kunnskap og uavhengige dømmekraft – enten de er leger, sykepleiere, apotekere, forskere eller laboratorieansatte. Rollen deres i å guide pasienter mot bedre helse er vesentlig.</p>
+                <p>Hos Abbott er vi forpliktet til å støtte dem med nøyaktig, betimelig informasjon, slik at de kan ta de beste beslutningene. Ved å jobbe sammen, kan vi oppnå vårt felles mål om å forbedre helse og velvære over hele verden.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Du må se på alt innholdet før du går videre.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Hos Abbott er vi forpliktet til å sikre at hvert produkt vi tilbyr er trygt, effektivt og verdig tilliten mennesker gir oss.</p>
+          </div>
+          <div>
+            <p>Vi iverksetter tiltak for å sørge for at produktene våre er trygge og effektive – fra å velge de rette materialene til hvordan vi markedsfører, selger og leverer dem. Vi følger høye kvalitetsstandarder på hvert stadium.</p>
+            <p>Vi er også forpliktet til å betimelig identifisere, evaluere og ta opp produktsikkerhetsproblemer, samt iverksette tiltak for å hindre forfalskning, ulovlige diversjoner, og tyveri av produktene våre.</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>Produktkvalitet</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>Produktmarkedsføring I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>Produktmarkedsføring II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klikk på hvert enkelt ikon for å lære mer.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PRODUKTKVALITET</p>
+                <p>Trygge, effektive og betrodde. Produktene våre gjør en forskjell.</p>
+                <p>Vi er forpliktet til kvalitet på hvert stadium – fra innkjøp og produksjon til hvordan vi markedsfører, selger og leverer produktene våre, inkludert gjennom partnerne våre. Hvert trinn er viktig, fordi mennesker støtter seg på oss for sikkerhet.</p>
+                <p>Vi er forpliktet å betimelig identifisere, vurdere og håndtere produktsikkerhetsproblemer. Vi sørger for at helsepersonell og institusjoner har informasjonen de trenger for å bruke produktene våre trygt og effektivt, og vi kommuniserer med tilsyns- eller offentlige helseetater i tilfelle det oppstår potensielle sikkerhetsbekymringer.</p>
+                <p>Vi iverksetter tiltak for å hindre forfalskninger, ulovlige diversjoner og tyveri av produktene våre. Vi følger handelsforskrifter, inkludert kontrollregler for eksport og import, og overholder myndighetsrestriksjoner og -sanksjoner for å beskytte nasjonal sikkerhet og folkehelse.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PRODUKTMARKEDSFØRING I</p>
+                <p>Vi promoterer og selger produktene våre med ærlighet og respekt for de som støtter seg på dem.</p>
+                <p>Produktkommunikasjonen vår er sannferdig, balansert og på linje med godkjent merking, vitenskapelig bevis og medisinske beste praksis i landene der vi drifter.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PRODUKTMARKEDSFØRING II</p>
+                <p>Vi promoterer produktene våre for deres tiltenkte og godkjente bruk.</p>
+                <p>Vi driver på linje med lisensene og godkjenningene gitt av helsemyndigheter i landene vi drifter. Produktmarkedsføringen, salgene og distribusjonen vår følger strenge handelslover og landsspesifikke forskrifter. Gjennom sterke interne retningslinjer og prosedyrer sørger vi for samsvar og opprettholder forpliktelsen vår til etisk, trygg og ansvarlig forretningspraksis.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Du må se på alt innholdet før du går videre.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Hos Abbott er vi forpliktet til å videreutvikle vitenskap med integritet og formål.</p>
+          </div>
+          <div>
+            <p>Vi søker innovasjon, og anerkjenner viktigheten av å forutse og ta opp risikoer på en ansvarlig måte. Vi ærer verdigheten til hver studiedeltaker og opprettholder de høyeste standardene for åpenhet og objektivitet innen vitenskapelig forskning.</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>Innovasjon I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>Innovasjon II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>Videreutvikle vitenskap</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klikk på hvert enkelt ikon for å lære mer.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>INNOVASJON I</p>
+                <p>Vi skaper innovative løsninger for helsetjenesten for å hjelpe mennesker leve sunnere liv og forbedre utfall over hele verden.</p>
+                <p>Vi responderer på menneskelige behov ved å stå i forkant av banebrytende behandlinger, livreddende utstyr og innovative produkter som støtter helse på nye måter. Gjennom banebrytende vitenskap og teknologi streber vi etter å forbedre utfall og styrke mennesker til å leve sine fulleste liv – og skaper meningsfylte innovasjoner for hvert stadium av livet.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>INNOVASJON II</p>
+                <p>Vi kultiverer en kultur av innovasjon ved å utforske nye muligheter og planlegge for eventualiteter.</p>
+                <p>Selv om fremgang ofte involverer risiko, tar vi gjennomtenkte, ansvarlige steg for å forutse utfordringer og minimere dem på forhånd – alltid veiledet av retningslinjene våre.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>VIDEREUTVIKLE VITENSKAP</p>
+                <p>Vi gjennomfører forsking for å generere nøyaktige, objektive data som driver innovasjon, forbedrer behandlinger og videreutvikler helsetjenester.</p>
+                <p>Når vi gjennomfører forskning, behandler vi studiedeltakere med verdighet, beskytter dem fra unødvendig risiko og sørger for at de forstår arten av og formålet for forskningen og de tilknyttede risikoene. Innhenting av informert samtykke fra deltakerne er en viktig del av forskningsprosessen.</p>
+                <p>Vi verdsetter åpenhet inne vitenskapelig forskning og vil ikke søke å påvirke resultater på en upassende måte. Vi sørger for at studiedata er nøyaktige og er forpliktet til å levere forskningsresultater som er relatert til produktene våre, enten resultatene er positive eller negative, på en betimelig og nøyaktig måte.</p>
+                <p>Når forskning gjennomføres for Abbott eller publiseres på våre vegne, samarbeider vi med eksperter som har sterk medisinsk og vitenskapelig bakgrunn. Vi forventer at de offentliggjør eventuelle tilknytninger til Abbott, inkludert økonomiske eller andre relasjoner.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Du må se på alt innholdet før du går videre.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Hos Abbott fremmer vi en kultur av åpenhet, mangfold og respekt – fordi det driver kreativitet og innovasjon.</p>
+          </div>
+          <div>
+            <p>Vi har alle et ansvar for å etterleve retningslinjene hver dag: Behandle andre med respekt, skape en trygg og inkluderende arbeidsplass og sikre like muligheter for alle.</p>
+            <p>Vi stiller spørsmål når ting er uklare og sier fra når noe ikke føles riktig.</p>
+            <p>Dette avsnittet understreker forpliktelsen vår til likestilling og et trygt arbeidsmiljø, og minner oss på å forstå, bruke og opprettholde retningslinjene i alt vi gjør.</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>Samarbeid</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>Vår tilknytning til hverandre</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>Rapportere problemer</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>Likestilling</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>Rettferdig behandling</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>Arbeidsmiljøet</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klikk på hvert enkelt ikon for å lære mer.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>SAMARBEID</p>
+                <p>Vi verdsetter åpenhet og samarbeid, fordi ulike ideer fører til bedre løsninger.</p>
+                <p>VI omfavner mangfold, fordi det gir drivkraft til kreativitet, energi og fremgang. For å ha en meningsfylt påvirkning på global helse, lytter vi til hverandre, verdsetter hver stemme og jobber sammen med formål.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>VÅR TILKNYTNING TIL HVERANDRE</p>
+                <p>Vi deler alle ansvaret for å leve opp til Abbotts verdier hver dag.</p>
+                <p>Vi styrker kulturen vår ved å handle etisk. Alle må forstå hvordan retningslinjene gjelder for rollen og arbeidet deres.</p>
+                <p>Ledere og overordnede har et spesielt ansvar som ledere – de må være modeller for verdiene våre, fremme etisk adferd og skape et trygt rom der ansatte føler seg komfortable med å stille spørsmål og fremme bekymringer uten frykt for gjengjeldelse.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>RAPPORTERE BEKYMRINGER</p>
+                <p>Vi stiller spørsmål når noe ikke er klart eller ikke føles riktig. Vi sier også i fra og rapporterer alle mulige brudd på retningslinjene,</p>
+                <p>Det er vårt ansvar å stille spørsmål når retningen er uklar, og å utfordre og rapportere mistenkt uetisk forretningsadferd, brudd på retningslinjene eller overtredelse av Abbotts retningslinjer eller prosedyrer.</p>
+                <p>Hvis du er usikker på det rette valget eller tiltaket, snakk med lederen din eller kontakt Kontoret for etikk og samsvar.</p>
+                <p>Ledere og overordnede må lede ved eksempel og sørge for at ansatte forstår og følger retningslinjene. Ledere har et større ansvar for å kommunisere Abbotts forventninger og bør ta kontakt med Kontoret for etikk og samsvar om eventuelle potensielle brudd på retningslinjene.</p>
+                <p>Alle rapporter om mulige brudd på retningslinjene blir tatt alvorlig. Kontoret for etikk og samsvar vil håndtere oppfølgende trinn, inkludert undersøkelser og korrigerende tiltak når nødvendig. Du bør ikke undersøke på egen hånd. Alle må samarbeide og holde undersøkelser konfidensielle.</p>
+                <p>Korrigerende tiltak kan inkludere disiplinærtiltak (opp til og inkludert avskjedigelse), eller juridiske tiltak for:</p>
+                <ul>
+                  <li>autorisering av eller deltakelse i et brudd</li>
+                  <li>å nekte å samarbeide i en undersøkelse</li>
+                  <li>å unnlate å rapportere et brudd på grunn av dårlig tilsyn</li>
+                  <li>å gi en falsk rapport</li>
+                  <li>gjengjeldelse mot noen som rapporterte en bekymring i god tro</li>
+                </ul>
+                <p>Gjengjeldelse er aldri akseptabelt. Hvis du mener at gjengjeldelse har forekommet, rapporter det til Kontoret for etikk og samsvar eller personalavdelingen.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>LIKESTILLING</p>
+                <p>Vi gir alle ansatte like muligheter.</p>
+                <p>Vi tar ansettelsesavgjørelser basert på forretningsbehov, ferdigheter, erfaring og ytelse. Diskriminering i noen form er ikke tolerert. Vi følger alle lover som styrer relasjonene våre med ansatte over hele verden.</p>
+                <p>Abbott forbyr diskriminering basert på rase, farge, religion, alder, kjønn, nasjonal opprinnelse, kjønnsidentitet eller -uttrykk, seksuell orientering, funksjonshemming, sivilstatus, veteran- eller militær status, genetikk, statsborgerskapsstatus, eller annen juridisk beskyttet status.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>RETTFERDIG BEHANDLING</p>
+                <p>Vi fremmer en respektfull, inkluderende og trygg arbeidsplass.</p>
+                <p>Vi jobber for å sørge for at alle føler seg velkomne, støttet og styrket.</p>
+                <p>Abbott fremmer et sundt, trakasseringsfritt miljø, og verdsetter innspill fra ansatte for å styrke mangfold og inkludering.</p>
+                <p>Vi behandler alle med respekt og verdighet, og bygger tillit gjennom rettferdighet og ærlighet – aldri gjennom manipulasjon, feilrepresentasjon eller mangel på åpenhet.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ARBEIDSMILJØ</p>
+                <p>Vi prioriterer sikkerhet og rettferdige arbeidsforhold.</p>
+                <p>Ulykker eller utrygge situasjoner må rapporteres til ledelsen umiddelbart. Abbott tar også steg for å forhindre og forby ulovlig, upassende arbeidspraksis, og alle former for grusom eller umenneskelig behandling i forretningsaktivitetene våre på verdensbasis.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Du må se på alt innholdet før du går videre.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Hos Abbott bygger vi tillit gjennom fellesskap, miljø og engasjement.</p>
+          </div>
+          <div>
+            <p>Vi streber etter å gi bak til lokalsamfunnene der vi driver og ha en positiv, varig påvirkning på menneskers liv.</p>
+            <p>Abbott jobber for å minimere det miljømessige fotavtrykket sitt ved å redusere energibruk og bevare naturressurser.</p>
+            <p>Vi støtter også passende politisk engasjement og oppmuntrer til samfunnsengasjement på tvers av den globale driften vår.</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>Samfunnsengasjement</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>Miljøansvar</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>Politiske bidrag</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klikk på hvert enkelt ikon for å lære mer.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>SAMFUNNSENGASJEMENT</p>
+                <p>Vi støtter velvære i lokalsamfunnet.</p>
+                <p>Hos Abbott støtter vi velværet til lokalsamfunn gjennom produktene våre, arbeidet vårt og handlingene våre, og vi har en lang historie med å gi tilbake til stedene der vi bor og arbeider, fordi vi mener at sunne lokalsamfunn blomstrer.</p>
+                <p>Gjennom driften vår, partnerskap og støtte for lokale grupper og saker, streber vi etter å ha en positiv og varig påvirkning overalt der vi driver forretninger.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MILJØANSVAR</p>
+                <p>Vi deltar i bærekraftig utvikling og arbeid for å redusere påvirkningen vår på miljøet.</p>
+                <p>Vi jobber for å beskytte miljøet i alt vi gjør – fra hvordan vi kjøper inn materialer til hvordan vi lager, sender og bruker produktene våre.</p>
+                <p>Vi tar steg for å bruke mindre energi og færre naturressurser. Vi støtter ren energiprosjekter på jobb og i lokalsamfunnene våre. Vi ser etter måter å redusere avfall, resirkulere mer og senke miljørisikoer på. Vi følger også miljølover og forskrifter som gjelder for driften vår.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>POLITISKE BIDRAG</p>
+                <p>Vi oppmuntrer til passende engasjement i den politiske prosessen og støtter samfunnsengasjement.</p>
+                <p>Abbott støtter offentlig politikk som er på linje med misjonen og verdiene våre. Når passende, kan vi også støtte politiske kandidater eller interessegrupper.</p>
+                <p>Fordi lover om politiske bidrag fra selskaper er kompleks, må enhver bruk av Abbott-midler – eller bidrag gitt på Abbotts vegne – gjennomgås med Juridisk avdeling først.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Du må se på alt innholdet før du går videre.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Hos Abbott er vi forpliktet til å drive forretninger på ærlig måte og holde løftene våre på alle områder av arbeidet vårt.</p>
+          </div>
+          <div>
+            <p>Vi setter Abbotts interesser før våre egne når vi håndterer interessekonflikter. Vi beskytter Abbotts aktiva og omdømme, holder konfidensiell informasjon trygg, og respekterer personvernet til de som deler personlige opplysninger med oss.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>Rettferdig praksis</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>Unngå interessekonflikter I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>Unngå interessekonflikter II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>Beskytte Abbotts eiendeler og omdømme</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>Konfidensiell informasjon</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klikk på hvert enkelt ikon for å lære mer.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>RETTFERDIG PRAKSIS</p>
+                <p>Vi utfører forretninger med integritet og følger opp forpliktelsene våre i alle aspekter av arbeidet vårt.</p>
+                <p>Hver av oss er ansvarlige for arbeidet vårt og beslutningene vi tar i rollene våre. I enhver profesjonell samhandling – enten med medarbeidere, kunder, leverandører, helsepersonell, konkurrenter eller andre – må vi være rettferdige og ærlige om hvordan Abbott driver forretninger.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>UNNGÅ INTERESSEKONFLIKTER I</p>
+                <p>Vi identifiserer og håndterer interessekonflikter før vi går videre.</p>
+                <p>En interessekonflikt forekommer når personlige interesser blander seg inn – eller ser ut til å blande seg inn – i det som er det beste for Abbott. Forretningsbeslutninger må baseres på Abbotts behov, ikke personlig vinning, eller interessene til familie eller venner. Vi forventes å bruke god dømmekraft og unngå situasjoner som kunne føre til en ekte eller antatt konflikt. Hvis personlige relasjoner, interesser eller eksterne aktiviteter påvirker evnen din til å handle rettferdig og effektivt – eller kunne være til fordel for deg eller et familiemedlem – må du offentliggjøre den potensielle konflikten og fjerne deg selv fra situasjonen, ved å følge Abbotts retningslinjer.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>UNNGÅ INTERESSEKONFLIKTER II</p>
+                <p>Vi setter Abbotts interesser først når vi tar arbeidsrelaterte beslutninger.</p>
+                <p>Det betyr å prioritere selskapets mål over de til et spesifikt team, en gruppe eller enkeltperson. Alle muligheter eller ressurser vi oppnår gjennom rollene våre hos Abbott skal brukes til fordel for selskapet – ikke for personlig vinning. Vi skal ikke konkurrere med Abbott eller hjelpe andre med å gjøre det. Når muligheter oppstår må fokuset vårt være på å videreutvikle Abbotts interesser.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>BESKYTTE ABBOTTS AKTIVA OG OMDØMME</p>
+                <p>Vi er forvaltere av selskapet vårt.</p>
+                <p>Vi deler alle ansvaret for å beskytte og bruk Abbotts aktiva på en klok måte. Dette inkluderer alt fra fysiske gjenstander som kjøretøy og datamaskiner, til verdifull informasjon som intellektuell eiendom, handelshemmeligheter og spesialisert kunnskap.</p>
+                <p>Vi bør alltid bruke god dømmekraft for å sørge for at disse ressursene brukes på riktig måte, effektivt og forsiktig – og unngå tap, tyveri, misbruk eller sløseri.</p>
+                <p>Abbotts omdømme er ett av de mest verdifulle aktivaene våre – og vi spiller alle en rolle i å beskytte det.</p>
+                <p>Hver av oss er ansvarlig for hvordan vi representerer Abbott, spesielt i offentlige settinger og på nett, der alt vi deler – enten det er i samtaler, e-poster eller sosiale medier – kan reflektere på selskapet. Det er viktig å kommunisere gjennomtenkt, bruke god dømmekraft og beskytte Abbotts konfidensielle informasjon.</p>
+                <p>Når vi samhandler eksternt, skal vi ta i betraktning hvorvidt vi kan bli sett som å representere Abbott og hvordan ordene eller handlingene våre kunne påvirke selskapets omdømme. Dette er spesielt viktig på sosiale medier, der innlegg kan spre seg raskt og bredt – en uforsiktig kommentar eller et innlegg kan forårsake virkelig skade.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KONFIDENSIELL INFORMASJON</p>
+                <p>Vi er forpliktet til å respektere og beskytte all konfidensiell informasjon, inkludert personopplysninger.</p>
+                <p>Konfidensiell informasjon er ett av Abbotts mest verdifulle aktiva. Det inkluderer ikke-offentlige detaljer som forskning, handelshemmeligheter, forretningsplaner, prissetting, kontrakter, økonomiske resultater og andre data som konkurrenter kunne dra nytte av eller som kunne skade Abbott hvis de offentliggjøres.</p>
+                <p>Vi må beskytte konfidensiell informasjon og forhindre uautorisert bruk eller deling – selv etter at tiden vår hos Abbott er over.</p>
+                <p>Hos Abbott respekterer vi også andres intellektuelle eiendom, og unngår upassende bruk av den konfidensielle informasjonen deres. Misbruk av ikke-offentlig informasjon, som for innsidehandel, er ulovlig og uetisk,</p>
+                <p>Vi sikrer også personopplysninger betrodd oss av kolleger, helsepersonell og kunder. Når vi innhenter og bruker personlige opplysninger, gjør vi det på en ansvarlig måte, med riktig samtykke, og selger dem aldri til eller innhenter dem fra uautoriserte kilder. Mange steder har streng personvernlovgivning, og vi er forpliktet til å forstå og følge dem, spesielt for de mest sensitive kategoriene av personlige opplysninger.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Du må se på alt innholdet før du går videre.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Hos Abbott er vi forpliktet til å drive forretninger på ærlig måte og holde løftene våre på alle områder av arbeidet vårt.</p>
+          </div>
+          <div>
+            <p>Vi setter Abbotts interesser før våre egne når vi håndterer interessekonflikter. Vi beskytter Abbotts aktiva og omdømme, holder konfidensiell informasjon trygg, og respekterer personvernet til de som deler personlige opplysninger med oss.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>Antibestikkelse</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>Gaver, måltider og underholdning</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>Nøyaktig bokføring og arkivering</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>Samsvar med lover</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>Rettferdig konkurranse</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Klikk på hvert enkelt ikon for å lære mer.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ANTIBESTIKKELSE</p>
+                <p>Vi motarbeider aktivt svindel, bestikkelse og korrupsjon. Vi gjør forretninger på riktig måte.</p>
+                <p>Som enkeltpersoner, forventer vi at helsepersonell tar beslutninger basert på hva som er best for pasienter – ikke påvirket av insentiver fra selskaper. På samme måte forventer vi at offentlige tjenestemenn handler i offentlighetens interesse, uten press fra bedrifter.</p>
+                <p>Hos Abbott utdanner vi helsepersonell om produktene våre, men blander oss ikke inn i deres uavhengige dømmekraft. Det er aldri tillatt å tilby noe av verdi til helsetjenesteleverandører (som en lege, apoteker, sykepleier, forsker eller laboratorieansatt), offentlige tjenestemenn eller andre for å oppnå forretninger eller belønne tidligere relasjoner.</p>
+                <p>Vi følger lover om antibestikkelse, antikorrupsjon og returprovisjon globalt, inkludert U.S. Foreign Corrupt Practices Act. Alle hos Abbott må forsiktig administrere relasjoner med tjenesteleverandører – som distributører, konsulenter og talere – ved å utføre due diligence, betale rettferdig markedsverdi og dokumentere betalinger på riktig måte for å sikre samsvar med lover og selskapsstandarder.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>GAVER, MÅLTIDER OG UNDERHOLDNING</p>
+                <p>Vi tilbyr eller gir ikke noe av verdi for å oppnå et forretningsfortrinn, direkte eller indirekte, på linje med prinsipper om antibestikkelse.</p>
+                <p>For å forhindre upassende påvirkning i forretningsbeslutninger, setter vi grenser når det gjelder gaver, måltider og underholdning. Abbotts retningslinjer bidrar til å sikre at merkepåminnelser, kulturelle oppmerksomheter, gjestfrihet og andre fordeler aldri forstyrrer profesjonell dømmekraft.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>NØYAKTIG REGNSKAPSFØRING</p>
+                <p>Vi måler oppnåelse nøyaktig.</p>
+                <p>Abbotts registre og offentlige uttalelser må reflektere handlingene våre nøyaktig, med nok kontekst til å vise den den sanne arten av arbeidet vårt. Regnskaper må følge regnskapsstandarder, lover og Abbotts interne retningslinjer.</p>
+                <p>Ved rapportering av prissetting, betalinger eller elementer av verdi – spesielt til helsepersonell – må vi sikre at informasjonen er komplett og nøyaktig. Mange myndigheter krever denne åpenheten for å beskytte offentlige midler. Abbott er forpliktet til å oppgi pålitelige data, slik at myndigheter, forsikringsselskaper og andre interessenter kan foreta informerte beslutninger.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>SAMSVAR MED LOVER</p>
+                <p>Vi følger alle lover, forskrifter og Abbotts krav som gjelder for arbeidet vårt.</p>
+                <p>Hver Abbott-ansatt forventes å følge alle gjeldende lover, samt Abbotts retningslinjer, prosedyrer og retningslinjene. Dette er en grunnleggende betingelse for ansettelse. Abbotts retningslinjer dekker sentrale områder som helsetjenestesamsvar, kvalitet, økonomi, handel, sikkerhet og mer, og hjelper oss med å oppfylle juridiske krav og forhindre manglende samsvar.</p>
+                <p>Som et globalt selskap, må vi også være oppmerksomme på at lover fra ett land kan gjelde for arbeid gjort i et annet. Når i tvil, søk veiledning fra Juridisk avdeling eller Kontoret for etikk og samsvar.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>RETTFERDIG KONKURRANSE</p>
+                <p>Vi sikrer at eventuelle samhandlinger vi har med konkurrenter er passende.</p>
+                <p>Hos Abbott er vi forpliktet til å følge konkurranselovgivning overalt der vi drifter. Disse lovene forbyr avtaler eller handlinger som avskrekker rettferdig markedspraksis, spesielt innen prissetting, salgsvilkår og samhandlinger med konkurrenter.</p>
+                <p>Unngå å diskutere sensitive emner – som prissetting, kostnader eller forretningsplaner – med konkurrenter, og ta kontakt med Juridisk avdeling eller Kontoret for etikk og samsvar hvis du har spørsmål eller støter på noe upassende. Fordi konkurranselovgivning er kompleks og brudd kan medføre alvorlig straff, må vi også forsiktig administrere relasjoner med tredjeparter for å sikre overholdelse og unngå selv inntrykket av konkurransehemmende adferd.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>Før du forlater dette kurset, ta et øyeblikk til å bekrefte at du forstår ansvaret ditt relatert til Abbotts retningslinjer for forretningsadferd.</p>
+          <p>Jeg bekrefter at jeg forstår ansvaret mitt med hensyn til Abbotts retningslinjer for forretningsadferd og vet hvor jeg kan finne og gå gjennom gjeldende retningslinjer og prosedyrer.</p>
+          <button class="qcSubmitBtn">Bekreft</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>Kunnskapssjekken som følger består av ti spørsmål. Du må score 80 % eller høyere for å fullføre kurset.</p>
+        <p>NÅR DU ER KLAR, KLIKK PÅ KNAPPEN KUNNSKAPSSJEKK.</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Hvorfor er retningslinjene for forretningsadferd viktige?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>De gir spesifikke råd for hver situasjon vi kan stå overfor i arbeidet vårt.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>De gir et tydelig sett av prinsipper og verdier som man kan basere beslutninger på når den beste handlingsmåten ikke er åpenbar.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Neste</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Retningslinjene for forretningsadferd gir oss et tydelig sett av prinsipper og verdier som man kan basere beslutninger på når den beste handlingsmåten ikke er åpenbar.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Hvilken av følgende er <span class="underline">aldri</span> en passende forretningstransaksjon?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ansettelse av et helsepersonell til å snakke om et spesifikt sykdomsområde basert på evnene og ekspertisen deres.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Gi deltakere på et Abbott-sponset utdanningsprogram et rimelig måltid.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Arrangere et bidrag til en lokal veldedig organisasjon.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ansette et helsepersonell til å utføre et utdanningsprogram for å takke dem for å bruke Abbott-produkter.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Neste</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Å ansette et helsepersonell for å utføre et utdanningsprogram basert på evnene og ekspertisen deres er tillatt, men det er imidlertid upassende å ansette et helsepersonell som en takk for å bruke Abbott-produkter fordi dette kan anses som en bestikkelse.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Konsekvensene for enkeltpersoner involvert i bestikkelser og korrupsjon kan inkludere:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Skade på omdømme.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Bøter og sanksjoner.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Avslutning av ansettelse.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Fengselstid.</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>Alle de ovennevnte.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Neste</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Konsekvensene for enkeltpersoner som er involvert i bestikkelser og korrupsjon kan inkludere skade på omdømme, bøter og sanksjoner, avslutning av ansettelse og selv fengselstid.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>En salgsrepresentant eier også en liten smykkebutikk. Hun bestemmer seg for at det ville være hyggelig å gi små gaver fra butikken sin til helsepersonell som ikke har foreskrevet Abbott-produkter i det siste. Er dette greit?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ja</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Nei</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Neste</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Abbotts retningslinjer forbyr gaver til helsepersonell, fordi salgsrepresentanten handler som en Abbott-representant. Gavene er forbudt, selv om hun betaler for dem. Det å gi gavene kunne også anses som en bestikkelse for fremtidige forretninger.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>En salgsleder mottar en samtale fra en kontakt hos et konkurrerende selskap. Konkurrenten deler at et tredjeparts salgsteam kontrahert av Abbott i et nytt marked angivelig tilbyr overdådige måltider til kunder som velger Abbott-produkter over konkurrentenes. Hva er den riktige handlingen?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ikke gjør noe, siden informasjonen kom fra en konkurrent.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Ikke gjør noe, siden overdådige måltider er vanlige på det markedet.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Rapporter saken umiddelbart til Kontoret for etikk og samsvar (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Undersøk alternative distributører i tilfelle påstanden er sann.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Neste</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Du bør umiddelbart rapportere påstanden til Kontoret for etikk og samsvar (OEC), slik at den kan bli undersøkt på riktig måte, selv om informasjonen kommer fra en konkurrent.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Et reisebyrå arrangerer reise for helsepersonell (HCP-er) som gir proctoring-tjenester for Abbott. Ved gjennomgang av de innsendte kvitteringene blir det funnet uoverensstemmelse – totalsummen samsvarer ikke med refusjonsforespørselen, og noen kvitteringer mangler viktige detaljer som reisedatoer.</p>
+              <p>Hva er den riktige handlingen?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Informere reisebyrået om at Abbott ikke kan behandle betaling uten fullstendig og nøyaktig dokumentasjon.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Behandle kvitteringene, da det bare mangler litt informasjon.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Be byrået om å være mer nøyaktige neste gang.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ikke gjøre noe, siden det er et nytt byrå.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Neste</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Abbotts regnskap og arkiver må reflektere alle transaksjoner på en fullstendig og nøyaktig måte. Det er derfor kritisk at tredjeparter som utfører tjenester for Abbott oppgir fullstendig dokumentasjon som nøyaktig gjenspeiler det faktiske formålet for og detaljene i transaksjonene.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Du jobber i et tilknyttet selskap hvor det er tillatt å sponse deltakelse på undervisningskonferanser for helsepersonell. Du er i prosessen med å velge ut helsepersonell som skal delta på en konferanse. Kriteriene du bruker for utvelgelse inkluderer: (1) hvorvidt emnet for konferansen er innenfor helsepersonellets ekspertiseområde; (2) hvorvidt Abbott har sponset helsepersonellet i løpet av det siste året; og (3) hvorvidt helsepersonellet sannsynligvis vil anbefale Abbott-produkter eller bruke Abbott-enheter etter å ha deltatt på arrangementet. Er disse kriteriene passende?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Ja. De to kriteriene som alltid må oppfylles når enkeltpersoner sponses, er at sponsingen: a) er relevant for helsepersonellets spesialistområde, og b) ikke kan brukes som belønning eller tilskyndelse av handel. Det faktum at du sjekker for å sikre at Abbott ikke sponset helsepersonellet i løpet av det siste året, bidrar til å sikre det siste.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Ja. Så lenge grunnen for å sponse helsepersonellet ikke er for å påvirke eller belønne enkeltpersonen, kan du beregne avkastning på investeringen – uavhengig av hvorvidt enkeltpersonen vil fortsette å foreskrive Abbott-produkter.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Nei. Sponsoravgjørelser skal ikke baseres på faktoren at helsepersonellet sannsynligvis vil anbefale Abbott-produkter eller bruke Abbott-enheter etter å ha deltatt på et sponset arrangement.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ja. Så lenge minst ett av kriteriene er passende, er tilstedeværelsen av ytterligere upassende kriterier ikke relevant.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Neste</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Sponsoravgjørelser skal aldri tas for å belønne tidligere bruk, eller som en tilskyndelse for økt bruk av våre produkter eller enheter i fremtiden. Ha i tankene at sponsing er forbudt i mange jurisdiksjoner. Rådfør deg alltid med prosedyrene hos det tilknyttede selskapet før du forplikter deg til et sponsorsamarbeid.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>En Abbott-salgsrepresentant gir et helsepersonell (HCP) opplæring om et produkt. Etter diskusjonen deler helsepersonellet at en konkurrent tilbød en ny iPad i bytte for å hjelpe med å øke salgene deres.</p>
+              <p>Hva er den riktige handlingen?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Tilby det samme insentivet for å fortsette å være konkurransedyktig.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Avslå iPad-tilbudet, men foreslå en dyr middag for å fortsette samtalen.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Forklare at Abbott driver forretninger på den riktige måten og ikke kan tilby noe av verdi som kan påvirke beslutningstaking på en upassende måte. Rapporter deretter umiddelbart situasjonen til Kontoret for etikk og samsvar (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Takke helsepersonellet for informasjonen og love at du vil tenke på det.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Neste</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Du skal aldri tilby, love, gi eller motta noe av verdi for å få et urettmessig konkurransefortrinn eller for å få eller beholde forretninger. Uavhengig av hva konkurrenter foretar seg, må du overholde gjeldende lov og Abbotts retningslinjer, inkludert kravene i Abbotts globale retningslinjer mot korrupsjon (GLB-ANTI-CORRUPTION). Hvis du er i tvil, kan du alltid rådføre deg med Juridisk eller OEC.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Hvilke av følgende er eksempler på elementer av verdi som ikke må gis for å vinne forretninger?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Turer for helsepersonell og familiene deres for å dra til spa, kasinoer eller andre lokaler kjent for underholdning.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Bevilgninger for fremtidig forskning eller utdanningsprosjekter.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Donasjoner til offentlige tjenestemenns favoritt-veldedighetsorganisasjoner.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Alle de ovennevnte.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Neste</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Abbotts prinsipper mot bestikkelse og korrupsjon, som finnes i de globale retningslinjene mot korrupsjon (GLB-ANTI-CORRUPTION), er konsekvent når det gjelder vår forpliktelse til å utøve virksomhet med ærlighet, rettferdighet og integritet. Dette betyr at det aldri er tillatt å tilby eller gi ting av verdi for å vinne forretninger.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Et helsepersonell som er en sentral opinionsleder spør om du kan arrangere støtte for et utdanningsprogram han kunne tenke seg å delta på i bytte for ytterligere forretningsmuligheter for Abbott. Hvilket alternativ er det mest passende?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Avslå forespørselen fast på grunnlag av at den bryter Abbotts retningslinjer mot korrupsjon.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Fortelle helsepersonellet at du vil spørre lederen din.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Godta forespørselen, da helsepersonellet er en Key Opinion Leader med mye innflytelse.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ingen av de ovennevnte.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">Send inn</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Vi tilbyr eller gir ikke noe av verdi for å oppnå et forretningsfortrinn, direkte eller indirekte, på linje med prinsipper om antibestikkelse.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>Ingen resultater er tilgjengelige ettersom du ikke har fullført kunnskapssjekken.</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>Gratulerer! Du har bestått kunnskapssjekken.</p>
+          <p>Se igjennom resultatene dine under ved å klikke på hvert spørsmål.</p>
+          <p>Når du er ferdig, klikker du på fremoverpilen for å svare på en kort spørreundersøkelse.</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>Beklager, du bestod ikke kunnskapssjekken. Ta et par minutter for å se igjennom resultatene dine nedenfor ved å klikke på hvert spørsmål.</p>
+          <p>Når du er ferdig, trykker du på Ta på nytt-knappen.</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>${C_199.1}</p>
+          <p>${C_199.2}</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.3}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.4}</p>
+                  <p>${C_199.5}</p>
+                  <p>${C_199.6}</p>
+                  <p>${C_199.7}</p>
+                  <p>${C_199.8}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.9}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Som et resultat av denne økten har jeg en bedre forståelse av Abbotts retningslinjer for forretningsadferd.</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Sterkt uenig</p>
+                  <p>Uenig</p>
+                  <p>Hverken enig eller uenig</p>
+                  <p>Enig</p>
+                  <p>Sterkt enig</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.16}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.17}</p>
+                  <p>${C_199.18}</p>
+                  <p>${C_199.19}</p>
+                  <p>${C_199.20}</p>
+                  <p>${C_199.21}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.22}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">${C_199.23}</p>
+          <button class="surveySubmit">
+            <p>${C_199.24}</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">Hvor du går for støtte</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Leder</p>
+        <p>Hvis du har spørsmål om samhandlingene dine med eksterne utenfor Abbott, er det beste stedet å starte med lederen din</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Skriftlige standarder</p>
+        <ul>
+          <li>Rådfør deg med våre <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">retningslinjer for forretningsadferd</a> for mer informasjon om selskapets grunnleggende forventninger om samhandling med andre.</li>
+          <li>For informasjon om våre selskapspolicyer og prosedyrer som gjelder over hele selskapet, gå til den <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">Globale Policy-portalen</a>.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>Kontoret for etikk og samsvar (OEC)</p>
+        <p>OEC er en global ressurs som er tilgjengelig for å løse dine spørsmål eller problemer om selskapets verdier og adferdsstandarder.</p>
+        <ul>
+          <li>Gå til <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">OEC-nettstedet</a> på Abbott World.</li>
+          <li>Hvis du har bekymringer om korrupt forretningsvirksomhet, enten i selskapet eller i samarbeidet ditt med kunder eller andre tredjeparter, kan du rapportere bekymringene dine til OEC (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) eller Juridisk avdeling, eller ringe vår flerspråklige <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> tilgjengelig globalt 24 timer i døgnet, 7 dager i uken.</li>
+          <li>iComply – Gå til <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> for å få tilgang til samsvarsrelaterte applikasjoner og ressurser som er rettet mot interaksjoner med helsepersonell og helseorganisasjoner, i tillegg til tredjeparter.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Personalavdelingen</p>
+        <p>For problemer som gjelder ansatte, for eksempel problemer som involverer ledelsen og/eller andre ansatte, ta kontakt med den <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">lokale personalavdelingsrepresentanten</a>.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>Juridisk avdeling</p>
+        <p>Kontakt juridisk avdeling med spørsmål eller bekymringer om juridiske konsekvenser av bestikkelser og korrupsjon.</p>
+        <ul>
+          <li>Klikk her for å få tilgang til juridisk avdelings hjemmeside på Abbott World.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>ANDRE RESSURSER</p>
+        <p>Det finnes mange andre ressurser tilgjengelige for deg:</p>
+        <p>Finans – Hvis spørsmålet ditt gjelder regnskap eller økonomi, ta kontakt med din lokale økonomiavdeling.</p>
+        <p>Konsernrevisjon – Hvis du har spesifikke problemer om regnskap, interne regnskapskontroller eller revisjonsrelaterte saker, skal du umiddelbart rapportere dem til selskapsrevisjonen eller OEC.</p>
+        <p>Abbotts avdeling for kvalitet og tilsyn – Hvis du har spørsmål om kvaliteten og sikkerheten til våre produkter, tar du kontakt med din lokale kvalitets- eller regulatoriske avdeling.</p>
+        <p>Globalt miljø, helse og sikkerhet – Kontakt en representant for Globalt miljø, helse og sikkerhet hvis du har spørsmål om et fysisk sted og mulige farer.</p>
+        <p>Globalt innkjøp – Hvis du har spørsmål om leverandørrelasjoner, må du kontakte Globalt innkjøp.</p>
+      </div>
+      <p class="resSubtitles" data-break="true">Kursressurser</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Utskrift</p>
+        <p>Klikk <a href="reference/Quick_Reference.pdf" target="_blank">her</a> for en full utskrift av dette kurset</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>Kurset kan ikke kontakte LMS. Klikk på «OK» for å fortsette og gjennomgå kurset. Merk: Kurssertifisering er ikke tilgjengelig. Klikk på «Avbryt» for å avslutte</s1>
+    <s2>Alle spørsmålene er ubesvarte</s2>
+    <s3>Spørsmål</s3>
+    <s4>Spørsmål</s4>
+    <s5>ikke besvart</s5>
+    <s6>Det er riktig!</s6>
+    <s7>Det er feil!</s7>
+    <s8>Tilbakemelding:</s8>
+    <s9>Retningslinjer for forretningsadferd</s9>
+    <s10>Kunnskapssjekk</s10>
+    <s11>Send inn</s11>
+    <s12>Ta på nytt</s12>
+    <s13>Beskrivelse av kurset: Retningslinjene våre for forretningsadferd er et dokument av avgjørende betydning som beskriver vårt selskaps forventninger til alle ansatte når vi representerer Abbott i vårt daglige arbeid. De gir et grunnlag for vårt ansvar og atferd som vil hjelpe oss med å foreta de beste valgene for Abbott, for oss selv, og for de mange menneskene vi tjener. Dette kurset gir en oversikt over retningslinjene på høyt nivå, beskriver vårt selskaps forventninger og forpliktelsene dine, og gir praktiske råd om hva du skal gjøre når den beste veien fremover er vanskelig å bestemme. Kurset vil ta ca. 35-45 minutter å fullføre.</s13>
+    <s14>Meny</s14>
+    <s15>Ressurser</s15>
+    <s16>Referansemateriell</s16>
+    <s17>Audio</s17>
+    <s18>Slutt</s18>
+    <s19>Lukk</s19>
+    <s20>Kommentar …</s20>
+  </strings>
+</course>

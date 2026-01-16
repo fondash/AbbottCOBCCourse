@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="Zoo siab txais tos" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="Tsab Cai Kev Coj Ua Lag Luam">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="Peb Lub Tswv Yim">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="Cov Hom Phiaj">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="Cov Txheej Lus">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="Qhov tseem ceeb ntawm Abbott Tsab Cai Kev Coj Ua Lag Luam" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="Peb Cov Kev Mob Siab Rau Txhua Hnub">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="Qhov tseem ceeb ntawm Tsab Cai hais txog Peb Txoj Lag Luam">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="Peb Tsab Cai" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="Cov Ntsiab Lus">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="Peb Cov Neeg Qhua">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="Peb Cov Khoom Lag Luam">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="Kev Txhawb Nqa Fab Kev Txawj Ntse">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="Peb Cov Neeg">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="Peb Cov Zej Zos">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="Peb Yuav Ua Hauj Lwm Li Cas">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="Koj Txoj Kev Mob Siab Rau" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="Koj Txoj Kev Mob Siab Rau">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="Kev Kuaj Xyuas Txog Kev Txawj Ntse" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="Ncauj Lus Qhia">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="Kev Ntsuam Xyuas">
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="Lus Pab Tswv Yim">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="Kev Tshuaj Ntsuam Xyuas">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>Tsab Cai Kev Coj Ua Lag Luam</p>
+      </div>
+      <p class="startInstruction">Nyem rau ntawm tus xub taw mus tom hauv ntej</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Tam li ib tus thawj coj tswj xyuas kev saib xyuas kho mob thoob ntiaj teb, yam uas peb ua txhua hnub ntawd nws tseem ceeb heev.</p>
+        <p>Peb Tsab Cai Kev Coj Ua Lag Luam yog lub tswv yim muaj zog uas ua rau peb ua tau hauj lwm yam muaj kev tsim muaj txhua yam, ua tau tus thawj coj yam muaj lub hom phiaj, thiab tsim ua tau cov kev xaiv uas qhia txog qhov zoo tshaj plaws tias peb yog leej twg. Nws yog txoj hau kev uas peb tsim kev ntseeg siab, tuav peb cov hauv paus kev xav, thiab tsim ua tej yam sib txawv uas muaj ntsiab lus tseem ceeb nyob rau hauv ntiaj teb nod.</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Thaum kawm tiav chav kawm no lawm, koj yuav:</p>
+        <ul>
+          <li>Nkag siab txog qhov tseem ceeb ntawm Tsab Cai Kev Coj Ua Lag Luam txog rau peb txoj kev lag luam.</li>
+          <li>Tuaj yeem txheeb xyuas tau txog cov cai kev coj ua hauj lwm tseem ceeb ntawm Tsab Cai Kev Coj Ua Lag Luam thiab nkag siab txog tias yuav muab coj los siv rau hauv peb cov kev ua hauj lwm niaj hnub nod tau li cas.</li>
+          <li>Nkag siab txog Abbott cov kev cia siab npaj tseg txog rau kev coj ua lag luam mus kom thoob ntiaj teb raws li txoj hau kev uas yog.</li>
+          <li>Paub tias yuav mus nrhiav kev pab thiab kev txhawb nqa nyob rau qhov twg.</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>Zoo siab txais tos</p>
+            <p>1 nas this</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>Qhov tseem ceeb ntawm Abbott Tsab Cai Kev Coj Ua Lag Luam</p>
+            <p>2 nas this</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>Peb Tsab Cai</p>
+            <p>18 nas this</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>Koj Txoj Kev Mob Siab Rau</p>
+            <p>1 nas this</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>Kuaj Xyuas Kev Txawj Ntse</p>
+            <p>5 nas this</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>Kev Vam Meej Ntsig Txog Kev Kawm Paub</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">Tam sim no muaj qhov Ncauj Lus no lawm.</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Peb ua tus coj kev yam muaj kev tsim muaj txhua yam, kev ncaj ncees, thiab kev ua siab dawb paug. Txhua tus neeg. Txhua hnub.</p>
+        <p>Peb Tsab Cai Kev Coj Ua Lag Luam ceeb toom kom peb paub tias kev tsim muaj txhua yam, kev ncaj ncees, thiab kev ua siab dawb paug tsis yog tias nws tsuas yog lub hom phiaj zoo xwb nkaus xwb—lawv yog cov kev mob siab rau ua hauj lwm nyob rau txhua hnub. Txawm hais tias Tsab Cai nod tsis tuaj yeem kwv yees tau txhua qhov kev nyuaj uas peb yuav ntsib los xij, nws yeej muab ib lub hauv paus ruaj khov txog ntawm cov hauv paus kev xav los mus coj peb lawm.</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Peb muab siab rau ua kom tau raws li cov qauv theem siab tshaj plaws.</p>
+        <p>Tsab Cai Kev Coj Ua Lag Luam yog qhov tseem ceeb rau Abbott txoj kev huaj vam vim nws teeb tsa tus qauv rau peb txoj kev ua hauj lwm—uas muaj kev tsim muaj txhua yam, kev ncaj ncees, thiab kev ua siab dawb paug. Nws pab peb txiav txim siab kom raug cai, tshwj xeeb tshaj yog nyob rau hauv cov zwj ceeb uas sib cov pes daws, thiab xyuas kom paub tseeb tias peb ua raug raws li peb cov hauv paus kev xav. Los ntawm kev ua raws li Tsab Cai, peb pov thaiv peb lub koob npe, tsim kev ntseeg siab nrog cov neeg uas peb pab cuam, thiab tsim kom muaj ib txoj kab lis kev cai ua hauj lwm ntawm chaw ua hauj lwm uas kev ua qhov yog ntawd yog qhov tseem ceeb tshaj plaws.</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Kev nkag siab txog Tsab Cai yog txhua tus neeg tes hauj lwm yuav tsum tau ua.</p>
+        <p>Peb txhua tus yeej muaj ib lub luag hauj lwm los mus siv Tsab Cai Kev Coj Ua Lag Luam nod rau hauv peb cov hauj lwm thiab kev txiav txim siab txhua hnub. Nws tsis yog ib daim ntawv—nws yog ib phau ntawv qhia uas pab peb tsav xyuas cov kev nyuaj ua ke nrog rau kev tsim muaj txhua yam thiab kev ntseeg tus kheej.</p>
+        <p>Nyob rau hauv cov ntu tom ntej nod, peb yuav tshawb nrhiav cov cai kev coj ua hauj lwm tseem ceeb ntawm Tsab Cai nod thiab saib seb lawv yuav los mus siv ta nyob rau hauv peb cov kev nqis tes ua hauj lwm thiab kev cov xaiv txhua hnub tau li cas.</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Koj yuav tsum saib kom tag nrho cov ntsiab lus ua ntej yuav mus ntxiv lawm yav tom ntej.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Nyob rau ntawm Abbott, peb muab siab rau kev txhim kho fab kev noj qab haus huv thiab kev noj qab nyob zoo ntawm cov neeg uas ntseeg siab rau peb cov khoom lag luam.</p>
+          </div>
+          <div>
+            <p>Nws yog ib qho kev ceeb toom tom qab txhua qhov kev txiav txim siab, txhua lub tswv yim tshiab, thiab txhua qhov kev nqis tes ua hauj lwm ntawd yog ib lub hom phiaj—txhawm rau tsim kom muaj lub neej zoo dua qub.</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>Cov Neeg Mob thiab Cov Neeg Qhua</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>Cov Kws Kho Mob Uas Saib Xyuas Kho Mob Rau Fab Kev Noj Qab Haus Huv</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Nias rau txhua qhov ntawm cov cim txhawm rau kawm paub ntau ntxiv.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>COV NEEG MOB THIAB COV NEEG QHUA</p>
+                <p>Kev saib xyuas kho mob rau cov neeg lub plawv tseem ceeb ntawm yam uas peb ua. Peb muab kev noj qab haus huv thiab kev noj qab nyob zoo rau cov neeg mob thiab cov neeg qhua ua ntej tshaj plaws. Txhua hnub, peb muaj peev xwm ua tau ib qho kev sib txawv uas muaj ntsiab lus tseem ceeb—los mus pab cov neeg kom muaj lub neej noj qab haus huv zoo dua qub thiab pab txhawb rau cov zej zos kom muaj zog, thiab noj qab haus huv zoo dua qub tuaj.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>COV KWS KHO MOB TSHAJ LIJ UAS SAIB XYUAS KHO MOB</p>
+                <p>Peb ua hauj lwm nrog HCPs txhawm rau pab txhawb nqa kom muaj kev noj qab haus huv zoo dua qub tuaj. Peb hwm txoj kev txawj ntse thiab kev txiav txim siab ywj pheej ntawm cov kws kho mob uas saib xyuas kho mob rau fab kev noj qab haus huv - txawm tias lawv yog cov kws kho mob, cov kws tu mob, cov kws muag tshuaj, cov kws tshawb fawb, los sis cov neeg ua hauj lwm hauv chav kuaj mob los xij. Lawv lub luag hauj lwm hauv kev coj cov neeg mob mus rau txoj kev noj qab haus huv uas zoo dua qub yog qhov tseem ceeb.</p>
+                <p>Nyob rau ntawm Abbott, peb muab siab rau txhawb nqa lawv nrog rau cov ntaub ntawv tseeb, thiab raug raws sij hawm es kom lawv thiaj li txiav txim siab tau zoo tshaj plaws. Los ntawm kev ua hauj lwm ua ke, peb muaj peev xwm ua tiav peb lub hom phiaj ntawm kev txhim kho kev noj qab haus huv thiab kev noj qab nyob zoo thoob plaws ntiaj teb.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Koj yuav tsum saib kom tag nrho cov ntsiab lus ua ntej yuav mus ntxiv lawm yav tom ntej.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Nyob rau ntawm Abbott, peb muab siab rau ua kom txhua yam khoom uas peb muab muaj kev nyab xeeb, siv tau hauj lwm zoo, thiab tsim nyog rau cov neeg uas ntseeg siab rau peb.</p>
+          </div>
+          <div>
+            <p>Peb ua ntau cov kauj ruam los xyuas kom paub tseeb tias peb cov khoom muaj kev nyab xeeb thiab siv tau hauj lwm zoo —txij li kev xaiv cov khoom siv uas yog mus txog rau txoj kev uas peb ua lag luam, muag, thiab xa cov khoom lag luam ntawd. Nyob rau txhua theem, peb ua raws li cov qauv siab txhawm rau qhov zoo tsim nyog.</p>
+            <p>Tsis tas li ntawd peb kuj tseem muab siab rau txheeb xyuas, soj ntsuam, thiab daws cov teeb meem kev nyab xeeb ntawm cov khoom lag luam raws sij hawm, thiab ua cov kauj ruam los tiv thaiv kev ua khoom cuav, kev hloov pauv tsis raug cai, thiab kev tub sab txog ntawm peb cov khoom lag luam tib si.</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>Qhov Zoo Tsim Nyog Ntawm Khoom Lag Luam</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>Kev Txhawb Nqa Khoom Lag Luam I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>Kev Txhawb Nqa Khoom Lag Luam II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Nias rau txhua qhov ntawm cov cim txhawm rau kawm paub ntau ntxiv.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>QHOV ZOO TSIM NYOG NTAWM KHOOM LAG LUAM</p>
+                <p>Nyab xeeb, siv tau hauj lwm zoo thiab tau txais kev ntseeg siab. Peb cov khoom lag luam tsim ib qho kev sib txawv.</p>
+                <p>Peb muab siab rau txog qhov zoo tsim nyog ntawm txhua theem—txij li kev nrhiav hauv paus kev pab cuam thiab kev tsim khoom lag luam mus txog rau txoj kev uas peb ua lag luam, muag, thiab xa peb cov khoom lag luam, muaj xam nrog rau los ntawm peb cov neeg koom tes tib si. Txhua kauj ruam tseem ceeb vim tias cov neeg vam khom peb txhawm rau kev nyab xeeb.</p>
+                <p>Peb muab siab rau txheeb xyuas, soj ntsuam, thiab daws cov teeb meem kev nyab xeeb ntawm cov khoom lag luam mus raws sij hawm. Peb xyuas kom paub tseeb tias cov kws kho mob thiab cov tsev kawm ntawv muaj cov ntaub ntawv uas lawv xav tau los siv peb cov khoom lag luam kom muaj kev nyab xeeb thiab siv tau hauj lwm zoo, thiab peb sib txuas lus nrog cov chaw ua hauj lwm saib xyuas txoj cai los sis pej xeem sawd daws yog tias muaj kev txhawj xeeb txog kev nyab xeeb.</p>
+                <p>Peb ua ntau cov kauj ruam los mus tiv thaiv kev khoom cuav, kev hloov pauv tsis raug cai, thiab kev tub sab txog ntawm peb cov khoom lag luam. Peb ua raws li cov cai tswj fwm kev lag luam, muaj xam nrog rau cov cai tswj fwm kev xa khoom tawm thiab kev xa khoom tuaj, thiab ua raws li tsoom fwv cov ciaj ciam thiab cov kev txwv txhawm rau los mus pov thaiv kev ruaj ntseg hauv teb chaws thiab kev noj qab haus huv ntawm pej xeem.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEV TXHAWB NQA KHOOM LAG LUAM I</p>
+                <p>Peb txhawb nqa thiab muag peb cov khoom lag luam nrog kev ncaj ncees thiab kev hwm rau cov neeg uas vam khom rau cov khoom siv ntawd.</p>
+                <p>Peb cov kev sib txuas lus txog cov khoom lag luam yog qhov tseeb, sib npaug, thiab ua ua raws li cov lus cim sau uas tau pom zoo, pov thawj ntsig txog fab txuj ci, thiab cov kev coj ua zoo tshaj plaws hauv fab kev kho mob hauv cov teb chaws uas peb ua hauj lwm ntawd.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEV TXHAWB NQA KHOOM LAG LUAM II</p>
+                <p>Peb txhawb nqa peb cov khoom lag luam rau lawv cov kev siv uas tau npaj tseg thiab tau pom zoo.</p>
+                <p>Peb ua hauj lwm raws li cov ntawv tso cai thiab kev pom zoo uas tau muab los ntawm cov tub ceev xwm saib xyuas kev noj qab haus huv hauv cov teb chaws uas peb ua hauj lwm ntawd. Peb txoj kev txhawb nqa khoom lag luam, cov kev muag khoom, thiab kev faib khoom ua raws li cov kev cai lij choj fab kev lag luam nruj thiab cov kev cai tshwj xeeb ntawm lub teb chaws. Los ntawm cov cai thiab cov txheej txheem sab hauv uas muaj zog, peb ua kom ntseeg tau tias peb ua raws li txoj cai thiab ua raws li peb txoj kev mob siab rau txog fab kev coj ua lag luam uas raug cai, nyab xeeb, thiab thaj tsob.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Koj yuav tsum saib kom tag nrho cov ntsiab lus ua ntej yuav mus ntxiv lawm yav tom ntej.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Nyob rau ntawm Abbott, peb muab siab rau txhawb nqa kev tshawb fawb nrog kev tsim muaj txhua yam thiab lub hom phiaj.</p>
+          </div>
+          <div>
+            <p>Peb nrhiav tswv yim tshiab, lees paub qhov tseem ceeb ntawm kev kwv yees thiab daws cov kev phom sij kom yam mus raws lub luag hauj lwm. Peb hwm txog lub meej mom ntawm txhua tus neeg koom nrog qhov kev kawm tshawb fawb thiab ua raws li cov qauv theem siab tshaj plaws ntawm kev ua siab dawb paug thiab kev ncaj ncees hauv feem kev tshawb fawb txog fab kev txawj ntse.</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>Tswv Yim Tshiab I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>Tswv Yim Tshiab II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>Kev Txhawb Nqa Fab Kev Txawj Ntse</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Nias rau txhua qhov ntawm cov cim txhawm rau kawm paub ntau ntxiv.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>TSWV YIM TSHIAB I</p>
+                <p>Peb tsim cov kev daws teeb meem kev kho mob tshiab los mus pab cov neeg kom muaj lub neej noj qab haus huv zoo dua qub tuaj thiab txhim kho cov tshwm sim nyob thoob plaws ntiaj teb kom zoo.</p>
+                <p>Peb teb rau cov neeg cov kev xav tau los ntawm kev tsim cov kev kho mob tshiab, cov khoom siv cawm siav, thiab cov khoom tshiab uas txhawb nqa kev noj qab haus huv hauv cov hau kev tshiab. Los ntawm kev tshawb fawb thiab tev naus laus zis tshiab uas zoo tshaj plaws, peb siv zog los txhim kho cov kev tshwm sim kom zoo dua qub thiab txhawb kom cov neeg muaj lub neej zoo tshaj plaws—tsim cov kev hloov pauv tshiab uas muaj ntsiab lus zoo rau txhua theem ntawm lub neej.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>TSWV YIM TSHIAB II</p>
+                <p>Peb saib xyuas txog kab lis kev cai ntawm lub tswv yim tshiab los ntawm kev tshawb nrhiav cov cib fim tshiab thiab npaj rau tej yam uas yuav tshwm sim.</p>
+                <p>Txawm hais tias kev vam meej feem ntau muaj kev phom sij los xij, peb ua cov kauj ruam uas xav txog, thiab thaj tsob txhawm rau los mus kwv yees cov kev nyuaj thiab txo cov teeb meem ntawd ua ntej—ib txwm ua raws li Tsab Cai thiab peb cov cai.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEV TXHAWB NQA FAB KEV TXAWJ NTSE</p>
+                <p>Peb ua kev tshawb fawb los tsim cov ntaub ntawv tseeb, thiab ncaj ncees uas tsav lub tswv yim tshiab, txhim kho kev kho mob, thiab txhim kho kev saib xyuas kho mob rau fab kev noj qab haus huv kom zoo dua qub.</p>
+                <p>Thaum tab tom ua kev tshawb fawb, peb saib taus cov neeg koom nrog kev kawm tshawb fawb, tiv thaiv lawv los ntawm kev phom sij uasa tsis tsim nyog, thiab xyuas kom lawv nkag siab txog qhov xwm txheej thiab lub hom phiaj ntawm kev tshawb fawb thiab cov phom sij uas cuam tshuam. Kev tau txais kev tso cai los ntawm cov neeg koom nrog kev kawm tshawb fawb yog ib feem tseem ceeb ntawm peb txoj kev tshawb fawb.</p>
+                <p>Peb saib qhov kev tshawb fawb txog fab kev txawj ntse no muaj nqis thiab yuav tsis nrhiav cov kev tshwm sim los ntawm qhov yus hais luag mloog uas tsis raug cai. Peb xyuas kom meej tias cov ntaub ntawv kev kawm tshawb fawb muaj tseeb thiab muab siab rau muab cov txiaj ntsig tshawb fawb ntsig txog peb cov khoom lag luam, txawm tias cov txiaj ntsig zoo los sis tsis zoo los xij, kom mus raws sij hawm thiab raug raws hom.</p>
+                <p>Thaum ua qhov kev tshawb fawb rau Abbott los sis luam tawm sawv cev rau peb ntawd, peb koom tes nrog cov kws kho mob uas paub zoo rau tej suam uas muaj keeb kwm zoo txog fab kev tshawb fawb thiab kev kho mob. Peb xav kom lawv qhia txog txhua yam kev sib txuas nrog Abbott, muaj xam nrog rau fab nyiaj txiag los sis lwm yam kev sib raug zoo tib si.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Koj yuav tsum saib kom tag nrho cov ntsiab lus ua ntej yuav mus ntxiv lawm yav tom ntej.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Nyob rau ntawm Abbott, peb txhawb nqa ib txoj kab lis kev cai ntawm kev qhib siab, kev sib txawv, thiab kev sib hwm—vim nws tsav coj laj lim tswv yim ntsig txog fab kev tsim ua thiab lub tswv yim tshiab.</p>
+          </div>
+          <div>
+            <p>Peb txhua tus muaj lub luag hauj lwm los ua raws li Tsab Cai txhua hnub: kev hwm lwm tus, kev tsim kom muaj chaw ua hauj lwm nyab xeeb thiab muaj feem xyuam nrog, thiab xyuas kom muaj lub cib fim sib luag rau txhua tus.</p>
+            <p>Peb nug cov lus nug thaum tej yam tsis meej thiab hais lus tawm thaum muaj qee yam tsis raug.</p>
+            <p>Tshooj no txhawb nqa peb txoj kev mob siab rau kev muaj cib fim sib luag thiab ib puag ncig chaw ua hauj lwm kom ruaj ntseg, thiab ceeb toom peb kom nkag siab, siv, thiab ua raws li Tsab Cai hauv txhua yam peb ua.</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>Kev Sib Koom Tes</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>Peb Txoj Kev Sib Txuas Ib Leeg Rau Ib Leeg</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>Kev Tshaj Qhia Cov Kev Txhawj Xeeb</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>Lub Cib Fim Muaj Vaj Huam Sib Luag</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>Kev Kho Mob Ncaj Ncees</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>Ib Puag Ncig Chaw Ua Hauj Lwm</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Nias rau txhua qhov ntawm cov cim txhawm rau kawm paub ntau ntxiv.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEV SIB KOOM TES</p>
+                <p>Peb saib qhov kev qhib siab thiab kev koom tes muaj nqis heev vim tias muaj ntau lub tswv yim ua rau muaj kev daws teeb meem tau zoo dua.</p>
+                <p>Peb txais tos ntau haiv neeg vim nws ua rau muaj laj lim tswv yim ntsig txog fab kev tsim ua, lub zog, thiab kev vam meej. Yuav kom muaj kev cuam tshuam tseem ceeb rau kev noj qab haus huv thoob ntiaj teb, peb yuav tau mloog ib leeg, saib txhua lub suab tawm lus muaj nqis, thiab ua hauj lwm ua ke nrog rau lub hom phiaj.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>PEB TXOJ KEV SIB TXUAS IB LEEG RAU IB LEEG</p>
+                <p>Peb txhua tus muaj lub luag hauj lwm sib koom ua raws li Abbott cov hauv paus kev xav txhua hnub.</p>
+                <p>Los ntawm kev ua raug cai, peb txhawb nqa peb kab lis kev cai kom muaj zog dua qub tuaj. Txhua tus neeg yuav tsum nkag siab txog tias Tsab Cai no siv rau lawv lub luag hauj lwm thiab txoj hauj lwm tau li cas.</p>
+                <p>Cov thawj coj thiab cov thawj saib xyuas muaj lub luag hauj lwm tshwj xeeb ua cov thawj coj—lawv yuav tsum ua qauv qhia peb cov cov hauv paus kev xav, txhawb nqa kev coj cwj pwm zoo, thiab tsim kom muaj qhov chaw nyab xeeb uas cov neeg ua hauj lwm xis nyob uas nug cov lus nug thiab hais txog cov kev txhawj xeeb yam tsis ntshai kev ua pauj.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEV TSHAJ QHIA COV KEV TXHAWJ XEEB</p>
+                <p>Peb nug cov lus nug thaum muaj qee yam tsis meej tseeb los sis hnov tau tias tsis raug lawm. Tsis tas li ntawd peb kuv tseem hais tawm thiab tshaj tawm qhia txog txhua cov kev ua txhaum cai uas muaj feem tshwm sim txog ntawm Tsab Cai nod tib si.</p>
+                <p>Nws yog peb lub luag hauj lwm los nug cov lus nug thaum cov lus qhia tsis meej thiab los tawm tsam thiab tshaj tawm txog kev coj ua lag luam tsis ncaj ncees, kev ua txhaum Tsab Cai, los sis kev ua txhaum Abbott cov cai.</p>
+                <p>Yog tias koj tsis paub meej txog qhov kev xaiv los sis kev ua yog, nrog koj tus thawj tswj xyuas hauj lwm tham los sis tiv tauj rau Lub Chaw Ua Hauj Lwm Saib Xyuas Kev Ncaj Ncees thiab Kev Ua Raws Li Txoj Cai.</p>
+                <p>Cov thawj coj thiab cov thawj saib xyuas hauj lwm yuav tsum ua tus qauv thiab xyuas kom cov neeg ua hauj lwm nkag siab thiab ua raws li Tsab Cai. Cov thawj coj muaj lub luag hauj lwm ntau dua los mus qhia Abbott cov kev cia siab thiab yuav tsum tiv tauj rau Lub Chaw Ua Hauj Lwm Saib Xyuas Kev Ncaj Ncees thiab Kev Ua Raws Li Txoj Cai hais txog tej kev ua txhaum Tsab Cai uas muaj feem tshwm sim tau.</p>
+                <p>Yuav tau ua txhua cov kev tshaj xov xwm tawm qhia txog tej kev ua txhaum Tsab Cai uas muaj feem tshwm sim tau yam tiag li. Lub Chaw Ua Hauj Lwm Saib Xyuas Kev Ncaj Ncees thiab Kev Ua Raws Li Txoj Cai yuav ua cov kauj ruam soj xyuas taug qab, suav xam nrog rau cov kev soj qab taug lw thiab cov kev nqis tes ua kom raug raws txoj cai thaum xav tau. Koj yuav tsum tsis txhob soj qab taug lw xyuas txog koj tus kheej li. Txhua tus neeg yuav tsum koom tes thiab ua cov kev soj qab taug lw nod yam tsis pub leej twg paub.</p>
+                <p>Cov kev nqis tes ua kom raug raws txoj cai yuav muaj xam nrog rau kev qhuab ntuas (txog rau thiab muaj xam nrog rau kev rho tawm hauj lwm) los sis kev foob raws li txoj cai mus rau:</p>
+                <ul>
+                  <li>Kev tso cai los sis kev koom nrog rau hauv ib qho kev ua txhaum txoj cai;</li>
+                  <li>Kev tsis lees los mus koom tes rau hauv ib qho kev soj qab taug lw;</li>
+                  <li>Kev tsis hais tawm qhia txog ib qho kev ua txhaum txog cai vim kev saib xyuas hauj lwm tsis zoo;</li>
+                  <li>Kev tsim ua ib qho lus hais tawm qhia uas tsis muaj tseeb;</li>
+                  <li>Kev ua pauj tawm tsam ib tus neeg twg uas tau hais tawm qhia txog ib qho kev txhawj xeeb uas muaj kev ntseeg mus rau qhov zoo.</li>
+                </ul>
+                <p>Kev ua pauj ib txwm yog ib qho uas yuav tsis taus. Yog koj ntseeg tias muaj kev ua pauj tshwm sim, qhia rau Lub Chaw Ua Hauj Lwm Saib Xyuas Kev Ncaj Ncees thiab Kev Ua Raws Li Txoj Cai los sis Feem Saib Xyuas Neeg Ua Hauj Lwm paub.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>LUB CIB FIM MUAJ VAJ HUAM SIB LUAG</p>
+                <p>Peb muab cov cib fim muaj vaj huam sib luag rau tag nrho txhua cov neeg ua hauj lwm.</p>
+                <p>Peb ua cov kev txiav txim txog kev ntiav neeg ua hauj lwm saib raws cov kev xav tau fab kev lag luam, cov kev txawj ntse, kev paub dhau los, thiab kev ua tau zoo. Tsis pub muaj kev ntxub ntxaug txhua yam. Peb ua raws li txhua txoj cai lij choj uas tswj peb txoj kev sib raug zoo nrog cov neeg ua hauj lwm thoob plaws ntiaj teb.</p>
+                <p>Abbott txwv tsis pub muaj kev ntxub ntxaug raws li haiv neeg, xim tawv nqaij, kev ntseeg, hnub nyoog, poj niam txiv neej, lub teb chaws yug, kev txheeb xyuas poj niam txiv neej los sis kev hais lus, kev nyiam poj niam txiv neej, kev xiam oob qhab, kev sib yuav, qub tub rog los sis tub rog, caj ces roj ntshav, xwm txheej qhia kev ua neeg xam xaj, los sis lwm yam kev tiv thaiv raws li txoj cai lij choj.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEV KHO MOB NCAJ NCEES</p>
+                <p>Peb txhawb kom muaj lub chaw ua hauj lwm uas sib hwm, muaj feem xyuam nrog, thiab nyab xeeb.</p>
+                <p>Peb ua hauj lwm kom txhua tus neeg hnov zoo li peb txais tos, txhawb nqa, thiab muaj peev xwm.</p>
+                <p>Abbott txhawb kom muaj ib cheeb chaw ib puag ncig uas zoo rau fab kev noj qab haus huv, tsis muaj kev ua phem thiab saib cov neeg ua hauj lwm lub tswv yim muaj nqis los txhawb kom muaj ntau yam sib txawv thiab kev muaj feem xyuam nrog.</p>
+                <p>Peb saib taus txhua tus neeg thiab saib taus lwm tus, tsim kev ntseeg siab los ntawm kev ncaj ncees thiab kev ua siab ncaj—yeej tsis yog los ntawm kev dag ntxias, kev hais tsis tseeb los sis tsis muaj kev ua siab dawb paug.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>IB PUAG NCIG CHAW UA HAUJ LWM</p>
+                <p>Peb muab kev nyab xeeb thiab kev ua hauj lwm ncaj ncees tso ua ntej tshaj plaws.</p>
+                <p>Yuav tsum tau tshaj tawm cov kev raug teeb meem los sis cov xwm txheej uas tsis muaj kev nyab xeeb rau feem tswj xyuas hauj lwm tam sim ntawd. Tsis tas li ntawd Abbott kuj tseem ua ntau cov kauj ruam los tiv thaiv thiab txwv tsis pub ua hauj lwm tsis raug cai, tsis tsim nyog thiab txhua yam kev ua phem los sis kev lim hiam tsis muaj kev hlub nyob rau hauv peb cov hauj lwm lag luam thoob ntiaj teb tib si.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Koj yuav tsum saib kom tag nrho cov ntsiab lus ua ntej yuav mus ntxiv lawm yav tom ntej.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Nyob rau ntawm Abbott, peb tsim kev ntseeg siab los ntawm zej zos, ib puag ncig, thiab kev koom tes.</p>
+          </div>
+          <div>
+            <p>Peb siv zog los muab txiaj ntsig rov qab rau cov cheeb tsam zej zos nyob rau qhov chaw uas peb ua hauj lwm thiab ua kom muaj kev cuam tshuam zoo thiab kav ntev rau cov neeg ntawd lub neej.</p>
+            <p>Abbott ua hauj lwm txhawm rau txo qis nws cov teeb meem ib puag ncig los ntawm kev txo kev siv hluav taws xob thiab kev txuag tej chaw hav zoov hav tsuag.</p>
+            <p>Tsis tas li ntawd peb kuj txhawb nqa kev koom tes hauv kev nom kev tswv thiab txhawb kom zej zos muaj kev koom tes thoob plaws peb cov chaw hauj lwm nyob thoob ntiaj teb tib si.</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>Kev Koom Tes Los Ntawm Lub Zej Zos</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>Lub Luag Hauj Lwm Saib Xyuas Huab Cua Ib Puag Ncig</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>Kev Pab Txhawb Nqa Rau Fab Kas Moos</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Nias rau txhua qhov ntawm cov cim txhawm rau kawm paub ntau ntxiv.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEV KOOM TES LOS NTAWM LUB ZEJ ZOS</p>
+                <p>Peb pab txhawb nqa txoj kev noj qab nyob zoo rau cheeb tsam zej zos.</p>
+                <p>Nyob rau ntawm Abbott, peb txhawb nqa kev noj qab haus huv ntawm cov zej zos los ntawm peb cov khoom lag luam, peb txoj hauj lwm, thiab peb cov kev nqis tes ua thiab peb muaj keeb kwm ntev hais txog ntawm kev muab txiaj ntsig rov qab rau zej zos uas nyob rau ntawm cov chaw uas peb nyob thiab ua hauj lwm, vim peb ntseeg tias cov zej zos noj qab haus huv mas thiaj li vam meej.</p>
+                <p>Los ntawm peb txoj kev ua hauj lwm, kev koom tes, thiab kev txhawb nqa rau cov pab pawg hauv zos thiab cov laj thawj, peb siv zog ua kom muaj txiaj ntsig zoo thiab kav ntev txhua rau qhov chaw uas peb ua lag luam.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>LUB LUAG HAUJ LWM SAIB XYUAS HUAB CUA IB PUAG NCIG</p>
+                <p>Peb koom nrog kev txhim kho kom ruaj khov thiab ua hauj lwm txhawm rau txo peb qhov kev cuam tshuam rau ib cheeb tsam ib puag ncig kom muaj tsawg.</p>
+                <p>Peb ua hauj lwm los tiv thaiv ib puag ncig hauv txhua yam peb ua—txij li peb nrhiav cov khoom siv tau li cas mus txog rau kev peb ua, xa khoom, thiab siv peb cov khoom li cas.</p>
+                <p>Peb ua ntau cov kauj ruam txhawm rau kom siv zog tsawg dua thiab siv tej chaw hav zoov hav tsuag tsawg dua. Peb txhawb nqa cov hauj lwm siv hluav taws xob huv si rau ntawm qhov chaw ua hauj lwm thiab nyob rau hauv peb cov zej zos. Peb nrhiav cov hau kev los txo cov khib nyiab, rov muab coj los tsim ua siv dua kom ntau ntxiv, thiab txo cov kev phom sij ntawm ib puag ncig kom tsawg. Tsis tas li ntawd peb kuj ua raws li cov kev cai lij choj thiab cov cai ib puag ncig uas siv rau peb cov hauj lwm tib si.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEV PAB TXHAWB NQA RAU FAB KAS MOOS</p>
+                <p>Peb txhawb kom muaj kev koom tes tsim nyog nyob rau hauv cov txheej txheem fab kas moos thiab txhawb nqa kev koom tes ntawm cheeb tsam zej zos.</p>
+                <p>Abbott txhawb nqa cov cai tswj fwm pej xeem uas sib haum nrog peb lub hom phiaj thiab cov hauv paus kev xav. Thaum twg tsim nyog, peb kuj tseem yuav txhawb nqa cov neeg sib tw ua nom tswv los sis cov pab pawg neeg uas muaj kev txaus siab tib si.</p>
+                <p>Vim tias cov kev cai lij choj hais txog kev pab nyiaj txiag los ntawm cov tuam txhab sib cov pes daws, txhua yam kev siv nyiaj ntawm Abbott—los sis cov nyiaj pab uas tau pab raws li kev sawv cev ntawm Abbott—yuav tsum tau saib xyuas nrog Feem Saib Xyuas Hauj Lwm Fab Kev Cai Lij Choj ua ntej.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Koj yuav tsum saib kom tag nrho cov ntsiab lus ua ntej yuav mus ntxiv lawm yav tom ntej.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Nyob rau ntawm Abbott, peb muab siab rau ua lag luam ncaj ncees thiab ua raws li peb cov lus cog tseg nyob rau hauv txhua qhov chaw ntawm peb txoj hauj lwm.</p>
+          </div>
+          <div>
+            <p>Thaum peb daws cov teeb meem kev tsis sib haum xeeb, peb muab Abbott cov txiaj ntsig tso ua ntej peb li ntiag tug. Peb pov thaiv Abbott cov cuab tam thiab lub koob npe, khaws cov ntaub ntawv zais cia kom muaj kev nyab xeeb, thiab hwm txhua tus neeg uas qhia cov ntaub ntawv ntiag tug rau peb.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>Kev Coj Ua Ncaj Ncees</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>Kev Zam Cov Kev Tsis Sib Haum Xeeb txog ntawm Cov Txiaj Ntsig I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>Kev Zam Cov Kev Tsis Sib Haum Xeeb txog ntawm Cov Txiaj Ntsig II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>Kev Pov Thaiv Abbott Cov Khoom thiab Lub Koob Npe</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>Cov Ntaub Ntawv Khaws Ua Lus Ceev Tseg Tsis Pub Leej Twg Paub</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Nias rau txhua qhov ntawm cov cim txhawm rau kawm paub ntau ntxiv.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEV COJ UA NCAJ NCEES</p>
+                <p>Peb ua lag luam nrog kev tsim muaj txhua yam thiab ua raws li peb cov kev mob siab rau nyob rau hauv txhua yam ntawm peb txoj hauj lwm</p>
+                <p>Peb txhua tus muaj lub luag hauj lwm rau peb txoj hauj lwm thiab cov kev txiav txim siab uas peb ua nyob rau hauv peb lub luag hauj lwm. Hauv txhua qhov kev sib cuam tshuam sib tham txog fab kev txawj ua hauj lwm—txawm tias nrog cov neeg ua hauj lwm ua ke, cov neeg qhua, cov neeg xa khoom, cov kws kho mob, cov neeg sib tw, los sis lwm tus los xij—peb yuav tsum ncaj ncees thiab ua siab dawb paug txog qhov tias Abbott ua lag luam tau li cas.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEV ZAM COV KEV TSIS SIB HAUM XEEB TXOG NTAWM COV TXIAJ NTSIG I</p>
+                <p>Peb txheeb xyuas thiab daws cov teeb meem kev tsis sib haum xeeb ua ntej yog yuav ua hauj lwm txuas ntxiv mus.</p>
+                <p>Kev tsis sib haum xeeb ntawm cov txiaj ntsig tshwm sim thaum cov txiaj ntsig ntawm tus kheej cuam tshuam—los sis zoo li cuam tshuam—nrog rau qhov zoo tshaj plaws rau Abbott. Cov kev txiav txim siab ua lag luam yuav tsum yog saib raws li Abbott cov kev xav tau, tsis yog raws li tus kheej lub hom phiaj los sis cov kev nyiam ntawm tsev neeg los sis cov phooj ywg. Peb cia siab ntsoov tias yuav tsum siv kev txiav txim siab zoo thiab zam cov xwm txheej uas yuav ua rau muaj kev tsis sib haum xeeb tseeb tiag los sis los ntawm kev ntaus nqi. Yog tias kev sib raug zoo ntawm tus kheej, cov kev nyiam, los sis kev ua ub ua no sab nraud cuam tshuam txog rau koj lub peev xwm ua hauj lwm ncaj ncees thiab ua tau zoo—los sis yuav pab tau koj los sis ib tus neeg hauv tsev neeg—koj yuav tsum qhia txog qhov teeb meem uas yuav tshwm sim thiab tshem koj tus kheej tawm ntawm qhov xwm txheej ntawd, ua raws li Abbott cov lus qhia.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEV ZAM COV KEV TSIS SIB HAUM XEEB TXOG NTAWM COV TXIAJ NTSIG II</p>
+                <p>Thaum peb txiav txim siab txog kev ua hauj lwm, peb muab Abbott cov kev nyiam tso ua ntej tshaj plaws.</p>
+                <p>Qhov ntawd txhais tau tias muab lub hom phiaj ntawm lub tuam txhab tso ua ntej cov hom phiaj ntawm ib pawg neeg, pab pawg, los sis ib tus tib neeg tshwj xeeb. Txhua lub cib fim los sis cov peev txheej uas peb tau txais los ntawm peb txoj hauj lwm ntawm Abbott yuav tsum tau siv los mus pab lub tuam txhab—tsis yog siv rau lub hom phiaj ntawm tus kheej. Peb yuav tsum tsis txhob sib tw nrog Abbott los sis pab lwm tus ua li ntawd. Thaum muaj lub cib fim, peb yuav tsum tsom kwm mus rau kev txhawb nqa Abbott cov txiaj ntsig.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEV POV THAIV ABBOTT COV KHOOM THIAB LUB KOOB NPE</p>
+                <p>Peb cov neeg saib xyuas tus peb lub tuam txhab.</p>
+                <p>Tag nrho peb txhua tus muaj tes hauj lwm yuav tsum tau ua txhawm rau los mus pov thaiv thiab siv Abbott cov khoom yam txawj ntse. Qhov no muaj xam nrog rau txhua yam los ntawm cov khoom siv xws li tsheb thiab khoos phis tawj, mus rau cov ntaub ntawv muaj nqis xws li cov cuab yeej cuab tam ntawm kev txawj ntse, cov lus zais cia ntawm fab kev lag luam, thiab kev paub tshwj xeeb.</p>
+                <p>Peb yuav tsum siv kev txiav txim siab zoo kom paub tseeb tias cov peev txheej no raug siv kom raug, siv tau zoo, thiab ceev faj—zam kev poob, kev tub sab, kev siv tsis raug cai, los sis kev pov tseg.</p>
+                <p>Lub koob npe nrov ntawm Abbott yog ib qho ntawm peb cov khoom muaj nqis tshaj plaws—thiab peb txhua tus ua lub luag hauj lwm los mus tiv thaiv nws.</p>
+                <p>Peb txhua tus muaj lub luag hauj lwm txog tias peb yuav sawv cev rau Abbott li cas, tshwj xeeb tshaj yog nyob rau hauv cov chaw muaj zej tsoom nyob coob thiab hauv oos lais, qhov muaj txhua yam uas peb sib qhia—txawm tias yuav nyob rau hauv kev sib tham, cov email, los sis kev tshaj xov xwm hauv zej zos los xij—yeej muaj peev xwm cuam tshuam rau lub tuam txhab tau. Nws yog ib qho tseem ceeb uas yuav tsum sib txuas lus kom zoo, siv kev txiav txim siab zoo, thiab pov thaiv Abbott cov ntaub ntawv khaws uas lus ceev tseg tsis pub leej twg paub.</p>
+                <p>Thaum peb sib tham nrog lwm tus sab nraud, peb yuav tsum xav txog seb peb puas yuav raug pom tias yog tus sawv cev rau Abbott thiab peb cov lus los sis cov kev nqis tes ua ntawd puas yuav cuam tshuam li cas rau nws lub koob npe. Qhov no tseem ceeb heev rau ntawm koom haum tshaj xov xwm rau sim neej hauv zej zos, uas cov ntawv tshaj tawm ntawd tuaj yeem nthuav dav mus tau ceev thiab dav heev li—ib qho lus tawm tswv yim los sis ntawv tshaj tawm uas tsis ceev faj ntawd muaj peev xwm ua rau muaj kev phom sij tseeb tiag.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>COV NTAUB NTAWV KHAWS UA LUS CEEV TSEG TSIS PUB LEEJ TWG PAUB</p>
+                <p>Peb muab siab rau kev sib hwm thiab kev pov thaiv tag nrho cov ntaub ntawv khaws ua lus ceev tseg tsis pub leej twg paub, muaj xam nrog rau cov ntaub ntawv hais txog tus kheej tib si.</p>
+                <p>Cov ntaub ntawv khaws ua lus ceev tseg tsis pub leej twg paub yog ib feem ntawm Abbott cov khoom muaj nqis tshaj plaws. Nws muaj xam nrog rau cov ntsiab lus meej tseeb uas tsis pub rau pej xeem paub txog xws li kev tshawb fawb, cov lus zais fab kev lag luam, cov phiaj xwm kev npaj fab kev lag luam, tus nqi, cov ntaub ntawv cog lus, cov ntaub ntawv hais txog fab nyiaj txiag, thiab lwm cov ntaub ntawv uas tuaj yeem muaj txiaj ntsig zoo rau cov neeg sib tw lag luam los sis ua rau Abbott ntsib kev puas tsuaj yog hais tias raug nthuav tawm.</p>
+                <p>Peb yuav tsum tiv thaiv cov ntaub ntawv khaws ua lus ceev tseg tsis pub leej twg paub thiab tiv thaiv kev siv los sis kev sib qhia tsis raug cai—txawm tias tom qab peb lub sij hawm nrog Abbott twb tas lawm los xij.</p>
+                <p>Tsis tas li ntawd nyob rau ntawm Abbott peb kuj tseem hwm cov cuab yeej cuab tam ntawm lwm tus thiab zam kev siv tsis raug cai txog ntawm lawv cov ntaub ntawv khaws ua lus ceev tseg tsis pub leej twg paub tib si. Kev siv cov ntaub ntawv uas tsis pub rau pej xeem paub txog yam tsis raug cai, xws li rau kev lag luam ntawm tus neeg sab haud, yog ib qho txhaum kev caij lij choj thiab tsis raws txoj cai lawm.</p>
+                <p>Tsis tas li ntawd peb kuj tseem tiv thaiv cov ntaub ntawv hais txog tus kheej uas cov npoj yaig, cov kws kho mob, thiab cov neeg siv khoom tau muab rau peb tib si. Thaum peb suav sau thiab siv cov lus qhia paub txog tus kheej, peb ua yam muaj kev lav paub txog tes hauj lwm, uas muaj kev tso cai kom raug lawm, thiab tsis txhob lam muab muag los sis txais nws los ntawm cov chaw uas tsis tau txais kev tso cai. Ntau qhov chaw muaj cov cai tswj fwm ntiag tug nruj heev, thiab peb muab siab rau txog kev nkag siab thiab kev ua raws li lawv, tshwj xeeb tshaj yog rau cov lus qhia paub txog tus kheej uas tuaj yeem paub tau zoo tshaj plaws.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Koj yuav tsum saib kom tag nrho cov ntsiab lus ua ntej yuav mus ntxiv lawm yav tom ntej.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Nyob rau ntawm Abbott, peb muab siab rau ua lag luam ncaj ncees thiab ua raws li peb cov lus cog tseg nyob rau hauv txhua qhov chaw ntawm peb txoj hauj lwm.</p>
+          </div>
+          <div>
+            <p>Thaum peb daws cov teeb meem kev tsis sib haum xeeb, peb muab Abbott cov txiaj ntsig tso ua ntej peb li ntiag tug. Peb pov thaiv Abbott cov cuab tam thiab lub koob npe, khaws cov ntaub ntawv zais cia kom muaj kev nyab xeeb, thiab hwm txhua tus neeg uas qhia cov ntaub ntawv ntiag tug rau peb.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>Kev tawm tsam txoj kev xiab nyiaj</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>Khoom Plig, Cov Pluas Mov thiab Kev Lom Zem</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>Cov Phau Ntawv thiab Cov Ntaub Ntawv Uas Raug</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>Kev ua raws li Cov Cai Lij Choj</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>Kev Sib Tw Ncaj Ncees</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Nias rau txhua qhov ntawm cov cim txhawm rau kawm paub ntau ntxiv.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEV TAWM TSAM TXOJ KEV XIAB NYIAJ</p>
+                <p>Peb tawm tsam kev dag txhaum cai, kev xiab nyiaj, thiab kev noj nyiaj txiag tsis raws cai yam mob siab rau. Peb ua lag luam mus raws txoj hau kev yog xwb.</p>
+                <p>Tam li cov tib neeg, peb xav kom cov kws kho mob txiav txim siab raws li qhov zoo tshaj plaws rau cov neeg mob—tsis yog cuam tshuam los ntawm cov nyiaj txhawb nqa los ntawm cov tuam txhab. Ib yam li ntawd, peb xav kom cov nom tswv ua hauj lwm rau pej xeem, tsis muaj kev cuam tshuam los ntawm lub zog tuam txhab.</p>
+                <p>Nyob rau ntawm Abbott, peb qhia cov kws kho mob txog peb cov khoom lag luam tab sis tsis cuam tshuam rau lawv qhov kev txiav txim siab ywj pheej. Yeej tsis tso cai muab ib yam dab tsi muaj nqis rau cov kws kho mob (xws li kws kho mob, kws muag tshuaj, kws saib xyuas neeg mob, kws tshawb fawb los sis cov neeg ua hauj lwm hauv lub chaw kuaj mob), cov nom tswv, los sis lwm tus kom tau txais kev lag luam los sis nyiaj phaj tshab rau kev sib raug zoo yav dhau los.</p>
+                <p>Peb ua raws li cov kev cai lij choj tiv thaiv kev xiab nyiaj, kev tiv thaiv kev noj nyiaj txiag, thiab kev tiv thaiv kev nplua nyiaj thoob ntiaj teb, muaj xam nrog rau Tsab Cai Lij Choj Hais Txog Kev Coj Ua Hauj Lwm Noj Nyiaj Txhaum Cai Nyob Rau Txawv Teb Chaws Ntawm Teb Chaws Mes Kas tib si. Txhua tus neeg ntawm Abbott yuav tsum ua tib zoo tswj kev sib raug zoo nrog cov neeg muab kev pab cuam—xws li cov neeg faib khoom, cov kws pab tswv yim, thiab cov neeg hais lus—los ntawm kev ua tib zoo saib xyuas, them tus nqi lag luam kom ncaj ncees, thiab sau cov ntaub ntawv them nyiaj kom raug kom ntseeg tau tias ua raws li cov kev cai lij choj thiab cov qauv ntawm lub tuam txhab.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KHOOM PLIG, COV PLUAS MOV THIAB KEV LOM ZEM</p>
+                <p>Peb tsis muab los sis muab ib yam dab tsi muaj nqis los ua kom tau txiaj ntsig rau kev lag luam, ncaj qha los sis tsis ncaj qha, raws li cov ntsiab cai hais txog kev tiv thaiv kev noj nyiaj txiag tsis raws cai.</p>
+                <p>Txhawm rau tiv thaiv kom tau kev cuam tshuam tsis raug hauv kev txiav txim siab ua lag luam, peb thiaj li teeb tsim cov kev txwv txog khoom plig, pluas noj, thiab kev lom zem. Cov cai ntawm Abbott pab ua kom ntseeg tau tias cov lus ceeb toom txog hom lag luam, kev coj noj coj ua fab kab lis kev cai, kev tos txais qhua, thiab lwm yam txiaj ntsig yeej tsis cuam tshuam rau kev txiav txim siab ntsig txog fab kev ua hauj lwm tshaj lij.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>COV PHAU NTAWV THIAB COV NTAUB NTAWV TEEV TSEG UAS RAUG</p>
+                <p>Peb ntsuas cov kev ua tiav kom raug.</p>
+                <p>Cov ntaub ntawv thiab cov lus tshaj tawm rau pej xeem ntawm Abbott yuav tsum qhia meej txog peb cov kev nqis tes ua hauj lwm, nrog rau cov ntsiab lus txaus los qhia qhov tseeb ntawm peb txoj hauj lwm. Cov ntaub ntawv nyiaj txiag yuav tsum ua raws li cov qauv kev suav nyiaj, cov kev cai lij choj, thiab Abbott cov cai sab hauv.</p>
+                <p>Thaum peb tshaj tawm txog tus nqi, kev them nyiaj, los sis cov khoom muaj nqis—tshwj xeeb tshaj yog rau cov kws kho mob—peb yuav tsum xyuas kom meej tias cov ntaub ntawv tiav thiab raug lawm. Ntau cov tsoom fwv xav tau qhov kev ua siab dawb paug no los tiv thaiv cov nyiaj pab rau pej xeem. Abbott muab siab rau muab cov ntaub ntawv uas ntseeg siab tau es kom cov tsoom fwv, cov tuam txhab is saws las tuav pov hwm, thiab lwm cov neeg muaj feem xyuam nrog tuaj yeem txiav txim siab tau zoo.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEV UA RAWS LI COV KEV CAI LIJ CHOJ</p>
+                <p>Peb ua raws li tag nrho cov kev cai lij choj, cov txoj cai thiab Abbott cov kev cai uas yuav tsum ua kom tau uas siv tau rau peb cov hauj lwm.</p>
+                <p>Txhua tus neeg ua hauj lwm ntawm Abbott yuav tsum tau ua raws li tag nrho cov kev cai lij choj uas siv tau, ua ke nrog rau Abbott cov qauv cai, cov txheej txheem, thiab Tsab Cai. Qhov no yog ib qho zwj ceeb ntawm kev ntiav neeg ua hauj lwm theem hauv paus. Cov cai ntawm Abbott xam nrog rau cov ntsiab lus tseem ceeb xws li kev ua raws li kev kho mob, qhov zoo tsim nyog, kev nyiaj txiag, kev lag luam, kev ruaj ntseg, thiab ntau ntxiv, uas pab peb ua kom tau raws li cov kev xav tau fab kev cai lij choj thiab tiv thaiv kev tsis ua raws li txoj cai.</p>
+                <p>Tam li kev yog ib lub tuam txhab thoob ntiaj teb, peb kuj yuav tsum paub tias cov kev cai lij choj los ntawm ib lub teb chaws yuav siv tau rau cov hauj lwm uas ua nyob hauv lwm lub teb chaws. Thaum tsis tau paub tseeb, yuav tsum nrhiav kev taw qhia los ntawm Feem Saib Xyuas Hauj Lwm Fab Kev Cai Lij Choj los sis Lub Chaw Ua Hauj Lwm Saib Xyuas Kev Ncaj Ncees thiab Kev Ua Raws Li Txoj Cai.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KEV SIB TW NCAJ NCEES</p>
+                <p>Peb xyuas kom meej tias txhua cov kev sib cuam tshuam sib tham uas peb muaj nrog cov neeg sib tw ntawd nws tsim nyog.</p>
+                <p>Nyob rau ntawm Abbott peb muab siab rau ua raws li cov cai sib tw txhua qhov chaw uas peb ua hauj lwm. Cov kev cai lij choj no txwv tsis pub muaj kev pom zoo los sis cov kev nqis tes ua uas ua rau tsis muaj kev ncaj ncees hauv kev ua lag luam—tshwj xeeb tshaj yog hais txog kev teeb tus nqi, cov nqe lus muag khoom, thiab cov kev sib cuam tshuam sib tham nrog cov neeg sib tw.</p>
+                <p>Tsis txhob tham txog cov ncauj lus uas tuaj yeem paub tau—xws li kev teeb tus nqi, cov nqi, los sis cov phiaj xwm ua lag luam—nrog cov neeg sib tw, thiab tiv tauj Feem Kev Cai Lij Choj los sis Lub Chaw Ua Hauj Lwm Saib Xyuas Kev Ncaj Ncees thiab Kev Ua Raws Li Txoj Cai yog tias koj muaj lus nug los sis ntsib ib yam dab tsi tsis raug cai. Vim tias cov kev cai lij choj sib tw ntawd sib cov pes daws thiab kev ua txhaum cai tuaj yeem muaj kev rau txim loj, peb kuj yuav tsum ua tib zoo tswj kev sib raug zoo nrog cov neeg thib peb kom ntseeg tau tias ua raws li txoj cai thiab zam txawm tias nws yog ib qho kev tshwm ntsej muag txog tus cwj pwm tawm tsam kev sib tw los xij.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>Ua ntej koj tawm ntawm lav xuj kev kawm no, siv sij hawm me ntsis los xyuas kom meej tias koj nkag siab txog koj cov tes hauj lwm yuav tsum tau ua ntsig txog Abbott Tsab Cai Kev Coj Ua Lag Luam.</p>
+          <p>Kuv lees paub tias kuv nkag siab txog kuv cov tes hauj lwm yuav tsum tau ua hais txog Abbott Tsab Cai Kev Coj Ua Lag Luam thiab paub tias yuav nrhiav thiab tshuaj xyuas Cov Qauv Cai thiab Cov Txheej Txheem uas siv tau nyob rau qhov twg.</p>
+          <button class="qcSubmitBtn">Lees paub</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>Kev Kuaj Xyuas Txog Kev Txawj Ntse uas raws qab muaj li 10 cov lus nug. Koj yuav tsum tau qhab nia 80% los sis siab dua ntawd txhawm rau thiaj li kawm tiav qhov lav xuj kev kawm no.</p>
+        <p>THAUM TWG KOJ NPAJ TXHIJ LAWM, NIAS RAU NTAWM LUB POB NIAS RAU KEV KUAJ XYUAS TXOG KEV TXAWJ NTSE.</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Vim li cas es Tsab Cai Kev Coj Ua Lag Luam thiaj li tseem ceeb?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Nws muab tswv yim pab cuam tshwj xeeb rau txhua qhov zwj ceeb uas tej zaum peb ntsib nyob rau hauv peb cov hauj lwm.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Nws muab cov ntsiab cai thiab cov txiaj ntsig meej tseeb uas siv los txiav txim siab thaum txoj kev ua zoo tshaj plaws tsis tau meej tam sim ntawd.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Ntxiv Mus</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Tsab Cai Kev Coj Ua Lag Luam muab cov ntsiab cai thiab cov txiaj ntsig meej tseeb uas siv los txiav txim siab thaum txoj kev ua zoo tshaj plaws tsis tau meej tam sim ntawd rau peb.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Raws li hauv qab no qhov twg <span class="underline">tsis yog</span> ib qho kev xa nyiaj fab kev lag luam uas tsim nyog?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Kev ntiav ib tus HCP los mus hais txog ib cheeb tsam kab mob tshwj xeeb twg vim los ntawm lawv cov kev txawj ntse thiab kev paub zoo.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Kev muab ib pluas mov tus nqi tsim nyog rau cov neeg tuaj koom ib qho txheej txheem pab cuam ntsig txog fab kev kawm txawj kawm ntse uas tau txais kev pab txhawb nqa los ntawm Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Kev npab ib qho kev pab nyiaj ntsig txog kev pab rau cov txom nyem los yog raug kev txom nyem rau ib lub koom haum hauv zej zos.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Kev ntiav ib tus HCP los mus coj ua ib qho txheej txheem pab cuam ntsig txog fab kev kawm txawj kawm ntse txhawm rau ua tsaug rau lawv txog rau kev siv Abbott cov khoom lag luam.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Ntxiv Mus</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Tso cai rau muaj kev ntiav ib tus HCP los mus coj ua ib qho txheej txheem pab cuam ntsig txog fab kev kawm txawj kawm ntse vim los ntawm lawv cov kev txawj ntse thiab kev paub zoo, txawm li cas los xij, kev ntiav ib tus HCP los mus ua tsaug rau kev siv Abbott cov khoom lag luam yog ib qho tsis raug cai li vim hais tias qhov no yog tau txais los tam li yog ib qho nyiaj xiab.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Cov kev tshwm sim ua ntu zus rau cov tib neeg uas cuam tshuam txog rau kev xiab nyiaj thiab kev noj nyiaj muaj xam nrog rau:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Kev puas tsuaj ntsig txog lub koob npe.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Cov nyiaj nplua thiab cov nqi raug nplua.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Kev txiav rho tawm hauj lwm.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Sij hawm nyob tsev kaw neeg.</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>Txhua nqe saum toj saud.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Ntxiv Mus</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Cov kev tshwm sim ua ntu zus txog rau cov tib neeg uas cuam tshuam txog kev xiab nyiaj thiab kev noj nyiaj muaj peev xwm xam nrog rau kev puas tsuaj ntsig txog lub koob npe, cov nyiaj nplua thiab cov nqi raug nplua, kev txiav rho tawm hauj lwm, thiab tab txawm yuav yog lub sij hawm nyob tsev kaw neeg los xij.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Tsis tas li ntawd ib tus neeg sawv cev rau feem muag khoom lag luam kuj tseem ua tswv tau rau ib lub khw muag nyiaj kub me tib si. Nws txiav txim siab tias nws tuaj yeem yog ib qho zoo los mus muab cov nyiaj phaj tshab me los ntawm nws lub khw mus rau cov HCP uas tseem tsis tau raug sau qhia txog Abbott qhov khoom lag luam tsis ntev los nod. Qhov no puas aus khes?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Yog</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Tsis Yog</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Ntxiv Mus</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Abbott tus qauv cai txwv tsis pub muab cov nyiaj phaj tshab rau cov HCP vim hais tias tus thawj coj sawv cev rau fab kev muag khoom tab sim no tab tom ua hauj lwm tam li yog Abbott tus neeg sawv cev. Cov nyiaj phaj tshab los yeej raug txwv tib yam nkaus tab txawm hais tias nws tab tom them rau lawv los xij. Tsis tas li ntawd kev muab cov nyiaj phaj tshab kuj tseem yog ib qho uas tau los ntawm kev xiab nyiaj rau fab kev lag luam lub neej yav pem suab.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Ib tus thawj tswj xyuas hauj lwm txog fab kev muag khoom tau txais ib tsab xov tooj tuaj ntawm ib tus neeg tiv tauj nyob rau ntawm ib lub tuam txhab uas sib tw. Tus neeg sib tw tau qhia tias pab pawg muag khoom sab nraud uas Abbott tau cog lus rau hauv kev ua lag luam tshiab tau hais tias lawv tab tom muab cov pluas noj Kim Heev rau cov neeg siv khoom uas xaiv cov khoom Abbott dua ntawm cov neeg sib tw lawm. Qhov kev nqis tes ua uas tsim nyog ntawd yog dab tsi?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Tsis txhob ua dab tsi li, vim tias cov ntaub ntawv ntawd tau los ntawm tus neeg sib tw.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Tsis txhob ua dab tsi li, vim tias cov zaub mov Kim Heev feem ntau nyob hauv lub khw ntawd.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Tshaj tawm qhov teeb meem tam sim ntawd rau Lub Chaw Ua Hauj Lwm Saib Xyuas Kev Ncaj Ncees thiab Kev Ua Raws Li Txoj Cai (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Tshawb nrhiav lwm cov neeg faib khoom yog tias qhov lus thov yuav cai no muaj tseeb.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Ntxiv Mus</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Koj yuav tsum tshaj tawm qhov kev iab liam tam sim ntawd rau Lub Chaw Ua Hauj Lwm Saib Xyuas Kev Ncaj Ncees thiab Kev Ua Raws Li Txoj Cai (OEC) kom nws thiaj li raug tshawb xyuas kom raug, txawm tias cov ntaub ntawv los ntawm tus neeg sib tw los xij.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Ib lub koom haum ncig teb chaws tab tom npaj kev mus ncig rau cov kws kho mob uas saib xyuas kho mob rau fab kev noj qab haus huv (HCPs) uas muab kev pab cuam saib xyuas rau Abbott. Thaum saib cov ntawv txais nyiaj uas xa tuaj, pom tias muaj qhov tsis sib xws—qhov nyiaj xam tag nrho tsis sib dhos raws li qhov kev thov kev them nyiaj rov qab, thiab qee daim ntawv txais nyiaj tsis muaj cov ntsiab lus tseem ceeb xws li hnub mus ncig.</p>
+              <p>Qhov kev nqis tes ua uas tsim nyog ntawd yog dab tsi?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Qhia rau lub koom haum ncig teb chaws tias Abbott tsis tuaj yeem them qhov nyiaj tau yog tias tsis muaj cov ntaub ntawv tiav thiab raug.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Lis cov ntaub ntawv txais nyiaj tau vim tias tsuas yog tsis muaj qee cov ntaub ntawv xwb.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Qhia rau lub chaw ua hauj lwm kom paub tseeb dua rau lub sij hawm tom ntej.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Tsis tas ua dab tsi li, vim lub chaw ua hauj lwm nod yog lub tshiab.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Ntxiv Mus</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Cov phau ntawv thiab cov ntaub ntawv ntawm Abbott yuav tsum qhia meej thiab raws nraim li txhua qhov kev xa nyiaj. Yog li ntawd, nws yog ib qho tseem ceeb heev uas cov neeg thib peb uas ua cov kev pab cuam rau Abbott ntawd yuav tsum muab cov ntaub ntawv kom tiav uas qhia meej txog lub hom phiaj tiag thiab cov ntsiab lus ntawm cov kev xa nyiaj ntawd.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Koj ua hauj lwm hauv ib lub koom haum koom tes nrog uas tau tso cai txhawb nqa cov HCPs kom tuaj koom cov rooj sib tham txog kev kawm. Koj tab tom nyob rau hauv qhov kev lis ntaub ntawv txog kev xaiv cov HCPs los koom nrog lub rooj sib tham. Cov qauv uas koj siv rau kev xaiv muaj xam nrog rau: (1) seb lub ntsiab lus ntawm lub rooj sib tham puas yog nyob rau hauv thaj chaw uas tus HCP paub txog; (2) seb Abbott puas tau txhawb nqa tus HCP nyob rau xyoo tas los no; thiab (3) seb tus HCP puas yuav pom zoo cov khoom lag luam ntawm Abbott los sis siv cov khoom siv ntawm Abbott tom qab koom nrog lub koob tsheej no lawm. Cov qauv no puas zoo tsim nyog?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Yog. Ob qho tseem ceeb uas yuav tsum tau ua kom tiav thaum txhawb nqa cov tib neeg yog kev txhawb nqa: a) muaj feem cuam tshuam rau tus HCP txoj kev txawj ntse uas cuam tshuam, thiab b) tsis yog siv los ua khoom plig los sis kev txhawb siab rau kev lag luam. Qhov tseeb uas koj tab tom kuaj xyuas kom paub tseeb tias Abbott tsis tau txhawb nqa tus HCP nyob rau xyoo tas los no yuav pab kom paub tseeb qhov tshiab zog.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Yog. Yog tias qhov laj thawj ntawm kev txhawb nqa tus HCP tsis yog los cuam tshuam los sis muab nqi zog rau tus neeg ntawd, koj tuaj yeem xav txog kev them rov qab los ntawm koj qhov kev nqis peev - seb tus neeg ntawd puas yuav kam sau ntawv yuav cov khoom lag luam ntawm Abbott txuas ntxiv mus.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Tsis yog. Kev txiav txim siab txhawb nqa yuav tsis yog saib raws li qhov txuam thawj tseeb uas tus HCP pom zoo kom yuav cov khoom lag luam ntawm Abbott los sis siv cov khoom siv ntawm Abbott tom qab koom nrog ib lub koob tsheej uas tau txais kev pab txhawb nqa lawm.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Yog. Yog hais tias yam tsawg li ib qho ntawm cov qauv no tsim nyog, qhov muaj lwm cov qauv tsis tsim nyog ntawd tsis tseem ceeb.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Ntxiv Mus</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Tej zaum cov kev txiav txim ntsig txog kev pab txhawb nqa yuav tsis yog ua tam li yog ib qho khoom plig rau kev siv ua ntej, los sis tam li ib qho kev ntxias kom los mus siv peb cov khoom lag luam los sis cov cuab yeej koos pis tawj kom ntau ntxiv nyob rau lub neej yav pem suab. Nco ntsoov rau nruab siab, nyob rau hauv ntau cov kev tso cai txwv tsis pub muaj cov kev pab txhawb nqa. Sab laj tawm tswv yim nrog koj tus koom nrog cov txheej txheem tas li ua ntej kev muab ib qho kev pab txhawb nqa.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Ib tus neeg sawv cev txog fab kev muag khoom ntawm Abbott qhia kev paub rau ib tus kws kho mob uas saib xyuas kho mob rau fab kev noj qab haus huv (healthcare professional, HCP) txog ntawm ib qho khoom lag luam. Tom qab kev sib tham, tus HCP tau qhia tias muaj ib tus neeg sib twv tau muab ib lub iPad tshiab los mus sib pauv rau qhov kev pab kom nce lawv cov kev muag khoom ntawd.</p>
+              <p>Qhov kev nqis tes ua uas tsim nyog ntawd yog dab tsi?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Muab nyiaj txhawb siab tib yam nkaus txhawm rau kom nyob rau qhov sawv daws sib txeeb siv.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Tsis muab lub iPad tab sis mas tawm tswv yim qhia kom mus noj ib pluas hmo kim heev txhawm rau kev sib tham txuas ntxiv mus.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Piav qhia txog tias Abbott ua lag luam mus raws txoj hau kev yog thiab tsis muaj peev xwm muab tau ib yam khoom muaj nqis dab tsi uas tuaj yeem cuam tshuam txog qhov kev txiav txim siab yam tsis raug cai. Tom qab ntawd, hais tawm qhia txog qhov zwj ceeb mus rau Lub Chaw Ua Hauj Lwm Saib Xyuas Kev Ncaj Ncees thiab Kev Ua Raws Li Txoj Cai (OEC) kiag tam sim ntawd.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ua tsaug rau tus HCP rau cov lus qhia paub thiab cov lus tias koj yuav nco ntsoov txog nws.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Ntxiv Mus</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Koj yuav tsum tsis txhob muab, cog lus, muab, los sis txais ib yam khoom muaj nqis dab tsi txhawm rau kom tau txais ib qho zoo fab kev lag luam uas tsis raug cai los sis txhawm rau kom tau txais los sis khaws qhov lag luam ntawd tseg Txawm hais tias cov neeg sib tw ua dab tsi los xij, koj yuav tsum ua raws li txoj cai lij choj thiab Abbott txoj cai xwb, muaj xam nrog rau cov kev cai hauv Abbott Txoj Cai Tiv Thaiv Kev Noj Nyiaj Txiag Thoob Ntiaj Teb (GLB-KEV TIV THAIV KEV NOJ NYIAJ TXIAG). Thaum tsis paub meej, nco ntsoov sab laj tawm tswv yim nrog Feem Saib Xyuas Kev Cai Lij Choj los sis OEC tas li.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Cov hauv qab no yog cov piv txwv ntawm cov khoom muaj nqis uas yuav tsum tsis txhob muab coj los mus ua kom yeej kev lag luam?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Kev mus ncig ua si rau cov neeg HCP thiab lawv cov tsev neeg mus xyuas cov chaw zaws kev zoo nkauj, cov chaw twv txiaj yuam pov los sis lwm qhov chaw uas paub rau kev lom zem.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Cov nyiaj pab rau kev tshawb fawb los sis cov khoos kas ntsig txog fab kev kawm txawj kawm ntse yav tom ntej.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Cov khoom pub dawb rau tsoom fwv cov neeg ua hauj lwm cov kev sib txhawb raws qhov nyiam tshaj.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Txhua nqe saum toj saud.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Ntxiv Mus</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Cov qauv ntawm Abbott hais txog kev xiab nyiaj thiab kev noj nyiaj txiag, uas pom muaj nyob rau hauv Txoj Cai Tiv Thaiv Kev Noj Nyiaj Txiag Thoob Ntiaj Teb (GLB-KEV TIV THAIV KEV NOJ NYIAJ TXIAG), yog raug raws li peb txoj kev cog lus los ua lag luam nrog kev ua siab dawb paug, kev ncaj ncees, thiab kev tsim muaj txhua yam. Qhov no txhais tau hais tias txwv tsis pub siv los sis muab cov khoom muaj nqis coj los mus ua kom yeej kev lag luam.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Ib tus HCP uas yog tus thawj coj fab kev xav uas tseem ceeb nug seb koj puas tuaj yeem npaj qee qhov kev txhawb nqa rau ib qho kev kawm uas nws xav mus koom los pauv rau cov cib fim ua lag luam ntxiv rau Abbott. Qhov kev xaiv twg yog qhov tsim nyog tshaj plaws?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Tsis txhob lees txais qhov kev thov uas nws ua txhaum Abbott Txoj Cai Tiv Thaiv Kev Noj Nyiaj Txiag.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Qhia rau tus HCP paub tias koj mam li nug koj tus thawj tswj xyuas hauj lwm.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Pom zoo ua raws li tsab lus thov, tam li tus HCP yog ib tus thawj coj fab kev xav uas tseem ceeb uas muaj lub hwj chim ntau yam.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Tsis muaj ib nqe hlo li raws li txhua nqe hais los saum toj saud.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">Xa</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Peb tsis muab los sis muab ib yam dab tsi muaj nqis los ua kom tau txiaj ntsig rau kev lag luam, ncaj qha los sis tsis ncaj qha, raws li cov ntsiab cai hais txog kev tiv thaiv kev noj nyiaj txiag tsis raws cai.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>Tsis muaj cov txiaj ntsig, vim koj tseem tsis tau ua tiav qhov Kev Kuaj Xyuas Txog Kev Txawj Ntse.</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>Nrog zoo siab! Koj tau ua tiav qhov Kev Kuaj Xyuas Txog Kev Txawj Ntse lawm.</p>
+          <p>Thov tshuaj xyuas koj cov txiaj ntsig hauv qab no los ntawm kev nias rau txhua lo lus nug.</p>
+          <p>Thaum koj ua tiav lawm, nias rau ntawm tus cim xib xub mus ua ib daim ntawv ntsuam xyuas luv.</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>Thov txim, koj ua tsis tau tiav qhov Kev Kuaj Xyuas Txog Kev Txawj Ntse. Siv ob peb nas this los saib xyuas koj cov txiaj ntsig hauv qab no los ntawm kev nias rau ntawm txhua lo lus nug.</p>
+          <p>Thaum twg koj ua tiav lawm, nias rau ntawm lub pob nias Retake.</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>${C_199.1}</p>
+          <p>${C_199.2}</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.3}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.4}</p>
+                  <p>${C_199.5}</p>
+                  <p>${C_199.6}</p>
+                  <p>${C_199.7}</p>
+                  <p>${C_199.8}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.9}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Raws li qhov tau los ntawm qhov kev sib tham no, kuv muaj kev nkag siab zoo dua qub txog ntawm Abbott Tsab Cai Kev Coj Ua Lag Luam lawm.</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Tsis Pom Zoo Hlo Li</p>
+                  <p>Tsis Pom Zoo</p>
+                  <p>Nruab Nrab</p>
+                  <p>Pom Zoo</p>
+                  <p>Pom Zoo Tiag Li</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.16}</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>${C_199.17}</p>
+                  <p>${C_199.18}</p>
+                  <p>${C_199.19}</p>
+                  <p>${C_199.20}</p>
+                  <p>${C_199.21}</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>${C_199.22}</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">${C_199.23}</p>
+          <button class="surveySubmit">
+            <p>${C_199.24}</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">Qhov chaw rau mus thov Kev Pab Txhawb Nqa</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Tus Thawj Tswj Xyuas Hauj Lwm</p>
+        <p>Yog hais tias koj muaj lus nug txog koj cov kev sib cuam tshuam sib tham nrog rau cov uas nyob sab nraud ntawm Abbott, qhov chaw pib uas zoo tshaj plaws ces yog mus ntsib kiag koj tus thawj tswj xyuas hauj lwm</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Cov Qauv Cai Sau Ua Ntaub Ntawv</p>
+        <ul>
+          <li>Rau peb lub tuam txhab cov kev cia siab npaj tseg ntawm feem hauv paus tseem ceeb hais txog cov kev sib cuam tshuam sib tham nrog lwm cov neeg, sab laj tawm tswv yim nrog peb <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Tsab Cai Kev Coj Ua Lag Luam</a>.</li>
+          <li>Rau peb cov qauv cai thiab cov txheej txheem ntawm tuam txhab uas siv tau thoob ntiaj teb, mus saib tau rau ntawm <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">Tshooj Qauv Cai Thoob Ntiaj Teb.</a></li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>Lub Chaw Ua Hauj Lwm Saib Xyuas Kev Ncaj Ncees thiab Kev Ua Raws Li Txoj Cai (Office of Ethics and Compliance, OEC)</p>
+        <p>OEC yog ib lub chaw muab kev pab cuam thoob ntiaj teb uas muaj los mus hais daws koj cov lus teb los sis cov kev txhawj xeeb hais txog peb lub tuam txhab cov hauv paus kev xav thiab cov qauv cai ntawm feem kev coj ua hauj lwm.</p>
+        <ul>
+          <li>Mus saib tau rau ntawm <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance/?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">nplooj vas sab OEC</a> nyob rau ntawm Abbott World.</li>
+          <li>Yog hais tias koj muaj cov kev txhawj xeeb dab tsi hais txog cov dej num fab kev lag luam ntsig txog kev noj nyiaj txiag, tsis hais yuav yog nyob rau hauv lub tuam txhab los sis nyob rau hauv koj cov kev sib tham lag luam nrog cov neeg qhua los sis lwm feem thib peb, koj muaj peev xwm hais tawm qhia txog koj cov kev txhawj xeeb mus rau OEC (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) los sis Feem Saib Xyuas Kev Cai Lij Choj, los sis hu rau peb feem saib xyuas <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> uas txhais ua ntau hom lus thoob ntiaj teb txhua 24 teev/7 hnub.</li>
+          <li>iComply – Mus saib tau rau ntawm <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> kom nkag tau mus rau kev ua raws li daim ntawv thov thiab cov chaw muab kev pab ntsig txog kev ua raws cov kev cai nrog Cov Kws Tshaj Lij Fab Kev Kho Mob thiab Cov Koom Haum Kho Mob, nrog rau cov neeg thib peb.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Feem Saib Xyuas Neeg Ua Hauj Lwm</p>
+        <p>Rau cov teeb meem uas cuam tshuam txog tus neeg ua hauj lwm, xws li cov kev txhawj xeeb uas cuam tshuam txog kev tswj xyuas thiab/los sis lwm cov neeg ua hauj lwm, tiv tauj rau koj <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">tus neeg sawv cev ntawm Feem Saib Xyuas Neeg Ua Hauj Lwm</a>hauv zej zos.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>Feem Saib Xyuas Hauj Lwm Fab Kev Cai Lij Choj</p>
+        <p>Tiv tauj rau Feem Saib Xyuas Hauj Lwm Fab Kev Cai Lij Choj yog hais tias muaj cov lus nug los sis cov kev txhawj xeeb hais txog cov kev cuam tshuam fab kev cai lij choj txog ntawm kev xiab nyiaj thiab kev noj nyiaj txiag.</p>
+        <ul>
+          <li>Nias rau qhov ntawm no txhawm rau nkag cuag tau rau nplooj vas sab xub thawj ntawm Feem Saib Xyuas Hauj Lwm Fab Kev Cai Lij Choj nyob rau ntawm Abbott World.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>LWM COV CHAW MUAB KEV PAB CUAM</p>
+        <p>Muaj ntau lwm cov chaw muab kev pab cuam rau koj:</p>
+        <p>Nyiaj Txiag – Yog hais tias koj nqe lus nug yog hais txog kev ceev nyiaj txiag los sis nyiaj txiag, tiv tauj rau lub thawj fab saib xyuas hauj lwm fab Nyiaj Txiag hauv koj lub zej zos.</p>
+        <p>Kev Kuaj Xyuas Tuam Txhab - Yog tias koj muaj cov kev txhawj xeeb tshwj xeeb txog kev ceev nyiaj txiag, kev tswj cov ntaub ntawv kev ceev nyiaj txiag sab hauv, los sis kev kuaj xyuas cov teeb meem, hais tawm qhia tej no kiag tam sim ntawd mus rau Lub Chaw Kuaj Xyuas Tuam Txhab los sis OEC.</p>
+        <p>Qhov Zoo Tsim Nyog thiab Txoj Cai Ntawm Abbott - Yog tias koj muaj lus nug txog qhov zoo tsim nyog thiab kev nyab xeeb ntawm peb cov khoom lag luam, hu rau lub thawj fab saib xyuas hauj lwm txog Qhov Zoo Tsim Nyog los sis Txoj Cai nyob rau hauv koj lub zej zos.</p>
+        <p>Cheeb Tsam Ib Puag Ncig, Kev Noj Qab Haus Huv, thiab Kev Nyab Xeeb Thoob Ntiaj Teb - Tiv tauj rau tus neeg sawv cev saib xyuas Cheeb Tsam Ib Puag Ncig, Kev Noj Qab Haus Huv, thiab Kev Nyab Xeeb Thoob Ntiaj Teb yog tias koj muaj lus nug txog ib qhov chaw ua hauj lwm thiab cov kev phom sij.</p>
+        <p>Feem Saib Xyuas Kev Xa Yuav Khoom Thoob Ntiaj Teb - Yog tias koj muaj lus nug txog kev sib raug zoo ntawm cov neeg xa khoom, tiv tauj rau Feem Saib Xyuas Kev Xa Yuav Khoom Thoob Ntiaj Teb.</p>
+      </div>
+      <p class="resSubtitles" data-break="true">Cov Chaw Muab Kev Pab Cuam Rau Qhov Lav Xuj Kev Kawm</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Cov ntaub ntawv teev txog qhab nias</p>
+        <p>Nias rau <a href="reference/Transcript.pdf" target="_blank">ntawm no</a> rau saib cov ntaub ntawv teev txog qhab nia txhij txhua txog ntawm qhov lav xuj kev kawm</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>Lav Xuj Kev Kawm tsis muaj peev xwm tiv tauj tau rau LMS. Nias rau 'OK' mus txuas ntxiv thiab tshab xyuas lav xuj kev kawm. Nco tseg, tej zaum yuav tsis muaj Daim Ntawv Pov Thawj Txog Qhov Lav Xuj Kev Kawm. Nias rau 'Cancel' txhawm rau tawm</s1>
+    <s2>Tag nrho cov lus nug tseem tsis tau teb li</s2>
+    <s3>Cov lus nug</s3>
+    <s4>Lus nug</s4>
+    <s5>tsis tau teb</s5>
+    <s6>Qhov ntawd raug lawm!</s6>
+    <s7>Qhov ntawd tsis raug lawm!</s7>
+    <s8>Lus Pab Tswv Yim:</s8>
+    <s9>Tsab Cai Kev Coj Ua Lag Luam</s9>
+    <s10>Kev Kuaj Xyuas Txog Kev Txawj Ntse</s10>
+    <s11>Xa</s11>
+    <s12>Rov Ua</s12>
+    <s13>Ntsiab Lus Piav Qhia Txog Lav Xuj Kev Kawm: Peb Tsab Cai Kev Coj Ua Lag Luam yog cov ntaub ntawv tseem ceeb uas piav qhia txog peb lub tuam txhab cov kev cia siab ntawm txhua tus neeg ua hauj lwm thaum peb sawv cev rau Abbott nyob rau hauv peb txoj hauj lwm uas niaj hnub ua. Nws muab lub hauv paus rau peb lub luag hauj lwm thiab kev coj cwj pwm uas yuav pab peb xaiv ua qhov zoo tshaj plaws rau Abbott, rau peb tus kheej, thiab rau ntau tus neeg peb ua hauj lwm rau. Hauv qhov lav xuj kev kawm no qhia txog cov ntsiab lus theem siab ntawm Tsab Cai, qhia txog peb lub tuam txhab cov kev cia siab thiab koj lub luag hauj lwm uas yuav tsum tau ua, thiab muab cov lus qhia tswv yim xyaum ua hauj lwm txog yam uas yuav tsum tau ua thaum txoj kev zoo tshaj plaws ntawd yog ib qho nyuaj rau koj txiav txim siab. Qhov lav xuj kev kawm nod yuav siv sij hawm kwv yees li ntawm 35-45 nas this los ua thiaj li tiav.</s13>
+    <s14>Mes Nus</s14>
+    <s15>Cov Chaw Muab Kev Pab Cuam</s15>
+    <s16>Cov Ntaub Ntawv Pov Thawj</s16>
+    <s17>Suab Lus</s17>
+    <s18>Tawm Mus</s18>
+    <s19>Kaw</s19>
+    <s20>Lus Tawm Tswv Yim…</s20>
+  </strings>
+</course>

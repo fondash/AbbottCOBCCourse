@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="Chào mừng" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="Bộ Quy tắc Ứng xử trong Kinh doanh">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="Triết lý của chúng ta">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="Mục tiêu">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="Mục lục">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="Tầm quan trọng của Bộ Quy tắc Ứng xử trong Kinh doanh của Abbott" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="Các cam kết hằng ngày của chúng ta">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="Tầm quan trọng của Bộ Quy tắc đối với hoạt động kinh doanh của chúng ta">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="Bộ Quy tắc của chúng ta" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="Tổng quan">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="Khách hàng của chúng ta">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="Các sản phẩm của chúng ta">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="Thúc đẩy Khoa học">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="Con người của chúng ta">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="Cộng đồng của chúng ta">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="Cách chúng ta Hoạt động">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="Cam kết của chúng ta" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="Cam kết của chúng ta">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="Kiểm tra kiến thức" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="Giới thiệu">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="Đánh giá">
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="Thông tin phản hồi">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="Khảo sát">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>Bộ Quy tắc Ứng xử trong Kinh doanh</p>
+      </div>
+      <p class="startInstruction">Vui lòng nhấp vào mũi tên chuyển tiếp.</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Với vai trò là một tập đoàn chăm sóc sức khỏe hàng đầu trên toàn cầu, những việc chúng ta làm mỗi ngày đều có ý nghĩa.</p>
+        <p>Bộ Quy tắc Ứng xử trong Kinh doanh của chúng ta là chiếc la bàn mạnh mẽ giúp chúng ta hành động chính trực, dẫn dắt với mục tiêu rõ ràng và đưa ra những lựa chọn phản ánh những gì tốt đẹp nhất trong con người chúng ta. Đó là cách chúng ta xây dựng niềm tin, giữ vững các giá trị của mình và tiếp tục tạo ra khác biệt đầy ý nghĩa cho thế giới.</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Sau khi hoàn thành khóa học này, bạn sẽ:</p>
+        <ul>
+          <li>Tìm hiểu tầm quan trọng của Bộ Quy tắc Ứng xử trong Kinh doanh đối với hoạt động kinh doanh của chúng ta.</li>
+          <li>Có thể xác định các nguyên tắc cốt lõi của Bộ Quy tắc Ứng xử trong Kinh doanh và hiểu cách các nguyên tắc này áp dụng vào thực tiễn công việc hằng ngày của chúng ta.</li>
+          <li>Hiểu được mong muốn của Abbott về việc tiến hành kinh doanh trên toàn cầu một cách đúng đắn.</li>
+          <li>Biết nơi có thể tìm nguồn lực trợ giúp và hỗ trợ.</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>Chào mừng</p>
+            <p>1 phút</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>Tầm quan trọng của Bộ Quy tắc Ứng xử trong Kinh doanh của Abbott</p>
+            <p>2 phút</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>Bộ Quy tắc của chúng ta</p>
+            <p>18 phút</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>Cam kết của Chúng ta</p>
+            <p>1 phút</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>Kiểm tra Kiến thức</p>
+            <p>5 phút</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>Tiến trình học tập</p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">Chủ đề này hiện có sẵn.</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Chúng ta dẫn dắt với sự chính trực, công bằng và trung thực. Tất cả mọi người. Mỗi ngày.</p>
+        <p>Bộ Quy tắc Ứng xử trong Kinh doanh nhắc nhở chúng ta rằng sự chính trực, công bằng và trung thực không chỉ là những lý tưởng mà còn là những cam kết hằng ngày. Mặc dù Bộ Quy tắc không thể dự liệu mọi thách thức mà chúng ta có thể gặp phải, nhưng Bộ Quy tắc mang đến một nền tảng giá trị vững chắc để dẫn đường cho chúng ta.</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Chúng ta cam kết tuân theo những tiêu chuẩn cao nhất.</p>
+        <p>Bộ Quy tắc Ứng xử trong Kinh doanh có ý nghĩa sống còn đối với thành công của Abbott vì Bộ Quy tắc đặt ra tiêu chuẩn cho cách chúng ta làm việc - với sự chính trực, công bằng và trung thực. Bộ Quy tắc giúp chúng ta đưa ra các quyết định có đạo đức, đặc biệt trong những tình huống phức tạp, và bảo đảm chúng ta luôn nhất quán với các giá trị của mình. Khi tuân thủ Bộ Quy tắc, chúng ta bảo vệ uy tín của mình, xây dựng niềm tin với những người mà chúng ta phục vụ và tạo nên một văn hóa nơi làm việc coi việc làm điều đúng đắn là ưu tiên hàng đầu.</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Việc hiểu Bộ Quy tắc là trách nhiệm của tất cả mọi người.</p>
+        <p>Mỗi người trong chúng ta đều có vai trò trong việc áp dụng Bộ Quy tắc Ứng xử trong Kinh doanh vào công việc và quá trình ra quyết định hằng ngày. Bộ Quy tắc không chỉ là một tài liệu mà còn là kim chỉ nam giúp chúng ta ứng phó với các thách thức bằng sự chính trực và tự tin.</p>
+        <p>Trong các phần tiếp theo, chúng ta sẽ tìm hiểu những nguyên tắc cốt lõi của Bộ Quy tắc và xem cách các nguyên tắc đó được thể hiện trong hành động và lựa chọn hằng ngày của chúng ta.</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Bạn phải xem tất cả nội dung trước khi tiếp tục.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Tại Abbott, chúng ta cam kết cải thiện sức khỏe và đời sống của những người tin dùng sản phẩm của chúng ta.</p>
+          </div>
+          <div>
+            <p>Điều đó nhắc nhở chúng ta rằng đằng sau mọi quyết định, mọi đổi mới và mọi hành động đều có một mục đích - giúp cuộc sống trở nên tốt đẹp hơn.</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>Bệnh nhân và Người tiêu dùng</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>Các Chuyên gia Chăm sóc Sức khỏe</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Nhấp vào từng biểu tượng để tìm hiểu thêm.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>BỆNH NHÂN VÀ NGƯỜI TIÊU DÙNG</p>
+                <p>Việc quan tâm đến con người nằm ở trung tâm mọi việc chúng ta làm. Chúng ta đặt sức khỏe và lợi ích của bệnh nhân và người tiêu dùng lên hàng đầu. Mỗi ngày, chúng ta có thể tạo ra khác biệt đầy ý nghĩa - giúp mọi người sống khỏe mạnh hơn và góp phần xây dựng cộng đồng vững mạnh, khỏe khoắn hơn.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>CÁC CHUYÊN GIA CHĂM SÓC SỨC KHỎE</p>
+                <p>Chúng ta hợp tác với các chuyên gia chăm sóc sức khỏe để hỗ trợ nâng cao sức khỏe. Chúng ta tôn trọng kiến thức và khả năng phán đoán độc lập của các chuyên gia chăm sóc sức khỏe - dù đó là bác sĩ, y tá, dược sĩ, nhà nghiên cứu hay nhân viên phòng thí nghiệm. Vai trò của họ trong việc định hướng bệnh nhân tiến tới sức khỏe tốt hơn là vô cùng quan trọng.</p>
+                <p>Tại Abbott, chúng ta cam kết hỗ trợ họ bằng thông tin chính xác, kịp thời để họ có thể đưa ra những quyết định tốt nhất. Khi cùng hợp tác, chúng ta có thể đạt được mục tiêu chung là cải thiện sức khỏe và đời sống trên toàn thế giới.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Bạn phải xem tất cả nội dung trước khi tiếp tục.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Tại Abbott, chúng ta cam kết bảo đảm mọi sản phẩm được cung cấp đều an toàn, hiệu quả và xứng đáng với sự tin tưởng mà mọi người dành cho chúng ta.</p>
+          </div>
+          <div>
+            <p>Chúng ta thực hiện nhiều bước để bảo đảm sản phẩm an toàn và hiệu quả - từ việc lựa chọn nguyên vật liệu phù hợp cho đến cách chúng ta tiếp thị, bán và cung cấp sản phẩm. Ở mọi giai đoạn, chúng ta tuân theo các tiêu chuẩn chất lượng cao.</p>
+            <p>Chúng ta cũng cam kết kịp thời xác định, đánh giá và xử lý các vấn đề về an toàn sản phẩm, cũng như thực hiện các hành động để ngăn chặn hàng giả, chuyển hướng trái phép và trộm cắp sản phẩm của mình.</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>Chất lượng sản phẩm</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>Quảng bá Sản phẩm I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>Quảng bá Sản phẩm II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Nhấp vào từng biểu tượng để tìm hiểu thêm.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>CHẤT LƯỢNG SẢN PHẨM</p>
+                <p>An toàn, hiệu quả và đáng tin cậy. Sản phẩm của chúng ta tạo ra khác biệt.</p>
+                <p>Chúng ta cam kết bảo đảm chất lượng ở mọi giai đoạn - từ khâu tìm nguồn cung ứng và sản xuất đến cách chúng ta tiếp thị, bán và cung cấp sản phẩm, kể cả thông qua các đối tác. Mỗi bước đều quan trọng vì mọi người trông cậy vào chúng ta về sự an toàn.</p>
+                <p>Chúng ta cam kết xác định, đánh giá và xử lý kịp thời các vấn đề về an toàn sản phẩm. Chúng ta bảo đảm các chuyên gia chăm sóc sức khỏe và cơ sở y tế có đầy đủ thông tin cần thiết để sử dụng sản phẩm của chúng ta một cách an toàn và hiệu quả, đồng thời trao đổi với các cơ quan quản lý hoặc cơ quan y tế công cộng trong trường hợp có mối quan ngại tiềm ẩn về an toàn.</p>
+                <p>Chúng ta thực hiện các biện pháp để ngăn chặn hàng giả, chuyển hướng trái phép và trộm cắp sản phẩm của mình. Chúng ta tuân thủ các quy định thương mại, bao gồm các quy tắc kiểm soát xuất nhập khẩu, và chấp hành các hạn chế cũng như lệnh trừng phạt của chính phủ để bảo vệ an ninh quốc gia và sức khỏe cộng đồng.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>QUẢNG BÁ SẢN PHẨM I</p>
+                <p>Chúng ta quảng bá và bán sản phẩm với sự trung thực và tôn trọng những người tin dùng sản phẩm đó.</p>
+                <p>Thông tin về sản phẩm của chúng ta trung thực, cân bằng và phù hợp với nhãn đã được phê duyệt, bằng chứng khoa học và thực hành y khoa tốt nhất tại các quốc gia nơi chúng ta hoạt động.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>QUẢNG BÁ SẢN PHẨM II</p>
+                <p>Chúng ta quảng bá sản phẩm cho các mục đích sử dụng dự kiến và đã được phê duyệt.</p>
+                <p>Chúng ta hoạt động phù hợp với các giấy phép và phê duyệt do cơ quan y tế tại các quốc gia nơi chúng ta hoạt động cấp. Hoạt động quảng bá, bán và phân phối sản phẩm của chúng ta tuân thủ nghiêm ngặt luật thương mại và các quy định cụ thể của từng quốc gia. Thông qua các chính sách và quy trình nội bộ chặt chẽ, chúng ta bảo đảm việc tuân thủ và giữ vững cam kết về hoạt động kinh doanh có đạo đức, an toàn và có trách nhiệm.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Bạn phải xem tất cả nội dung trước khi tiếp tục.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Tại Abbott, chúng ta cam kết phát triển khoa học với sự chính trực và mục tiêu rõ ràng.</p>
+          </div>
+          <div>
+            <p>Chúng ta theo đuổi đổi mới, đồng thời nhận thức tầm quan trọng của việc lường trước và xử lý rủi ro một cách có trách nhiệm. Chúng ta trân trọng phẩm giá của mỗi người tham gia nghiên cứu và duy trì những tiêu chuẩn cao nhất về minh bạch và khách quan trong nghiên cứu khoa học.</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>Đổi mới I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>Đổi mới II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>Thúc đẩy Khoa học</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Nhấp vào từng biểu tượng để tìm hiểu thêm.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ĐỔI MỚI I</p>
+                <p>Chúng ta tạo ra các giải pháp chăm sóc sức khỏe đổi mới nhằm giúp mọi người sống khỏe mạnh hơn và cải thiện kết quả điều trị trên toàn thế giới.</p>
+                <p>Chúng ta đáp ứng các nhu cầu của con người bằng cách tiên phong trong những phương pháp điều trị đột phá, các thiết bị cứu sống và những sản phẩm sáng tạo hỗ trợ sức khỏe theo những cách thức mới. Thông qua khoa học và công nghệ tiên tiến, chúng ta nỗ lực cải thiện kết quả điều trị và trao cho mọi người khả năng sống trọn vẹn nhất - tạo ra những đổi mới đầy ý nghĩa cho mọi giai đoạn của cuộc đời.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ĐỔI MỚI II</p>
+                <p>Chúng ta nuôi dưỡng văn hóa đổi mới bằng cách khám phá các khả năng mới và lập kế hoạch cho các tình huống dự phòng.</p>
+                <p>Mặc dù tiến bộ thường đi kèm với rủi ro, chúng ta luôn cân nhắc kỹ lưỡng và thực hiện những bước đi có trách nhiệm để lường trước thách thức và giảm thiểu chúng từ sớm - luôn dựa trên Bộ Quy tắc và các chính sách của chúng ta.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KHOA HỌC TIÊN TIẾN</p>
+                <p>Chúng ta tiến hành nghiên cứu để tạo ra dữ liệu chính xác, khách quan, thúc đẩy đổi mới, cải thiện điều trị và nâng tầm chăm sóc sức khỏe.</p>
+                <p>Khi thực hiện nghiên cứu, chúng ta đối xử với người tham gia nghiên cứu một cách tôn trọng, bảo vệ họ khỏi các rủi ro không cần thiết và bảo đảm họ hiểu rõ bản chất, mục đích của nghiên cứu cũng như các rủi ro liên quan. Nhận được sự chấp thuận với đầy đủ thông tin từ người tham gia nghiên cứu là một phần quan trọng của quy trình nghiên cứu.</p>
+                <p>Chúng ta coi trọng tính minh bạch trong nghiên cứu khoa học và không tìm cách tác động sai lệch đến kết quả. Chúng ta bảo đảm dữ liệu nghiên cứu chính xác và cam kết cung cấp kết quả nghiên cứu liên quan đến sản phẩm của mình, dù kết quả tích cực hay tiêu cực, một cách kịp thời và chính xác.</p>
+                <p>Khi nghiên cứu được thực hiện cho Abbott hoặc được công bố thay mặt Abbott, chúng ta hợp tác với các chuyên gia có nền tảng khoa học và y học vững chắc. Chúng ta mong đợi họ công khai mọi mối liên hệ với Abbott, bao gồm các mối quan hệ tài chính hoặc các mối quan hệ khác.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Bạn phải xem tất cả nội dung trước khi tiếp tục.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Tại Abbott, chúng ta nuôi dưỡng một văn hóa cởi mở, đa dạng và tôn trọng, vì điều đó thúc đẩy sự sáng tạo và đổi mới.</p>
+          </div>
+          <div>
+            <p>Mỗi người trong chúng ta có trách nhiệm sống theo Bộ Quy tắc mỗi ngày: đối xử tôn trọng với người khác, tạo ra môi trường làm việc an toàn và hòa nhập, và bảo đảm cơ hội bình đẳng cho tất cả mọi người.</p>
+            <p>Chúng ta đặt câu hỏi khi điều gì đó chưa rõ ràng và lên tiếng khi cảm thấy có điều gì đó không ổn.</p>
+            <p>Phần này củng cố cam kết của chúng ta đối với cơ hội bình đẳng và môi trường làm việc an toàn, đồng thời nhắc nhở chúng ta phải hiểu, áp dụng và tuân thủ Bộ Quy tắc trong mọi việc mình làm.</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>Hợp tác</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>Mối liên kết của chúng ta với nhau</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>Báo cáo mối Quan ngại</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>Cơ hội bình đẳng</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>Đối xử bình đẳng</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>Môi trường làm việc</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Nhấp vào từng biểu tượng để tìm hiểu thêm.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>HỢP TÁC</p>
+                <p>Chúng ta coi trọng sự cởi mở và hợp tác vì những ý tưởng đa dạng dẫn đến các giải pháp tốt hơn.</p>
+                <p>Chúng ta trân trọng sự đa dạng vì đa dạng tạo thêm sức sáng tạo, năng lượng và tiến bộ. Để tạo ra tác động ý nghĩa đối với sức khỏe toàn cầu, chúng ta lắng nghe nhau, trân trọng mọi tiếng nói và cùng nhau làm việc với mục tiêu rõ ràng.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MỐI LIÊN KẾT CỦA CHÚNG TA VỚI NHAU</p>
+                <p>Tất cả chúng ta cùng chia sẻ trách nhiệm sống theo các giá trị của Abbott mỗi ngày.</p>
+                <p>Khi hành xử có đạo đức, chúng ta củng cố văn hóa của mình. Mọi người phải hiểu Bộ Quy tắc áp dụng vào vai trò và công việc của mình như thế nào.</p>
+                <p>Quản lý và giám sát có trách nhiệm đặc biệt với tư cách là những người lãnh đạo - họ phải là tấm gương cho các giá trị của chúng ta, thúc đẩy hành vi có đạo đức và tạo ra không gian an toàn để nhân viên cảm thấy thoải mái đặt câu hỏi và nêu quan ngại mà không sợ bị trả đũa.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>BÁO CÁO MỐI LO NGẠI</p>
+                <p>Chúng ta đặt câu hỏi khi điều gì đó chưa rõ hoặc mang lại cảm giác không đúng. Chúng ta cũng lên tiếng và báo cáo mọi khả năng vi phạm Bộ Quy tắc.</p>
+                <p>Chúng ta có trách nhiệm đặt câu hỏi khi chỉ đạo chưa rõ ràng và thách thức, báo cáo hành vi kinh doanh bị nghi ngờ là phi đạo đức, vi phạm Bộ Quy tắc hoặc vi phạm các chính sách của Abbott.</p>
+                <p>Nếu chưa chắc về lựa chọn hoặc hành động đúng đắn, hãy trao đổi với quản lý hoặc liên hệ Văn phòng Đạo đức và Tuân thủ.</p>
+                <p>Quản lý và giám sát phải nêu gương và bảo đảm nhân viên hiểu và tuân theo Bộ Quy tắc. Các lãnh đạo có trách nhiệm lớn hơn trong việc truyền đạt các kỳ vọng của Abbott và nên liên hệ Văn phòng Đạo đức và Tuân thủ về mọi khả năng vi phạm Bộ Quy tắc.</p>
+                <p>Mọi báo cáo về khả năng vi phạm Bộ Quy tắc đều được xem xét nghiêm túc. Văn phòng Đạo đức và Tuân thủ sẽ thực hiện các bước tiếp theo, bao gồm điều tra và hành động khắc phục khi cần. Không nên tự ý tiến hành điều tra. Mọi người phải hợp tác và giữ bí mật các cuộc điều tra.</p>
+                <p>Các biện pháp khắc phục có thể bao gồm kỷ luật (lên đến và bao gồm cả chấm dứt công việc) hoặc hành động pháp lý đối với:</p>
+                <ul>
+                  <li>Cho phép hoặc tham gia vào hành vi vi phạm;</li>
+                  <li>Từ chối hợp tác trong một cuộc điều tra;</li>
+                  <li>Không báo cáo vi phạm do giám sát kém;</li>
+                  <li>Cố tình báo cáo sai sự thật;</li>
+                  <li>Trả đũa người đã nêu quan ngại một cách thiện chí.</li>
+                </ul>
+                <p>Trả đũa trong bất kỳ trường hợp nào cũng không thể chấp nhận. Nếu bạn tin rằng đã xảy ra hành vi trả đũa, hãy báo cáo cho Văn phòng Đạo đức và Tuân thủ hoặc bộ phận Nhân sự.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>CƠ HỘI BÌNH ĐẲNG</p>
+                <p>Chúng ta cung cấp cơ hội bình đẳng cho tất cả nhân viên.</p>
+                <p>Chúng ta đưa ra các quyết định tuyển dụng dựa trên nhu cầu kinh doanh, kỹ năng, kinh nghiệm và hiệu suất làm việc. Không dung thứ bất kỳ hình thức phân biệt đối xử nào. Chúng ta tuân thủ tất cả luật điều chỉnh quan hệ lao động giữa chúng ta với nhân viên trên toàn thế giới.</p>
+                <p>Abbott nghiêm cấm mọi hình thức phân biệt đối xử dựa trên chủng tộc, màu da, tôn giáo, tuổi tác, giới tính, quốc tịch, bản dạng hoặc biểu hiện giới, khuynh hướng tính dục, khuyết tật, tình trạng hôn nhân, tình trạng cựu chiến binh hoặc quân đội, yếu tố di truyền, tình trạng quốc tịch hoặc bất kỳ tình trạng nào khác được pháp luật bảo vệ.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ĐỐI XỬ BÌNH ĐẲNG</p>
+                <p>Chúng ta nuôi dưỡng một nơi làm việc tôn trọng, hòa nhập và an toàn.</p>
+                <p>Chúng ta nỗ lực để mọi người cảm thấy được chào đón, được hỗ trợ và được trao quyền.</p>
+                <p>Abbott thúc đẩy môi trường lành mạnh, không quấy rối và coi trọng ý kiến của nhân viên để tăng cường đa dạng và hòa nhập.</p>
+                <p>Chúng ta đối xử với mọi người bằng sự tôn trọng và phẩm giá, xây dựng niềm tin thông qua công bằng và trung thực - không dùng thao túng, xuyên tạc hay thiếu minh bạch.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>MÔI TRƯỜNG LÀM VIỆC</p>
+                <p>Chúng ta ưu tiên an toàn và điều kiện làm việc công bằng.</p>
+                <p>Tai nạn hoặc các tình huống không an toàn phải được báo cáo cho cấp quản lý ngay lập tức. Abbott cũng thực hiện các biện pháp để ngăn ngừa và nghiêm cấm các hành vi lao động bất hợp pháp, không phù hợp và mọi hình thức đối xử tàn nhẫn hoặc vô nhân đạo trong các hoạt động kinh doanh trên toàn cầu.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Bạn phải xem tất cả nội dung trước khi tiếp tục.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Tại Abbott, chúng ta xây dựng niềm tin thông qua cộng đồng, môi trường và sự gắn kết.</p>
+          </div>
+          <div>
+            <p>Chúng ta nỗ lực đóng góp trở lại cho các cộng đồng nơi mình hoạt động và tạo ra tác động tích cực, lâu dài đối với cuộc sống của mọi người.</p>
+            <p>Abbott nỗ lực giảm thiểu dấu chân môi trường của mình bằng cách giảm sử dụng năng lượng và bảo tồn tài nguyên thiên nhiên.</p>
+            <p>Chúng ta cũng ủng hộ các hoạt động tham gia chính trị phù hợp và khuyến khích sự tham gia cộng đồng trên toàn bộ mạng lưới hoạt động toàn cầu.</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>Tham gia vào cộng đồng</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>Trách nhiệm với môi trường</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>Đóng góp về chính trị</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Nhấp vào từng biểu tượng để tìm hiểu thêm.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>THAM GIA VÀO CỘNG ĐỒNG</p>
+                <p>Chúng ta hỗ trợ phúc lợi cộng đồng.</p>
+                <p>Tại Abbott, chúng ta hỗ trợ phúc lợi của các cộng đồng thông qua sản phẩm, công việc và hành động của mình và chúng ta có lịch sử lâu dài trong việc đóng góp trở lại cho những nơi mình sinh sống và làm việc, vì chúng ta tin rằng các cộng đồng khỏe mạnh sẽ phát triển bền vững.</p>
+                <p>Thông qua hoạt động, quan hệ hợp tác và việc hỗ trợ các nhóm, các mục tiêu địa phương, chúng ta nỗ lực tạo ra tác động tích cực và lâu dài ở mọi nơi mình kinh doanh.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>TRÁCH NHIỆM VỚI MÔI TRƯỜNG</p>
+                <p>Chúng ta tham gia vào phát triển bền vững và nỗ lực giảm tác động của mình lên môi trường.</p>
+                <p>Chúng ta nỗ lực bảo vệ môi trường trong mọi việc mình làm - từ cách tìm nguồn nguyên vật liệu cho đến cách chúng ta sản xuất, vận chuyển và sử dụng sản phẩm.</p>
+                <p>Chúng ta thực hiện các bước để sử dụng ít năng lượng và ít tài nguyên thiên nhiên hơn. Chúng ta ủng hộ các dự án năng lượng sạch tại nơi làm việc và trong cộng đồng. Chúng ta tìm kiếm những cách thức giảm rác thải, tái chế nhiều hơn và giảm thiểu rủi ro môi trường. Chúng ta cũng tuân thủ các luật và quy định về môi trường áp dụng cho hoạt động của mình.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ĐÓNG GÓP VỀ CHÍNH TRỊ</p>
+                <p>Chúng ta khuyến khích sự tham gia thích hợp vào quá trình chính trị và ủng hộ sự tham gia vào cộng đồng.</p>
+                <p>Abbott ủng hộ các chính sách công phù hợp với sứ mệnh và các giá trị của mình. Khi phù hợp, chúng ta cũng có thể hỗ trợ các ứng viên chính trị hoặc các nhóm lợi ích.</p>
+                <p>Do luật về đóng góp chính trị của doanh nghiệp khá phức tạp, mọi việc sử dụng nguồn quỹ của Abbott - hoặc các khoản đóng góp thay mặt Abbott - đều phải được trao đổi trước với Bộ phận Pháp lý.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Bạn phải xem tất cả nội dung trước khi tiếp tục.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Tại Abbott, chúng ta cam kết kinh doanh một cách trung thực và giữ trọn cam kết trong mọi lĩnh vực công việc.</p>
+          </div>
+          <div>
+            <p>Chúng ta đặt lợi ích của Abbott lên trên lợi ích cá nhân khi xử lý xung đột lợi ích. Chúng ta bảo vệ tài sản và danh tiếng của Abbott, giữ an toàn cho thông tin mật và tôn trọng quyền riêng tư của mọi người chia sẻ thông tin cá nhân với chúng ta.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>Đối xử công bằng</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>Tránh Xung đột Lợi ích I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>Tránh Xung đột Lợi ích II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>Bảo vệ Tài sản &amp; Danh tiếng của Abbott</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>Thông tin mật</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Nhấp vào từng biểu tượng để tìm hiểu thêm.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ĐỐI XỬ CÔNG BẰNG</p>
+                <p>Chúng ta kinh doanh với sự chính trực và thực hiện đến cùng các cam kết trong mọi khía cạnh công việc.</p>
+                <p>Mỗi người chịu trách nhiệm về công việc và các quyết định trong vai trò của mình. Trong mọi tương tác nghề nghiệp - dù với đồng nghiệp, khách hàng, nhà cung cấp, chuyên gia chăm sóc sức khỏe, đối thủ cạnh tranh hay các bên khác - chúng ta phải công bằng và trung thực trong cách Abbott tiến hành kinh doanh.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>TRÁNH XUNG ĐỘT LỢI ÍCH I</p>
+                <p>Chúng ta xác định và xử lý các xung đột lợi ích trước khi tiếp tục.</p>
+                <p>Xung đột lợi ích xảy ra khi lợi ích cá nhân can thiệp - hoặc có vẻ như can thiệp - vào lợi ích tốt nhất của Abbott. Các quyết định kinh doanh phải dựa trên nhu cầu của Abbott, không dựa trên lợi ích cá nhân hoặc lợi ích của gia đình hay bạn bè. Mọi người được kỳ vọng sử dụng sự phán đoán đúng đắn và tránh những tình huống có thể dẫn đến xung đột thực sự hoặc tạo ấn tượng có xung đột. Nếu các mối quan hệ cá nhân, lợi ích riêng hoặc hoạt động bên ngoài ảnh hưởng đến khả năng hành động một cách công bằng và hiệu quả - hoặc có thể mang lại lợi ích cho bản thân hoặc người thân - thì phải công khai khả năng xung đột đó và rút khỏi tình huống, theo đúng hướng dẫn của Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>TRÁNH XUNG ĐỘT LỢI ÍCH II</p>
+                <p>Chúng ta đặt lợi ích của Abbott lên hàng đầu khi đưa ra các quyết định liên quan đến công việc.</p>
+                <p>Điều đó có nghĩa là ưu tiên các mục tiêu của công ty hơn mục tiêu của một nhóm, bộ phận hoặc cá nhân cụ thể. Mọi cơ hội hoặc nguồn lực mà chúng ta có được thông qua vai trò của mình tại Abbott đều phải được sử dụng để mang lại lợi ích cho công ty - không nhằm phục vụ lợi ích cá nhân. Chúng ta không cạnh tranh với Abbott hoặc hỗ trợ người khác làm điều đó. Khi xuất hiện cơ hội, trọng tâm của chúng ta phải là thúc đẩy lợi ích của Abbott.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>BẢO VỆ TÀI SẢN &amp; DANH TIẾNG CỦA ABBOTT</p>
+                <p>Chúng ta là những người gìn giữ công ty của mình.</p>
+                <p>Tất cả chúng ta cùng chia sẻ trách nhiệm bảo vệ và sử dụng tài sản của Abbott một cách khôn ngoan. Những tài sản này bao gồm mọi thứ, từ các vật dụng hữu hình như xe cộ và máy tính đến thông tin giá trị như tài sản trí tuệ, bí mật thương mại và kiến thức chuyên môn.</p>
+                <p>Chúng ta luôn cần sử dụng sự phán đoán đúng đắn để bảo đảm các nguồn lực này được sử dụng đúng cách, hiệu quả và cẩn trọng - tránh thất thoát, trộm cắp, lạm dụng hoặc lãng phí.</p>
+                <p>Danh tiếng của Abbott là một trong những tài sản quý giá nhất của chúng ta - và mọi người đều có vai trò trong việc bảo vệ danh tiếng đó.</p>
+                <p>Mỗi người chịu trách nhiệm về cách mình đại diện cho Abbott, đặc biệt trong các bối cảnh công khai và trên môi trường trực tuyến, nơi bất kỳ điều gì chúng ta chia sẻ - dù trong trò chuyện, thư điện tử hay trên mạng xã hội - đều có thể phản ánh hình ảnh của công ty. Điều quan trọng là giao tiếp một cách cẩn trọng, sử dụng sự phán đoán đúng đắn và bảo vệ thông tin mật của Abbott.</p>
+                <p>Khi tương tác với bên ngoài, chúng ta cần cân nhắc xem người khác có thể xem mình như đang đại diện cho Abbott hay không và lời nói, hành động của mình có thể tác động đến danh tiếng của công ty như thế nào. Điều này đặc biệt quan trọng trên mạng xã hội, nơi các bài đăng có thể lan truyền nhanh và rộng - một bình luận hoặc bài đăng thiếu cân nhắc có thể gây tổn hại thực sự.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>THÔNG TIN MẬT</p>
+                <p>Chúng ta cam kết tôn trọng và bảo vệ mọi thông tin mật, bao gồm dữ liệu cá nhân.</p>
+                <p>Thông tin mật là một trong những tài sản quý giá nhất của Abbott. Thông tin này bao gồm các chi tiết chưa công bố như nghiên cứu, bí mật thương mại, kế hoạch kinh doanh, giá cả, hợp đồng, kết quả tài chính và các dữ liệu khác có thể mang lại lợi ích cho đối thủ cạnh tranh hoặc gây hại cho Abbott nếu bị tiết lộ.</p>
+                <p>Chúng ta phải bảo vệ thông tin mật và ngăn chặn việc sử dụng hoặc chia sẻ trái phép - kể cả sau khi thời gian làm việc tại Abbott kết thúc.</p>
+                <p>Tại Abbott, chúng ta cũng tôn trọng quyền sở hữu trí tuệ của người khác và tránh sử dụng sai thông tin mật của họ. Việc sử dụng sai thông tin chưa công bố, chẳng hạn để giao dịch nội gián, là hành vi bất hợp pháp và trái đạo đức.</p>
+                <p>Chúng ta cũng bảo vệ dữ liệu cá nhân được đồng nghiệp, các chuyên gia chăm sóc sức khỏe và khách hàng tin tưởng giao phó. Khi thu thập và sử dụng thông tin cá nhân, chúng ta thực hiện một cách có trách nhiệm, với sự đồng ý phù hợp và không bao giờ bán hoặc lấy thông tin từ các nguồn không được phép. Nhiều nơi có luật bảo mật nghiêm ngặt và chúng ta cam kết tìm hiểu, tuân thủ các luật này, đặc biệt đối với những nhóm dữ liệu cá nhân nhạy cảm nhất.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Bạn phải xem tất cả nội dung trước khi tiếp tục.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Tại Abbott, chúng ta cam kết kinh doanh một cách trung thực và giữ trọn cam kết trong mọi lĩnh vực công việc.</p>
+          </div>
+          <div>
+            <p>Chúng ta đặt lợi ích của Abbott lên trên lợi ích cá nhân khi xử lý xung đột lợi ích. Chúng ta bảo vệ tài sản và danh tiếng của Abbott, giữ an toàn cho thông tin mật và tôn trọng quyền riêng tư của mọi người chia sẻ thông tin cá nhân với chúng ta.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>Chống hối lộ</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>Quà tặng, Ăn uống &amp; Giải trí</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>Hồ sơ và Sổ sách Chính xác</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>Tuân thủ luật pháp</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>Cạnh tranh bình đẳng</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Nhấp vào từng biểu tượng để tìm hiểu thêm.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>CHỐNG THAM NHŨNG</p>
+                <p>Chúng ta tích cực phản đối sự gian lận, tham nhũng và hối lộ. Chúng ta tiến hành kinh doanh theo cách đúng đắn.</p>
+                <p>Với tư cách cá nhân, chúng ta mong đợi các chuyên gia chăm sóc sức khỏe đưa ra quyết định dựa trên lợi ích tốt nhất cho bệnh nhân - không chịu tác động từ bất kỳ ưu đãi nào của doanh nghiệp. Tương tự, chúng ta mong đợi các quan chức chính phủ hành động vì lợi ích cộng đồng, không chịu áp lực từ doanh nghiệp.</p>
+                <p>Tại Abbott, chúng ta cung cấp thông tin cho các chuyên gia chăm sóc sức khỏe về sản phẩm của mình nhưng không can thiệp vào khả năng phán đoán độc lập của họ. Không được phép đưa ra bất kỳ thứ gì có giá trị cho các nhà cung cấp dịch vụ chăm sóc sức khỏe (như bác sĩ, dược sĩ, y tá, nhà nghiên cứu hoặc nhân viên phòng thí nghiệm), các quan chức chính phủ hoặc bất kỳ ai khác để tìm kiếm cơ hội kinh doanh hoặc ghi nhận cho các mối quan hệ trong quá khứ.</p>
+                <p>Chúng ta tuân thủ các luật chống hối lộ, chống tham nhũng và chống hồi mại trên toàn cầu, bao gồm Đạo luật Chống Tham nhũng ở Nước ngoài của Hoa Kỳ. Mọi người tại Abbott phải quản lý cẩn trọng các mối quan hệ với nhà cung cấp dịch vụ - chẳng hạn nhà phân phối, tư vấn viên và diễn giả - bằng cách thực hiện thẩm định, chi trả theo giá trị thị trường hợp lý và ghi nhận thanh toán một cách đầy đủ để bảo đảm tuân thủ pháp luật và tiêu chuẩn của công ty.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>QUÀ TẶNG, BỮA ĂN &amp; GIẢI TRÍ</p>
+                <p>Chúng ta không đề nghị hoặc cung cấp bất kỳ thứ gì có giá trị để giành lợi thế kinh doanh, dù trực tiếp hay gián tiếp, và luôn tuân theo các nguyên tắc chống hối lộ.</p>
+                <p>Để ngăn ngừa tác động không phù hợp lên các quyết định kinh doanh, chúng ta đặt ra giới hạn đối với quà tặng, bữa ăn và hoạt động giải trí. Các chính sách của Abbott giúp bảo đảm những vật dụng nhắc nhớ thương hiệu, phép lịch sự văn hóa, hoạt động hiếu khách và các lợi ích khác không làm ảnh hưởng đến khả năng phán đoán nghề nghiệp.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>SỔ SÁCH &amp; HỒ SƠ CHÍNH XÁC</p>
+                <p>Chúng ta đo lường thành công một cách chính xác.</p>
+                <p>Hồ sơ và các tuyên bố công khai của Abbott phải phản ánh chính xác hành động của chúng ta, với đủ bối cảnh để thể hiện đúng bản chất công việc. Hồ sơ tài chính phải tuân thủ các chuẩn mực kế toán, quy định pháp luật và chính sách nội bộ của Abbott.</p>
+                <p>Khi báo cáo giá cả, khoản thanh toán hoặc các giá trị khác - đặc biệt đối với các chuyên gia chăm sóc sức khỏe - chúng ta phải bảo đảm thông tin đầy đủ và chính xác. Nhiều chính phủ yêu cầu mức độ minh bạch này để bảo vệ ngân sách công. Abbott cam kết cung cấp dữ liệu đáng tin cậy để chính phủ, đơn vị bảo hiểm và các bên liên quan khác có thể đưa ra quyết định sáng suốt.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>TUÂN THỦ LUẬT PHÁP</p>
+                <p>Chúng ta tuân thủ tất cả các luật, quy định và yêu cầu của Abbott áp dụng cho công việc của mình.</p>
+                <p>Mọi nhân viên Abbott phải tuân thủ tất cả luật áp dụng, cũng như các chính sách, quy trình của Abbott và Bộ Quy tắc. Đây là điều kiện cơ bản để làm việc. Các chính sách của Abbott bao quát những lĩnh vực then chốt như tuân thủ trong chăm sóc sức khỏe, chất lượng, tài chính, thương mại, an ninh và nhiều nội dung khác, giúp chúng ta đáp ứng yêu cầu pháp lý và ngăn ngừa tình trạng không tuân thủ.</p>
+                <p>Với vai trò là một công ty toàn cầu, chúng ta cũng phải lưu ý rằng luật của một quốc gia có thể áp dụng cho công việc được thực hiện tại quốc gia khác. Khi không chắc chắn, hãy tìm hướng dẫn từ Bộ phận Pháp lý hoặc Văn phòng Đạo đức và Tuân thủ.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>CẠNH TRANH BÌNH ĐẲNG</p>
+                <p>Chúng ta đảm bảo rằng bất kỳ mối tương tác nào của mình với đối thủ là thích hợp.</p>
+                <p>Tại Abbott, chúng ta cam kết tuân thủ luật cạnh tranh ở mọi nơi mình hoạt động. Các luật này cấm những thỏa thuận hoặc hành vi cản trở các hoạt động thị trường công bằng - đặc biệt trong vấn đề định giá, điều khoản bán hàng và tương tác với đối thủ cạnh tranh.</p>
+                <p>Hãy tránh trao đổi các chủ đề nhạy cảm - chẳng hạn giá cả, chi phí hoặc kế hoạch kinh doanh - với đối thủ cạnh tranh và liên hệ Bộ phận Pháp lý hoặc Văn phòng Đạo đức và Tuân thủ nếu có câu hỏi hoặc phát hiện điều gì đó không phù hợp. Vì luật cạnh tranh rất phức tạp và vi phạm có thể dẫn đến chế tài nghiêm trọng, chúng ta cũng phải quản lý cẩn trọng các mối quan hệ với bên thứ ba để bảo đảm tuân thủ và tránh tạo ra dù chỉ là ấn tượng về hành vi chống cạnh tranh.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>Trước khi kết thúc khóa học này, hãy dành chút thời gian để xác nhận rằng trách nhiệm của mình liên quan đến Bộ Quy tắc Ứng xử trong Kinh doanh của Abbott đã được hiểu rõ.</p>
+          <p>Tôi xác nhận rằng tôi hiểu rõ các trách nhiệm của mình liên quan đến Bộ Quy tắc Ứng xử trong Kinh doanh của Abbott và biết nơi tìm và xem các Chính sách và Quy trình áp dụng.</p>
+          <button class="qcSubmitBtn">Xác nhận</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>Kiểm tra Kiến thức gồm 10 câu hỏi. Bạn cần đạt điểm số từ 80% trở lên để hoàn thành khóa học này.</p>
+        <p>KHI BẠN ĐÃ SẴN SÀNG, HÃY NHẤP VÀO NÚT KIỂM TRA KIẾN THỨC.</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Tại sao Bộ Quy tắc Ứng xử trong Kinh doanh lại quan trọng?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Bộ Quy tắc đưa ra hướng dẫn cụ thể cho mọi tình huống mà chúng ta có thể gặp trong công việc.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Nội dung này cung cấp một bộ nguyên tắc và giá trị rõ ràng để làm cơ sở cho việc ra quyết định khi hướng đi tốt nhất chưa thể xác định ngay.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Tiếp theo</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Bộ Quy tắc Ứng xử trong Kinh doanh cung cấp cho chúng ta một bộ nguyên tắc và giá trị rõ ràng để làm cơ sở cho việc ra quyết định khi hướng đi tốt nhất chưa thể xác định ngay.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Giao dịch kinh doanh nào sau đây <span class="underline">không bao giờ</span> là phù hợp?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Thuê một HCP để thuyết trình về một lĩnh vực bệnh cụ thể vì kỹ năng và chuyên môn của họ.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Chiêu đãi một bữa ăn hợp lý cho những người tham dự một chương trình đào tạo do Abbott tài trợ.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Thỏa thuận một khoản đóng góp từ thiện cho một tổ chức địa phương.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Thuê một HCP thực hiện một chương trình đào tạo để cảm ơn họ đã sử dụng sản phẩm của Abbott.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Tiếp theo</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Thuê một HCP để thuyết trình về một lĩnh vực bệnh cụ thể do kỹ năng và chuyên môn của họ là việc được phép, nhưng thuê một HCP để cảm ơn họ đã sử dụng sản phẩm của Abbott là không phù hợp vì việc này có thể bị coi là hành vi hối lộ.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Hệ quả đối với các cá nhân liên quan đến hối lộ và tham nhũng có thể bao gồm:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Tổn hại đến uy tín.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Phạt tiền.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Chấm dứt hợp đồng lao động.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Phạt tù.</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>Tất cả đáp án trên.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Tiếp theo</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Hậu quả đối với các cá nhân liên quan đến hối lộ và tham nhũng có thể bao gồm tổn hại đến uy tín, bị phạt tiền, chấm dứt hợp đồng lao động và thậm chí là bị phạt tù.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Một đại diện bán hàng cũng sở hữu một cửa hàng trang sức nhỏ. Cô quyết định là nên tặng những món quà nhỏ từ cửa hàng của mình cho các HCP gần đây không kê đơn sản phẩm Abbott. Điều này có sao không?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Có</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Không</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Tiếp theo</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Chính sách của Abbott không cho phép tặng quà cho các chuyên gia chăm sóc sức khỏe vì nhân viên phụ trách bán hàng đang đóng vai trò đại diện cho Abbott. Những món quà này không được chấp nhận ngay cả khi chính nhân viên đó trực tiếp chi trả. Tặng quà cũng có thể bị coi là hối lộ cho hoạt động kinh doanh trong tương lai.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Một quản lý kinh doanh nhận cuộc gọi từ một mối liên hệ tại công ty đối thủ. Đối thủ cạnh tranh cho biết một đội ngũ bán hàng bên thứ ba do Abbott ký hợp đồng tại một thị trường mới được cho là đang mời khách hàng các bữa ăn xa hoa khi họ chọn sản phẩm của Abbott thay vì của đối thủ. Hành động phù hợp là gì?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Không làm gì, vì thông tin đến từ đối thủ cạnh tranh.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Không làm gì, vì các bữa ăn xa hoa là điều phổ biến tại thị trường đó.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Báo cáo ngay vấn đề này cho Văn phòng Đạo đức và Tuân thủ (OEC).</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Nghiên cứu các nhà phân phối thay thế trong trường hợp thông tin là đúng.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Tiếp theo</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Bạn cần báo cáo ngay cáo buộc này cho Văn phòng Đạo đức và Tuân thủ (OEC) để được điều tra đúng cách, ngay cả khi thông tin đến từ đối thủ cạnh tranh.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Một công ty du lịch đang sắp xếp việc đi lại cho các chuyên gia chăm sóc sức khỏe (HCP) cung cấp dịch vụ giám sát cho Abbott. Khi rà soát các hóa đơn đã nộp, phát hiện có sai lệch - tổng tiền không khớp với yêu cầu hoàn trả và một số hóa đơn thiếu thông tin quan trọng như ngày đi lại.</p>
+              <p>Hành động phù hợp là gì?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Thông báo cho công ty du lịch biết rằng Abbott không thể xử lý thanh toán khi chưa có đầy đủ hồ sơ chính xác và hoàn chỉnh.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Xử lý các hóa đơn vì chỉ thiếu một số thông tin.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Khuyên công ty lần sau cần chính xác hơn.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Không làm gì, vì công ty đại lý còn mới.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Tiếp theo</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Sổ sách và hồ sơ của Abbott phải phản ánh đầy đủ và chính xác tất cả giao dịch. Do đó, quan trọng là các bên thứ ba thực hiện dịch vụ cho Abbott phải cung cấp tài liệu đầy đủ, phản ánh chính xác mục đích thực tế và thông tin chi tiết của giao dịch.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Bạn đang làm việc tại một chi nhánh, nơi cho phép tài trợ cho các HCP tham dự các hội nghị đào tạo. Bạn đang thực hiện quy trình lựa chọn HCP để tham gia hội thảo. Các tiêu chí mà bạn sử dụng để lựa chọn bao gồm: (1) chủ đề của hội nghị có nằm trong lĩnh vực chuyên môn của HCP đó không; (2) Abbott có tài trợ cho HCP đó trong năm vừa qua không; và (3) HCP đó có khả năng đề xuất sản phẩm của Abbott hoặc sử dụng thiết bị của Abbott sau khi tham dự sự kiện hay không. Các tiêu chí này có phù hợp không?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Có. Hai tiêu chí chính yếu mà luôn phải đáp ứng khi tài trợ cá nhân là việc tài trợ: a) phù hợp với lĩnh vực chuyên môn của HCP, và b) không được dùng để trao hoặc khuyến khích kinh doanh. Thực tế bạn kiểm tra để đảm bảo Abbott chưa tài trợ HCP trong năm trước giúp đảm bảo tiêu chí thứ hai.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Có. Miễn là lý do tài trợ HCP không phải là để gây ảnh hưởng và tặng cá nhân đó, bạn có thể xem xét hiệu quả của việc tài trợ này - liệu cá nhân đó có tiếp tục kê đơn cho sản phẩm của Abbott hay không.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Không. Các quyết định tài trợ không được dựa trên yếu tố HCP có khả năng sẽ khuyến nghị sản phẩm của Abbott hoặc sử dụng thiết bị của Abbott sau khi tham dự sự kiện được tài trợ.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Có. Khi có ít nhất một trong các tiêu chí phù hợp thì việc có thêm các tiêu chí không phù hợp là không quan trọng.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Tiếp theo</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Quyết định tài trợ không bao giờ được thực hiện như là phần thưởng của việc sử dụng trước, hoặc để khuyến khích sử dụng nhiều sản phẩm hoặc thiết bị của chúng ta hơn trong tương lai. Cần nhớ rằng nhiều quốc gia cấm việc tài trợ. Luôn tham khảo quy trình của quốc gia sở tại trước khi tài trợ.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Một đại diện bán hàng của Abbott đang cung cấp thông tin về một sản phẩm cho một chuyên gia chăm sóc sức khỏe (HCP). Sau cuộc trao đổi, HCP chia sẻ rằng một đối thủ đã đề nghị tặng một chiếc iPad mới để đổi lấy việc hỗ trợ tăng doanh số cho họ.</p>
+              <p>Hành động phù hợp là gì?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Đưa ra ưu đãi tương tự để duy trì khả năng cạnh tranh.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Từ chối iPad nhưng đề xuất một bữa tối đắt tiền để tiếp tục cuộc trò chuyện.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Giải thích rằng Abbott kinh doanh theo cách đúng đắn và không thể cung cấp bất kỳ thứ gì có giá trị có thể gây ảnh hưởng không phù hợp đến việc ra quyết định. Sau đó, hãy báo cáo tình huống cho Văn phòng Đạo đức và Tuân thủ (OEC) ngay lập tức.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Cảm ơn HCP vì thông tin và hứa sẽ suy nghĩ về việc đó.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Tiếp theo</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Bạn không bao giờ được cung cấp, hứa hẹn, cho, hoặc nhận bất cứ thứ gì có giá trị để có được lợi thế kinh doanh không chính đáng hoặc để có được, hoặc để tiếp tục mối quan hệ kinh doanh. Bất kể đối thủ cạnh tranh làm gì, bạn cần phải tuân thủ luật pháp hiện hành và chính sách của Abbott, bao gồm các quy định trong Chính sách Chống Tham nhũng Toàn cầu của Abbott (GLB-ANTI-CORRUPTION). Khi có nghi ngờ, hãy luôn tham vấn với Bộ phận Pháp lý hoặc OEC.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Câu nào dưới đây là ví dụ về những thứ có giá trị không được phép tặng để giành được công việc kinh doanh?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Các chuyến đi dành cho HCP và gia đình họ để thăm quan các spa, sòng bạc hoặc các địa điểm giải trí nổi tiếng khác.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Tài trợ cho các dự án nghiên cứu hoặc giáo dục trong tương lai.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Quyên góp cho các quỹ từ thiện yêu thích của viên chức chính phủ.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Tất cả đáp án trên.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">Tiếp theo</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Các tiêu chuẩn của Abbott về hối lộ và tham nhũng, được tìm thấy trong Chính sách Chống Tham nhũng Toàn cầu (GLB-ANTI-CORRUPTION), phù hợp với cam kết của chúng ta về việc kinh doanh trung thực, công bằng và liêm chính. Điều này có nghĩa là trao hoặc tặng những thứ có giá trị để giành được hoạt động kinh doanh không bao giờ được cho phép.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Một HCP là người có ảnh hưởng chuyên môn chủ chốt hỏi liệu bạn có thể sắp xếp hỗ trợ cho một chương trình đào tạo mà họ muốn tham dự để đổi lấy các cơ hội kinh doanh bổ sung cho Abbott hay không. Phương án nào là phù hợp nhất?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Dứt khoát từ chối yêu cầu đó vì yêu cầu đó vi phạm Chính sách Chống tham nhũng của Abbott.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Nói với HCP đó rằng bạn sẽ hỏi người quản lý của mình.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Đồng ý với yêu cầu, vì HCP đó là một KOL có nhiều ảnh hưởng.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Không có phương án nào ở trên.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">Gửi</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Chúng ta không đề nghị hoặc cung cấp bất kỳ thứ gì có giá trị để giành lợi thế kinh doanh, dù trực tiếp hay gián tiếp, và luôn tuân theo các nguyên tắc chống hối lộ.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>Không có kết quả do bạn chưa hoàn thành bài Kiểm tra Kiến thức.</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>Chúc mừng bạn! Bạn đã vượt qua bài Kiểm tra kiến thức.</p>
+          <p>Vui lòng xem lại kết quả của bạn dưới đây bằng cách nhấp vào từng câu hỏi.</p>
+          <p>Sau khi bạn hoàn tất, hãy nhấp vào mũi tên sang phải để thực hiện một khảo sát ngắn.</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>Rất tiếc, bạn chưa vượt qua bài Kiểm tra kiến thức. Hãy dành vài phút để xem kết quả của bạn dưới đây bằng cách nhấp vào từng câu hỏi.</p>
+          <p>Khi đã hoàn thành, hãy nhấp vào nút Làm lại.</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>Cuộc khảo sát này là không bắt buộc. </p>
+          <p>Quan trọng: Cho dù bạn chọn hoàn thành khảo sát hay không, bạn phải nhấp vào biểu tượng THOÁT (EXIT, X) trên thanh tiêu đề khóa học để hoàn thành khóa học và tải lên kết quả của mình.</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Bạn đánh giá tổng thể khóa học này như thế nào?</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Rất kém</p>
+                  <p>Kém</p>
+                  <p>Trung bình</p>
+                  <p>Tốt</p>
+                  <p>Tuyệt vời</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Vui lòng giải thích thêm về đánh giá của bạn.</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Kết quả của phiên học này là tôi đã hiểu rõ hơn về Bộ Quy tắc Ứng xử trong Kinh doanh của Abbott.</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Rất không đồng ý</p>
+                  <p>Không đồng ý</p>
+                  <p>Trung lập</p>
+                  <p>Đồng ý</p>
+                  <p>Rất đồng ý</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Nội dung của khóa học này liên quan đến công việc của bạn như thế nào?</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Không liên quan gì</p>
+                  <p>Không liên quan lắm</p>
+                  <p>Chưa quyết định</p>
+                  <p>Liên quan phần nào</p>
+                  <p>Rất liên quan</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Bạn muốn tìm hiểu thêm về chủ đề nào trong khóa học này?</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">Nhấp vào nút Tải lên để hoàn thành khóa học, tải dữ liệu của bạn lên và đóng cửa sổ khóa học.</p>
+          <button class="surveySubmit">
+            <p>Tải lên</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">Nơi tìm kiếm Hỗ trợ</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Quản lý của bạn</p>
+        <p>Nếu bạn có câu hỏi về các tương tác với những người bên ngoài Abbott, nơi tốt nhất để bắt đầu là từ người quản lý của bạn</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Tiêu chuẩn bằng văn bản</p>
+        <ul>
+          <li>Để biết các kỳ vọng cơ bản của công ty về cách thức tương tác với những người khác, hãy tham khảo <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Bộ Quy tắc Ứng xử trong Kinh doanh</a> của công ty.</li>
+          <li>Để biết các chính sách và thủ tục áp dụng cho toàn công ty, hãy truy cập <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">Cổng thông tin chính sách toàn cầu</a>.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>Văn phòng Đạo đức và Tuân thủ (OEC)</p>
+        <p>OEC là bộ phận toàn cầu hỗ trợ giải quyết các thắc mắc hoặc quan ngại của bạn về giá trị và tiêu chuẩn ứng xử của công ty.</p>
+        <ul>
+          <li>Truy cập <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">trang web OEC</a> trên Abbott World.</li>
+          <li>Nếu bạn có bất kỳ mối quan ngại nào về các hoạt động kinh doanh tham nhũng, dù trong nội bộ công ty hay trong quan hệ với khách hàng hoặc các bên thứ ba khác, bạn có thể báo cáo mối quan ngại của mình cho OEC (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) hoặc Bộ phận Pháp lý, hoặc gọi đến đường dây đa ngôn ngữ <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> hoạt động toàn cầu 24/7.</li>
+          <li>iComply – Truy cập <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> để sử dụng các ứng dụng và tài nguyên liên quan đến tuân thủ, phục vụ cho các tương tác với các Chuyên gia Chăm sóc Sức khỏe, Tổ chức Chăm sóc Sức khỏe cũng như các bên thứ ba.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Bộ phận Nhân sự</p>
+        <p>Đối với các vấn đề liên quan tới nhân viên, như các mối lo ngại về bộ phận quản lý và/hoặc nhân viên khác, hãy liên hệ với đại diện <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">Bộ phận Nhân sự</a> ở địa phương của bạn.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>Bộ phận Pháp lý</p>
+        <p>Hãy liên hệ với Bộ phận Pháp lý nếu bạn có thắc mắc hoặc quan ngại về các hậu quả pháp lý của việc hối lộ và tham nhũng.</p>
+        <ul>
+          <li>Nhấp vào đây để truy cập trang chủ của Bộ phận Pháp lý trên Abbott World.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>CÁC TÀI NGUYÊN KHÁC</p>
+        <p>Có thể có các tài nguyên khác có sẵn để giúp bạn:</p>
+        <p>Tài chính – Nếu thắc mắc của bạn là về kế toán hoặc tài chính, hãy liên hệ với Phòng tài chính ở địa phương của bạn.</p>
+        <p>Kiểm toán Công ty – Nếu bạn có mối lo ngại cụ thể liên quan đến kế toán, kiểm soát kế toán nội bộ hoặc vấn đề kiểm toán, hãy nhanh chóng báo cáo với Bộ phận Kiểm toán Công ty hoặc OEC.</p>
+        <p>Chất lượng và Pháp chế Abbott – Nếu bạn có câu hỏi về chất lượng và độ an toàn của sản phẩm, hãy liên hệ bộ phận Chất lượng hoặc Pháp chế tại địa phương của bạn.</p>
+        <p>Môi trường, Sức khỏe và An toàn trên toàn cầu – Hãy liên hệ với đại diện Môi trường, Sức khỏe và An toàn trên toàn cầu nếu bạn có thắc mắc về những nguy cơ hiện hữu tại địa điểm và những mối nguy hiểm tiềm ẩn.</p>
+        <p>Mua sắm Toàn cầu – Nếu bạn có câu hỏi liên quan đến quan hệ với nhà cung cấp, liên hệ bộ phận Mua sắm Toàn cầu.</p>
+      </div>
+      <p class="resSubtitles" data-break="true">Tài liệu khóa học</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Bản ghi</p>
+        <p>Nhấp vào <a href="reference/Transcript.pdf" target="_blank">đây</a> để xem toàn bộ bản ghi của khóa học</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>Khóa học không thể liên hệ với LMS. Nhấp vào “OK” để tiếp tục và xem lại khóa học. Lưu ý, Chứng chỉ Khóa học có thể không khả dụng. Nhấp vào “Hủy” để thoát</s1>
+    <s2>Chưa có câu hỏi nào được trả lời</s2>
+    <s3>Các câu hỏi</s3>
+    <s4>Câu hỏi</s4>
+    <s5>chưa được trả lời</s5>
+    <s6>Đúng!</s6>
+    <s7>Không đúng!</s7>
+    <s8>Thông tin phản hồi:</s8>
+    <s9>Bộ Quy tắc Ứng xử trong Kinh doanh</s9>
+    <s10>Kiểm tra kiến thức</s10>
+    <s11>Gửi</s11>
+    <s12>Làm lại</s12>
+    <s13>Mô tả khóa học: Bộ Quy tắc Ứng xử trong Kinh doanh của chúng ta là một tài liệu đặc biệt quan trọng, mô tả các kỳ vọng của công ty đối với mỗi nhân viên khi đại diện cho Abbott trong công việc hằng ngày. Nội dung này cung cấp nền tảng cho các trách nhiệm và hành vi của chúng ta, giúp chúng ta đưa ra những lựa chọn tốt nhất cho Abbott, cho bản thân và cho nhiều người mà chúng ta phục vụ. Khóa học này cung cấp cái nhìn tổng quan ở mức cao về Bộ Quy tắc, trình bày các kỳ vọng của công ty và nghĩa vụ của bạn, đồng thời đưa ra hướng dẫn thực tế về việc cần làm khi con đường tốt nhất để tiến bước khó xác định. Sẽ mất 35 đến 45 phút để hoàn thành khóa đào tạo này.</s13>
+    <s14>Menu</s14>
+    <s15>Tài nguyên</s15>
+    <s16>Tài liệu tham khảo</s16>
+    <s17>Âm thanh</s17>
+    <s18>Thoát</s18>
+    <s19>Đóng</s19>
+    <s20>Chú thích</s20>
+  </strings>
+</course>

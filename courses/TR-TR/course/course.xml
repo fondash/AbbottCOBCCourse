@@ -1,0 +1,1399 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
+  <toc>
+    <nav navId="A_1" title="Açılış" description="5 minutes" timing="0" required="false">
+      <nav navId="B_1" title="İş Davranış Kuralları">
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+      </nav>
+      <nav navId="B_2" title="Felsefemiz">
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+      </nav>
+      <nav navId="B_3" title="Amaçlar">
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+      </nav>
+      <nav navId="B_4" title="İçindekiler">
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+      </nav>
+    </nav>
+    <nav navId="A_2" title="Abbott İş Davranış Kurallarının Önemi" description="2 minutes" timing="0" required="true">
+      <nav navId="B_5" title="Günlük Taahhütlerimiz">
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+      </nav>
+      <nav navId="B_6" title="Kuralların İşimiz İçin Önemi">
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+      </nav>
+    </nav>
+    <nav navId="A_3" title="Kurallarımız" description="20 minutes" timing="0" required="true">
+      <nav navId="B_7" title="Genel Bakış">
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+      </nav>
+      <nav navId="B_8" title="Müşterilerimiz">
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_9" title="Ürünlerimiz">
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_10" title="Bilimi İlerletme">
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_11" title="Çalışanlarımız">
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_12" title="Topluluklarımız">
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+      </nav>
+      <nav navId="B_13" title="Nasıl Çalışırız">
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+      </nav>
+    </nav>
+    <nav navId="A_4" title="Taahhüdünüz" description="4 minutes" timing="0" required="true">
+      <nav navId="B_14" title="Taahhüdünüz">
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+      </nav>
+    </nav>
+    <nav navId="A_5" title="Bilgi Kontrolü" description="5 minutes" timing="0" required="true">
+      <nav navId="B_15" title="Giriş">
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+      </nav>
+      <nav navId="B_16" title="Değerlendirme">
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+      </nav>
+      <nav navId="B_17" title="Geri Bildirim">
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+      </nav>
+      <nav navId="B_18" title="Anket">
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+      </nav>
+    </nav>
+  </toc>
+  <screens>
+    <div id="C_1" class="screen" data-autoAudio="0">
+      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <img src="images/logo.svg" class="coLogo" />
+        <p>İş Davranış Kuralları</p>
+      </div>
+      <p class="startInstruction">İleri okuna tıklayın.</p>
+    </div>
+    <div id="C_2" class="screen" data-autoAudio="1_2_1">
+      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Bir global sağlık hizmetleri lideri olarak günlük faaliyetlerimiz önem taşır.</p>
+        <p>İş Davranış Kurallarımız dürüst davranmamızı, bir amaca göre liderlik etmemizi ve kim olduğumuzu en iyi şekilde yansıtan seçimler yapmamızı sağlayan güçlü bir pusuladır. Böylece güven oluşturur, değerlerimize sahip çıkar ve dünyada anlamlı bir fark yaratmaya devam ederiz.</p>
+      </div>
+    </div>
+    <div id="C_3" class="screen" data-autoAudio="1_3_1">
+      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Bu kursun tamamlanmasından sonra şunları yapabileceksiniz:</p>
+        <ul>
+          <li>İş Davranış Kurallarının işimiz açısından önemini kavrayacaksınız.</li>
+          <li>İş Davranış Kurallarının temel ilkelerini tanımlayabilecek ve bunların günlük iş pratiklerimizde nasıl uygulanacağını kavrayacaksınız.</li>
+          <li>Abbott’un global olarak doğru yoldan iş yapma beklentilerini anlayacaksınız.</li>
+          <li>Yardım ve destek için nereye başvuracağınızı bileceksiniz.</li>
+        </ul>
+      </div>
+    </div>
+    <div id="C_4" class="screen" data-autoAudio="0">
+      <div class="toc2Container">
+        <div class="toc2Lhs">
+          <div class="topicBar">
+            <p>1</p>
+            <p>Hoş Geldiniz</p>
+            <p>1 dakika</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>2</p>
+            <p>Abbott İş Davranış Kurallarının Önemi</p>
+            <p>2 dakika</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>3</p>
+            <p>Kurallarımız</p>
+            <p>18 dakika</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>4</p>
+            <p>Taahhüdünüz</p>
+            <p>1 dakika</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+          <div class="topicBar">
+            <p>5</p>
+            <p>Bilgi Kontrolü</p>
+            <p>5 dakika</p>
+            <hr />
+            <hr class="greenProgLine" />
+            <div class="toc2ImgCon">
+              <span>.</span>
+            </div>
+          </div>
+        </div>
+        <div class="toc2Rhs">
+          <p>
+          </p>
+          <p class="pcDisplay">.</p>
+          <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+          </svg>
+        </div>
+        <p class="tocUiMsg">Öğrenme İlerleme Durumu</p>
+      </div>
+    </div>
+    <div id="C_5" class="screen" data-autoAudio="2_1_1">
+      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Doğru, adil ve dürüst bir şekilde liderlik ederiz. Herkes. Her Gün.</p>
+        <p>İş Davranış Kurallarımız doğru, dürüst, adil olmanın sadece ideallerde var olmadığını, bunların günlük taahhütler olduğunu hatırlatır. Karşılaşacağımız her zorluk Kurallarda yer almayabilir ancak Kurallar, bize rehberlik edecek değerlere ilişkin güçlü bir temel sunar.</p>
+      </div>
+    </div>
+    <div id="C_6" class="screen" data-autoAudio="2_2_1">
+      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>En yüksek standartları karşılamayı taahhüt ederiz.</p>
+        <p>İş Davranış Kuralları, Abbott’un başarısı için büyük öneme sahiptir, çünkü doğru, dürüst ve adil bir şekilde nasıl çalışacağımıza dair standartları belirler. Özellikle karmaşık durumlarda etik kararlar alabilmemizi ve değerlerimizden sapmamamızı sağlar. Kuralları takip ederek itibarımızı korur, hizmet verdiğimiz kişi ve kurumlarda güven oluşturur, doğru olanı yapmanın büyük önem taşıdığı bir iş yeri kültürü yaratırız.</p>
+      </div>
+    </div>
+    <div id="C_7" class="screen" data-autoAudio="3_1_1">
+      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <div>
+        <p>Kuralları kavramak herkesin sorumluluğudur.</p>
+        <p>Günlük işlerimizde ve karar süreçlerimizde İş Davranış Kurallarını uygulamak hepimizin görevidir. Bu sadece bir belge değil, zorluklardan doğrulukla ve kendimize güvenerek çıkmamızı sağlayacak bir rehberdir.</p>
+        <p>Gelecek bölümlerde Kuralların temel ilkelerini inceleyecek ve bunları günlük faaliyetlerimizde ve tercihlerimizde nasıl hayata geçireceğimizi göreceğiz.</p>
+      </div>
+    </div>
+    <div id="C_8" class="screen" data-autoAudio="3_2_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Devam etmeden önce tüm içeriği görüntülemeniz gerekir.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott olarak ürünlerimize güvenen insanların sağlık ve refahını iyileştirmeyi taahhüt ederiz.</p>
+          </div>
+          <div>
+            <p>Bu, her kararın, her yeniliğin ve her eylemin arkasında yaşamları daha iyi hale getirme amacının olduğunu bize hatırlatır.</p>
+          </div>
+          <img src="images/3_2_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <p>Hastalar ve Tüketiciler</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <p>Sağlık Meslek Mensupları</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Daha fazla bilgi için simgelere tıklayın.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_2_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>HASTALAR VE TÜKETİCİLER</p>
+                <p>İnsanlara özen göstermek, yaptığımız şeyin özünde yer alır. Bizim için hastaların ve tüketicilerin sağlık ve refahı her şeyden önce gelir. Her gün insanların daha sağlıklı bir yaşam sürmesini sağlayıp daha güçlü, daha sağlıklı topluluklar oluşturmaya katkıda bulunarak anlamlı bir fark yaratabiliriz.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_2_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>SAĞLIK MESLEK MENSUPLARI</p>
+                <p>Daha sağlıklı olmayı desteklemek için SMM’lerle birlikte çalışırız. İster doktor, hemşire, eczacı ister araştırmacı ya da laboratuvar çalışanı olsun, Sağlık Meslek Mensuplarının bilgisine ve bağımsız kararlarına saygı duyarız. Hastaları daha sağlıklı olmaya yönlendirmedeki onların rolleri çok önemlidir.</p>
+                <p>En doğru kararları alabilmeleri için Abbott olarak onları doğru ve zamanında bilgilerle desteklemeyi taahhüt ederiz. Birlikte çalışarak, tüm dünyada sağlık ve refahı iyileştirmeye yönelik ortak hedefimize ulaşabiliriz.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_9" class="screen" data-autoAudio="3_3_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Devam etmeden önce tüm içeriği görüntülemeniz gerekir.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott olarak sunduğumuz her ürünün güvenli, etkili ve insanların bize duyduğu güvene layık olmasını sağlamayı taahhüt ederiz.</p>
+          </div>
+          <div>
+            <p>Ürünlerimiz için doğru malzemeleri seçmekten onları pazarlama, satma ve teslim etme yöntemlerimize kadar ürünlerimizin güvenli ve etkili olmasını sağlamak için önlemler alırız. Her aşamada yüksek kalite standartlarına uyarız.</p>
+            <p>Ürün güvenlik sorunlarını zamanında belirlemeyi, değerlendirmeyi, ele almayı ve ayrıca taklitçiliği, yasa dışı yanıltmayı ve ürünlerimizin çalınmasını engellemeye yönelik önlemler almayı taahhüt ederiz.</p>
+          </div>
+          <img src="images/3_3_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <p>Ürün Kalitesi</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Food Label_Large_White.png" />
+              <p>Ürün Tanıtımı I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <p>Ürün Tanıtımı II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Daha fazla bilgi için simgelere tıklayın.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_3_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ÜRÜN KALİTESİ</p>
+                <p>Güvenli, etkili ve güvenilir. Ürünlerimiz fark yaratır.</p>
+                <p>Ürünlerimizin kaynak tedariki ve üretiminden, ortaklarımızın aracılığı da dahil olmak üzere pazarlama, satış ve teslimatına kadar her aşamada kaliteyi taahhüt ederiz. Her adım önemlidir çünkü insanlar güvenlik konusunda bize güvenir.</p>
+                <p>Ürün güvenlik sorunlarının zamanında belirlenmesi, değerlendirilmesi ve ele alınmasını taahhüt ederiz. Sağlık meslek mensupları ve kurumlarının ürünlerimizi güvenli ve etkili bir şekilde kullanmaları için ihtiyaç duydukları bilgilere sahip olmalarını sağlar ve olası güvenlik endişeleri olması halinde düzenleyici kuruluşlar veya kamu sağlığı kurumlarıyla iletişime geçeriz.</p>
+                <p>Ürünlerimizin sahteciliğe, yasal tedarik zinciri dışına çıkmaya ve hırsızlığa konu olmasını önlemek için önlemler alırız. Ulusal güvenliği ve kamu sağlığını korumak için ihracat ve ithalat denetim kuralları da dahil olmak üzere ticari düzenlemeleri takip eder, devlet kısıtlamalarına ve yaptırımlarına uyarız.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_3_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ÜRÜN TANITIMI I</p>
+                <p>Ürünlerimizi dürüst bir şekilde ve onlara güvenenlere saygı duyarak tanıtır ve satarız.</p>
+                <p>Ürün iletişimlerimiz, faaliyet gösterdiğimiz ülkelerdeki onaylı etiketleme, bilimsel kanıt ve en iyi tıbbi uygulamalarla uyumlu olup doğru ve dengelidir.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_3_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ÜRÜN TANITIMI II</p>
+                <p>Ürünlerimizin tanıtımını amacına uygun ve onaylı kullanımlara yönelik yaparız.</p>
+                <p>Faaliyet gösterdiğimiz ülkelerdeki sağlık makamları tarafından verilen ruhsat ve onaylara uygun olarak çalışırız. Ürünlerimizin tanıtımı, satış ve dağıtımı, sıkı ticaret yasalarını ve ülkeye özgü düzenlemeleri takip eder. Güçlü şirket içi politikalarımız ve prosedürlerimiz sayesinde uyumu sağlar; etik, güvenli ve sorumlu iş uygulamaları taahhüdümüzü sürdürürüz.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_10" class="screen" data-autoAudio="3_4_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Devam etmeden önce tüm içeriği görüntülemeniz gerekir.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott olarak bilimi dürüst ve amaca uygun olarak ilerletmeyi taahhüt ederiz.</p>
+          </div>
+          <div>
+            <p>Riskleri sorumlulukla öngörmenin ve ele almanın öneminin bilinciyle inovasyonu sürdürürüz. Her araştırma katılımcısının onuruna saygı gösterir, bilimsel araştırmalarda en yüksek şeffaflık ve nesnellik standartlarını koruruz.</p>
+          </div>
+          <img src="images/3_4_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <p>İnovasyon I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Libre View_Large_White.png" />
+              <p>İnovasyon II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Research Science_Large_White.png" />
+              <p>Bilimi İlerletme</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Daha fazla bilgi için simgelere tıklayın.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>İNOVASYON I</p>
+                <p>Tüm dünyada insanların daha sağlıklı yaşamalarına yardımcı olmak ve ortaya çıkan sonuçları iyileştirmek için inovatif sağlık çözümleri oluştururuz.</p>
+                <p>İnsan ihtiyaçlarına çığır açan tedaviler, hayat kurtaran cihazlar ve sağlığı yeni yollarla destekleyen inovatif ürünler geliştirerek yanıt veririz. En yeni bilimsel bilgileri ve teknolojiyi kullanarak sonuçları iyileştirmeyi ve insanların hayatlarını dolu dolu yaşamalarını sağlamayı hedefleriz. Hayatın her aşaması için anlamlı inovasyonlar yaratırız.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_4_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>İNOVASYON II</p>
+                <p>Yeni olanakları araştırıp beklenmedik durumlar için planlama yaparak inovasyon kültürü geliştiririz.</p>
+                <p>İlerleme çoğu zaman risk içerir ancak biz zorlukları öngörüp bunları önceden en aza indirmek için dikkatli ve sorumlu adımlar atarız. Her zaman Kurallarımız ve politikalarımızın rehberliğinde hareket ederiz.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_4_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>BİLİMİ İLERLETME</p>
+                <p>Yeniliği teşvik eden, tedavileri geliştiren ve sağlık hizmetlerini ilerleten doğru ve nesnel veriler üretmek için araştırmalar yürütürüz.</p>
+                <p>Araştırma yürütürken çalışma katılımcılarına onurlu bir şekilde davranır, onları gereksiz risklerden korur ve araştırmanın niteliğini, amacını ve ilişkili risklerini anlamalarını sağlarız. Katılımcılardan bilgilendirilmiş onam formunun alınması, araştırma sürecimizin esaslı bir parçasıdır.</p>
+                <p>Bilimsel araştırmalarda şeffaflığa değer verir, sonuçları uygunsuz bir şekilde etkilemeye çalışmayız. Çalışma verilerinin doğru olmasını sağlarız ve sonuçlar ister olumlu ister olumsuz olsun, ürünlerimizle ilgili araştırma sonuçlarının zamanında ve doğru bir şekilde sunulmasını taahhüt ederiz.</p>
+                <p>Abbott adına araştırma yürütüldüğünde veya yayımlandığında, güçlü bilimsel ve tıbbi geçmişe sahip uzmanlarla ortaklık yaparız. Bu kişilerin Abbott ile olan gerek mali gerek diğer ilişkileri dahil olmak üzere tüm bağlantılarını açıklamalarını bekleriz.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_11" class="screen" data-autoAudio="3_5_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Devam etmeden önce tüm içeriği görüntülemeniz gerekir.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott’ta açıklık, çeşitlilik ve saygıya dayalı bir kültürü destekleriz çünkü bunlar yaratıcılığı ve inovasyonu teşvik eder.</p>
+          </div>
+          <div>
+            <p>Her birimizin her gün Kuralları hayata geçirme sorumluluğumuz bulunur: başkalarına saygılı davranmak, güvenli ve kapsayıcı bir iş yeri yaratmak ve herkes için eşit fırsatlar sağlamak.</p>
+            <p>Açık olmayan konularda soru sorar, bize doğru gelmeyen konularda sesimizi yükseltiriz.</p>
+            <p>Bu bölüm, eşit fırsat ve güvenli bir çalışma ortamına yönelik taahhüdümüzü vurgular ve bize, tüm faaliyetlerimizde Kuralları anlamamızı, uygulamamızı ve desteklememizi hatırlatır.</p>
+          </div>
+          <img src="images/3_5_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Collaboration_Large_White.png" />
+              <p>İş Birliği</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <p>Birbirimizle olan Bağlantımız</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <p>Endişeleri Raporlama</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <p>Eşit Fırsat</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <p>Adil Muamele</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="6">
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <p>Çalışma Ortamı</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Daha fazla bilgi için simgelere tıklayın.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_5_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>İŞ BİRLİĞİ</p>
+                <p>Açıklığa ve iş birliğine değer veririz çünkü farklı fikirler daha iyi çözümler doğurur.</p>
+                <p>Çeşitliliği benimseriz çünkü çeşitlilik yaratıcılığı, enerjiyi ve ilerlemeyi destekler. Global sağlık üzerinde anlamlı bir etki yaratmak için birbirimizi dinler, her sese değer verir ve birlikte bir amaca yönelik olarak çalışırız.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>BİRBİRİMİZLE OLAN BAĞLANTIMIZ</p>
+                <p>Hepimiz Abbott’un değerleriyle yaşama sorumluluğunu her gün paylaşırız.</p>
+                <p>Etik davranarak kültürümüzü güçlendiririz. Herkes, Kuralların kendi rolüne ve işine nasıl uygulanacağını kavramalıdır.</p>
+                <p>Yöneticilerin ve amirlerin lider olarak özel bir sorumluluğu vardır. Değerlerimiz konusunda örnek olmalı, etik davranışı teşvik etmeli ve çalışanların misilleme korkusu olmadan soru sorup endişelerini dile getirebilecekleri güvenli bir alan yaratmalıdırlar.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ENDİŞELERİ RAPORLAMA</p>
+                <p>Açık olmayan ya da bize doğru gelmeyen konularda soru sorarız. Ayrıca Kurallara ilişkin her türlü ihlalde sesimizi yükseltir ve bildirimde bulunuruz.</p>
+                <p>Yönün belirsiz olduğu durumlarda soru sormak ve herhangi bir şüpheli etik dışı iş davranışını, Kuralların ya da Abbott politikalarının ihlalini sorgulamak ve bu durumlarda bildirmek bizim sorumluluğumuzdadır.</p>
+                <p>Doğru seçim veya hareket konusunda emin değilseniz yöneticinizle görüşün veya Etik ve Uyum Ofisi ile iletişime geçin.</p>
+                <p>Yöneticiler ve amirler örnek olmalı, çalışanların Kuralları kavramasını ve bunlara uymasını sağlamalıdır. Liderler, Abbott’un beklentilerini iletme konusunda daha fazla sorumluluğa sahiptir ve Olası Kural ihlalleri konusunda Etik ve Uyum Ofisi ile iletişime geçmelidirler.</p>
+                <p>Olası Kural ihlallerine yönelik her türlü bildirim ciddiyetle ele alınır. Etik ve Uyum Ofisi, gerektiğinde soruşturma ve düzeltici eylemler de dahil olmak üzere takip adımlarıyla ilgilenir. Kendi kendinize soruşturma yapmamalısınız. Soruşturmalarda herkes iş birliği yapmalı ve gizliliğe uymalıdır.</p>
+                <p>Düzeltici eylemler, aşağıdakiler için disiplin (iş akdi feshi dahil olmak üzere) veya yasal aksiyonlar içerebilir:</p>
+                <ul>
+                  <li>Bir ihlali onaylamak veya ihlale katılmak;</li>
+                  <li>Soruşturmada iş birliği yapmayı reddetmek;</li>
+                  <li>Kötü gözetim nedeniyle bir ihlali bildirememek;</li>
+                  <li>Yalan bildirimde bulunmak;</li>
+                  <li>İyi niyetle endişesini bildiren birine misilleme yapmak.</li>
+                </ul>
+                <p>Misilleme asla kabul edilemez. Misillemenin gerçekleştiğine inanıyorsanız Etik ve Uyum Ofisine veya İnsan Kaynaklarına bunu bildirmelisiniz.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>EŞİT FIRSAT</p>
+                <p>Tüm çalışanlar için eşit fırsatlar sunarız.</p>
+                <p>İstihdam kararlarını iş ihtiyaçlarına, becerilere, deneyime ve performansa dayalı olarak veririz. Ayrımcılığın hiçbir türüne hoşgörü gösterilmez. Tüm dünyada çalışanlarımızla ilişkilerimizi düzenleyen tüm yasalara uyarız.</p>
+                <p>Abbott ırka, ten rengine, dine, yaşa, cinsiyete, ulusal kökene, cinsel kimliğe veya bunun ifadesine, cinsel tercihe, engelliliğe, medeni duruma, genetiğe, vatandaşlık durumuna ya da diğer yasal olarak koruma altındaki durumlara dayalı olarak yapılan tüm ayrımcılığı yasaklar.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ADİL MUAMELE</p>
+                <p>Saygılı, kapsayıcı ve güvenli bir çalışma ortamını teşvik ederiz.</p>
+                <p>Herkesin hoş karşılandığını, desteklendiğini ve güçlendirildiğini hissetmesini sağlamaya çalışırız.</p>
+                <p>Abbott sağlıklı, tacizin olmadığı bir ortamı teşvik eder ve çeşitlilik ile katılımı güçlendirmek için çalışanların katkısına değer verir.</p>
+                <p>Herkese saygı duyar ve onurlu davranırız. Adalet ve dürüstlükle güven inşa ederiz. Asla manipülasyon ya da yanlış beyanda bulunmaz, şeffaflıktan sapmayız.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_5_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ÇALIŞMA ORTAMI</p>
+                <p>Güvenlik ve adil çalışma koşulları önceliğimizdir.</p>
+                <p>Kazalar ve güvenliksiz durumlar derhal yönetime bildirilmelidir. Abbott ayrıca dünya genelindeki ticari faaliyetlerimizde yasa dışı, uygunsuz iş gücü uygulamalarını ve her türlü zalimce ya da insanlık dışı muameleyi önlemek ve yasaklamak için adımlar atar.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_12" class="screen" data-autoAudio="3_6_1">
+      <div class="sliderContainer">
+        <p class="userNotice">Devam etmeden önce tüm içeriği görüntülemeniz gerekir.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott olarak topluluk, çevre ve katılım yoluyla güven oluştururuz.</p>
+          </div>
+          <div>
+            <p>İçinde faaliyet gösterdiğimiz topluluklara katkıda bulunmak ve insanların hayatlarında olumlu, kalıcı bir etki yaratmak için çaba gösteririz.</p>
+            <p>Abbott, enerji kullanımını azaltıp doğal kaynakları koruyarak çevresel ayak izini en aza indirmeye çalışır.</p>
+            <p>Ayrıca global operasyonlarımızda uygun politik uğraşları destekler ve topluluğa katılımı teşvik ederiz.</p>
+          </div>
+          <img src="images/3_6_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <p>Topluluğa Katılım</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <p>Çevresel Sorumluluk</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Government_Large_White.png" />
+              <p>Siyasi Katkılar</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>
+            </p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_6_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>TOPLULUĞA KATILIM</p>
+                <p>Topluluk refahını destekleriz.</p>
+                <p>Abbott olarak ürünlerimiz, çalışmalarımız ve faaliyetlerimizle toplumların refahını destekleriz. Yaşadığımız ve çalıştığımız yerlere katkıda bulunma konusunda köklü bir geçmişe sahibiz çünkü sağlıklı toplumların gelişip büyüdüğüne inanırız.</p>
+                <p>Faaliyetlerimiz, ortaklıklarımız, yerel gruplara ve sorunlara yönelik çalışmalara verdiğimiz destekle faaliyet gösterdiğimiz her yerde olumlu ve kalıcı bir etki yaratmayı hedefleriz.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ÇEVRESEL SORUMLULUK</p>
+                <p>Çevresel etkimizi azaltmak için sürdürülebilir kalkınma içinde yer alır ve çalışmalar yaparız.</p>
+                <p>Malzeme kaynaklarımızdan ürünlerimizi üretme, sevk etme ve kullanma yöntemlerimize kadar yaptığımız her şeyde çevreyi korumak için çalışırız.</p>
+                <p>Daha az enerji ve doğal kaynak kullanmak için önlemler alırız. İşte ve içinde bulunduğumuz topluluklarda temiz enerji projelerini destekleriz. Atığı azaltma, daha fazla geri dönüşüm yapma ve çevresel riskleri azaltmanın yollarını ararız. Operasyonlarımız için geçerli çevre yasalarını ve düzenlemelerini de takip ederiz.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_6_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>SİYASİ KATKILAR</p>
+                <p>Siyasi sürece uygun bir şekilde katılımı teşvik eder, topluluk katılımını destekleriz.</p>
+                <p>Abbott, misyonumuz ve değerlerimizle uyumlu kamu politikalarını destekler. Uygun durumlarda siyasi adayları veya çıkar gruplarını da destekleyebiliriz.</p>
+                <p>Şirketlerin siyasi katkılarına ilişkin yasalar karmaşık olduğundan Abbott’a ait fonların kullanımı veya Abbott adına yapılan katkılar, öncelikle Hukuk Bölümü tarafından incelenmelidir.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Devam etmeden önce tüm içeriği görüntülemeniz gerekir.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott olarak dürüst çalışmaya ve işimizin her alanında verdiğimiz sözleri tutmaya kararlıyız.</p>
+          </div>
+          <div>
+            <p>Çıkar çatışmalarını ele alırken Abbott’un çıkarlarını kendi çıkarlarımızın önünde tutarız. Abbott’un varlıklarını ve itibarını korur, gizli bilgileri güvende tutar ve kişisel bilgilerini bizimle paylaşan herkesin gizliliğine saygı duyarız.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Partnership_Large_White.png" />
+              <p>Adil Yaklaşım</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Speaker_Large_White.png" />
+              <p>Çıkar Çatışmalarından Kaçınma I</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Travel_Large_White.png" />
+              <p>Çıkar Çatışmalarından Kaçınma II</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_CEC_Large_White.png" />
+              <p>Abbott’un Varlık ve İtibarını Koruma</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Chat_Large_White.png" />
+              <p>Gizli Bilgi</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Daha fazla bilgi için simgelere tıklayın.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_2.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ADİL YAKLAŞIM</p>
+                <p>İşimizi dürüstlükle yürütür ve her aşamasında taahhütlerimizi yerine getiririz.</p>
+                <p>Hepimiz işimizden ve rollerimizde aldığımız kararlardan sorumluyuz. İş arkadaşlarımızla, müşterilerimizle, tedarikçilerimizle, sağlık meslek mensuplarıyla, rakiplerimizle veya başkalarıyla girdiğimiz her türlü profesyonel etkileşimde Abbott’un çalışma şekli konusunda adil ve dürüst olmalıyız.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_3.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ÇIKAR ÇATIŞMALARINDAN KAÇINMA I</p>
+                <p>İlerlemeden önce çıkar çatışmalarını belirler ve çözeriz.</p>
+                <p>Kişisel çıkarların Abbott’un çıkarlarına engel teşkil etmesi veya böyle görünmesi durumunda çıkar çatışması oluşur. İş kararları, kişisel kazanım veya aile ya da arkadaşların çıkarları yerine Abbott’un ihtiyaçlarına dayanmalıdır. Gerçek veya öyle algılanan bir çatışmaya yol açabilecek durumlardan kaçınmamız için bizden sağduyulu olmamız beklenir. Kişisel ilişkileriniz, çıkarlarınız veya şirket dışı faaliyetleriniz adil ve etkin bir şekilde hareket etmenizi etkiliyorsa, size veya bir aile üyenize fayda sağlayabilecekse, bu olası çatışmayı açıklamalı ve Abbott’un yönergelerini izleyerek kendinizi durumdan çıkarmalısınız.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_4.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ÇIKAR ÇATIŞMALARINDAN KAÇINMA II</p>
+                <p>İşle ilgili kararlarda Abbott’un çıkarlarını ön planda tutarız.</p>
+                <p>Bu, şirketin hedeflerini belirli bir ekibin, grubun veya bireyin hedeflerinden öncelikli hale getirmek anlamına gelir. Abbott’taki rollerimiz aracılığıyla eriştiğimiz her türlü fırsat veya kaynak kişisel kazanç için değil, şirketin yararına kullanılmalıdır. Abbott ile rekabet etmemeli veya rekabet edenlere yardımcı olmamalıyız. Ortaya çıkan fırsatlarda Abbott’un çıkarlarını geliştirmeye odaklanmalıyız.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_5.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ABBOTT’UN VARLIK VE İTİBARINI KORUMA</p>
+                <p>Hepimiz şirketimizin koruyucularıyız.</p>
+                <p>Abbott’un varlıklarını korumak ve akıllıca kullanmak hepimizin sorumluluğudur. Bunlara araçlar ve bilgisayarlar gibi fiziksel unsurlardan, fikri mülkiyet, ticari sırlar ve uzmanlık bilgisi gibi değerli bilgilere kadar her şey dahildir.</p>
+                <p>Bu kaynakların düzgün, verimli ve dikkatli bir şekilde kullanılmasını sağlamak için her zaman sağduyulu olmalı, bunların kaybolmasını, çalınmasını, kötüye kullanılmasını veya israfını önlemeliyiz.</p>
+                <p>Abbott’un itibarı en değerli varlıklarımızdan biridir ve hepimiz onu koruma rolüne sahibiz.</p>
+                <p>Hepimiz özellikle kamusal alanlarda ve çevrim içi ortamlarda Abbott’u temsil etmekten sorumluyuz. İster sohbetlerde ister e-postalarda veya sosyal medyada olsun, paylaştığımız her şey şirkete yansıyabilir. Dikkatli iletişim kurmak, sağduyulu davranmak ve Abbott’un gizli bilgilerini korumak önemlidir.</p>
+                <p>Şirket dışında etkileşimde bulunurken Abbott’u temsil ediyor gibi görünüp görünmediğimizi, sözlerimizin veya eylemlerimizin Abbott’un itibarını nasıl etkileyebileceğini göz önünde bulundurmalıyız. Bu durum özellikle sosyal medyada önemlidir çünkü paylaşımlar hızla ve geniş çapta yayılabilir. Dikkatsiz bir yorum veya paylaşım ciddi zararlara yol açabilir.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_6.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>GİZLİ BİLGİ</p>
+                <p>Kişisel veriler de dahil olmak üzere tüm gizli bilgilere saygı göstermeyi ve onları korumayı taahhüt ediyoruz.</p>
+                <p>Gizli bilgi, Abbott’un en değerli varlıklarından biridir. Bunlar arasında, açıklanması halinde rakiplere fayda sağlayabilecek veya Abbott’a zarar verebilecek araştırma, ticari sır, iş planları, fiyatlandırma, sözleşmeler, mali bilgiler ve diğer veriler gibi kamuya açık olmayan bilgiler yer alır.</p>
+                <p>Gizli bilgileri korumamız ve Abbott’taki çalışma süremiz sona erdikten sonra bile yetkisiz kullanım veya paylaşımı engellememiz gerekir.</p>
+                <p>Ayrıca Abbott olarak başkalarının fikri mülkiyet haklarına saygı gösterir, onların gizli bilgilerinin uygunsuz kullanımından kaçınırız. Kamuya açık olmayan bilgilerin, içeriden bilgiye dayalı ticaret gibi amaçlarla kötüye kullanılması hem yasa dışıdır hem de etik değildir.</p>
+                <p>Ayrıca iş arkadaşlarımız, sağlık meslek mensupları ve müşterilerimiz tarafından bize emanet edilen kişisel verileri de koruruz. Kişisel bilgileri topladığımızda ve kullandığımızda bunu sorumlu bir şekilde, uygun onayla yaparız. Bu bilgileri asla yetkisiz kaynaklardan edinmez veya satmayız. Birçok ülkede sıkı gizlilik yasaları bulunur. Özellikle en hassas kişisel bilgi kategorilerinde bunları anlamayı ve uygulamayı taahhüt ederiz.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_13b" class="screen" data-autoAudio="0">
+      <div class="sliderContainer">
+        <p class="userNotice">Devam etmeden önce tüm içeriği görüntülemeniz gerekir.</p>
+        <div class="sliderImgContainer">
+          <div>
+            <p>Abbott olarak dürüst çalışmaya ve işimizin her alanında verdiğimiz sözleri tutmaya kararlıyız.</p>
+          </div>
+          <div>
+            <p>Çıkar çatışmalarını ele alırken Abbott’un çıkarlarını kendi çıkarlarımızın önünde tutarız. Abbott’un varlıklarını ve itibarını korur, gizli bilgileri güvende tutar ve kişisel bilgilerini bizimle paylaşan herkesin gizliliğine saygı duyarız.</p>
+          </div>
+          <img src="images/3_7_1.jpg" alt="" />
+        </div>
+        <div class="sliderOuterContentContainer">
+          <div class="sliderIconContainer">
+            <div class="sliderIcon" data-target="1">
+              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <p>Rüşvetle Mücadele</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="2">
+              <img src="images/Icon_Plate_Large_White.png" />
+              <p>Hediyeler, Yemekler ve Eğlence</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="3">
+              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <p>Doğru Defter ve Kayıtlar</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="4">
+              <img src="images/Icon_Justice_Large_White.png" />
+              <p>Kanunlara Uyum</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <div class="sliderIcon" data-target="5">
+              <img src="images/Icon_Evalution_Large_White.png" />
+              <p>Adil Rekabet</p>
+              <img src="images/whiteComplete.svg" />
+            </div>
+            <p>Daha fazla bilgi için simgelere tıklayın.</p>
+          </div>
+          <div class="sliderInnerContentContainer">
+            <div class="sliderContent">
+              <img src="images/3_7_1_7.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>RÜŞVETLE MÜCADELE</p>
+                <p>Aktif biçimde dolandırıcılığa, rüşvet vermeye ve yolsuzluğa karşı çıkarız. İşimizi doğru şekilde yaparız.</p>
+                <p>Sağlık meslek mensuplarının bireyler olarak kararlarını şirketlerin teşviklerinden etkilenmeden, hastalar için en iyi olana göre almalarını bekleriz. Aynı şekilde, devlet yetkililerinin kurumsal baskılardan uzak, kamu yararı doğrultusunda hareket etmelerini bekleriz.</p>
+                <p>Abbott olarak sağlık meslek mensuplarını ürünlerimiz hakkında eğitiriz ancak onların bağımsız kararlarına müdahale etmeyiz. Sağlık hizmeti sağlayıcılarına (doktor, eczacı, hemşire, araştırmacı veya laboratuvar personeli gibi), devlet yetkililerine veya diğer kişilere iş elde etmek veya geçmiş ilişkileri ödüllendirmek amacıyla değerli şeyler teklif etmeye asla izin verilmez.</p>
+                <p>ABD Yurt Dışı Yolsuzluk Uygulamaları Yasası da dahil olmak üzere dünya çapında rüşvetle, yolsuzlukla ve bahşişle mücadele yasalarına uyarız. Abbott’taki herkes dağıtımcılar, danışmanlar ve konuşmacılar gibi hizmet sağlayıcılarla ilişkilerini, durum tespiti gerçekleştirerek, adil piyasa değerinde ödeme yaparak, ödemeleri yasalara ve şirket standartlarına uyumu sağlamak için uygun şekilde belgelendirerek dikkatli bir şekilde yönetmelidir.</p>
+              </div>
+            </div>
+            <div class="sliderContent slLeft">
+              <img src="images/3_7_1_8.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>HEDİYELER, YEMEKLER VE EĞLENCE</p>
+                <p>Rüşvetle mücadele ilkeleri doğrultusunda, doğrudan veya dolaylı olarak iş avantajı elde etmek için değerli şeyler teklif etmez veya vermeyiz.</p>
+                <p>İş kararlarına uygunsuz etkide bulunmayı önlemek için hediye, yemek ve eğlence konusunda sınırlamalar koyarız. Abbott politikaları; marka hatırlatıcılarının, kültürel nezakete uygun hediyelerin, ağırlama ve diğer avantajların hiçbir zaman mesleki kararlara müdahale etmemesini sağlamaya yardımcı olur.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_9.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>DOĞRU DEFTER VE KAYITLAR</p>
+                <p>Kazanımları doğru bir şekilde ölçeriz.</p>
+                <p>Abbott’un kayıtları ve kamusal beyanları, çalışmalarımızın gerçek doğasını gösterecek yeterli bağlamla birlikte eylemlerimizi doğru bir şekilde yansıtmalıdır. Mali kayıtlar muhasebe standartlarına, yasalara ve Abbott’un iç politikalarına uygun olmalıdır.</p>
+                <p>Özellikle sağlık meslek mensuplarına yönelik fiyatlandırma, ödemeler veya değerli şeyleri bildirirken, bilgilerin eksiksiz ve doğru olduğundan emin olmalıyız. Pek çok devlet, kamu fonlarını korumak için bu şeffaflığı talep eder. Abbott, devletlerin, sigorta şirketlerinin ve diğer paydaşların bilinçli kararlar alabilmesi için güvenilir veriler sağlamayı taahhüt eder.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_10.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>KANUNLARA UYUM</p>
+                <p>İşimiz için geçerli olan tüm kanunları, düzenlemeleri ve Abbott gerekliliklerini takip ederiz.</p>
+                <p>Her Abbott çalışanının yürürlükteki tüm yasalara, Abbott politikalarına, prosedürlerine ve Kurallara uyması beklenir. Bu, istihdamın temel koşuludur. Abbott’un politikaları sağlık hizmetlerine uyum, kalite, finans, ticaret, güvenlik gibi pek çok önemli alanı kapsayarak yasal gereklilikleri karşılamamıza ve uyumsuzlukları önlememize yardımcı olur.</p>
+                <p>Global bir şirket olarak bir ülkedeki yasaların başka bir ülkedeki çalışmalara uygulanabileceğinin de bilincinde olmalıyız. Şüphe duyduğunuzda Hukuk Bölümünden veya Etik ve Uyum Ofisinden rehberlik isteyin.</p>
+              </div>
+            </div>
+            <div class="sliderContent">
+              <img src="images/3_7_1_11.jpg" alt="" />
+              <div class="sliderRoundShape">.</div>
+              <div class="sliderVerticalBar">.</div>
+              <img class="slClose" src="images/close.svg" />
+              <div class="sliderTextContainer" data-break="true">
+                <p>ADİL REKABET</p>
+                <p>Rakiplerle herhangi bir etkileşimin uygun olduğundan emin oluruz.</p>
+                <p>Abbott olarak faaliyet gösterdiğimiz her yerde rekabet yasalarına uymayı taahhüt ederiz. Bu yasalar, özellikle fiyatlandırma, satış koşulları ve rakiplerle etkileşimlerde adil piyasa uygulamalarını engelleyen anlaşmaları veya eylemleri yasaklar.</p>
+                <p>Rakiplerle fiyatlandırma, maliyetler veya iş planları gibi hassas konuları tartışmaktan kaçının. Sorularınız olduğunda veya uygunsuz bir durumla karşılaştığınızda Hukuk veya Etik ve Uyum Ofisi ile iletişime geçin. Ayrıca rekabet yasaları karmaşık olduğundan ve ihlaller ciddi cezalara yol açabileceğinden, uyumu sağlamak ve rekabete aykırı davranış izlenimini dahi önlemek için üçüncü taraflarla olan ilişkilerimizi dikkatlice yönetmeliyiz.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="C_14" class="screen" data-autoAudio="4_1_1">
+      <div class="confirmationScreen">
+        <div>
+          <p>Bu kurstan ayrılmadan önce, bir dakikanızı ayırarak Abbott İş Davranış Kuralları ile ilgili sorumluluklarınızı anladığınızı onaylayın.</p>
+          <p>Abbott İş Davranış Kuralları ile ilgili sorumluluklarımı anladığımı, geçerli Politika ve Prosedürlerin nerede bulunduğunu bildiğimi ve bunları inceleyeceğimi onaylıyorum.</p>
+          <button class="qcSubmitBtn">Onaylayın</button>
+        </div>
+        <img src="images/confirmIcon.png" />
+      </div>
+    </div>
+    <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
+      <div class="assessIntroScreen">
+        <p>Aşağıdaki Bilgi Kontrolü 10 soruyu içeriyor. Bu kursu başarıyla tamamlamak için %80 veya daha yüksek puan almalısınız.</p>
+        <p>HAZIR OLDUĞUNUZ ZAMAN BİLGİ KONTROLÜ DÜĞMESİNE TIKLAYIN.</p>
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+      </div>
+    </div>
+    <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
+      <div class="testContainer">
+        <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>İş Davranış Kuralları neden önemlidir?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>İşimizde karşılaşabileceğimiz her durum için belirli tavsiyeler sunar.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>İzlenecek en iyi yolun ne olduğuna doğrudan karar verilemediğinde temel alınacak açık ilke ve değerler grubu sunar.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">İleri</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>İş Davranış Kuralları bize izlenecek en iyi yolun ne olduğuna doğrudan karar verilemediğinde temel alınacak açık ilke ve değerler grubu sunar.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Aşağıdakilerden hangisi <span class="underline">asla</span> uygun bir ticari işlem değildir?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Bir SMM’yi becerileri ve uzmanlığı nedeniyle belirli bir hastalık alanı hakkında konuşmak üzere tutmak.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Abbott’un sponsorluğundaki bir eğitim programının katılımcılarına makul bir yemek vermek.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Yerel bir organizasyon için hayır amaçlı bir bağış düzenlemesi yapmak.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Bir SMM’yi Abbott ürünlerini kullandığı için teşekkür etmek amacıyla bir eğitim programını yürütmek üzere tutmak.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">İleri</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Becerileri ve uzmanlıkları nedeniyle bir eğitim programını yürütmek üzere bir SMM’nin tutulmasına izin vardır ancak Abbott ürünlerini kullandığı için bir teşekkür olarak bir SMM’nin tutulması rüşvet olarak algılanabileceği için uygunsuzdur.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Rüşvete ve yolsuzluğa karışan bireyler açısından sonuçlar şunları içerebilir:</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>İtibarın zarar görmesi.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Para cezaları ve yaptırımlar.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>İstihdama son verilmesi.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Hapis cezası.</p>
+            </div>
+            <div class="qOption" data-optNum="5" data-break="true">
+              <p>5</p>
+              <p>Yukarıdakilerin hepsi.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">İleri</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Rüşvete ve yolsuzluğa bulaşan bireyler için sonuçlar arasında itibarın zarar görmesi, para cezaları ve yaptırımlar, istihdama son verilmesi ve hatta hapis cezası bulunabilir.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Bir satış temsilcisinin aynı zamanda küçük bir kuyumcu dükkanı da vardır. Son zamanlarda Abbott ürününü reçete etmemiş olan SMM’lere dükkanından küçük hediyeler vermenin hoş olacağına karar verir. Bu doğru bir karar mıdır?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Evet</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Hayır</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">İleri</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Satış temsilcisi, Abbott temsilcisi olarak hareket ettiğinden, Abbott’un politikasına göre SMM’lere hediye verilmesi yasaktır. Hediyelerin ücretini kendisi ödese bile yasaktır. Hediye vermek aynı zamanda ileride iş yapmak için rüşvet olarak da algılanabilir.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Bir satış müdürüne, rakip şirketteki birinden bir telefon gelir. Rakip firma, Abbott’un yeni bir pazarda anlaşmalı olduğu üçüncü taraf satış ekibinin, rakiplerin ürünleri yerine Abbott ürünlerini tercih eden müşterilere lüks yemekler sunduğunu söyler. Uygun eylem nedir?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Hiçbir şey yapmayın, çünkü bilgi bir rakipten geldi.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Hiçbir şey yapmayın, çünkü o pazarda lüks yemekler yaygındır.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Konuyu derhal Etik ve Uyum Ofisine (OEC) bildirin.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>İddianın doğru olması durumuna karşı alternatif dağıtımcıları araştırın.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">İleri</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Bilgi bir rakipten gelse bile iddianın uygun şekilde araştırılabilmesi için iddiayı derhal Etik ve Uyum Ofisine (OEC) bildirmelisiniz.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>6</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Bir seyahat acentesi, Abbott için gözetmenlik hizmeti sağlayan sağlık meslek mensupları (SMM’ler) için seyahat organizasyonu yapar. Gönderilen makbuzlar incelendiğinde tutarsızlıklar olduğu görülür. Toplam tutar, geri ödeme talebiyle uyuşmaz ve bazı makbuzlarda seyahat tarihleri ​​gibi önemli bilgiler eksiktir.</p>
+              <p>Uygun eylem nedir?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Seyahat acentesine, doğru ve eksiksiz belgeler olmaksızın Abbott’un ödeme yapamayacağını belirtin.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Yalnızca bazı bilgiler eksik olduğuna göre makbuzları işleme koyun.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Bir dahaki sefere daha doğru olması için acenteye tavsiyede bulunun.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Ajans yeni olduğuna göre hiçbir şey yapmayın.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">İleri</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Abbott’un defter ve kayıtları, tüm işlemleri tam ve doğru şekilde yansıtmalıdır. Bu nedenle, Abbott için hizmetler yerine getiren üçüncü tarafların, ticari işlemlerin gerçek amacını ve ayrıntılarını doğru şekilde yansıtan eksiksiz belgeler vermesi çok büyük bir öneme sahiptir.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>7</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>SMM’lerin eğitim amaçlı konferanslara katılmasına sponsor olmaya izin verilen bir bağlı kuruluşta çalışıyorsunuz. Konferansa katılacak SMM’lerin seçilmesi sürecindesiniz. Seçmek için kullandığınız ölçütler şunları içermektedir: (1) konferansın konusunun SMM’nin uzmanlık alanına girip girmediği; (2) Abbott’un bu SMM’ye geçen yıl sponsor olup olmadığı ve (3) bu SMM’nin bu etkinliğe katıldıktan sonra Abbott ürünlerini tavsiye etme veya Abbott cihazlarını kullanma olasılığı bulunup bulunmadığı. Bu ölçütler uygun mudur?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Evet. Kişiler desteklenirken her zaman karşılanması gereken iki temel ölçüt bu desteğin: a) Sağlık Meslek Mensubunun uzmanlık alanı ile ilgili olduğu ve b) iş için bir ödül veya teşvik olarak kullanılmadığıdır. Abbott'un Sağlık Meslek Mensubunu geçtiğimiz yıl destekleyip desteklemediğini kontrol etmeniz bunlardan ikincisini sağlamaya yardımcı olur.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Evet. Sağlık Meslek Mensubunun desteklenme nedeni bu kişiyi etkilemek veya ödüllendirmek olmadığı ( yani kişinin Abbott ürünlerini reçete etmeye devam edip etmeyeceği ) sürece yatırım getirinizi düşünebilirsiniz.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Hayır. Sponsorluk kararları, SMM’nin sponsorluk yapılan bir etkinliğe katıldıktan sonra Abbott ürünlerini tavsiye etmesi veya Abbott cihazlarını kullanması olasılığı bulunduğu faktörüne dayanamaz.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Evet. Ölçütlerden en az birisi uygun olduğu sürece, uygun olmayan ilave ölçütlerin olması önemli değildir.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">İleri</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Sponsorluk kararı ürünlerimizin veya cihazlarımızın daha önce kullanılmış olmasını ödüllendirme veya gelecekte daha fazla kullanılması için bir teşvik olarak verilemez. Sponsorlukların pek çok yetki bölgesinde yasak olduğunu akılda tutun. Bir sponsorluk sağlamadan önce her zaman ilgili iştirakin standartlarına bakınız.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>8</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Bir Abbott satış temsilcisi, bir sağlık meslek mensubunu (SMM) bir ürün hakkında eğitmektedir. Görüşmenin ardından SMM, bir rakibin satışlarını artırma karşılığında kendisine yeni bir iPad teklif ettiğini paylaşır.</p>
+              <p>Uygun eylem nedir?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Rekabeti sürdürmek için aynı teşviki sunun.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>iPad teklifini reddedin ancak sohbete devam etmek için pahalı bir akşam yemeği önerin.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Abbott’un işini doğru şekilde yürüttüğünü ve karar alma sürecini uygunsuz şekilde etkileyebilecek değerli hiçbir şey veremeyeceğinizi açıklayın. Ardından durumu derhal Etik ve Uyum Ofisine (OEC) bildirin.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>SMM’ye bilgi için teşekkür edin ve bu konu üzerinde düşüneceğinize söz verin.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">İleri</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Uygunsuz iş avantajı elde etmek, iş elde etmek veya elde tutmak için herhangi değerli bir şey önermemeli, vaat etmemeli, vermemeli veya almamalısınız. Rakiplerin ne yaptığına bakmaksızın, Abbott'un Global Yolsuzlukla Mücadele Politikası (GLB-YOLSUZLUKLA-MÜCADELE) gereksinimleri dahil olmak üzere geçerli kanunlara ve Abbott politikalarına uymanız gerekir. Şüpheniz olması halinde, her zaman Hukuk bölümü veya OEC ile görüşün.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>9</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Aşağıdakilerden hangileri iş kazanmak için verilmemesi gereken değerli şeylerin örnekleridir?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>SMM’lere ve ailelerine spa’ları, kumarhaneleri veya eğlence ile tanınmış başka yerleri ziyaret etmek için geziler sağlamak.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>Gelecekteki araştırmalar veya öğrenim projeleri için hibeler.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>Devlet görevlilerinin en beğendiği hayır kuruluşlarına bağışlar.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Yukarıdakilerin hepsi.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="next">İleri</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Abbott'un Global Yolsuzlukla Mücadele Politikasında (GLB-YOLSUZLUKLA-MÜCADELE) bulunan rüşvet ve yolsuzluk standartları, dürüst, adil ve doğru bir şekilde iş yapma taahhüdümüzle tutarlıdır. Bu, iş almak için değerli şeylerin verilmesine veya teklif edilmesine asla izin verilmediği anlamına gelir.</p>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
+          <div class="qLeaf">
+            <p>10</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Önemli bir fikir lideri olan bir SMM, Abbott için ek iş fırsatları karşılığında, katılmak istediği bir eğitim programı için destek verip veremeyeceğinizi sorar. En uygun seçenek hangisidir?</p>
+            </div>
+            <div class="qOption" data-optNum="1" data-break="true">
+              <p>1</p>
+              <p>Bu isteğin Abbott’un Yolsuzlukla Mücadele politikasını ihlal ettiğini belirterek bu isteği kesin bir dille reddetmek.</p>
+            </div>
+            <div class="qOption" data-optNum="2" data-break="true">
+              <p>2</p>
+              <p>SMM’ye yöneticinize soracağınızı söylemek.</p>
+            </div>
+            <div class="qOption" data-optNum="3" data-break="true">
+              <p>3</p>
+              <p>SMM çok nüfuzlu bir fikir lideri olduğu için bu isteği kabul etmek.</p>
+            </div>
+            <div class="qOption" data-optNum="4" data-break="true">
+              <p>4</p>
+              <p>Yukarıdakilerin hiçbiri.</p>
+            </div>
+            <button class="qButton" type="button" data-btnVal="submit">Gönder</button>
+            <div data-fb="true" class="feedback" data-break="true">
+              <p>Rüşvetle mücadele ilkeleri doğrultusunda, doğrudan veya dolaylı olarak iş avantajı elde etmek için değerli şeyler teklif etmez veya vermeyiz.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="questionsProgress">.</div>
+    </div>
+    <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
+      <div class="feedbackContainer">
+        <div class="hide" id="feedback0">
+          <p>Bilgi Kontrolünü tamamlamadığınız için hiçbir sonuç mevcut değil.</p>
+        </div>
+        <div class="hide" id="feedback1">
+          <p>Tebrikler! Bilgi Kontrolünü başarılı bir şekilde geçtiniz.</p>
+          <p>Lütfen her bir soruya tıklayarak aldığınız sonuçları inceleyin.</p>
+          <p>Bitirdiğiniz zaman kısa bir ankete katılmak için ileri okuna tıklayın.</p>
+        </div>
+        <div class="hide" id="feedback2">
+          <p>Üzgünüz, Bilgi Kontrolünü geçemediniz. Her bir soruya tıklayarak aldığınız sonuçları incelemek için birkaç dakika ayırın.</p>
+          <p>Tamamladığınız zaman Yeniden Gir düğmesine tıklayın.</p>
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+        </div>
+        <div class="seamless" id="fbResultsContainer" />
+      </div>
+    </div>
+    <div id="C_199" class="screen" data-autoAudio="f_14">
+      <div class="surveyContainer">
+        <div>
+          <p>Ankete katılım isteğe bağlıdır. </p>
+          <p>Önemli: Anketi doldurmayı tercih etseniz de etmeseniz de, kursu tamamlamak ve sonuçlarınızı yüklemek için kurs başlık çubuğundaki ÇIKIŞ (X) simgesine tıklamanız gerekir.</p>
+        </div>
+        <div class="questionScreen" id="Q_1" data-break="true">
+          <div class="qLeaf">
+            <p>1</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Bu kursu genel olarak nasıl değerlendirirsiniz?</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Kötü</p>
+                  <p>Yetersiz</p>
+                  <p>Orta</p>
+                  <p>Çok iyi</p>
+                  <p>Mükemmel</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_2" data-break="true">
+          <div class="qLeaf">
+            <p>2</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Lütfen değerlendirmenizi daha detaylı açıklayın.</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_3" data-break="true">
+          <div class="qLeaf">
+            <p>3</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Bu oturumun sonunda Abbott'un İş Davranış Kurallarını daha iyi kavradım.</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Kesinlikle Katılmıyorum</p>
+                  <p>Katılmıyorum</p>
+                  <p>Kararsızım</p>
+                  <p>Katılıyorum</p>
+                  <p>Kesinlikle Katılıyorum</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_4" data-break="true">
+          <div class="qLeaf">
+            <p>4</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Bu kursta ele alınan içerik işinizle ne ölçüde ilgilidir?</p>
+            </div>
+            <div class="surveyOptions">
+              <div class="starLabelOptions">
+                <div>
+                  <p>Hiç İlgili Değil</p>
+                  <p>Pek İlgili Değil</p>
+                  <p>Kararsızım</p>
+                  <p>Biraz İlgili</p>
+                  <p>Oldukça İlgili</p>
+                </div>
+              </div>
+            </div>
+            <div class="starContainer">
+              <div class="dStar dStar_1">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_2">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_3">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_4">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+              <div class="dStar dStar_5">
+                <svg viewBox="0 0 33 32.28">
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="questionScreen" id="Q_5" data-break="true">
+          <div class="qLeaf">
+            <p>5</p>
+          </div>
+          <div class="nQuestion">
+            <div class="quesText">
+              <p>Bu kursta ele alınan konulardan hangileri hakkında daha fazla bilgi edinmek istersiniz?</p>
+            </div>
+            <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
+          </div>
+        </div>
+        <div>
+          <p class="uploadInstruction">Kursu tamamlamak, verilerinizi yüklemek ve kurs penceresini kapatmak için Yükle düğmesine tıklayın.</p>
+          <button class="surveySubmit">
+            <p>Yükle</p>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="C_200" class="screen helpPage">
+      <p class="resSubtitles">Destek için nereye başvurmalı</p>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Yönetici</p>
+        <p>Abbott dışındaki kişi ve kurumlarla etkileşiminize yönelik sorularınız varsa bu konuda başvurabileceğiniz en iyi kişi yöneticinizdir</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <p>Yazılı Standartlar</p>
+        <ul>
+          <li>Şirketimizin başkalarıyla olan etkileşimlerdeki temel beklentileri için <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">İş Davranış Kurallarına</a> başvurun.</li>
+          <li>Şirket genelinde geçerli kurumsal politikalar ve prosedürler için, <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">Global Politika Portalını</a> ziyaret edin.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <p>Etik ve Uyum Ofisi (OEC)</p>
+        <p>OEC, şirketimizin değerleri ve davranış standartları hakkındaki sorularınızın veya endişelerinizin ele alınması için kullanılabilir bir global kaynaktır.</p>
+        <ul>
+          <li>Abbott World adresindeki <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance/?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">OEC web sitesini</a> ziyaret edin.</li>
+          <li>Şirket içinde veya müşteriler veya diğer üçüncü taraflarla yaptığınız işler sırasında yolsuzluk eylemlerinden endişeleniyorsanız, endişelerinizi OEC (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) veya Hukuk Bölümüne bildirin ya da 7 gün 24 saat kullanılabilen çok dilli <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> hattımızı arayın.</li>
+          <li>iComply – Sağlık Meslek Mensupları ve Sağlık Kurumlarının yanı sıra üçüncü taraflarla etkileşimlerde uyumla ilgili uygulamalar ve kaynaklara erişmek için <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a>’ı ziyaret edin.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>İnsan Kaynakları</p>
+        <p>Yönetim ve/veya diğer çalışanları içeren endişeler gibi çalışanla ilgili sorunlar için, yerel <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">İnsan Kaynakları</a> temsilciniz ile iletişime geçin.</p>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>Hukuk Bölümü</p>
+        <p>Rüşvet ve yolsuzluğun yasal etkileri hakkındaki sorular veya kaygılar için Hukuk Bölümü ile iletişime geçin.</p>
+        <ul>
+          <li>Abbott World üzerindeki Hukuk ana sayfasına erişmek için buraya tıklayın.</li>
+        </ul>
+      </div>
+      <div class="helpSection" data-break="true">
+        <hr class="resourcesRule" />
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <p>DİĞER KAYNAKLAR</p>
+        <p>Size sunulan diğer pek çok kaynak bulunmaktadır:</p>
+        <p>Finans – Sorunuz muhasebe veya finans hakkındaysa, yerel Finans bölümünüzle iletişim kurun.</p>
+        <p>Kurumsal Denetim – Muhasebe, kurum içi muhasebe denetimleri veya denetim konularına ilişkin belirli endişeleriniz varsa, bunları derhal Kurumsal Denetim veya OEC'ye raporlayın.</p>
+        <p>Abbott Kalite ve Düzenleyici – Ürünlerimizin kalitesi ve güvenliği hakkında sorularınız varsa, yerel Kalite veya Düzenleyici bölümümüz ile iletişime geçin.</p>
+        <p>Global Çevre, Sağlık ve Güvenlik – Bir lokasyon ve potansiyel tehlikeleri hakkında sorunuz varsa, bir Global Çevre, Sağlık ve Güvenlik temsilcisi ile iletişime geçin.</p>
+        <p>Global Satınalma – Tedarikçi ilişkileriyle ilgili sorularınız varsa, Global Satınalma bölümüyle iletişime geçin.</p>
+      </div>
+      <p class="resSubtitles" data-break="true">Kurs Kaynakları</p>
+      <div class="helpSection">
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <p>Transkript</p>
+        <p>Kursun tam bir transkripti için <a href="reference/Quick_Reference.pdf" target="_blank">buraya</a> tıklayın</p>
+      </div>
+    </div>
+  </screens>
+  <strings>
+    <s1>Kurs, LMS ile iletişim kuramıyor. Devam etmek ve kursu incelemek için 'TAMAM' düğmesine tıklayın. Not, Kurs Sertifikasyonu mevcut olmayabilir. Çıkış için 'İptal' düğmesine tıklayın</s1>
+    <s2>Tüm sorular yanıtlanmamış durumdadır</s2>
+    <s3>Sorular</s3>
+    <s4>Soru</s4>
+    <s5>yanıtlanmadı</s5>
+    <s6>Bu doğru!</s6>
+    <s7>Bu doğru değil!</s7>
+    <s8>Geri Bildirim:</s8>
+    <s9>İş Davranış Kuralları</s9>
+    <s10>Bilgi Kontrolü</s10>
+    <s11>Gönder</s11>
+    <s12>Yeniden Gir</s12>
+    <s13>Kurs Tanımı: İş Davranış Kurallarımız, günlük çalışmamızda Abbott’u temsil etmemiz nedeniyle, şirketimizin her bir çalışanı hakkındaki beklentilerini açıklayan kritik derecede önemli bir belgedir. Sorumluluklarımız ve Abbott, kendimiz ve hizmet verdiğimiz pek çok kişi için en iyi seçimi yapmamıza yardımcı olan davranışlar için bir temel sağlar. Bu kurs, Kurallar hakkında genel bir bakış sunar. Şirketimizin beklentilerini ve sizin yükümlülüklerinizi özetler ve önümüzdeki en iyi yolu belirlemenin zor olduğu durumlarda ne yapılması gerektiği konusunda pratik tavsiyeler verir. Kursun tamamlanması yaklaşık 35-45 dakika sürecektir.</s13>
+    <s14>Menü</s14>
+    <s15>Kaynaklar</s15>
+    <s16>Başvuru Materyali</s16>
+    <s17>Ses</s17>
+    <s18>Çıkış</s18>
+    <s19>Kapat</s19>
+    <s20>Yorum…</s20>
+  </strings>
+</course>
