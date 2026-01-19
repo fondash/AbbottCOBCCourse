@@ -10633,9 +10633,6 @@ lnx.sliderIcons = {
 
     getResId: function(){
         if(this.screen === 3){
-            if(this.singleScreen){
-                return "inst_single";
-            }   
             return "inst";
         }
         return this.resId + "_" + this.screen;
