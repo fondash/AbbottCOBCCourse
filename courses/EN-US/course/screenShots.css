@@ -19,3 +19,15 @@
 	top: 25px;
 	margin-bottom: 30px;
 }
+
+.sliderContainer {
+    & .sliderInnerContentContainer {
+        & .sliderContent {
+            & .sliderTextContainer {
+                & > p {
+                    font-size: .8rem;
+                }
+            }
+        }
+    }
+}
