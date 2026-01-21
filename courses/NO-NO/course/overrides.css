@@ -1,1 +1,3 @@
-/**/
+div.screen#C_1 > img.fullscreenImg + div {
+    width: 21rem;
+}

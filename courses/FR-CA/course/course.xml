@@ -1133,8 +1133,8 @@
     <div id="C_199" class="screen" data-autoAudio="f_14">
       <div class="surveyContainer">
         <div>
-          <p>${C_199.1}</p>
-          <p>${C_199.2}</p>
+          <p>Le sondage est optionnel.      </p>
+          <p>Important : Que vous choisissiez ou non de répondre au sondage, vous devez cliquer sur l'icône EXIT (X) dans la barre de titre du cours pour terminer le cours et téléverser vos résultats.</p>
         </div>
         <div class="questionScreen" id="Q_1" data-break="true">
           <div class="qLeaf">
@@ -1142,16 +1142,16 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.3}</p>
+              <p>Comment évaluez-vous ce cours dans son ensemble?</p>
             </div>
             <div class="surveyOptions">
               <div class="starLabelOptions">
                 <div>
-                  <p>${C_199.4}</p>
-                  <p>${C_199.5}</p>
-                  <p>${C_199.6}</p>
-                  <p>${C_199.7}</p>
-                  <p>${C_199.8}</p>
+                  <p>Mauvais</p>
+                  <p>Faible</p>
+                  <p>Moyen</p>
+                  <p>Très bon</p>
+                  <p>Excellent</p>
                 </div>
               </div>
             </div>
@@ -1190,7 +1190,7 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.9}</p>
+              <p>Veuillez expliquer votre évaluation.</p>
             </div>
             <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
           </div>
@@ -1249,16 +1249,16 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.16}</p>
+              <p>Dans quelle mesure le contenu de ce cours est-il pertinent pour votre travail?</p>
             </div>
             <div class="surveyOptions">
               <div class="starLabelOptions">
                 <div>
-                  <p>${C_199.17}</p>
-                  <p>${C_199.18}</p>
-                  <p>${C_199.19}</p>
-                  <p>${C_199.20}</p>
-                  <p>${C_199.21}</p>
+                  <p>Pas du tout pertinent</p>
+                  <p>Pas vraiment pertinent</p>
+                  <p>Incertain</p>
+                  <p>Assez pertinent</p>
+                  <p>Très pertinent</p>
                 </div>
               </div>
             </div>
@@ -1297,15 +1297,15 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.22}</p>
+              <p>Parmi les sujets abordés dans ce cours, quels sont ceux sur lesquels vous aimeriez en apprendre davantage?</p>
             </div>
             <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
           </div>
         </div>
         <div>
-          <p class="uploadInstruction">${C_199.23}</p>
+          <p class="uploadInstruction">Cliquez sur le bouton « Téléverser » pour terminer le cours, téléverser vos données et fermer la fenêtre du cours.</p>
           <button class="surveySubmit">
-            <p>${C_199.24}</p>
+            <p>Téléverser</p>
           </button>
         </div>
       </div>

@@ -1,1 +1,7 @@
-/**/
+.sliderContainer {
+    & .sliderIconContainer {
+        & > p {
+            top: 0rem;
+        }
+    }
+}

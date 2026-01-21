@@ -1,1 +1,7 @@
-/**/
+#moduleTitle{
+    position: relative;
+    top: -0.25rem;
+}
+div.screen#C_1 > img.fullscreenImg + div {
+    width: 21rem;
+}
