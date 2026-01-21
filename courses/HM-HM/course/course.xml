@@ -1133,8 +1133,8 @@
     <div id="C_199" class="screen" data-autoAudio="f_14">
       <div class="surveyContainer">
         <div>
-          <p>${C_199.1}</p>
-          <p>${C_199.2}</p>
+          <p>Qhov kev tshawb fawb no yog xaiv tau.      </p>
+          <p>Tseem ceeb: Txawm koj yuav xaiv ua kom tiav daim ntawv ntsuam xyuas los yog tsis ua, koj yuav tsum nyem lub cim (icon) EXIT (X) nyob rau hauv cov chav kawm lub npe bar kom tiav cov chav kawm thiab rub (upload) koj cov txiaj ntsig nkag mus.</p>
         </div>
         <div class="questionScreen" id="Q_1" data-break="true">
           <div class="qLeaf">
@@ -1142,16 +1142,16 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.3}</p>
+              <p>Koj yuav ntaus nqi rau qhov kev kawm tag nrho li cas?</p>
             </div>
             <div class="surveyOptions">
               <div class="starLabelOptions">
                 <div>
-                  <p>${C_199.4}</p>
-                  <p>${C_199.5}</p>
-                  <p>${C_199.6}</p>
-                  <p>${C_199.7}</p>
-                  <p>${C_199.8}</p>
+                  <p>Phem</p>
+                  <p>Tsis zoo</p>
+                  <p>Nruab nrab</p>
+                  <p>Zoo</p>
+                  <p>Zoo heev</p>
                 </div>
               </div>
             </div>
@@ -1190,7 +1190,7 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.9}</p>
+              <p>Thov piav qhia koj qhov kev ntaus nqi ntxiv.</p>
             </div>
             <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
           </div>
@@ -1249,16 +1249,16 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.16}</p>
+              <p>Cov ntsiab lus hauv chav kawm no cuam tshuam li cas rau koj txoj hauj lwm?</p>
             </div>
             <div class="surveyOptions">
               <div class="starLabelOptions">
                 <div>
-                  <p>${C_199.17}</p>
-                  <p>${C_199.18}</p>
-                  <p>${C_199.19}</p>
-                  <p>${C_199.20}</p>
-                  <p>${C_199.21}</p>
+                  <p>Tsis Cuam Tshuam Hlo Li</p>
+                  <p>Tsis Tshua Cuam Tshuam</p>
+                  <p>Tab Tom Xaiv</p>
+                  <p>Qee Yam Cuam Tshuam</p>
+                  <p>Cuam Tshuam Heev</p>
                 </div>
               </div>
             </div>
@@ -1297,15 +1297,15 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.22}</p>
+              <p>Lub ntsiab lus twg uas muaj nyob hauv chav kawm no uas koj xav kawm ntxiv txog?</p>
             </div>
             <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
           </div>
         </div>
         <div>
-          <p class="uploadInstruction">${C_199.23}</p>
+          <p class="uploadInstruction">Nyem lub pob Upload txhawm rau los ua kom tiav cov chav kawm, rub koj cov ntaub ntawv nkag mus, thiab kaw lub qhov rais chav kawm.</p>
           <button class="surveySubmit">
-            <p>${C_199.24}</p>
+            <p>Rub nkag</p>
           </button>
         </div>
       </div>

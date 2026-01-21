@@ -20,14 +20,14 @@
 	margin-bottom: 30px;
 }
 
-.sliderContainer {
+/* .sliderContainer {
     & .sliderInnerContentContainer {
         & .sliderContent {
             & .sliderTextContainer {
                 & > p {
-                    font-size: .8rem;
+                    font-size: .7rem;
                 }
             }
         }
     }
-}
+} */

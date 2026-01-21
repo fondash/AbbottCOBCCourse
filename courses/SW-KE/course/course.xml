@@ -1133,8 +1133,8 @@
     <div id="C_199" class="screen" data-autoAudio="f_14">
       <div class="surveyContainer">
         <div>
-          <p>${C_199.1}</p>
-          <p>${C_199.2}</p>
+          <p>Utafiti huu ni wa hiari.      </p>
+          <p>Muhimu: Iwe utachagua kukamilisha utafiti huu au la, lazima ubofye ikoni ya TOKA (X) katika upau wa kichwa cha kozi ili ukamilishe kozi na upakie matokeo yako.</p>
         </div>
         <div class="questionScreen" id="Q_1" data-break="true">
           <div class="qLeaf">
@@ -1142,16 +1142,16 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.3}</p>
+              <p>Unawezaje kutathmini kozi hii kwa ujumla?</p>
             </div>
             <div class="surveyOptions">
               <div class="starLabelOptions">
                 <div>
-                  <p>${C_199.4}</p>
-                  <p>${C_199.5}</p>
-                  <p>${C_199.6}</p>
-                  <p>${C_199.7}</p>
-                  <p>${C_199.8}</p>
+                  <p>Mbaya</p>
+                  <p>Duni</p>
+                  <p>Wastani</p>
+                  <p>Nzuri</p>
+                  <p>Bora kabisa</p>
                 </div>
               </div>
             </div>
@@ -1190,7 +1190,7 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.9}</p>
+              <p>Tafadhali eleza zaidi tathmini yako.</p>
             </div>
             <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
           </div>
@@ -1249,16 +1249,16 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.16}</p>
+              <p>Je, ni kwa kiasi gani maudhui yanayoshughulikiwa katika kozi hii yanahusiana na kazi yako?</p>
             </div>
             <div class="surveyOptions">
               <div class="starLabelOptions">
                 <div>
-                  <p>${C_199.17}</p>
-                  <p>${C_199.18}</p>
-                  <p>${C_199.19}</p>
-                  <p>${C_199.20}</p>
-                  <p>${C_199.21}</p>
+                  <p>Hayahusiani Hata Kidogo</p>
+                  <p>Hayahusiani Viile</p>
+                  <p>Sijaamua</p>
+                  <p>Yanahusiani Kiasi</p>
+                  <p>Yanahusiani Sana</p>
                 </div>
               </div>
             </div>
@@ -1297,15 +1297,15 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.22}</p>
+              <p>Ni mada gani kati ya zilizoshughulikiwa katika kozi hii ungependa kujifunza zaidi?</p>
             </div>
             <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
           </div>
         </div>
         <div>
-          <p class="uploadInstruction">${C_199.23}</p>
+          <p class="uploadInstruction">Bofya kitufe cha Pakia ili ukamilishe kozi, upakie data yako, na ufunge dirisha la kozi.</p>
           <button class="surveySubmit">
-            <p>${C_199.24}</p>
+            <p>Pakia</p>
           </button>
         </div>
       </div>
@@ -1333,7 +1333,7 @@
         <p>Ofisi ya Maadili na Uzingatiaji wa Sheria (OEC)</p>
         <p>OEC ni rasilimali ya kimataifa inayopatikana ili kushughulikia maswali au wasiwasi wako kuhusu maadili na viwango vya mwenendo vya kampuni yetu.</p>
         <ul>
-          <li>Tembelea <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">ukurasa wa tovuti wa OEC</a> kwenye Abbott World.</li>
+          <li>Tembelea <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance/?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">ukurasa wa tovuti wa OEC</a> kwenye Abbott World.</li>
           <li>Ikiwa una wasiwasi wowote kuhusu shughuli za kifisadi za biashara, iwe ndani ya kampuni au katika shughuli zako na wateja au wahusika wengine, unaweza kuripoti matatizo yako kwa OEC (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) au kwa Kitengo cha Kisheria, au piga simu kwa huduma yetu ya lugha nyingi ya <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> inayopatikana kote duniani 24/7.</li>
           <li>iComply – Tembelea <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> ili kufikia programu na rasilimali zinazohusiana na uzingatiaji wa sheria zinazolenga mwingiliano na Wataalamu wa Huduma za Afya na Mashirika ya Afya, pamoja na wahusika wengine.</li>
         </ul>
@@ -1368,7 +1368,7 @@
       <div class="helpSection">
         <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
         <p>Nakala</p>
-        <p>Bofya <a href="reference/Quick_Reference.pdf" target="_blank">hapa</a> kwa nakala kamili ya kozi</p>
+        <p>Bofya <a href="reference/Transcript.pdf" target="_blank">hapa</a> kwa nakala kamili ya kozi</p>
       </div>
     </div>
   </screens>

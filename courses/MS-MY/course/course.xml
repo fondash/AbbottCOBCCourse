@@ -1133,8 +1133,8 @@
     <div id="C_199" class="screen" data-autoAudio="f_14">
       <div class="surveyContainer">
         <div>
-          <p>${C_199.1}</p>
-          <p>${C_199.2}</p>
+          <p>Tinjauan ini adalah pilihan.      </p>
+          <p>Penting: Sama ada anda pilih untuk melengkapkan tinjauan ataupun tidak, anda mesti klik pada ikon KELUAR (X) dalam bar tajuk kursus untuk melengkapkan kursus dan memuat naik keputusan anda.</p>
         </div>
         <div class="questionScreen" id="Q_1" data-break="true">
           <div class="qLeaf">
@@ -1142,16 +1142,16 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.3}</p>
+              <p>Bagaimanakah anda akan menilai kursus ini secara keseluruhan?</p>
             </div>
             <div class="surveyOptions">
               <div class="starLabelOptions">
                 <div>
-                  <p>${C_199.4}</p>
-                  <p>${C_199.5}</p>
-                  <p>${C_199.6}</p>
-                  <p>${C_199.7}</p>
-                  <p>${C_199.8}</p>
+                  <p>Sangat Teruk</p>
+                  <p>Teruk</p>
+                  <p>Sederhana</p>
+                  <p>Bagus</p>
+                  <p>Sangat Bagus</p>
                 </div>
               </div>
             </div>
@@ -1190,7 +1190,7 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.9}</p>
+              <p>Sila huraikan penilaian anda dengan lebih lanjut.</p>
             </div>
             <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
           </div>
@@ -1249,16 +1249,16 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.16}</p>
+              <p>Sejauh manakah kandungan yang diliputi dalam kursus ini ada kaitan dengan kerja anda?</p>
             </div>
             <div class="surveyOptions">
               <div class="starLabelOptions">
                 <div>
-                  <p>${C_199.17}</p>
-                  <p>${C_199.18}</p>
-                  <p>${C_199.19}</p>
-                  <p>${C_199.20}</p>
-                  <p>${C_199.21}</p>
+                  <p>Langsung Tidak Berkaitan</p>
+                  <p>Tidak Berkaitan Sangat</p>
+                  <p>Tidak Dapat Memutuskan</p>
+                  <p>Sedikit Berkaitan</p>
+                  <p>Sangat Berkaitan</p>
                 </div>
               </div>
             </div>
@@ -1297,15 +1297,15 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.22}</p>
+              <p>Apakah topik dalam kursus ini yang anda mahu pelajari dengan lebih lanjut?</p>
             </div>
             <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
           </div>
         </div>
         <div>
-          <p class="uploadInstruction">${C_199.23}</p>
+          <p class="uploadInstruction">Klik pada butang Muat Naik untuk melengkapkan kursus, muat naik data anda dan tutup tetingkap kursus.</p>
           <button class="surveySubmit">
-            <p>${C_199.24}</p>
+            <p>Muat Naik</p>
           </button>
         </div>
       </div>
@@ -1333,7 +1333,7 @@
         <p>Pejabat Etika dan Pematuhan (OEC)</p>
         <p>Pejabat Etika dan Pematuhan ialah sumber korporat yang disediakan untuk menjawab soalan atau kebimbangan anda tentang nilai dan standard pengendalian syarikat kita.</p>
         <ul>
-          <li>Kunjungi <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">halaman web Pejabat Etika dan Pematuhan</a> pada Abbott World.</li>
+          <li>Kunjungi <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance/?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">halaman web Pejabat Etika dan Pematuhan</a> pada Abbott World.</li>
           <li>Jika anda ada sebarang kebimbangan tentang aktiviti perniagaan rasuah, sama ada dalam syarikat atau dalam urusan anda dengan pelanggan atau pihak ketiga lain, anda boleh melaporkan kebimbangan anda kepada Pejabat Etika dan Pematuhan (<a href="mailto:investigations@abbott.com">investigations@abbott.com</a>) atau Unit Undang-Undang atau hubungi <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> pelbagai bahasa kita yang tersedia secara global 24/7.</li>
           <li>iComply – Kunjungi <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> untuk mengakses sumber dan aplikasi berkaitan pematuhan yang disediakan untuk interaksi dengan Profesional Penjagaan Kesihatan dan Organisasi Penjagaan Kesihatan, serta pihak ketiga.</li>
         </ul>
@@ -1368,7 +1368,7 @@
       <div class="helpSection">
         <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
         <p>Transkrip</p>
-        <p>Klik <a href="reference/Quick_Reference.pdf" target="_blank">di sini</a> untuk transkrip lengkap kursus</p>
+        <p>Klik <a href="reference/Transcript.pdf" target="_blank">di sini</a> untuk transkrip lengkap kursus</p>
       </div>
     </div>
   </screens>

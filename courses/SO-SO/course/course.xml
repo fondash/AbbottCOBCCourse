@@ -1133,8 +1133,8 @@
     <div id="C_199" class="screen" data-autoAudio="f_14">
       <div class="surveyContainer">
         <div>
-          <p>${C_199.1}</p>
-          <p>${C_199.2}</p>
+          <p>Xog aruurintaan waa ikhtiyaari.      </p>
+          <p>Muhiim ah: Haddii aad doorbideyso inaad dhameystirto xog aruurinta iyo haddii kale, waa inaad gujisaa astaanta KA BAX (X) ee qeybta ciwaanka koorsada si aad u dhameystirto koorsada aadna u soo gelisid natiijooyinkaaga.</p>
         </div>
         <div class="questionScreen" id="Q_1" data-break="true">
           <div class="qLeaf">
@@ -1142,16 +1142,16 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.3}</p>
+              <p>Sidee baad ku qiimeyn lahayd koorsadaan guud ahaan?</p>
             </div>
             <div class="surveyOptions">
               <div class="starLabelOptions">
                 <div>
-                  <p>${C_199.4}</p>
-                  <p>${C_199.5}</p>
-                  <p>${C_199.6}</p>
-                  <p>${C_199.7}</p>
-                  <p>${C_199.8}</p>
+                  <p>Mid Xun</p>
+                  <p>Mid Liidata</p>
+                  <p>Dhexdhexaad</p>
+                  <p>Wanaagsan</p>
+                  <p>Cajiib</p>
                 </div>
               </div>
             </div>
@@ -1190,7 +1190,7 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.9}</p>
+              <p>Fadlan sii sharax qiimeyntaada.</p>
             </div>
             <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
           </div>
@@ -1249,16 +1249,16 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.16}</p>
+              <p>Ilaa xad intee le’eg ayaad xogta looga hadlay koorsadaan uu ku haboonyahay shaqadaada?</p>
             </div>
             <div class="surveyOptions">
               <div class="starLabelOptions">
                 <div>
-                  <p>${C_199.17}</p>
-                  <p>${C_199.18}</p>
-                  <p>${C_199.19}</p>
-                  <p>${C_199.20}</p>
-                  <p>${C_199.21}</p>
+                  <p>Gebi ahaanba Kuma Haboona</p>
+                  <p>Dhab ahaantii Kuma Haboona</p>
+                  <p>Ma go’aansan</p>
+                  <p>Xogaa Ku Haboon</p>
+                  <p>Aad Ugu Haboon</p>
                 </div>
               </div>
             </div>
@@ -1297,15 +1297,15 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.22}</p>
+              <p>Mawduucyadee looga hadlay koorsadaan ayaad jeclaan lahayd inaad xog dheeraad ah ka barato?</p>
             </div>
             <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
           </div>
         </div>
         <div>
-          <p class="uploadInstruction">${C_199.23}</p>
+          <p class="uploadInstruction">Guji badhanka Soo-geli si aad u dhameystirto koorsadaan, soo geli xogtaada, oo xir shaashada koorsada.</p>
           <button class="surveySubmit">
-            <p>${C_199.24}</p>
+            <p>Soo-geli</p>
           </button>
         </div>
       </div>

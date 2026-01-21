@@ -1133,8 +1133,8 @@
     <div id="C_199" class="screen" data-autoAudio="f_14">
       <div class="surveyContainer">
         <div>
-          <p>${C_199.1}</p>
-          <p>${C_199.2}</p>
+          <p>यह सर्वेक्षण वैकल्पिक है।      </p>
+          <p>महत्वपूर्ण: चाहे आप सर्वेक्षण पूरा करना चाहें या न चाहें, आपको इस पाठ्यक्रम को पूरा करने और अपने परिणामों को अपलोड करने के लिए पाठ्यक्रम टाइटल बार में बाहर निकलें (X) आइकन पर क्लिक करना होगा।</p>
         </div>
         <div class="questionScreen" id="Q_1" data-break="true">
           <div class="qLeaf">
@@ -1142,16 +1142,16 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.3}</p>
+              <p>आप कुल मिलाकर इस पाठ्यक्रम को कैसी रेटिंग देंगे?</p>
             </div>
             <div class="surveyOptions">
               <div class="starLabelOptions">
                 <div>
-                  <p>${C_199.4}</p>
-                  <p>${C_199.5}</p>
-                  <p>${C_199.6}</p>
-                  <p>${C_199.7}</p>
-                  <p>${C_199.8}</p>
+                  <p>बुरा</p>
+                  <p>खराब</p>
+                  <p>औसत</p>
+                  <p>शानदार</p>
+                  <p>बेहतरीन</p>
                 </div>
               </div>
             </div>
@@ -1190,7 +1190,7 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.9}</p>
+              <p>कृपया अपनी रेटिंग का अधिक विस्तार से वर्णन करें।</p>
             </div>
             <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
           </div>
@@ -1249,16 +1249,16 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.16}</p>
+              <p>इस पाठ्यक्रम में कवर की गई सामग्री आपके काम के लिए किस हद तक प्रासंगिक है?</p>
             </div>
             <div class="surveyOptions">
               <div class="starLabelOptions">
                 <div>
-                  <p>${C_199.17}</p>
-                  <p>${C_199.18}</p>
-                  <p>${C_199.19}</p>
-                  <p>${C_199.20}</p>
-                  <p>${C_199.21}</p>
+                  <p>बिल्कुल भी प्रासंगिक नहीं है</p>
+                  <p>वास्तव में प्रासंगिक नहीं है</p>
+                  <p>अनिश्चित</p>
+                  <p>कुछ हद तक प्रासंगिक</p>
+                  <p>बहुत प्रासंगिक</p>
                 </div>
               </div>
             </div>
@@ -1297,15 +1297,15 @@
           </div>
           <div class="nQuestion">
             <div class="quesText">
-              <p>${C_199.22}</p>
+              <p>इस पाठ्यक्रम में कवर किए गए किन विषयों के बारे में आप अधिक जानना चाहेंगे?</p>
             </div>
             <textarea name="textarea" rows="5" cols="93" placeholder="Comment..." maxlength="900">.</textarea>
           </div>
         </div>
         <div>
-          <p class="uploadInstruction">${C_199.23}</p>
+          <p class="uploadInstruction">पाठ्यक्रम को पूरा करने, अपना डेटा अपलोड करने और पाठ्यक्रम विंडो को बंद करने के लिए अपलोड करें बटन पर क्लिक करें।</p>
           <button class="surveySubmit">
-            <p>${C_199.24}</p>
+            <p>अपलोड करें</p>
           </button>
         </div>
       </div>
@@ -1323,8 +1323,8 @@
         <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
         <p>लिखित मानक</p>
         <ul>
-          <li>अन्यों के साथ परस्पर-संबंधों के बारे में हमारी कंपनी की आधारभूत अपेक्षाओं के लिए, हमारी <a href="http:/rusnakassociates.com/content/AbbottCOBCCourse/courses/EN-US/course/index.html" target="_blank">व्यवसाय आचार संहिता</a> के देखें।</li>
-          <li>कंपनी-वार लागू हमारी कॉरपोरेट नीतियों और प्रक्रियाओं के लिए, <a href="http:/rusnakassociates.com/content/AbbottCOBCCourse/courses/EN-US/course/index.html" target="_blank">ग्लोबल पॉलिसी पोर्टल</a> पर जाएं।</li>
+          <li>अन्यों के साथ परस्पर-संबंधों के बारे में हमारी कंपनी की आधारभूत अपेक्षाओं के लिए, हमारी <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">व्यवसाय आचार संहिता</a> के देखें।</li>
+          <li>कंपनी-वार लागू हमारी कॉरपोरेट नीतियों और प्रक्रियाओं के लिए, <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">ग्लोबल पॉलिसी पोर्टल</a> पर जाएं।</li>
         </ul>
       </div>
       <div class="helpSection" data-break="true">
@@ -1333,7 +1333,7 @@
         <p>नैतिकता व अनुपालन विभाग (OEC)</p>
         <p>OEC, हमारी कंपनी के मूल्यों और व्यवहार मानकों के बारे में आपके प्रश्नों या चिंताओं को हल करने के लिए उपलब्ध एक वैश्विक संसाधन है।</p>
         <ul>
-          <li>Abbott वर्ल्ड पर <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">OEC वेबपेज़</a> पर जाएं।</li>
+          <li>Abbott वर्ल्ड पर <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance/?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">OEC वेबपेज़</a> पर जाएं।</li>
           <li>यदि आपके भ्रष्टाचार कारोबारी गतिविधियों, कंपनी के अंदर या ग्राहकों के साथ आपके कार्य-व्यवहार में या अन्य तृतीय पक्षों के बारे में कोई प्रश्न हैं, तो आप अपनी चिंताओं की रिपोर्ट OEC (<a href="mailto:investigations@abbott.com">investigations@Abbott.com</a>) या कानूनी विभाग को कर सकते हैं या हमारे वैश्विक रूप से 24/7 उपलब्ध बहुभाषी <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> पर कॉल करें।</li>
           <li>iComply – स्वास्थ्य-देखभाल पेशेवरों और स्वास्थ्य-देखभाल संगठनों के साथ-साथ तृतीय पक्षों के साथ बातचीत के लिए अनुपालन से संबंधित एप्लिकेशन्स और संसाधनों को एक्सेस करने के लिए <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a> पर जाएं।</li>
         </ul>
@@ -1342,7 +1342,7 @@
         <hr class="resourcesRule" />
         <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
         <p>मानव संसाधन</p>
-        <p>कर्मचारी-संबंधित मुद्दों के लिए, जैसे प्रबंधन और/या अन्य कर्मचारियों से संबंधित चिंताएं, अपने स्थानीय <a href="http:/rusnakassociates.com/content/AbbottCOBCCourse/courses/EN-US/course/index.html" target="_blank">मानव संसाधन प्रतिनिधि</a> से संपर्क करें।</p>
+        <p>कर्मचारी-संबंधित मुद्दों के लिए, जैसे प्रबंधन और/या अन्य कर्मचारियों से संबंधित चिंताएं, अपने स्थानीय <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">मानव संसाधन प्रतिनिधि</a> से संपर्क करें।</p>
       </div>
       <div class="helpSection" data-break="true">
         <hr class="resourcesRule" />
@@ -1368,7 +1368,7 @@
       <div class="helpSection">
         <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
         <p>ट्रांस्क्रिप्ट</p>
-        <p>कोर्स की पूरी ट्रांस्क्रिप्शन के लिए <a href="http:/rusnakassociates.com/content/AbbottCOBCCourse/courses/EN-US/course/index.html" target="_blank">यहाँ</a> क्लिक करें।</p>
+        <p>कोर्स की पूरी ट्रांस्क्रिप्शन के लिए <a href="reference/Transcript.pdf" target="_blank">यहाँ</a> क्लिक करें।</p>
       </div>
     </div>
   </screens>
