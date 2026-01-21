@@ -20,7 +20,7 @@
 	margin-bottom: 30px;
 }
 
-/* .sliderContainer {
+.sliderContainer {
     & .sliderInnerContentContainer {
         & .sliderContent {
             & .sliderTextContainer {
@@ -30,4 +30,4 @@
             }
         }
     }
-} */
+}
