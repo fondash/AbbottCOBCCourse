@@ -57,7 +57,7 @@
         <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
       </nav>
       <nav navId="B_16" title="Évaluation">
-        <nav navId="C_16" type="assessment" resId="5_2_1" classType="T" />
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T"/>
       </nav>
       <nav navId="B_17" title="Rétroaction">
         <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
