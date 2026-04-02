@@ -1,90 +1,90 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
   <toc>
     <nav navId="A_1" title="歡迎" description="5 minutes" timing="0" required="false">
       <nav navId="B_1" title="業務行為準則">
-        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st"/>
       </nav>
       <nav navId="B_2" title="我們的理念">
-        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f"/>
       </nav>
       <nav navId="B_3" title="目標">
-        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f"/>
       </nav>
       <nav navId="B_4" title="目錄">
-        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc"/>
       </nav>
     </nav>
     <nav navId="A_2" title="亞培《業務行為準則》的重要性" description="2 minutes" timing="0" required="true">
       <nav navId="B_5" title="我們的日常承諾">
-        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f"/>
       </nav>
       <nav navId="B_6" title="《準則》對我們業務的重要性">
-        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f"/>
       </nav>
     </nav>
     <nav navId="A_3" title="我們的《準則》" description="20 minutes" timing="0" required="true">
       <nav navId="B_7" title="概述">
-        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f"/>
       </nav>
       <nav navId="B_8" title="我們的客戶">
-        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request"/>
       </nav>
       <nav navId="B_9" title="我們的產品">
-        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request"/>
       </nav>
       <nav navId="B_10" title="促進科學">
-        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request"/>
       </nav>
       <nav navId="B_11" title="我們的成員">
-        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request"/>
       </nav>
       <nav navId="B_12" title="我們的社區">
-        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request"/>
       </nav>
       <nav navId="B_13" title="我們的運營方式">
-        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
-        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request"/>
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request"/>
       </nav>
     </nav>
     <nav navId="A_4" title="您的承諾" description="4 minutes" timing="0" required="true">
       <nav navId="B_14" title="您的承諾">
-        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true"/>
       </nav>
     </nav>
     <nav navId="A_5" title="知識測驗" description="5 minutes" timing="0" required="true">
       <nav navId="B_15" title="簡介">
-        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I"/>
       </nav>
       <nav navId="B_16" title="評估">
-        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T"/>
       </nav>
       <nav navId="B_17" title="意見回饋">
-        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E"/>
       </nav>
       <nav navId="B_18" title="調查">
-        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su"/>
       </nav>
     </nav>
   </toc>
   <screens>
     <div id="C_1" class="screen" data-autoAudio="0">
-      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <img src="images/1_1_1.jpg" class="fullscreenImg"/>
       <div>
-        <img src="images/logo.svg" class="coLogo" />
+        <img src="images/logo.svg" class="coLogo"/>
         <p>業務行為準則</p>
       </div>
       <p class="startInstruction">點選前進箭頭。</p>
     </div>
     <div id="C_2" class="screen" data-autoAudio="1_2_1">
-      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <img src="images/1_2_1.jpg" class="fullscreenImg"/>
       <div>
         <p>作為全球醫療保健業的領先者，我們每一天所做的事項都很緊要。</p>
         <p>我們的《業務行為準則》是一份強效的指南，賦予我們能力而做到以誠信行事、以目標引領，並做出能反映我們最好一面的選擇。它是我們建立信任、堅持我們的價值觀，並持續對這個世界大有作為的方式。</p>
       </div>
     </div>
     <div id="C_3" class="screen" data-autoAudio="1_3_1">
-      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <img src="images/1_3_1.jpg" class="fullscreenImg"/>
       <div>
         <p>在完成本課程之後，您將：</p>
         <ul>
@@ -102,8 +102,8 @@
             <p>1</p>
             <p>歡迎</p>
             <p>1 分鐘</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -112,8 +112,8 @@
             <p>2</p>
             <p>亞培《業務行為準則》的重要性</p>
             <p>2 分鐘</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -122,8 +122,8 @@
             <p>3</p>
             <p>我們的《準則》</p>
             <p>18 分鐘</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -132,8 +132,8 @@
             <p>4</p>
             <p>您的承諾</p>
             <p>1 分鐘</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -142,8 +142,8 @@
             <p>5</p>
             <p>知識測驗</p>
             <p>5 分鐘</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -153,29 +153,29 @@
           <p>學習進度</p>
           <p class="pcDisplay">.</p>
           <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
-            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
-            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
           </svg>
         </div>
         <p class="tocUiMsg">此主題現可供學習。</p>
       </div>
     </div>
     <div id="C_5" class="screen" data-autoAudio="2_1_1">
-      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <img src="images/2_1_1.jpg" class="fullscreenImg"/>
       <div>
         <p>我們以誠信、公平和誠實為引領。每個人。每一天。</p>
         <p>我們的《業務行為準則》提醒我們，誠信、公平和誠實不僅僅是理念——更是日常要致力實現的承諾。雖然本《準則》預料不到我們可能面臨的每一個挑戰，但它提供了一個強大的、可引導我們的價值觀基準。</p>
       </div>
     </div>
     <div id="C_6" class="screen" data-autoAudio="2_2_1">
-      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <img src="images/2_2_1.jpg" class="fullscreenImg"/>
       <div>
         <p>我們致力於達到最高標準。</p>
         <p>《業務行為準則》是亞培成功的關鍵所在，因為它為我們以誠信、公平和誠實的方式工作設定了標準。它幫助我們做出合乎道德的決定，尤其是在複雜情況下的決定，並確保我們與公司的價值觀保持一致。透過遵守《準則》，我們保護了公司的聲譽、與我們的服務對象建立了信任，並培養起一種正確行事至高無上的職場文化。</p>
       </div>
     </div>
     <div id="C_7" class="screen" data-autoAudio="3_1_1">
-      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <img src="images/3_1_1.jpg" class="fullscreenImg"/>
       <div>
         <p>理解《準則》是每位員工的責任。</p>
         <p>我們每位員工都有責任將《業務行為準則》付諸於我們的日常工作與決定。《準則》不只是一份文檔，它是幫助我們以誠信和信心應對挑戰的指引。</p>
@@ -192,38 +192,38 @@
           <div>
             <p>這是一個提醒，貫穿在每個決定、每個創新和每個行動的背後都是同一個目標——讓生活更美好。</p>
           </div>
-          <img src="images/3_2_1.jpg" alt="" />
+          <img src="images/3_2_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <img src="images/Icon_Family V3 Full Body_Large_White.png"/>
               <p>患者與消費者</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <img src="images/Icon_Healthcare Workers_Large_White.png"/>
               <p>醫護人員</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>點選每個圖示以進一步瞭解。</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_2_1_2.jpg" alt="" />
+              <img src="images/3_2_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>患者與消費者</p>
                 <p>照護人們是我們工作的核心。我們將患者與消費者的健康與福祉置於首位。我們每天都能有所作為——幫助人們過上更健康的生活，並為建立更強大、更健康的社區貢獻力量。</p>
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_2_1_3.jpg" alt="" />
+              <img src="images/3_2_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>醫護人員</p>
                 <p>我們與 HCP 合作，共同增進更好的健康。我們尊重醫護人員（醫師、護理師、藥師、研究人員還是實驗室職員皆然）的知識和獨立判斷。對於引導患者獲得更好的健康，他們的作用不可或缺。</p>
@@ -245,33 +245,33 @@
             <p>我們採取措施確保我們的產品安全有效——從選擇正確的材料到行銷、銷售和交付產品的方式，都嚴格把關。在每個階段，我們都遵循高品質標準。</p>
             <p>我們也致力於及時辨識、評估和解決產品安全問題，並採取行動防範我們的產品被偽造、非法轉用和竊取。</p>
           </div>
-          <img src="images/3_3_1.jpg" alt="" />
+          <img src="images/3_3_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <img src="images/Icon_Nutrition Products V2_Large_White.png"/>
               <p>產品品質</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Food Label_Large_White.png" />
+              <img src="images/Icon_Food Label_Large_White.png"/>
               <p>產品推廣 I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <img src="images/Icon_Patient Interaction_Large_White.png"/>
               <p>產品推廣 II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>點選每個圖示以進一步瞭解。</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_3_1_2.jpg" alt="" />
+              <img src="images/3_3_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>產品品質</p>
                 <p>安全、有效且受人信賴。我們的產品與眾不同。</p>
@@ -281,10 +281,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_3_1_3.jpg" alt="" />
+              <img src="images/3_3_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>產品推廣 I</p>
                 <p>在推廣和銷售我們的產品時，我們恪守誠實無欺原則，並尊重那些依賴我們產品的人。</p>
@@ -292,10 +292,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_3_1_4.jpg" alt="" />
+              <img src="images/3_3_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>產品推廣 II</p>
                 <p>我們依據產品的預期用途和核准用途進行推廣。</p>
@@ -316,33 +316,33 @@
           <div>
             <p>我們追求創新，認識到負責任地預測和化解風險的重要性。我們敬重每位研究參與者的尊嚴，在科學研究中堅守最高的透明度和客觀性標準。</p>
           </div>
-          <img src="images/3_4_1.jpg" alt="" />
+          <img src="images/3_4_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <img src="images/Icon_Sensor Wear_Large_White.png"/>
               <p>創新 I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Libre View_Large_White.png" />
+              <img src="images/Icon_Libre View_Large_White.png"/>
               <p>創新 II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Research Science_Large_White.png" />
+              <img src="images/Icon_Research Science_Large_White.png"/>
               <p>促進科學</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>點選每個圖示以進一步瞭解。</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_4_1_2.jpg" alt="" />
+              <img src="images/3_4_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>創新 I</p>
                 <p>我們建立創新的醫護解決方案，好幫助人們過上更健康的生活並改善全球的健康成果。</p>
@@ -350,10 +350,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_4_1_3.jpg" alt="" />
+              <img src="images/3_4_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>創新 II</p>
                 <p>我們透過探索新的可能性來培養創新文化，並做好應變計劃。</p>
@@ -361,10 +361,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_4_1_4.jpg" alt="" />
+              <img src="images/3_4_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>促進科學</p>
                 <p>我們進行研究以產生準確、客觀的資料，用以推動創新、改進治療方法並推動醫療保健的發展。</p>
@@ -389,48 +389,48 @@
             <p>情況不明，我們提出問題；感覺不對勁，我們直言不諱。</p>
             <p>本節重申了我們對平等機會和安全工作環境的承諾，其提醒我們去理解、應用，並在我們的一切行事中堅守《準則》。</p>
           </div>
-          <img src="images/3_5_1.jpg" alt="" />
+          <img src="images/3_5_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Collaboration_Large_White.png" />
+              <img src="images/Icon_Collaboration_Large_White.png"/>
               <p>合作</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <img src="images/Icon_Employee Relations_Large_White.png"/>
               <p>彼此間的聯繫</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <img src="images/Icon_Smart Phone V1_Large_White.png"/>
               <p>報告疑慮</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <img src="images/Icon_Active Wheelchair_Large_White.png"/>
               <p>平等機會</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <img src="images/Icon_Partnership Giving_Large_White.png"/>
               <p>公平對待</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="6">
-              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png"/>
               <p>工作環境</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>點選每個圖示以進一步瞭解。</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_5_1_2.jpg" alt="" />
+              <img src="images/3_5_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>合作</p>
                 <p>我們重視開放與合作，因為多元的創意會帶來更佳的解決方案。</p>
@@ -438,10 +438,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_3.jpg" alt="" />
+              <img src="images/3_5_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>彼此間的聯繫</p>
                 <p>我們每個人、每一天都有責任實踐亞培的價值觀。</p>
@@ -450,10 +450,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_4.jpg" alt="" />
+              <img src="images/3_5_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>報告疑慮</p>
                 <p>情況不明或感覺不對勁時，我們提出問題。我們也會發聲並舉報任何可能有違《準則》的行為。</p>
@@ -473,10 +473,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_5.jpg" alt="" />
+              <img src="images/3_5_1_5.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>平等機會</p>
                 <p>我們對所有員工提供平等機會。</p>
@@ -485,10 +485,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_6.jpg" alt="" />
+              <img src="images/3_5_1_6.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>公平對待</p>
                 <p>我們營造尊重、包容、安全的工作場所。</p>
@@ -498,10 +498,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_7.jpg" alt="" />
+              <img src="images/3_5_1_7.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>工作環境</p>
                 <p>我們將安全和公平的工作條件置於首位。</p>
@@ -524,33 +524,33 @@
             <p>亞培致力於減少能源用量及節約自然資源，將環境足跡降至最低。</p>
             <p>我們亦在全球運營中支援適當的政治參與，並鼓勵社區參與。</p>
           </div>
-          <img src="images/3_6_1.jpg" alt="" />
+          <img src="images/3_6_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <img src="images/Icon_Caring Heart_Large_White.png"/>
               <p>社區參與</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <img src="images/Icon_Reprocessing_Large_White.png"/>
               <p>環保責任</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Government_Large_White.png" />
+              <img src="images/Icon_Government_Large_White.png"/>
               <p>政治捐獻</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>點選每個圖示以進一步瞭解。</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_6_1_2.jpg" alt="" />
+              <img src="images/3_6_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>社區參與</p>
                 <p>我們支援社區福祉。</p>
@@ -559,10 +559,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_6_1_3.jpg" alt="" />
+              <img src="images/3_6_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>環保責任</p>
                 <p>我們參與永續發展，並努力減少給環境造成的影響。</p>
@@ -571,10 +571,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_6_1_4.jpg" alt="" />
+              <img src="images/3_6_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>政治捐獻</p>
                 <p>我們鼓勵適當參與政治程序並支持社區參與。</p>
@@ -596,43 +596,43 @@
           <div>
             <p>在處理利益衝突時，我們要將個人的利益讓步於亞培的利益。我們保護亞培的資產和聲譽、保護機密資訊安全無虞，且尊重每個與我們共享個人資訊者的隱私。</p>
           </div>
-          <img src="images/3_7_1.jpg" alt="" />
+          <img src="images/3_7_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Partnership_Large_White.png" />
+              <img src="images/Icon_Partnership_Large_White.png"/>
               <p>公平交易</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Speaker_Large_White.png" />
+              <img src="images/Icon_Speaker_Large_White.png"/>
               <p>避免利益衝突 I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Travel_Large_White.png" />
+              <img src="images/Icon_Travel_Large_White.png"/>
               <p>避免利益衝突 II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_CEC_Large_White.png" />
+              <img src="images/Icon_CEC_Large_White.png"/>
               <p>保護亞培資產及聲譽</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Chat_Large_White.png" />
+              <img src="images/Icon_Chat_Large_White.png"/>
               <p>機密資訊</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>點選每個圖示以進一步瞭解。</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_7_1_2.jpg" alt="" />
+              <img src="images/3_7_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>公平交易</p>
                 <p>我們以誠信開展業務，並在我們工作的各個面向信守我們的承諾。</p>
@@ -640,10 +640,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_3.jpg" alt="" />
+              <img src="images/3_7_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>避免利益衝突 I</p>
                 <p>我們要先識別並解決利益衝突，再進入下一步工作。</p>
@@ -651,10 +651,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_4.jpg" alt="" />
+              <img src="images/3_7_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>避免利益衝突 II</p>
                 <p>在做出與工作相關的決定時，我們要將亞培的利益放在首位。</p>
@@ -662,10 +662,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_5.jpg" alt="" />
+              <img src="images/3_7_1_5.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>保護亞培資產及聲譽</p>
                 <p>我們是公司的守護者。</p>
@@ -677,10 +677,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_6.jpg" alt="" />
+              <img src="images/3_7_1_6.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>機密資訊</p>
                 <p>我們致力於尊重和保護所有機密資訊，包括個人資料。</p>
@@ -704,43 +704,43 @@
           <div>
             <p>在處理利益衝突時，我們要將個人的利益讓步於亞培的利益。我們保護亞培的資產和聲譽、保護機密資訊安全無虞，且尊重每個與我們共享個人資訊者的隱私。</p>
           </div>
-          <img src="images/3_7_1.jpg" alt="" />
+          <img src="images/3_7_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <img src="images/Icon_Do Not Touch_Large_White.png"/>
               <p>反賄賂</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Plate_Large_White.png" />
+              <img src="images/Icon_Plate_Large_White.png"/>
               <p>禮品、餐飲及招待</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <img src="images/Icon_Regulatory Compliance_Large_White.png"/>
               <p>正確帳目及記錄</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_Justice_Large_White.png" />
+              <img src="images/Icon_Justice_Large_White.png"/>
               <p>法規遵守</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Evalution_Large_White.png" />
+              <img src="images/Icon_Evalution_Large_White.png"/>
               <p>公平競爭</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>點選每個圖示以進一步瞭解。</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_7_1_7.jpg" alt="" />
+              <img src="images/3_7_1_7.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>反賄賂</p>
                 <p>我們積極反欺詐、賄賂以及貪腐。我們以正當方式經營業務。</p>
@@ -750,10 +750,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_7_1_8.jpg" alt="" />
+              <img src="images/3_7_1_8.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>禮品、餐飲及招待</p>
                 <p>根據反賄賂原則，我們不直接或間接提供任何有價物來獲得業務優勢。</p>
@@ -761,10 +761,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_9.jpg" alt="" />
+              <img src="images/3_7_1_9.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>正確的帳目及記錄</p>
                 <p>我們正確評量成就。</p>
@@ -773,10 +773,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_10.jpg" alt="" />
+              <img src="images/3_7_1_10.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>法規遵守</p>
                 <p>我們遵守所有適用我們業務之法律規章，以及亞培之內部要求。</p>
@@ -785,10 +785,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_11.jpg" alt="" />
+              <img src="images/3_7_1_11.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>公平競爭</p>
                 <p>我們應確保與競爭對手之任何互動均為適切。</p>
@@ -807,14 +807,14 @@
           <p>我確認，我瞭解我在亞培《業務行為準則》方面的責任，也知道在哪裡可以找到及檢閱適用的政策與程序。</p>
           <button class="qcSubmitBtn">確認</button>
         </div>
-        <img src="images/confirmIcon.png" />
+        <img src="images/confirmIcon.png"/>
       </div>
     </div>
     <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
       <div class="assessIntroScreen">
         <p>以下的知識測驗由 10 個問題組成。為了成功完成本課程，您的得分必須為 80% 或更高。</p>
         <p>準備好後，點選「知識測驗」按鈕。</p>
-        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check"/>
       </div>
     </div>
     <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
@@ -1125,9 +1125,9 @@
         <div class="hide" id="feedback2">
           <p>抱歉，您的知識測驗不及格。請花幾分鐘時間，點選各個問題以在下方查閱您的結果。</p>
           <p>在您完成後，請點選「重新參加測驗」按鈕。</p>
-          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake"/>
         </div>
-        <div class="seamless" id="fbResultsContainer" />
+        <div class="seamless" id="fbResultsContainer"/>
       </div>
     </div>
     <div id="C_199" class="screen" data-autoAudio="f_14">
@@ -1158,27 +1158,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1217,27 +1217,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1265,27 +1265,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1313,14 +1313,14 @@
     <div id="C_200" class="screen helpPage">
       <p class="resSubtitles">何處求援</p>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif"/>
         <p>經理</p>
         <p>如果您對於和亞培外部的人士互動有所疑問，最好先請教您的經理</p>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif"/>
         <p>書面標準</p>
         <ul>
           <li>如需瞭解本公司對您與他人互動的基本期望，請查閱我們的<a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">《業務行為準則》</a>。</li>
@@ -1328,8 +1328,8 @@
         </ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif"/>
         <p>道德合規辦公室 (OEC)</p>
         <p>OEC 是全球資源，可解決您有關公司價值觀與操守標準之相關疑問或顧慮。</p>
         <ul>
@@ -1339,23 +1339,22 @@
         </ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif"/>
         <p>人力資源</p>
         <p>與員工相關問題，諸如涉及管理層及／或其他員工之議題，則可與您當地之<a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">人力資源</a>代表聯繫。</p>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif"/>
         <p>法務部門</p>
         <p>對賄賂和貪污的法律意涵之疑問或疑慮，請聯絡法務部門。</p>
         <ul>
-          <li>請點選此處以存取亞培全球上的法務首頁。</li>
-        </ul>
+          <li>請點選<a href="https://abbott.sharepoint.com/sites/AW-Abbott-Legal" target="_blank">此處</a>以存取亞培全球上的法務首頁。</li></ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif"/>
         <p>其他資料來源</p>
         <p>另有許多其他可用資源：</p>
         <p>財務 - 若您的疑問係針對財務會計相關議題，則應與您當地的財務部門聯繫。</p>
@@ -1366,7 +1365,7 @@
       </div>
       <p class="resSubtitles" data-break="true">課程資源</p>
       <div class="helpSection">
-        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif"/>
         <p>成績單</p>
         <p>請點選<a href="reference/Transcript.pdf" target="_blank">此處</a>取得本課程的完整成績單</p>
       </div>

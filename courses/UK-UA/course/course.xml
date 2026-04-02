@@ -1,90 +1,90 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
   <toc>
     <nav navId="A_1" title="Привітання" description="5 minutes" timing="0" required="false">
       <nav navId="B_1" title="Кодекс ділової поведінки">
-        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st"/>
       </nav>
       <nav navId="B_2" title="Наша філософія">
-        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f"/>
       </nav>
       <nav navId="B_3" title="Цілі">
-        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f"/>
       </nav>
       <nav navId="B_4" title="Зміст">
-        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc"/>
       </nav>
     </nav>
     <nav navId="A_2" title="Важливість Кодексу ділової поведінки компанії Abbott" description="2 minutes" timing="0" required="true">
       <nav navId="B_5" title="Наші щоденні зобов’язання">
-        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f"/>
       </nav>
       <nav navId="B_6" title="Важливість Кодексу для нашого бізнесу">
-        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f"/>
       </nav>
     </nav>
     <nav navId="A_3" title="Наш Кодекс" description="20 minutes" timing="0" required="true">
       <nav navId="B_7" title="Огляд">
-        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f"/>
       </nav>
       <nav navId="B_8" title="Наші клієнти">
-        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request"/>
       </nav>
       <nav navId="B_9" title="Наші продукти">
-        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request"/>
       </nav>
       <nav navId="B_10" title="Передова наука">
-        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request"/>
       </nav>
       <nav navId="B_11" title="Наші люди">
-        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request"/>
       </nav>
       <nav navId="B_12" title="Наші громади">
-        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request"/>
       </nav>
       <nav navId="B_13" title="Як ми працюємо">
-        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
-        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request"/>
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request"/>
       </nav>
     </nav>
     <nav navId="A_4" title="Ваші зобов’язання" description="4 minutes" timing="0" required="true">
       <nav navId="B_14" title="Ваші зобов’язання">
-        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true"/>
       </nav>
     </nav>
     <nav navId="A_5" title="Перевірка знань" description="5 minutes" timing="0" required="true">
       <nav navId="B_15" title="Вступ">
-        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I"/>
       </nav>
       <nav navId="B_16" title="Оцінювання">
-        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T"/>
       </nav>
       <nav navId="B_17" title="Відгук">
-        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E"/>
       </nav>
       <nav navId="B_18" title="Опитування">
-        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su"/>
       </nav>
     </nav>
   </toc>
   <screens>
     <div id="C_1" class="screen" data-autoAudio="0">
-      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <img src="images/1_1_1.jpg" class="fullscreenImg"/>
       <div>
-        <img src="images/logo.svg" class="coLogo" />
+        <img src="images/logo.svg" class="coLogo"/>
         <p>Кодекс ділової поведінки</p>
       </div>
       <p class="startInstruction">Натисніть стрілку вперед.</p>
     </div>
     <div id="C_2" class="screen" data-autoAudio="1_2_1">
-      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <img src="images/1_2_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Як світовий лідер у сфері охорони здоров’я, те, що ми робимо щодня, є дуже важливим.</p>
         <p>Наш Кодекс ділової поведінки — це потужний орієнтир, який дає нам змогу діяти чесно, керувати цілеспрямовано та робити вибір, що відображає найкращі наші якості. Саме так ми будуємо довіру, підтримуємо наші цінності та продовжуємо робити вагомий внесок у розбудову світу.</p>
       </div>
     </div>
     <div id="C_3" class="screen" data-autoAudio="1_3_1">
-      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <img src="images/1_3_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Після закінчення цього курсу ви:</p>
         <ul>
@@ -102,8 +102,8 @@
             <p>1</p>
             <p>Привітання</p>
             <p>1 хвилина</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -112,8 +112,8 @@
             <p>2</p>
             <p>Важливість Кодексу ділової поведінки компанії Abbott</p>
             <p>2 хвилини</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -122,8 +122,8 @@
             <p>3</p>
             <p>Наш Кодекс</p>
             <p>18 хвилин</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -132,8 +132,8 @@
             <p>4</p>
             <p>Ваші зобов’язання</p>
             <p>1 хвилина</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -142,8 +142,8 @@
             <p>5</p>
             <p>Перевірка знань</p>
             <p>5 хвилин</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -153,29 +153,29 @@
           <p>Перебіг навчання</p>
           <p class="pcDisplay">.</p>
           <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
-            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
-            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
           </svg>
         </div>
         <p class="tocUiMsg">Ця тема вже доступна.</p>
       </div>
     </div>
     <div id="C_5" class="screen" data-autoAudio="2_1_1">
-      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <img src="images/2_1_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Ми керуємося принципами чесності, справедливості та сумлінності. Усі. Щодня.</p>
         <p>Наш Кодекс ділової поведінки нагадує нам, що чесність, справедливість і сумлінність — це не просто ідеали, а щоденні зобов’язання. Хоча Кодекс не може передбачити кожен виклик, з яким ми можемо зіткнутися, він пропонує міцну основу цінностей, якими ми можемо керуватися.</p>
       </div>
     </div>
     <div id="C_6" class="screen" data-autoAudio="2_2_1">
-      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <img src="images/2_2_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Ми прагнемо дотримуватися найвищих стандартів.</p>
         <p>Кодекс ділової поведінки є життєво важливим для успіху компанії Abbott, оскільки він встановлює стандарт нашої роботи — працювати чесно, справедливо та сумлінно. Він допомагає нам ухвалювати етичні рішення, особливо у складних ситуаціях, і гарантує, що ми залишаємося вірними нашим цінностям. Дотримуючись Кодексу, ми захищаємо свою репутацію, зміцнюємо довіру тих, заради кого ми працюємо, і створюємо корпоративну культуру, в якій правильна поведінка має першочергове значення.</p>
       </div>
     </div>
     <div id="C_7" class="screen" data-autoAudio="3_1_1">
-      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <img src="images/3_1_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Розуміння Кодексу — відповідальність кожного.</p>
         <p>Кожен із нас відіграє певну роль у застосуванні Кодексу ділової поведінки до нашої щоденної роботи та ухвалення рішень. Це не просто документ — це посібник, який допомагає нам долати труднощі чесно та впевнено.</p>
@@ -192,38 +192,38 @@
           <div>
             <p>Це нагадування про те, що за кожним рішенням, кожною інновацією та кожною дією стоїть мета — покращити життя.</p>
           </div>
-          <img src="images/3_2_1.jpg" alt="" />
+          <img src="images/3_2_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <img src="images/Icon_Family V3 Full Body_Large_White.png"/>
               <p>Пацієнти і споживачі</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <img src="images/Icon_Healthcare Workers_Large_White.png"/>
               <p>Медичні працівники</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Щоб дізнатися більше, натисніть на кожен зі значків.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_2_1_2.jpg" alt="" />
+              <img src="images/3_2_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ПАЦІЄНТИ І СПОЖИВАЧІ</p>
                 <p>Турбота про людей — основа нашої діяльності. Ми ставимо здоров’я та благополуччя пацієнтів і споживачів на перше місце. Щодня ми можемо робити вагомі зміни — допомагаючи людям жити здоровішим життям і роблячи свій внесок у розбудову сильнішого та здоровішого суспільства.</p>
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_2_1_3.jpg" alt="" />
+              <img src="images/3_2_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>МЕДИЧНІ ПРАЦІВНИКИ</p>
                 <p>Ми співпрацюємо з МП для підтримки кращого здоров’я. Ми поважаємо знання та незалежні судження медичних працівників — будь то лікарі, медсестри, фармацевти, дослідники чи персонал лабораторій. Їхня роль у сприянні пацієнтам у покращенні їхнього здоров’я є надзвичайно важливою.</p>
@@ -245,33 +245,33 @@
             <p>Ми вживаємо заходів, щоб бути впевненими у безпечності та ефективності наших продуктів — від етапу вибору належних матеріалів до етапів їхнього просування, продажу та доставки. На кожному етапі ми дотримуємося високих стандартів якості.</p>
             <p>Ми також зобов’язуємося вчасно виявляти, оцінювати та вирішувати проблеми безпечності продукції, а також вживати заходів для запобігання розповсюдженню підробок, роботі нелегальних каналів і крадіжкам нашої продукції.</p>
           </div>
-          <img src="images/3_3_1.jpg" alt="" />
+          <img src="images/3_3_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <img src="images/Icon_Nutrition Products V2_Large_White.png"/>
               <p>Якість продукції</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Food Label_Large_White.png" />
+              <img src="images/Icon_Food Label_Large_White.png"/>
               <p>Просування продукції I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <img src="images/Icon_Patient Interaction_Large_White.png"/>
               <p>Просування продукції II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Щоб дізнатися більше, натисніть на кожен зі значків.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_3_1_2.jpg" alt="" />
+              <img src="images/3_3_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ЯКІСТЬ ПРОДУКЦІЇ</p>
                 <p>Безпечна, ефективна та надійна. Наша продукція дуже важлива.</p>
@@ -281,10 +281,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_3_1_3.jpg" alt="" />
+              <img src="images/3_3_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ПРОСУВАННЯ ПРОДУКЦІЇ I</p>
                 <p>Ми просуваємо та продаємо нашу продукцію у чесний спосіб і з повагою до тих, хто на неї покладається.</p>
@@ -292,10 +292,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_3_1_4.jpg" alt="" />
+              <img src="images/3_3_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ПРОСУВАННЯ ПРОДУКЦІЇ II</p>
                 <p>Ми просуваємо нашу продукцію для її передбаченого та схваленого використання.</p>
@@ -316,33 +316,33 @@
           <div>
             <p>Ми прагнемо інновацій, визнаючи важливість передбачення ризиків і відповідального реагування на них. Ми поважаємо гідність кожного учасника досліджень і дотримуємося найвищих стандартів прозорості та об’єктивності в наукових дослідженнях.</p>
           </div>
-          <img src="images/3_4_1.jpg" alt="" />
+          <img src="images/3_4_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <img src="images/Icon_Sensor Wear_Large_White.png"/>
               <p>Інновації I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Libre View_Large_White.png" />
+              <img src="images/Icon_Libre View_Large_White.png"/>
               <p>Інновації II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Research Science_Large_White.png" />
+              <img src="images/Icon_Research Science_Large_White.png"/>
               <p>Передова наука</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Щоб дізнатися більше, натисніть на кожен зі значків.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_4_1_2.jpg" alt="" />
+              <img src="images/3_4_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ІННОВАЦІЇ I</p>
                 <p>Ми створюємо інноваційні рішення в галузі охорони здоров’я, щоб допомагати людям жити здоровішим життям і покращувати результати лікування в усьому світі.</p>
@@ -350,10 +350,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_4_1_3.jpg" alt="" />
+              <img src="images/3_4_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ІННОВАЦІЇ II</p>
                 <p>Ми культивуємо культуру інновацій, досліджуючи нові можливості, та плануємо непередбачувані ситуації.</p>
@@ -361,10 +361,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_4_1_4.jpg" alt="" />
+              <img src="images/3_4_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ПЕРЕДОВА НАУКА</p>
                 <p>Ми проводимо дослідження з метою отримання точних й об’єктивних даних, які стимулюють інновації, вдосконалюють методи лікування та сприяють розвитку галузі охорони здоров’я.</p>
@@ -389,48 +389,48 @@
             <p>Ми ставимо запитання, коли щось незрозуміло, і висловлюємося, коли щось здається неправильним.</p>
             <p>У цьому розділі підкреслюються наші зобов’язання щодо забезпечення рівних можливостей і гарантування безпечного робочого середовища, а також нагадується про необхідність розуміти, застосовувати та дотримуватися Кодексу у всьому, що ми робимо.</p>
           </div>
-          <img src="images/3_5_1.jpg" alt="" />
+          <img src="images/3_5_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Collaboration_Large_White.png" />
+              <img src="images/Icon_Collaboration_Large_White.png"/>
               <p>Співробітництво</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <img src="images/Icon_Employee Relations_Large_White.png"/>
               <p>Наш зв'язок один з одним</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <img src="images/Icon_Smart Phone V1_Large_White.png"/>
               <p>Повідомлення про проблему</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <img src="images/Icon_Active Wheelchair_Large_White.png"/>
               <p>Рівні можливості</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <img src="images/Icon_Partnership Giving_Large_White.png"/>
               <p>Справедливе ставлення</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="6">
-              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png"/>
               <p>Умови праці</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Щоб дізнатися більше, натисніть на кожен зі значків.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_5_1_2.jpg" alt="" />
+              <img src="images/3_5_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>СПІВРОБІТНИЦТВО</p>
                 <p>Ми цінуємо відкритість і співпрацю, оскільки різні ідеї призводять до кращих рішень.</p>
@@ -438,10 +438,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_3.jpg" alt="" />
+              <img src="images/3_5_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>НАШ ЗВ’ЯЗОК ОДИН З ОДНИМ</p>
                 <p>Ми всі несемо спільну відповідальність за щоденне дотримання цінностей компанії Abbott.</p>
@@ -450,10 +450,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_4.jpg" alt="" />
+              <img src="images/3_5_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ПОВІДОМЛЕННЯ ПРО ПРОБЛЕМУ</p>
                 <p>Ми ставимо запитання, коли щось незрозуміло або здається неправильним. Ми також висловлюємося та повідомляємо про будь-які можливі порушення Кодексу.</p>
@@ -473,10 +473,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_5.jpg" alt="" />
+              <img src="images/3_5_1_5.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>РІВНІ МОЖЛИВОСТІ</p>
                 <p>Ми надаємо рівні можливості для всіх працівників.</p>
@@ -485,10 +485,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_6.jpg" alt="" />
+              <img src="images/3_5_1_6.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>СПРАВЕДЛИВЕ СТАВЛЕННЯ</p>
                 <p>Ми сприяємо створенню шанобливого, інклюзивного та безпечного робочого середовища.</p>
@@ -498,10 +498,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_7.jpg" alt="" />
+              <img src="images/3_5_1_7.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>УМОВИ ПРАЦІ</p>
                 <p>Ми надаємо пріоритет безпеці та справедливим умовам праці.</p>
@@ -524,33 +524,33 @@
             <p>Компанія Abbott працює над мінімізацією свого впливу на довкілля, зменшуючи споживання енергії та зберігаючи природні ресурси.</p>
             <p>Ми також підтримуємо відповідну політичну активність і заохочуємо залучення спільноти до всіх наших глобальних операцій.</p>
           </div>
-          <img src="images/3_6_1.jpg" alt="" />
+          <img src="images/3_6_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <img src="images/Icon_Caring Heart_Large_White.png"/>
               <p>Залучення громади</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <img src="images/Icon_Reprocessing_Large_White.png"/>
               <p>Екологічна відповідальність</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Government_Large_White.png" />
+              <img src="images/Icon_Government_Large_White.png"/>
               <p>Внески на політичні цілі</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Щоб дізнатися більше, натисніть на кожен зі значків.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_6_1_2.jpg" alt="" />
+              <img src="images/3_6_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ЗАЛУЧЕННЯ ГРОМАДИ</p>
                 <p>Ми підтримуємо добробут спільнот.</p>
@@ -559,10 +559,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_6_1_3.jpg" alt="" />
+              <img src="images/3_6_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ЕКОЛОГІЧНА ВІДПОВІДАЛЬНІСТЬ</p>
                 <p>Ми беремо участь у сталому розвитку та працюємо над зменшенням нашого впливу на довкілля.</p>
@@ -571,10 +571,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_6_1_4.jpg" alt="" />
+              <img src="images/3_6_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ВНЕСКИ НА ПОЛІТИЧНІ ЦІЛІ</p>
                 <p>Ми підтримуємо відповідне залучення до політичних процесів та залучення громади.</p>
@@ -596,43 +596,43 @@
           <div>
             <p>При вирішенні конфліктів інтересів ми ставимо інтереси компанії Abbott вище за власні. Ми захищаємо активи та репутацію компанії Abbott, зберігаємо конфіденційну інформацію в безпеці та поважаємо приватність кожного, хто ділиться з нами персональною інформацією.</p>
           </div>
-          <img src="images/3_7_1.jpg" alt="" />
+          <img src="images/3_7_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Partnership_Large_White.png" />
+              <img src="images/Icon_Partnership_Large_White.png"/>
               <p>Добросовісне ведення бізнесу</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Speaker_Large_White.png" />
+              <img src="images/Icon_Speaker_Large_White.png"/>
               <p>Уникнення конфліктів інтересів I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Travel_Large_White.png" />
+              <img src="images/Icon_Travel_Large_White.png"/>
               <p>Уникнення конфліктів інтересів II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_CEC_Large_White.png" />
+              <img src="images/Icon_CEC_Large_White.png"/>
               <p>Захист майна і репутації компанії Abbott</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Chat_Large_White.png" />
+              <img src="images/Icon_Chat_Large_White.png"/>
               <p>Конфіденційна інформація</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Щоб дізнатися більше, натисніть на кожен зі значків.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_7_1_2.jpg" alt="" />
+              <img src="images/3_7_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ДОБРОСОВІСНЕ ВЕДЕННЯ БІЗНЕСУ</p>
                 <p>Ми ведемо свою діяльність чесно та виконуємо свої зобов’язання у кожному аспекті нашої роботи.</p>
@@ -640,10 +640,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_3.jpg" alt="" />
+              <img src="images/3_7_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>УНИКНЕННЯ КОНФЛІКТУ ІНТЕРЕСІВ I</p>
                 <p>Ми виявляємо та вирішуємо конфлікти інтересів, перш ніж рухатися далі.</p>
@@ -651,10 +651,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_4.jpg" alt="" />
+              <img src="images/3_7_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>УНИКНЕННЯ КОНФЛІКТІВ ІНТЕРЕСІВ II</p>
                 <p>При ухваленні рішень, пов’язаних із роботою, ми ставимо інтереси компанії Abbott на перше місце.</p>
@@ -662,10 +662,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_5.jpg" alt="" />
+              <img src="images/3_7_1_5.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ЗАХИСТ МАЙНА ТА РЕПУТАЦІЇ КОМПАНІЇ ABBOTT</p>
                 <p>Ми маємо захищати інтереси нашої компанії.</p>
@@ -677,10 +677,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_6.jpg" alt="" />
+              <img src="images/3_7_1_6.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>КОНФІДЕНЦІЙНА ІНФОРМАЦІЯ</p>
                 <p>Ми зобов’язуємося поважати та захищати всю конфіденційну інформацію, включно із персональними даними.</p>
@@ -704,43 +704,43 @@
           <div>
             <p>При вирішенні конфліктів інтересів ми ставимо інтереси компанії Abbott вище за власні. Ми захищаємо активи та репутацію компанії Abbott, зберігаємо конфіденційну інформацію в безпеці та поважаємо приватність кожного, хто ділиться з нами персональною інформацією.</p>
           </div>
-          <img src="images/3_7_1.jpg" alt="" />
+          <img src="images/3_7_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <img src="images/Icon_Do Not Touch_Large_White.png"/>
               <p>Боротьба з хабарництвом</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Plate_Large_White.png" />
+              <img src="images/Icon_Plate_Large_White.png"/>
               <p>Подарунки, гостинність та розваги</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <img src="images/Icon_Regulatory Compliance_Large_White.png"/>
               <p>Точність бухгалтерських книг і обліку</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_Justice_Large_White.png" />
+              <img src="images/Icon_Justice_Large_White.png"/>
               <p>Дотримання законодавства</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Evalution_Large_White.png" />
+              <img src="images/Icon_Evalution_Large_White.png"/>
               <p>Добросовісна конкуренція</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Щоб дізнатися більше, натисніть на кожен зі значків.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_7_1_7.jpg" alt="" />
+              <img src="images/3_7_1_7.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>БОРОТЬБА З ХАБАРНИЦТВОМ</p>
                 <p>Ми активно протидіємо шахрайству, хабарництву та корупції. Ми ведемо бізнес у чесний спосіб.</p>
@@ -750,10 +750,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_7_1_8.jpg" alt="" />
+              <img src="images/3_7_1_8.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ПОДАРУНКИ, ГОСТИННІСТЬ І РОЗВАГИ</p>
                 <p>Згідно з принципами боротьби з хабарництвом, ми не пропонуємо та не надаємо нічого цінного для отримання ділової переваги, прямо чи опосередковано.</p>
@@ -761,10 +761,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_9.jpg" alt="" />
+              <img src="images/3_7_1_9.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>РЕТЕЛЬНЕ ВЕДЕННЯ БУХГАЛТЕРСЬКОГО ОБЛІКУ ТА ДОКУМЕНТАЦІЇ</p>
                 <p>Ми вимірюємо досягнення ретельно.</p>
@@ -773,10 +773,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_10.jpg" alt="" />
+              <img src="images/3_7_1_10.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ДОТРИМАННЯ ЗАКОНОДАВСТВА</p>
                 <p>Ми дотримуємося всіх законів, нормативних актів і вимог компанії Abbott, що застосовуються до нашої роботи.</p>
@@ -785,10 +785,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_11.jpg" alt="" />
+              <img src="images/3_7_1_11.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ДОБРОСОВІСНА КОНКУРЕНЦІЯ</p>
                 <p>Ми гарантуємо, що будь-які взаємовідносини, які ми маємо з конкурентами, є відповідними.</p>
@@ -807,14 +807,14 @@
           <p>Я підтверджую, що розумію свої обов’язки щодо Кодексу ділової поведінки компанії Abbott і знаю, де знайти та переглянути відповідні політики та процедури.</p>
           <button class="qcSubmitBtn">Підтвердити</button>
         </div>
-        <img src="images/confirmIcon.png" />
+        <img src="images/confirmIcon.png"/>
       </div>
     </div>
     <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
       <div class="assessIntroScreen">
         <p>Перевірка знань, яка йде далі, складається із 10 запитань. Ви повинні набрати 80 % або більше, щоб успішно завершити цей курс.</p>
         <p>КОЛИ БУДЕТЕ ГОТОВІ, НАТИСНІТЬ КНОПКУ «ПЕРЕВІРКА ЗНАНЬ».</p>
-        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check"/>
       </div>
     </div>
     <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
@@ -1125,9 +1125,9 @@
         <div class="hide" id="feedback2">
           <p>На жаль, ви не пройшли перевірку знань. Перегляньте свої результати нижче, натиснувши на кожне запитання. Це займе декілька хвилин.</p>
           <p>Коли будете готові, натисніть кнопку «Пройти перевірку знань повторно».</p>
-          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake"/>
         </div>
-        <div class="seamless" id="fbResultsContainer" />
+        <div class="seamless" id="fbResultsContainer"/>
       </div>
     </div>
     <div id="C_199" class="screen" data-autoAudio="f_14">
@@ -1158,27 +1158,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1217,27 +1217,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1265,27 +1265,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1313,14 +1313,14 @@
     <div id="C_200" class="screen helpPage">
       <p class="resSubtitles">Куди звертатися для отримання допомоги</p>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif"/>
         <p>Керівник</p>
         <p>Якщо у вас виникнуть запитання щодо взаємодії з особами, які не працюють у компанії Abbott, найкраще почати з вашого керівника.</p>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif"/>
         <p>Письмові стандарти</p>
         <ul>
           <li>Щоб ознайомитися з основоположними очікуваннями компанії Abbott щодо вашої взаємодії з іншими, перегляньте наш <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Кодекс ділової поведінки</a>.</li>
@@ -1328,8 +1328,8 @@
         </ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif"/>
         <p>Департамент етики та дотримання вимог (OEC)</p>
         <p>Департамент етики та дотримання вимог — це глобальний ресурс, спрямований на надання відповідей на ваші запитання або роз’яснень щодо занепокоєння стосовно цінностей та стандартів поведінки нашої компанії.</p>
         <ul>
@@ -1339,23 +1339,22 @@
         </ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif"/>
         <p>Департамент управління персоналом</p>
         <p>Щодо питань стосовно працівників (наприклад, проблеми, до яких залучені керівники та/або інші працівники), зв’яжіться з представником свого місцевого <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">Департаменту управління персоналом</a>.</p>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif"/>
         <p>Юридичний департамент</p>
         <p>Із питаннями чи занепокоєннями щодо правових наслідків хабарництва й корупції зв’яжіться з юридичним департаментом.</p>
         <ul>
-          <li>Натисніть тут, щоб отримати доступ до головної сторінки Юридичного департаменту на платформі Abbott World.</li>
-        </ul>
+          <li>Натисніть <a href="https://abbott.sharepoint.com/sites/AW-Abbott-Legal" target="_blank">тут</a>, щоб отримати доступ до головної сторінки Юридичного департаменту на платформі Abbott World.</li></ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif"/>
         <p>ІНШІ РЕСУРСИ</p>
         <p>Для Вас можуть бути доступні інші ресурси:</p>
         <p>Фінансовий департамент – якщо ваше запитання стосується бухгалтерського обліку або фінансів, зв’яжіться з місцевим Фінансовим департаментом.</p>
@@ -1366,7 +1365,7 @@
       </div>
       <p class="resSubtitles" data-break="true">Ресурси для курсу</p>
       <div class="helpSection">
-        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif"/>
         <p>Письмова копія</p>
         <p>Щоб отримати повну письмову копію курсу, натисніть <a href="reference/Transcript.pdf" target="_blank">тут</a>.</p>
       </div>

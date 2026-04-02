@@ -1,90 +1,90 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
   <toc>
     <nav navId="A_1" title="Vítejte" description="5 minutes" timing="0" required="false">
       <nav navId="B_1" title="Kodex obchodního chování">
-        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st"/>
       </nav>
       <nav navId="B_2" title="Naše filozofie">
-        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f"/>
       </nav>
       <nav navId="B_3" title="Cíle">
-        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f"/>
       </nav>
       <nav navId="B_4" title="Obsah">
-        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc"/>
       </nav>
     </nav>
     <nav navId="A_2" title="Důležitost Kodexu obchodního chování společnosti Abbott" description="2 minutes" timing="0" required="true">
       <nav navId="B_5" title="Naše každodenní závazky">
-        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f"/>
       </nav>
       <nav navId="B_6" title="Důležitost Kodexu pro naše podnikání">
-        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f"/>
       </nav>
     </nav>
     <nav navId="A_3" title="Náš Kodex" description="20 minutes" timing="0" required="true">
       <nav navId="B_7" title="Přehled">
-        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f"/>
       </nav>
       <nav navId="B_8" title="Naši zákazníci">
-        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request"/>
       </nav>
       <nav navId="B_9" title="Naše produkty">
-        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request"/>
       </nav>
       <nav navId="B_10" title="Vědecké pokroky">
-        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request"/>
       </nav>
       <nav navId="B_11" title="Naši lidé">
-        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request"/>
       </nav>
       <nav navId="B_12" title="Naše komunity">
-        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request"/>
       </nav>
       <nav navId="B_13" title="Jak fungujeme">
-        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
-        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request"/>
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request"/>
       </nav>
     </nav>
     <nav navId="A_4" title="Váš závazek" description="4 minutes" timing="0" required="true">
       <nav navId="B_14" title="Váš závazek">
-        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true"/>
       </nav>
     </nav>
     <nav navId="A_5" title="Prověření získaných znalostí" description="5 minutes" timing="0" required="true">
       <nav navId="B_15" title="Úvod">
-        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I"/>
       </nav>
       <nav navId="B_16" title="Hodnocení">
-        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T"/>
       </nav>
       <nav navId="B_17" title="Zpětná vazba">
-        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E"/>
       </nav>
       <nav navId="B_18" title="Průzkum">
-        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su"/>
       </nav>
     </nav>
   </toc>
   <screens>
     <div id="C_1" class="screen" data-autoAudio="0">
-      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <img src="images/1_1_1.jpg" class="fullscreenImg"/>
       <div>
-        <img src="images/logo.svg" class="coLogo" />
+        <img src="images/logo.svg" class="coLogo"/>
         <p>Kodex obchodního chování</p>
       </div>
       <p class="startInstruction">Klikněte na šipku Další.</p>
     </div>
     <div id="C_2" class="screen" data-autoAudio="1_2_1">
-      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <img src="images/1_2_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Na poli globální zdravotní péče jsme na špičce. Na tom, co děláme každý den, opravdu záleží.</p>
         <p>Náš Kodex obchodního chování je účinný kompas, který nám dává sílu, abychom jednali poctivě, při vedení druhých postupovali účelově a dělali taková rozhodnutí, do kterých se promítá to nejlepší, co v nás je. Tímto způsobem si získáváme důvěru, dodržujeme naše hodnoty a neustále pracujeme na tom, abychom smysluplně a pozitivně ovlivňovali svět kolem nás.</p>
       </div>
     </div>
     <div id="C_3" class="screen" data-autoAudio="1_3_1">
-      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <img src="images/1_3_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Po absolvování tohoto kurzu budete:</p>
         <ul>
@@ -102,8 +102,8 @@
             <p>1</p>
             <p>Vítejte</p>
             <p>1 minuta</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -112,8 +112,8 @@
             <p>2</p>
             <p>Důležitost Kodexu obchodního chování společnosti Abbott</p>
             <p>2 minuty</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -122,8 +122,8 @@
             <p>3</p>
             <p>Náš Kodex</p>
             <p>18 minut</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -132,8 +132,8 @@
             <p>4</p>
             <p>Váš závazek</p>
             <p>1 minuta</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -142,8 +142,8 @@
             <p>5</p>
             <p>Prověření získaných znalostí</p>
             <p>5 minut</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -153,29 +153,29 @@
           <p>Pokrok v učení</p>
           <p class="pcDisplay">.</p>
           <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
-            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
-            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
           </svg>
         </div>
         <p class="tocUiMsg">Toto téma je nyní k dispozici.</p>
       </div>
     </div>
     <div id="C_5" class="screen" data-autoAudio="2_1_1">
-      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <img src="images/2_1_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Do vedení vkládáme integritu, čestnost a poctivost. Každý z nás, každý den.</p>
         <p>Náš Kodex obchodního chování nám připomíná, že integrita, čestnost a poctivost nejsou jen nějaké ideály, ale každodenní závazky. I když Kodex nemůže předvídat všechny výzvy, kterým musíme čelit, formuluje pro nás stabilní základní hodnoty, podle kterých se řídíme.</p>
       </div>
     </div>
     <div id="C_6" class="screen" data-autoAudio="2_2_1">
-      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <img src="images/2_2_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Zavázali jsme se dodržovat ty nejpřísnější standardy.</p>
         <p>Kodex obchodního chování je pro úspěch společnosti Abbott zásadním předpokladem. Stanovuje totiž laťku pro to, jakým způsobem pracujeme – spravedlivě, čestně a poctivě. Pomáhá nám rozhodovat se eticky, zejména ve složitých situacích, a zajišťuje, abychom se dokázali držet našich hodnot. Dodržováním Kodexu chráníme naši dobrou pověst, získáváme si důvěru u subjektů, kterým poskytujeme naše služby, a vytváříme podnikovou kulturu, ve které je to nejdůležitější jednat správně.</p>
       </div>
     </div>
     <div id="C_7" class="screen" data-autoAudio="3_1_1">
-      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <img src="images/3_1_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Pochopení Kodexu je odpovědností každého z nás.</p>
         <p>Každý z nás má svou úlohu při prosazování Kodexu obchodního chování do každodenní praxe a rozhodování. Není to jen dokument – je to průvodce, který nám pomáhá čelit výzvám čestně a sebejistě.</p>
@@ -192,38 +192,38 @@
           <div>
             <p>Jedná se o připomenutí, že za každým rozhodnutím, každou inovací i každým krokem stojí jeden cíl – zlepšovat kvalitu životů.</p>
           </div>
-          <img src="images/3_2_1.jpg" alt="" />
+          <img src="images/3_2_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <img src="images/Icon_Family V3 Full Body_Large_White.png"/>
               <p>Pacienti a spotřebitelé</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <img src="images/Icon_Healthcare Workers_Large_White.png"/>
               <p>Zdravotničtí odborníci</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Kliknutím na jednotlivé ikony se dozvíte víc.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_2_1_2.jpg" alt="" />
+              <img src="images/3_2_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>PACIENTI A SPOTŘEBITELÉ</p>
                 <p>Všechno, co děláme, se točí kolem péče o lidi. Zdraví a kvalitu života pacientů i spotřebitelů klademe na první místo. Každý den smysluplně přispíváme k tomu, aby lidé žili zdravěji, i k budování silnějších a zdravějších komunit.</p>
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_2_1_3.jpg" alt="" />
+              <img src="images/3_2_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ZDRAVOTNIČTÍ ODBORNÍCI</p>
                 <p>Cílem naší spolupráce se zdravotnickými odborníky je zlepšování zdraví lidí. Respektujeme odborné znalosti i nezávislý úsudek zdravotnických odborníků, ať už jsou to lékaři, zdravotní sestry, lékárníci, výzkumní pracovníci, nebo laboratorní pracovníci. Hrají totiž zásadní úlohu ve vedení pacientů k lepšímu zdraví.</p>
@@ -245,33 +245,33 @@
             <p>Podnikáme kroky, kterými se o bezpečnost a účinnost našich produktů staráme – od výběru správných materiálů až po způsob jejich uvádění na trh, prodeje a formu doručení. V každé fázi dodržujeme přísná měřítka kvality.</p>
             <p>Kromě toho jsme také odhodláni včas identifikovat, analyzovat a řešit problémy týkající se bezpečnosti produktů a zajistit odpovídající opatření, jejichž cílem bude prevence padělání, nežádoucího odklánění nebo krádeží našich produktů.</p>
           </div>
-          <img src="images/3_3_1.jpg" alt="" />
+          <img src="images/3_3_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <img src="images/Icon_Nutrition Products V2_Large_White.png"/>
               <p>Kvalita produktů</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Food Label_Large_White.png" />
+              <img src="images/Icon_Food Label_Large_White.png"/>
               <p>Propagace produktů I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <img src="images/Icon_Patient Interaction_Large_White.png"/>
               <p>Propagace produktů II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Kliknutím na jednotlivé ikony se dozvíte víc.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_3_1_2.jpg" alt="" />
+              <img src="images/3_3_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KVALITA PRODUKTŮ</p>
                 <p>Naše produkty jsou bezpečné, efektivní a lidé jim důvěřují. Mají prostě pozitivní přínos pro život.</p>
@@ -281,10 +281,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_3_1_3.jpg" alt="" />
+              <img src="images/3_3_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>PROPAGACE PRODUKTŮ I</p>
                 <p>Naše produkty propagujeme a prodáváme čestně a s respektem k těm, kteří se na ně spoléhají.</p>
@@ -292,10 +292,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_3_1_4.jpg" alt="" />
+              <img src="images/3_3_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>PROPAGACE PRODUKTŮ II</p>
                 <p>Naše produkty propagujeme pro zamýšlené a schválené účely.</p>
@@ -316,33 +316,33 @@
           <div>
             <p>Usilujeme o inovace, současně si ale uvědomujeme, jak je důležité předvídat rizika a odpovědně je řešit. Ctíme důstojnost každého účastníka studie. Dodržujeme ty nejvyšší standardy na poli transparentnosti a objektivity vědeckého výzkumu.</p>
           </div>
-          <img src="images/3_4_1.jpg" alt="" />
+          <img src="images/3_4_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <img src="images/Icon_Sensor Wear_Large_White.png"/>
               <p>Inovace I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Libre View_Large_White.png" />
+              <img src="images/Icon_Libre View_Large_White.png"/>
               <p>Inovace II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Research Science_Large_White.png" />
+              <img src="images/Icon_Research Science_Large_White.png"/>
               <p>Vědecké pokroky</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Kliknutím na jednotlivé ikony se dozvíte víc.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_4_1_2.jpg" alt="" />
+              <img src="images/3_4_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>INOVACE I</p>
                 <p>Přinášíme inovativní řešení na poli zdravotní péče. Pomáhají lidem žít zdravěji a zlepšují výsledky jejich léčby ve všech částech světa.</p>
@@ -350,10 +350,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_4_1_3.jpg" alt="" />
+              <img src="images/3_4_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>INOVACE II</p>
                 <p>Rozvíjíme kulturu inovací tím, že hledáme nové možnosti, a plánujeme, jak postupovat, když něco nevyjde.</p>
@@ -361,10 +361,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_4_1_4.jpg" alt="" />
+              <img src="images/3_4_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>VĚDECKÉ POKROKY</p>
                 <p>Cílem našeho výzkumu je získat přesná a objektivní data, která se stanou hnacím motorem inovací, zlepšování léčby i pokroků ve sféře zdravotní péče.</p>
@@ -389,48 +389,48 @@
             <p>Když je nám něco nejasné, umíme se zeptat. Když máme pocit, že něco není správně, nebojíme se promluvit.</p>
             <p>Tato část posiluje náš závazek k rovným příležitostem a bezpečnému pracovnímu prostředí. Připomíná nám, že Kodexu bychom měli rozumět, uplatňovat ho v praxi i dodržovat ve všem, co děláme.</p>
           </div>
-          <img src="images/3_5_1.jpg" alt="" />
+          <img src="images/3_5_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Collaboration_Large_White.png" />
+              <img src="images/Icon_Collaboration_Large_White.png"/>
               <p>Spolupráce</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <img src="images/Icon_Employee Relations_Large_White.png"/>
               <p>Naše vzájemné propojení</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <img src="images/Icon_Smart Phone V1_Large_White.png"/>
               <p>Nahlašování pochybností</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <img src="images/Icon_Active Wheelchair_Large_White.png"/>
               <p>Rovné příležitosti</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <img src="images/Icon_Partnership Giving_Large_White.png"/>
               <p>Spravedlivé zacházení</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="6">
-              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png"/>
               <p>Pracovní prostředí</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Kliknutím na jednotlivé ikony se dozvíte víc.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_5_1_2.jpg" alt="" />
+              <img src="images/3_5_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>SPOLUPRÁCE</p>
                 <p>Ceníme si otevřenosti a spolupráce. Jedině pestrá šíře nápadů nás totiž dokáže navést na lepší řešení.</p>
@@ -438,10 +438,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_3.jpg" alt="" />
+              <img src="images/3_5_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>NAŠE VZÁJEMNÉ PROPOJENÍ</p>
                 <p>Naší společnou povinností je denně žít v souladu s hodnotami společnosti Abbott.</p>
@@ -450,10 +450,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_4.jpg" alt="" />
+              <img src="images/3_5_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>NAHLAŠOVÁNÍ POCHYBNOSTÍ</p>
                 <p>Když nám něco není jasné nebo se nám něco nezdá správné, ptáme se. Také se nebojíme ozvat a nahlásit jakékoli možné porušení Kodexu.</p>
@@ -473,10 +473,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_5.jpg" alt="" />
+              <img src="images/3_5_1_5.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ROVNÉ PŘÍLEŽITOSTI</p>
                 <p>Všem našim zaměstnancům nabízíme rovné příležitosti.</p>
@@ -485,10 +485,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_6.jpg" alt="" />
+              <img src="images/3_5_1_6.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>SPRAVEDLIVÉ ZACHÁZENÍ</p>
                 <p>Formujeme respektující, inkluzivní a bezpečné pracovní prostředí.</p>
@@ -498,10 +498,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_7.jpg" alt="" />
+              <img src="images/3_5_1_7.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>PRACOVNÍ PROSTŘEDÍ</p>
                 <p>Bezpečnost a spravedlivé pracovní podmínky jsou pro nás prioritou.</p>
@@ -524,33 +524,33 @@
             <p>Společnost Abbott se snaží minimalizovat svůj dopad na životní prostředí, a to tak, že snižujeme spotřebu energie a šetříme přírodní zdroje.</p>
             <p>Kromě toho v rámci našich globálních provozů podporujeme zapojování do politického života i angažovanost v rámci komunit.</p>
           </div>
-          <img src="images/3_6_1.jpg" alt="" />
+          <img src="images/3_6_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <img src="images/Icon_Caring Heart_Large_White.png"/>
               <p>Zapojování do komunit</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <img src="images/Icon_Reprocessing_Large_White.png"/>
               <p>Zodpovědnost vůči životnímu prostředí</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Government_Large_White.png" />
+              <img src="images/Icon_Government_Large_White.png"/>
               <p>Politické příspěvky</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Kliknutím na jednotlivé ikony se dozvíte víc.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_6_1_2.jpg" alt="" />
+              <img src="images/3_6_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ZAPOJOVÁNÍ DO KOMUNIT</p>
                 <p>Podporujeme kvalitu života v rámci komunit.</p>
@@ -559,10 +559,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_6_1_3.jpg" alt="" />
+              <img src="images/3_6_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ZODPOVĚDNOST VŮČI ŽIVOTNÍMU PROSTŘEDÍ</p>
                 <p>Podílíme se na vývoji v oblasti životního prostředí a usilujeme o to, abychom snížili náš dopad na něj.</p>
@@ -571,10 +571,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_6_1_4.jpg" alt="" />
+              <img src="images/3_6_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>POLITICKÉ PŘÍSPĚVKY</p>
                 <p>Podporujeme vhodné zapojení do politického procesu a podporujeme zapojení v rámci komunit.</p>
@@ -596,43 +596,43 @@
           <div>
             <p>Když narazíme na střet zájmů, upřednostňujeme zájmy společnosti Abbott před našimi vlastními. Chráníme majetek a dobrou pověst společnosti Abbott, dbáme na zabezpečení důvěrných informací a respektujeme soukromí všech, kteří nám svěří své osobní údaje.</p>
           </div>
-          <img src="images/3_7_1.jpg" alt="" />
+          <img src="images/3_7_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Partnership_Large_White.png" />
+              <img src="images/Icon_Partnership_Large_White.png"/>
               <p>Spravedlivé jednání</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Speaker_Large_White.png" />
+              <img src="images/Icon_Speaker_Large_White.png"/>
               <p>Zamezení střetu zájmů I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Travel_Large_White.png" />
+              <img src="images/Icon_Travel_Large_White.png"/>
               <p>Zamezení střetu zájmů II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_CEC_Large_White.png" />
+              <img src="images/Icon_CEC_Large_White.png"/>
               <p>Ochrana majetku a dobré pověsti společnosti Abbott</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Chat_Large_White.png" />
+              <img src="images/Icon_Chat_Large_White.png"/>
               <p>Důvěrné informace</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Kliknutím na jednotlivé ikony se dozvíte víc.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_7_1_2.jpg" alt="" />
+              <img src="images/3_7_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>SPRAVEDLIVÉ JEDNÁNÍ</p>
                 <p>Podnikáme čestně. Plníme své závazky ve všech aspektech našich pracovních činností.</p>
@@ -640,10 +640,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_3.jpg" alt="" />
+              <img src="images/3_7_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ZAMEZENÍ STŘETU ZÁJMŮ I</p>
                 <p>Než přejdeme na další kroky, zjistíme, zda nedochází ke střetu zájmů, a tyto střety vyřešíme.</p>
@@ -651,10 +651,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_4.jpg" alt="" />
+              <img src="images/3_7_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ZAMEZENÍ STŘETU ZÁJMŮ II</p>
                 <p>Při rozhodování v souvislosti s prací klademe zájmy společnosti Abbott na první místo.</p>
@@ -662,10 +662,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_5.jpg" alt="" />
+              <img src="images/3_7_1_5.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>OCHRANA MAJETKU A DOBRÉ POVĚSTI SPOLEČNOSTI ABBOTT</p>
                 <p>Jsme správci naší společnosti.</p>
@@ -677,10 +677,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_6.jpg" alt="" />
+              <img src="images/3_7_1_6.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>DŮVĚRNÉ INFORMACE</p>
                 <p>Vynakládáme potřebné úsilí na to, abychom respektovali veškeré důvěrné informace a chránili je (včetně osobních údajů).</p>
@@ -704,43 +704,43 @@
           <div>
             <p>Když narazíme na střet zájmů, upřednostňujeme zájmy společnosti Abbott před našimi vlastními. Chráníme majetek a dobrou pověst společnosti Abbott, dbáme na zabezpečení důvěrných informací a respektujeme soukromí všech, kteří nám svěří své osobní údaje.</p>
           </div>
-          <img src="images/3_7_1.jpg" alt="" />
+          <img src="images/3_7_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <img src="images/Icon_Do Not Touch_Large_White.png"/>
               <p>Boj proti úplatkářství</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Plate_Large_White.png" />
+              <img src="images/Icon_Plate_Large_White.png"/>
               <p>Dary, pohoštění a zábava</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <img src="images/Icon_Regulatory Compliance_Large_White.png"/>
               <p>Přesné účetnictví a účetní záznamy</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_Justice_Large_White.png" />
+              <img src="images/Icon_Justice_Large_White.png"/>
               <p>Dodržování zákonů</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Evalution_Large_White.png" />
+              <img src="images/Icon_Evalution_Large_White.png"/>
               <p>Férová hospodářská soutěž</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Kliknutím na jednotlivé ikony se dozvíte víc.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_7_1_7.jpg" alt="" />
+              <img src="images/3_7_1_7.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>BOJ PROTI ÚPLATKÁŘSTVÍ</p>
                 <p>Aktivně odmítáme podvody, úplatkářství a korupci. Podnikáme správně.</p>
@@ -750,10 +750,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_7_1_8.jpg" alt="" />
+              <img src="images/3_7_1_8.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>DARY, POHOŠTĚNÍ A ZÁBAVA</p>
                 <p>V souladu se zásadami o boji proti úplatkářství za účelem získání obchodní výhody nenabízíme ani neposkytujeme nic hodnotného, a to přímo, ani nepřímo.</p>
@@ -761,10 +761,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_9.jpg" alt="" />
+              <img src="images/3_7_1_9.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>PŘESNÉ VEDENÍ ÚČETNICTVÍ A ZÁZNAMŮ</p>
                 <p>Dosažené výsledky měříme přesně.</p>
@@ -773,10 +773,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_10.jpg" alt="" />
+              <img src="images/3_7_1_10.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>DODRŽOVÁNÍ ZÁKONŮ</p>
                 <p>Dodržujeme všechny právní předpisy a nařízení i požadavky společnosti Abbott platné pro naši práci.</p>
@@ -785,10 +785,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_11.jpg" alt="" />
+              <img src="images/3_7_1_11.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>SPRAVEDLIVÁ HOSPODÁŘSKÁ SOUTĚŽ</p>
                 <p>Ručíme za to, že veškeré naše interakce s konkurenty jsou vhodné.</p>
@@ -807,14 +807,14 @@
           <p>Potvrzuji, že rozumím svým povinnostem týkajícím se Kodexu obchodního chování společnosti Abbott a že vím, kde mohu najít příslušné zásady a postupy a seznámit se s nimi.</p>
           <button class="qcSubmitBtn">Potvrzuji</button>
         </div>
-        <img src="images/confirmIcon.png" />
+        <img src="images/confirmIcon.png"/>
       </div>
     </div>
     <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
       <div class="assessIntroScreen">
         <p>Prověření získaných znalostí, které následuje, se skládá z 10 otázek. Úspěšné dokončení tohoto kurzu vyžaduje skóre minimálně 80 %.</p>
         <p>AŽ BUDETE PŘIPRAVENÍ, KLIKNĚTE NA TLAČÍTKO KONTROLA ZÍSKANÝCH ZNALOSTÍ.</p>
-        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check"/>
       </div>
     </div>
     <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
@@ -1125,9 +1125,9 @@
         <div class="hide" id="feedback2">
           <p>Je nám líto, v prověření získaných znalostí jste neuspěli. Věnujte pár minut překontrolování výsledků kliknutím na jednotlivé otázky.</p>
           <p>Po dokončení klikněte na tlačítko Zkusit znovu.</p>
-          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake"/>
         </div>
-        <div class="seamless" id="fbResultsContainer" />
+        <div class="seamless" id="fbResultsContainer"/>
       </div>
     </div>
     <div id="C_199" class="screen" data-autoAudio="f_14">
@@ -1158,27 +1158,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1217,27 +1217,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1265,27 +1265,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1313,14 +1313,14 @@
     <div id="C_200" class="screen helpPage">
       <p class="resSubtitles">Kde hledat podporu</p>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif"/>
         <p>Nadřízený</p>
         <p>Pokud máte otázku týkající se vašich interakcí s osobami mimo společnost Abbott, je nejlepší začít u nadřízeného.</p>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif"/>
         <p>Standardy v písemné podobě</p>
         <ul>
           <li>Základní sadu našich očekávání ohledně interakcí s jinými osobami najdete v našem <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Kodexu obchodního chování</a>.</li>
@@ -1328,8 +1328,8 @@
         </ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif"/>
         <p>Oddělení pro etiku a dodržování předpisů (OEC)</p>
         <p>OEC je globální zdroj, který je k dispozici pro řešení vašich dotazů nebo nejasností týkajících se hodnot společnosti a norem chování.</p>
         <ul>
@@ -1339,23 +1339,22 @@
         </ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif"/>
         <p>Personální oddělení (HR)</p>
         <p>V případě záležitostí souvisejících se zaměstnáním, jako jsou pochybnosti týkající se vedení a ostatních zaměstnanců, se obracejte na zástupce <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">personálního oddělení</a>.</p>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif"/>
         <p>Právní oddělení</p>
         <p>Máte-li otázky nebo obavy týkající se právních důsledků úplatkářství a korupce, obraťte se na právní oddělení.</p>
         <ul>
-          <li>Kliknutím sem získáte přístup na domovskou stránku právního oddělení na portále Abbott World.</li>
-        </ul>
+          <li>Kliknutím <a href="https://abbott.sharepoint.com/sites/AW-Abbott-Legal" target="_blank">sem</a> získáte přístup na domovskou stránku právního oddělení na portálu Abbott World.</li></ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif"/>
         <p>DALŠÍ ZDROJE INFORMACÍ</p>
         <p>K dispozici je řada dalších zdrojů:</p>
         <p>Finance – Pokud máte otázky týkající se účetnictví nebo financí, kontaktujte místní finanční oddělení.</p>
@@ -1366,7 +1365,7 @@
       </div>
       <p class="resSubtitles" data-break="true">Zdroje kurzu</p>
       <div class="helpSection">
-        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif"/>
         <p>Přepis</p>
         <p>Úplný přepis kurzu zobrazíte kliknutím <a href="reference/Transcript.pdf" target="_blank">sem</a>.</p>
       </div>

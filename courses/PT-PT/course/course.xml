@@ -1,90 +1,90 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
   <toc>
     <nav navId="A_1" title="Boas-vindas" description="5 minutes" timing="0" required="false">
       <nav navId="B_1" title="Código de conduta empresarial">
-        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st"/>
       </nav>
       <nav navId="B_2" title="A nossa filosofia">
-        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f"/>
       </nav>
       <nav navId="B_3" title="Objetivos">
-        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f"/>
       </nav>
       <nav navId="B_4" title="Índice">
-        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc"/>
       </nav>
     </nav>
     <nav navId="A_2" title="A importância do Código de conduta empresarial da Abbott" description="2 minutes" timing="0" required="true">
       <nav navId="B_5" title="Os nossos compromissos do dia a dia">
-        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f"/>
       </nav>
       <nav navId="B_6" title="A importância do código para o nosso negócio">
-        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f"/>
       </nav>
     </nav>
     <nav navId="A_3" title="O nosso Código" description="20 minutes" timing="0" required="true">
       <nav navId="B_7" title="Visão geral">
-        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f"/>
       </nav>
       <nav navId="B_8" title="Os nossos clientes">
-        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request"/>
       </nav>
       <nav navId="B_9" title="Os nossos produtos">
-        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request"/>
       </nav>
       <nav navId="B_10" title="Contribuir para o avanço da ciência">
-        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request"/>
       </nav>
       <nav navId="B_11" title="As nossas pessoas">
-        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request"/>
       </nav>
       <nav navId="B_12" title="As nossas comunidades">
-        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request"/>
       </nav>
       <nav navId="B_13" title="Como operamos">
-        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
-        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request"/>
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request"/>
       </nav>
     </nav>
     <nav navId="A_4" title="O seu compromisso" description="4 minutes" timing="0" required="true">
       <nav navId="B_14" title="O seu compromisso">
-        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true"/>
       </nav>
     </nav>
     <nav navId="A_5" title="Verificação de conhecimentos" description="5 minutes" timing="0" required="true">
       <nav navId="B_15" title="Introdução">
-        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I"/>
       </nav>
       <nav navId="B_16" title="Avaliação">
-        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T"/>
       </nav>
       <nav navId="B_17" title="Feedback">
-        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E"/>
       </nav>
       <nav navId="B_18" title="Inquérito">
-        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su"/>
       </nav>
     </nav>
   </toc>
   <screens>
     <div id="C_1" class="screen" data-autoAudio="0">
-      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <img src="images/1_1_1.jpg" class="fullscreenImg"/>
       <div>
-        <img src="images/logo.svg" class="coLogo" />
+        <img src="images/logo.svg" class="coLogo"/>
         <p>Código de conduta empresarial</p>
       </div>
       <p class="startInstruction">Clique na seta para avançar.</p>
     </div>
     <div id="C_2" class="screen" data-autoAudio="1_2_1">
-      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <img src="images/1_2_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Enquanto líder global na área da saúde, o que fazemos no dia a dia é importante.</p>
         <p>O nosso Código de conduta empresarial é uma bússola sólida que nos capacita a agir com integridade, liderar com propósito e fazer escolhas que refletem o melhor de quem somos. É assim que conquistamos confiança, defendemos os nossos valores e continuamos a fazer uma diferença significativa no mundo.</p>
       </div>
     </div>
     <div id="C_3" class="screen" data-autoAudio="1_3_1">
-      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <img src="images/1_3_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Após a conclusão do curso:</p>
         <ul>
@@ -102,8 +102,8 @@
             <p>1</p>
             <p>Boas-vindas</p>
             <p>1 minuto</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -112,8 +112,8 @@
             <p>2</p>
             <p>A importância do Código de conduta empresarial da Abbott</p>
             <p>2 minutos</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -122,8 +122,8 @@
             <p>3</p>
             <p>O nosso código</p>
             <p>18 minutos</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -132,8 +132,8 @@
             <p>4</p>
             <p>O seu compromisso</p>
             <p>1 minuto</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -142,8 +142,8 @@
             <p>5</p>
             <p>Verificação de conhecimentos</p>
             <p>5 minutos</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -153,29 +153,29 @@
           <p>Progresso da aprendizagem</p>
           <p class="pcDisplay">.</p>
           <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
-            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
-            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
           </svg>
         </div>
         <p class="tocUiMsg">Este tópico já está disponível.</p>
       </div>
     </div>
     <div id="C_5" class="screen" data-autoAudio="2_1_1">
-      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <img src="images/2_1_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Lideramos com integridade, justiça e honestidade. Todos. Sempre.</p>
         <p>O nosso Código de conduta empresarial recorda-nos de que a integridade, a justiça e a honestidade não são apenas ideais, mas compromissos do dia a dia. Apesar de o Código não poder antecipar todos os desafios que poderemos enfrentar, constitui uma base sólida de valores para nos orientar.</p>
       </div>
     </div>
     <div id="C_6" class="screen" data-autoAudio="2_2_1">
-      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <img src="images/2_2_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Estamos comprometidos com os mais elevados padrões.</p>
         <p>O Código de conduta empresarial é vital para o sucesso da Abbott, pois define o padrão de como trabalhamos: com integridade, justiça e honestidade. Ajuda-nos a tomar decisões éticas, sobretudo em situações complexas, e garante que nos mantemos alinhados com os nossos valores. Ao seguir o Código, protegemos a nossa reputação, ganhamos a confiança de quem servimos e criamos uma cultura no local de trabalho onde fazer a coisa certa é fundamental.</p>
       </div>
     </div>
     <div id="C_7" class="screen" data-autoAudio="3_1_1">
-      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <img src="images/3_1_1.jpg" class="fullscreenImg"/>
       <div>
         <p>A compreensão do Código é responsabilidade de todos.</p>
         <p>Cada um de nós tem um dever na aplicação do Código de conduta empresarial no nosso trabalho do dia a dia e na tomada de decisões. Não se trata apenas de um documento, mas de um guia que nos ajuda a enfrentar os desafios com integridade e confiança.</p>
@@ -192,38 +192,38 @@
           <div>
             <p>É um aviso de que por trás de cada decisão, cada inovação e cada ação existe um propósito: melhorar a vida das pessoas.</p>
           </div>
-          <img src="images/3_2_1.jpg" alt="" />
+          <img src="images/3_2_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <img src="images/Icon_Family V3 Full Body_Large_White.png"/>
               <p>Doentes e Consumidores</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <img src="images/Icon_Healthcare Workers_Large_White.png"/>
               <p>Profissionais de saúde</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Clique em cada um dos ícones para saber mais.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_2_1_2.jpg" alt="" />
+              <img src="images/3_2_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>DOENTES E CONSUMIDORES</p>
                 <p>Cuidar das pessoas é a essência do que fazemos. Damos prioridade à saúde e ao bem-estar dos doentes e consumidores. Todos os dias, podemos fazer uma diferença significativa, ajudando as pessoas a terem uma vida mais saudável e contribuindo para comunidades mais fortes e saudáveis.</p>
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_2_1_3.jpg" alt="" />
+              <img src="images/3_2_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>PROFISSIONAIS DE SAÚDE</p>
                 <p>Trabalhamos com profissionais de saúde para promover uma saúde melhor. Respeitamos o conhecimento e o julgamento independente dos profissionais de saúde, sejam eles médicos, enfermeiros, farmacêuticos, investigadores ou funcionários de laboratório. O seu papel na orientação dos doentes para uma saúde melhor é essencial.</p>
@@ -245,33 +245,33 @@
             <p>Tomamos medidas para garantir que os nossos produtos são seguros e eficazes, desde a escolha dos materiais certos até à forma como os comercializamos, vendemos e fornecemos. Em todas as etapas, seguimos elevados padrões de qualidade.</p>
             <p>Também estamos empenhados em identificar, avaliar e resolver questões de segurança dos produtos, em tempo oportuno, bem como promover ações para prevenir a contrafação, o desvio ilegal e roubo dos nossos produtos.</p>
           </div>
-          <img src="images/3_3_1.jpg" alt="" />
+          <img src="images/3_3_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <img src="images/Icon_Nutrition Products V2_Large_White.png"/>
               <p>Qualidade dos produtos</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Food Label_Large_White.png" />
+              <img src="images/Icon_Food Label_Large_White.png"/>
               <p>Promoção de produtos I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <img src="images/Icon_Patient Interaction_Large_White.png"/>
               <p>Promoção de produtos II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Clique em cada um dos ícones para saber mais.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_3_1_2.jpg" alt="" />
+              <img src="images/3_3_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>QUALIDADE DOS PRODUTOS</p>
                 <p>Seguros, eficazes e fiáveis. Os nossos produtos fazem a diferença.</p>
@@ -281,10 +281,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_3_1_3.jpg" alt="" />
+              <img src="images/3_3_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>PROMOÇÃO DE PRODUTOS I</p>
                 <p>Promovemos e vendemos os nossos produtos com honestidade e respeito por aqueles que confiam neles.</p>
@@ -292,10 +292,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_3_1_4.jpg" alt="" />
+              <img src="images/3_3_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>PROMOÇÃO DE PRODUTOS II</p>
                 <p>Promovemos os nossos produtos para os usos pretendidos e aprovados.</p>
@@ -316,33 +316,33 @@
           <div>
             <p>Procuramos a inovação, reconhecendo a importância de antecipar e abordar os riscos de forma responsável. Respeitamos a dignidade de todos os participantes do estudo e mantemos os mais elevados padrões de transparência e objetividade na investigação científica.</p>
           </div>
-          <img src="images/3_4_1.jpg" alt="" />
+          <img src="images/3_4_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <img src="images/Icon_Sensor Wear_Large_White.png"/>
               <p>Inovação I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Libre View_Large_White.png" />
+              <img src="images/Icon_Libre View_Large_White.png"/>
               <p>Inovação II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Research Science_Large_White.png" />
+              <img src="images/Icon_Research Science_Large_White.png"/>
               <p>Contribuir para o avanço da ciência</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Clique em cada um dos ícones para saber mais.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_4_1_2.jpg" alt="" />
+              <img src="images/3_4_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>INOVAÇÃO I</p>
                 <p>Criamos soluções inovadoras na área da saúde para ajudar as pessoas a terem uma vida mais saudável e melhorar os resultados em todo o mundo.</p>
@@ -350,10 +350,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_4_1_3.jpg" alt="" />
+              <img src="images/3_4_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>INOVAÇÃO II</p>
                 <p>Cultivamos uma cultura de inovação, através da exploração de novas possibilidades e do planeamento de contingências.</p>
@@ -361,10 +361,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_4_1_4.jpg" alt="" />
+              <img src="images/3_4_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>CONTRIBUIR PARA O AVANÇO DA CIÊNCIA</p>
                 <p>Realizamos investigação para gerar dados precisos e objetivos que impulsionam a inovação, melhoram os tratamentos e promovem o desenvolvimento dos cuidados de saúde.</p>
@@ -389,48 +389,48 @@
             <p>Fazemos perguntas quando as coisas não estão claras e falamos quando algo não parece certo.</p>
             <p>Esta secção reforça o nosso compromisso com a igualdade de oportunidades e um ambiente de trabalho seguro, e lembra-nos de compreender, aplicar e defender o Código em tudo o que fazemos.</p>
           </div>
-          <img src="images/3_5_1.jpg" alt="" />
+          <img src="images/3_5_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Collaboration_Large_White.png" />
+              <img src="images/Icon_Collaboration_Large_White.png"/>
               <p>Colaboração</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <img src="images/Icon_Employee Relations_Large_White.png"/>
               <p>A nossa Colaboração entre Pares</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <img src="images/Icon_Smart Phone V1_Large_White.png"/>
               <p>Comunicar uma preocupação</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <img src="images/Icon_Active Wheelchair_Large_White.png"/>
               <p>Igualdade de oportunidades</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <img src="images/Icon_Partnership Giving_Large_White.png"/>
               <p>Tratamento justo</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="6">
-              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png"/>
               <p>Ambiente de trabalho</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Clique em cada um dos ícones para saber mais.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_5_1_2.jpg" alt="" />
+              <img src="images/3_5_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>COLABORAÇÃO</p>
                 <p>Valorizamos a abertura e a colaboração porque a diversidade de ideias leva a melhores soluções.</p>
@@ -438,10 +438,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_3.jpg" alt="" />
+              <img src="images/3_5_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>A NOSSA COLABORAÇÃO ENTRE PARES</p>
                 <p>Todos partilhamos a responsabilidade de diariamente defender os valores da Abbott.</p>
@@ -450,10 +450,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_4.jpg" alt="" />
+              <img src="images/3_5_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>COMUNICAR UMA PREOCUPAÇÃO</p>
                 <p>Fazemos perguntas quando algo não está claro ou não parece certo. Também denunciamos e comunicamos quaisquer possíveis violações do Código.</p>
@@ -473,10 +473,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_5.jpg" alt="" />
+              <img src="images/3_5_1_5.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>IGUALDADE DE OPORTUNIDADES</p>
                 <p>Garantimos igualdade de oportunidades a todos os colaboradores.</p>
@@ -485,10 +485,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_6.jpg" alt="" />
+              <img src="images/3_5_1_6.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>TRATAMENTO JUSTO</p>
                 <p>Promovemos um ambiente de trabalho respeitoso, inclusivo e seguro.</p>
@@ -498,10 +498,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_7.jpg" alt="" />
+              <img src="images/3_5_1_7.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>AMBIENTE DE TRABALHO</p>
                 <p>Priorizamos a segurança e condições de trabalho justas.</p>
@@ -524,33 +524,33 @@
             <p>A Abbott procura minimizar o seu impacto ambiental através da redução do consumo de energia e da conservação dos recursos naturais.</p>
             <p>Também apoiamos o envolvimento político adequado e incentivamos a participação da comunidade em todas as nossas operações globais.</p>
           </div>
-          <img src="images/3_6_1.jpg" alt="" />
+          <img src="images/3_6_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <img src="images/Icon_Caring Heart_Large_White.png"/>
               <p>Envolvimento da comunidade</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <img src="images/Icon_Reprocessing_Large_White.png"/>
               <p>Responsabilidade ambiental</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Government_Large_White.png" />
+              <img src="images/Icon_Government_Large_White.png"/>
               <p>Contribuições políticas</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Clique em cada um dos ícones para saber mais.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_6_1_2.jpg" alt="" />
+              <img src="images/3_6_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ENVOLVIMENTO DA COMUNIDADE</p>
                 <p>Apoiamos o bem-estar da comunidade.</p>
@@ -559,10 +559,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_6_1_3.jpg" alt="" />
+              <img src="images/3_6_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>RESPONSABILIDADE AMBIENTAL</p>
                 <p>Participamos no desenvolvimento sustentável e trabalhamos para reduzir o nosso impacto ambiental.</p>
@@ -571,10 +571,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_6_1_4.jpg" alt="" />
+              <img src="images/3_6_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>CONTRIBUIÇÕES POLÍTICAS</p>
                 <p>Incentivamos uma participação adequada em processos políticos e apoiamos o envolvimento da comunidade.</p>
@@ -596,43 +596,43 @@
           <div>
             <p>Colocamos os interesses da Abbott acima dos nossos próprios ao lidar com conflitos de interesses. Protegemos os ativos e a reputação da Abbott, mantemos as informações confidenciais em segurança e respeitamos a privacidade de todos que partilham informações pessoais connosco.</p>
           </div>
-          <img src="images/3_7_1.jpg" alt="" />
+          <img src="images/3_7_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Partnership_Large_White.png" />
+              <img src="images/Icon_Partnership_Large_White.png"/>
               <p>Práticas comerciais leais</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Speaker_Large_White.png" />
+              <img src="images/Icon_Speaker_Large_White.png"/>
               <p>Evitar Conflitos de Interesses I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Travel_Large_White.png" />
+              <img src="images/Icon_Travel_Large_White.png"/>
               <p>Evitar Conflitos de Interesses II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_CEC_Large_White.png" />
+              <img src="images/Icon_CEC_Large_White.png"/>
               <p>Proteção dos ativos da Abbott e reputação</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Chat_Large_White.png" />
+              <img src="images/Icon_Chat_Large_White.png"/>
               <p>Informações confidenciais</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Clique em cada um dos ícones para saber mais.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_7_1_2.jpg" alt="" />
+              <img src="images/3_7_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>PRÁTICAS COMERCIAIS LEAIS</p>
                 <p>Conduzimos os nossos negócios com integridade e cumprimos os nossos compromissos em todos os aspetos do trabalho.</p>
@@ -640,10 +640,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_3.jpg" alt="" />
+              <img src="images/3_7_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>EVITAR CONFLITOS DE INTERESSES I</p>
                 <p>Identificamos e abordamos conflitos de interesse antes de avançarmos.</p>
@@ -651,10 +651,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_4.jpg" alt="" />
+              <img src="images/3_7_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>EVITAR CONFLITOS DE INTERESSES II</p>
                 <p>Colocamos os interesses da Abbott em primeiro lugar ao tomar decisões relacionadas com o trabalho.</p>
@@ -662,10 +662,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_5.jpg" alt="" />
+              <img src="images/3_7_1_5.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>PROTEÇÃO DOS ATIVOS DA ABBOTT E REPUTAÇÃO</p>
                 <p>Zelamos pela nossa empresa.</p>
@@ -677,10 +677,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_6.jpg" alt="" />
+              <img src="images/3_7_1_6.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>INFORMAÇÕES CONFIDENCIAIS</p>
                 <p>Estamos empenhados em respeitar e proteger todas as informações confidenciais, incluindo dados pessoais.</p>
@@ -704,43 +704,43 @@
           <div>
             <p>Colocamos os interesses da Abbott acima dos nossos próprios ao lidar com conflitos de interesses. Protegemos os ativos e a reputação da Abbott, mantemos as informações confidenciais em segurança e respeitamos a privacidade de todos que partilham informações pessoais connosco.</p>
           </div>
-          <img src="images/3_7_1.jpg" alt="" />
+          <img src="images/3_7_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <img src="images/Icon_Do Not Touch_Large_White.png"/>
               <p>Antissuborno</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Plate_Large_White.png" />
+              <img src="images/Icon_Plate_Large_White.png"/>
               <p>Presentes, refeições e entretenimento</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <img src="images/Icon_Regulatory Compliance_Large_White.png"/>
               <p>Livros e registos rigorosos</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_Justice_Large_White.png" />
+              <img src="images/Icon_Justice_Large_White.png"/>
               <p>Cumprimento das leis</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Evalution_Large_White.png" />
+              <img src="images/Icon_Evalution_Large_White.png"/>
               <p>Concorrência leal</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Clique em cada um dos ícones para saber mais.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_7_1_7.jpg" alt="" />
+              <img src="images/3_7_1_7.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ANTISSUBORNO</p>
                 <p>Opomo-nos ativamente contra a fraude, o suborno e a corrupção. Concretizamos negócios de forma correta.</p>
@@ -750,10 +750,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_7_1_8.jpg" alt="" />
+              <img src="images/3_7_1_8.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>PRESENTES, REFEIÇÕES E ENTRETENIMENTO</p>
                 <p>Não oferecemos nem fornecemos nada de valor para obter vantagem comercial, direta ou indiretamente, em conformidade com os princípios anticorrupção.</p>
@@ -761,10 +761,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_9.jpg" alt="" />
+              <img src="images/3_7_1_9.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>LIVROS E REGISTOS RIGOROSOS</p>
                 <p>Medimos os resultados com precisão.</p>
@@ -773,10 +773,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_10.jpg" alt="" />
+              <img src="images/3_7_1_10.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>CUMPRIMENTO DAS LEIS</p>
                 <p>Seguimos todas as leis, regulamentos e as normas da Abbott que se aplicam à nossa atividade.</p>
@@ -785,10 +785,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_11.jpg" alt="" />
+              <img src="images/3_7_1_11.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>CONCORRÊNCIA LEAL</p>
                 <p>Garantimos que as nossas interações com a concorrência são adequadas.</p>
@@ -807,14 +807,14 @@
           <p>Confirmo que compreendo as minhas responsabilidades em matéria de Código de conduta empresarial e que sei onde encontrar e rever Políticas e Procedimentos aplicáveis.</p>
           <button class="qcSubmitBtn">Confirmar</button>
         </div>
-        <img src="images/confirmIcon.png" />
+        <img src="images/confirmIcon.png"/>
       </div>
     </div>
     <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
       <div class="assessIntroScreen">
         <p>A Verificação de Conhecimentos que se segue é composta por 10 perguntas. Para concluir este curso com êxito, deverá obter um resultado igual ou superior a 80 %.</p>
         <p>QUANDO ESTIVER PRONTO/A, CLIQUE NO BOTÃO VERIFICAÇÃO DE CONHECIMENTOS.</p>
-        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check"/>
       </div>
     </div>
     <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
@@ -1125,9 +1125,9 @@
         <div class="hide" id="feedback2">
           <p>Lamentamos, mas não obteve aprovação na verificação de conhecimentos. Reserve alguns minutos para rever os seus resultados, ao clicar em cada pergunta.</p>
           <p>Quando terminar, clique no botão Repetir.</p>
-          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake"/>
         </div>
-        <div class="seamless" id="fbResultsContainer" />
+        <div class="seamless" id="fbResultsContainer"/>
       </div>
     </div>
     <div id="C_199" class="screen" data-autoAudio="f_14">
@@ -1158,27 +1158,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1217,27 +1217,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1265,27 +1265,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1313,14 +1313,14 @@
     <div id="C_200" class="screen helpPage">
       <p class="resSubtitles">Onde se dirigir para obter apoio</p>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif"/>
         <p>Superior hierárquico</p>
         <p>Caso tenha dúvidas relativamente às suas interações com pessoas fora da Abbott, a melhor solução é começar por contactar o seu superior hierárquico.</p>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif"/>
         <p>Normas escritas</p>
         <ul>
           <li>Para informações sobre o conjunto de expectativas da nossa empresa, relativamente às interações com terceiros, consulte o nosso <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Código de conduta empresarial</a>.</li>
@@ -1328,8 +1328,8 @@
         </ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif"/>
         <p>Gabinete de ética e conformidade (GEC)</p>
         <p>O GEC é um recurso global disponível onde pode colocar as suas questões ou comunicar as suas preocupações, quanto aos valores e normas de conduta da nossa empresa.</p>
         <ul>
@@ -1339,23 +1339,22 @@
         </ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif"/>
         <p>Recursos Humanos</p>
         <p>Para questões relacionadas com colaboradores, tais como preocupações que abrangem a direção e/ou outros colaboradores, contacte o seu representante de <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">Recursos Humanos</a> local.</p>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif"/>
         <p>Departamento jurídico</p>
         <p>Contacte o Departamento jurídico com perguntas ou preocupações sobre implicações legais de suborno e corrupção.</p>
         <ul>
-          <li>Clique aqui para aceder à página inicial do Departamento Jurídico no Abbott World.</li>
-        </ul>
+          <li>Clique <a href="https://abbott.sharepoint.com/sites/AW-Abbott-Legal" target="_blank">aqui</a> para aceder à página inicial do Departamento Jurídico no Abbott World.</li></ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif"/>
         <p>OUTROS RECURSOS</p>
         <p>Existem muitos outros recursos à sua disposição:</p>
         <p>Departamento financeiro – Se a sua dúvida se prende com questões de contabilidade ou finanças, contacte o seu Departamento financeiro local.</p>
@@ -1366,7 +1365,7 @@
       </div>
       <p class="resSubtitles" data-break="true">Recursos para o curso</p>
       <div class="helpSection">
-        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif"/>
         <p>Transcrição</p>
         <p>Clique <a href="reference/Transcript.pdf" target="_blank">aqui</a> para obter uma transcrição completa do curso</p>
       </div>

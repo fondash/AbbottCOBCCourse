@@ -1,90 +1,90 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
   <toc>
     <nav navId="A_1" title="Zoo siab txais tos" description="5 minutes" timing="0" required="false">
       <nav navId="B_1" title="Tsab Cai Kev Coj Ua Lag Luam">
-        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st"/>
       </nav>
       <nav navId="B_2" title="Peb Lub Tswv Yim">
-        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f"/>
       </nav>
       <nav navId="B_3" title="Cov Hom Phiaj">
-        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f"/>
       </nav>
       <nav navId="B_4" title="Cov Txheej Lus">
-        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc"/>
       </nav>
     </nav>
     <nav navId="A_2" title="Qhov tseem ceeb ntawm Abbott Tsab Cai Kev Coj Ua Lag Luam" description="2 minutes" timing="0" required="true">
       <nav navId="B_5" title="Peb Cov Kev Mob Siab Rau Txhua Hnub">
-        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f"/>
       </nav>
       <nav navId="B_6" title="Qhov tseem ceeb ntawm Tsab Cai hais txog Peb Txoj Lag Luam">
-        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f"/>
       </nav>
     </nav>
     <nav navId="A_3" title="Peb Tsab Cai" description="20 minutes" timing="0" required="true">
       <nav navId="B_7" title="Cov Ntsiab Lus">
-        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f"/>
       </nav>
       <nav navId="B_8" title="Peb Cov Neeg Qhua">
-        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request"/>
       </nav>
       <nav navId="B_9" title="Peb Cov Khoom Lag Luam">
-        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request"/>
       </nav>
       <nav navId="B_10" title="Kev Txhawb Nqa Fab Kev Txawj Ntse">
-        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request"/>
       </nav>
       <nav navId="B_11" title="Peb Cov Neeg">
-        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request"/>
       </nav>
       <nav navId="B_12" title="Peb Cov Zej Zos">
-        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request"/>
       </nav>
       <nav navId="B_13" title="Peb Yuav Ua Hauj Lwm Li Cas">
-        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
-        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request"/>
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request"/>
       </nav>
     </nav>
     <nav navId="A_4" title="Koj Txoj Kev Mob Siab Rau" description="4 minutes" timing="0" required="true">
       <nav navId="B_14" title="Koj Txoj Kev Mob Siab Rau">
-        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true"/>
       </nav>
     </nav>
     <nav navId="A_5" title="Kev Kuaj Xyuas Txog Kev Txawj Ntse" description="5 minutes" timing="0" required="true">
       <nav navId="B_15" title="Ncauj Lus Qhia">
-        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I"/>
       </nav>
       <nav navId="B_16" title="Kev Ntsuam Xyuas">
-        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T"/>
       </nav>
       <nav navId="B_17" title="Lus Pab Tswv Yim">
-        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E"/>
       </nav>
       <nav navId="B_18" title="Kev Tshuaj Ntsuam Xyuas">
-        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su"/>
       </nav>
     </nav>
   </toc>
   <screens>
     <div id="C_1" class="screen" data-autoAudio="0">
-      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <img src="images/1_1_1.jpg" class="fullscreenImg"/>
       <div>
-        <img src="images/logo.svg" class="coLogo" />
+        <img src="images/logo.svg" class="coLogo"/>
         <p>Tsab Cai Kev Coj Ua Lag Luam</p>
       </div>
       <p class="startInstruction">Nyem rau ntawm tus xub taw mus tom hauv ntej</p>
     </div>
     <div id="C_2" class="screen" data-autoAudio="1_2_1">
-      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <img src="images/1_2_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Tam li ib tus thawj coj tswj xyuas kev saib xyuas kho mob thoob ntiaj teb, yam uas peb ua txhua hnub ntawd nws tseem ceeb heev.</p>
         <p>Peb Tsab Cai Kev Coj Ua Lag Luam yog lub tswv yim muaj zog uas ua rau peb ua tau hauj lwm yam muaj kev tsim muaj txhua yam, ua tau tus thawj coj yam muaj lub hom phiaj, thiab tsim ua tau cov kev xaiv uas qhia txog qhov zoo tshaj plaws tias peb yog leej twg. Nws yog txoj hau kev uas peb tsim kev ntseeg siab, tuav peb cov hauv paus kev xav, thiab tsim ua tej yam sib txawv uas muaj ntsiab lus tseem ceeb nyob rau hauv ntiaj teb nod.</p>
       </div>
     </div>
     <div id="C_3" class="screen" data-autoAudio="1_3_1">
-      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <img src="images/1_3_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Thaum kawm tiav chav kawm no lawm, koj yuav:</p>
         <ul>
@@ -102,8 +102,8 @@
             <p>1</p>
             <p>Zoo siab txais tos</p>
             <p>1 nas this</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -112,8 +112,8 @@
             <p>2</p>
             <p>Qhov tseem ceeb ntawm Abbott Tsab Cai Kev Coj Ua Lag Luam</p>
             <p>2 nas this</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -122,8 +122,8 @@
             <p>3</p>
             <p>Peb Tsab Cai</p>
             <p>18 nas this</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -132,8 +132,8 @@
             <p>4</p>
             <p>Koj Txoj Kev Mob Siab Rau</p>
             <p>1 nas this</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -142,8 +142,8 @@
             <p>5</p>
             <p>Kuaj Xyuas Kev Txawj Ntse</p>
             <p>5 nas this</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -153,29 +153,29 @@
           <p>Kev Vam Meej Ntsig Txog Kev Kawm Paub</p>
           <p class="pcDisplay">.</p>
           <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
-            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
-            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
           </svg>
         </div>
         <p class="tocUiMsg">Tam sim no muaj qhov Ncauj Lus no lawm.</p>
       </div>
     </div>
     <div id="C_5" class="screen" data-autoAudio="2_1_1">
-      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <img src="images/2_1_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Peb ua tus coj kev yam muaj kev tsim muaj txhua yam, kev ncaj ncees, thiab kev ua siab dawb paug. Txhua tus neeg. Txhua hnub.</p>
         <p>Peb Tsab Cai Kev Coj Ua Lag Luam ceeb toom kom peb paub tias kev tsim muaj txhua yam, kev ncaj ncees, thiab kev ua siab dawb paug tsis yog tias nws tsuas yog lub hom phiaj zoo xwb nkaus xwb—lawv yog cov kev mob siab rau ua hauj lwm nyob rau txhua hnub. Txawm hais tias Tsab Cai nod tsis tuaj yeem kwv yees tau txhua qhov kev nyuaj uas peb yuav ntsib los xij, nws yeej muab ib lub hauv paus ruaj khov txog ntawm cov hauv paus kev xav los mus coj peb lawm.</p>
       </div>
     </div>
     <div id="C_6" class="screen" data-autoAudio="2_2_1">
-      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <img src="images/2_2_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Peb muab siab rau ua kom tau raws li cov qauv theem siab tshaj plaws.</p>
         <p>Tsab Cai Kev Coj Ua Lag Luam yog qhov tseem ceeb rau Abbott txoj kev huaj vam vim nws teeb tsa tus qauv rau peb txoj kev ua hauj lwm—uas muaj kev tsim muaj txhua yam, kev ncaj ncees, thiab kev ua siab dawb paug. Nws pab peb txiav txim siab kom raug cai, tshwj xeeb tshaj yog nyob rau hauv cov zwj ceeb uas sib cov pes daws, thiab xyuas kom paub tseeb tias peb ua raug raws li peb cov hauv paus kev xav. Los ntawm kev ua raws li Tsab Cai, peb pov thaiv peb lub koob npe, tsim kev ntseeg siab nrog cov neeg uas peb pab cuam, thiab tsim kom muaj ib txoj kab lis kev cai ua hauj lwm ntawm chaw ua hauj lwm uas kev ua qhov yog ntawd yog qhov tseem ceeb tshaj plaws.</p>
       </div>
     </div>
     <div id="C_7" class="screen" data-autoAudio="3_1_1">
-      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <img src="images/3_1_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Kev nkag siab txog Tsab Cai yog txhua tus neeg tes hauj lwm yuav tsum tau ua.</p>
         <p>Peb txhua tus yeej muaj ib lub luag hauj lwm los mus siv Tsab Cai Kev Coj Ua Lag Luam nod rau hauv peb cov hauj lwm thiab kev txiav txim siab txhua hnub. Nws tsis yog ib daim ntawv—nws yog ib phau ntawv qhia uas pab peb tsav xyuas cov kev nyuaj ua ke nrog rau kev tsim muaj txhua yam thiab kev ntseeg tus kheej.</p>
@@ -192,38 +192,38 @@
           <div>
             <p>Nws yog ib qho kev ceeb toom tom qab txhua qhov kev txiav txim siab, txhua lub tswv yim tshiab, thiab txhua qhov kev nqis tes ua hauj lwm ntawd yog ib lub hom phiaj—txhawm rau tsim kom muaj lub neej zoo dua qub.</p>
           </div>
-          <img src="images/3_2_1.jpg" alt="" />
+          <img src="images/3_2_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <img src="images/Icon_Family V3 Full Body_Large_White.png"/>
               <p>Cov Neeg Mob thiab Cov Neeg Qhua</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <img src="images/Icon_Healthcare Workers_Large_White.png"/>
               <p>Cov Kws Kho Mob Uas Saib Xyuas Kho Mob Rau Fab Kev Noj Qab Haus Huv</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Nias rau txhua qhov ntawm cov cim txhawm rau kawm paub ntau ntxiv.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_2_1_2.jpg" alt="" />
+              <img src="images/3_2_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>COV NEEG MOB THIAB COV NEEG QHUA</p>
                 <p>Kev saib xyuas kho mob rau cov neeg lub plawv tseem ceeb ntawm yam uas peb ua. Peb muab kev noj qab haus huv thiab kev noj qab nyob zoo rau cov neeg mob thiab cov neeg qhua ua ntej tshaj plaws. Txhua hnub, peb muaj peev xwm ua tau ib qho kev sib txawv uas muaj ntsiab lus tseem ceeb—los mus pab cov neeg kom muaj lub neej noj qab haus huv zoo dua qub thiab pab txhawb rau cov zej zos kom muaj zog, thiab noj qab haus huv zoo dua qub tuaj.</p>
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_2_1_3.jpg" alt="" />
+              <img src="images/3_2_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>COV KWS KHO MOB TSHAJ LIJ UAS SAIB XYUAS KHO MOB</p>
                 <p>Peb ua hauj lwm nrog HCPs txhawm rau pab txhawb nqa kom muaj kev noj qab haus huv zoo dua qub tuaj. Peb hwm txoj kev txawj ntse thiab kev txiav txim siab ywj pheej ntawm cov kws kho mob uas saib xyuas kho mob rau fab kev noj qab haus huv - txawm tias lawv yog cov kws kho mob, cov kws tu mob, cov kws muag tshuaj, cov kws tshawb fawb, los sis cov neeg ua hauj lwm hauv chav kuaj mob los xij. Lawv lub luag hauj lwm hauv kev coj cov neeg mob mus rau txoj kev noj qab haus huv uas zoo dua qub yog qhov tseem ceeb.</p>
@@ -245,33 +245,33 @@
             <p>Peb ua ntau cov kauj ruam los xyuas kom paub tseeb tias peb cov khoom muaj kev nyab xeeb thiab siv tau hauj lwm zoo —txij li kev xaiv cov khoom siv uas yog mus txog rau txoj kev uas peb ua lag luam, muag, thiab xa cov khoom lag luam ntawd. Nyob rau txhua theem, peb ua raws li cov qauv siab txhawm rau qhov zoo tsim nyog.</p>
             <p>Tsis tas li ntawd peb kuj tseem muab siab rau txheeb xyuas, soj ntsuam, thiab daws cov teeb meem kev nyab xeeb ntawm cov khoom lag luam raws sij hawm, thiab ua cov kauj ruam los tiv thaiv kev ua khoom cuav, kev hloov pauv tsis raug cai, thiab kev tub sab txog ntawm peb cov khoom lag luam tib si.</p>
           </div>
-          <img src="images/3_3_1.jpg" alt="" />
+          <img src="images/3_3_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <img src="images/Icon_Nutrition Products V2_Large_White.png"/>
               <p>Qhov Zoo Tsim Nyog Ntawm Khoom Lag Luam</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Food Label_Large_White.png" />
+              <img src="images/Icon_Food Label_Large_White.png"/>
               <p>Kev Txhawb Nqa Khoom Lag Luam I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <img src="images/Icon_Patient Interaction_Large_White.png"/>
               <p>Kev Txhawb Nqa Khoom Lag Luam II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Nias rau txhua qhov ntawm cov cim txhawm rau kawm paub ntau ntxiv.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_3_1_2.jpg" alt="" />
+              <img src="images/3_3_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>QHOV ZOO TSIM NYOG NTAWM KHOOM LAG LUAM</p>
                 <p>Nyab xeeb, siv tau hauj lwm zoo thiab tau txais kev ntseeg siab. Peb cov khoom lag luam tsim ib qho kev sib txawv.</p>
@@ -281,10 +281,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_3_1_3.jpg" alt="" />
+              <img src="images/3_3_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KEV TXHAWB NQA KHOOM LAG LUAM I</p>
                 <p>Peb txhawb nqa thiab muag peb cov khoom lag luam nrog kev ncaj ncees thiab kev hwm rau cov neeg uas vam khom rau cov khoom siv ntawd.</p>
@@ -292,10 +292,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_3_1_4.jpg" alt="" />
+              <img src="images/3_3_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KEV TXHAWB NQA KHOOM LAG LUAM II</p>
                 <p>Peb txhawb nqa peb cov khoom lag luam rau lawv cov kev siv uas tau npaj tseg thiab tau pom zoo.</p>
@@ -316,33 +316,33 @@
           <div>
             <p>Peb nrhiav tswv yim tshiab, lees paub qhov tseem ceeb ntawm kev kwv yees thiab daws cov kev phom sij kom yam mus raws lub luag hauj lwm. Peb hwm txog lub meej mom ntawm txhua tus neeg koom nrog qhov kev kawm tshawb fawb thiab ua raws li cov qauv theem siab tshaj plaws ntawm kev ua siab dawb paug thiab kev ncaj ncees hauv feem kev tshawb fawb txog fab kev txawj ntse.</p>
           </div>
-          <img src="images/3_4_1.jpg" alt="" />
+          <img src="images/3_4_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <img src="images/Icon_Sensor Wear_Large_White.png"/>
               <p>Tswv Yim Tshiab I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Libre View_Large_White.png" />
+              <img src="images/Icon_Libre View_Large_White.png"/>
               <p>Tswv Yim Tshiab II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Research Science_Large_White.png" />
+              <img src="images/Icon_Research Science_Large_White.png"/>
               <p>Kev Txhawb Nqa Fab Kev Txawj Ntse</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Nias rau txhua qhov ntawm cov cim txhawm rau kawm paub ntau ntxiv.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_4_1_2.jpg" alt="" />
+              <img src="images/3_4_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>TSWV YIM TSHIAB I</p>
                 <p>Peb tsim cov kev daws teeb meem kev kho mob tshiab los mus pab cov neeg kom muaj lub neej noj qab haus huv zoo dua qub tuaj thiab txhim kho cov tshwm sim nyob thoob plaws ntiaj teb kom zoo.</p>
@@ -350,10 +350,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_4_1_3.jpg" alt="" />
+              <img src="images/3_4_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>TSWV YIM TSHIAB II</p>
                 <p>Peb saib xyuas txog kab lis kev cai ntawm lub tswv yim tshiab los ntawm kev tshawb nrhiav cov cib fim tshiab thiab npaj rau tej yam uas yuav tshwm sim.</p>
@@ -361,10 +361,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_4_1_4.jpg" alt="" />
+              <img src="images/3_4_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KEV TXHAWB NQA FAB KEV TXAWJ NTSE</p>
                 <p>Peb ua kev tshawb fawb los tsim cov ntaub ntawv tseeb, thiab ncaj ncees uas tsav lub tswv yim tshiab, txhim kho kev kho mob, thiab txhim kho kev saib xyuas kho mob rau fab kev noj qab haus huv kom zoo dua qub.</p>
@@ -389,48 +389,48 @@
             <p>Peb nug cov lus nug thaum tej yam tsis meej thiab hais lus tawm thaum muaj qee yam tsis raug.</p>
             <p>Tshooj no txhawb nqa peb txoj kev mob siab rau kev muaj cib fim sib luag thiab ib puag ncig chaw ua hauj lwm kom ruaj ntseg, thiab ceeb toom peb kom nkag siab, siv, thiab ua raws li Tsab Cai hauv txhua yam peb ua.</p>
           </div>
-          <img src="images/3_5_1.jpg" alt="" />
+          <img src="images/3_5_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Collaboration_Large_White.png" />
+              <img src="images/Icon_Collaboration_Large_White.png"/>
               <p>Kev Sib Koom Tes</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <img src="images/Icon_Employee Relations_Large_White.png"/>
               <p>Peb Txoj Kev Sib Txuas Ib Leeg Rau Ib Leeg</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <img src="images/Icon_Smart Phone V1_Large_White.png"/>
               <p>Kev Tshaj Qhia Cov Kev Txhawj Xeeb</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <img src="images/Icon_Active Wheelchair_Large_White.png"/>
               <p>Lub Cib Fim Muaj Vaj Huam Sib Luag</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <img src="images/Icon_Partnership Giving_Large_White.png"/>
               <p>Kev Kho Mob Ncaj Ncees</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="6">
-              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png"/>
               <p>Ib Puag Ncig Chaw Ua Hauj Lwm</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Nias rau txhua qhov ntawm cov cim txhawm rau kawm paub ntau ntxiv.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_5_1_2.jpg" alt="" />
+              <img src="images/3_5_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KEV SIB KOOM TES</p>
                 <p>Peb saib qhov kev qhib siab thiab kev koom tes muaj nqis heev vim tias muaj ntau lub tswv yim ua rau muaj kev daws teeb meem tau zoo dua.</p>
@@ -438,10 +438,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_3.jpg" alt="" />
+              <img src="images/3_5_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>PEB TXOJ KEV SIB TXUAS IB LEEG RAU IB LEEG</p>
                 <p>Peb txhua tus muaj lub luag hauj lwm sib koom ua raws li Abbott cov hauv paus kev xav txhua hnub.</p>
@@ -450,10 +450,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_4.jpg" alt="" />
+              <img src="images/3_5_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KEV TSHAJ QHIA COV KEV TXHAWJ XEEB</p>
                 <p>Peb nug cov lus nug thaum muaj qee yam tsis meej tseeb los sis hnov tau tias tsis raug lawm. Tsis tas li ntawd peb kuv tseem hais tawm thiab tshaj tawm qhia txog txhua cov kev ua txhaum cai uas muaj feem tshwm sim txog ntawm Tsab Cai nod tib si.</p>
@@ -473,10 +473,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_5.jpg" alt="" />
+              <img src="images/3_5_1_5.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>LUB CIB FIM MUAJ VAJ HUAM SIB LUAG</p>
                 <p>Peb muab cov cib fim muaj vaj huam sib luag rau tag nrho txhua cov neeg ua hauj lwm.</p>
@@ -485,10 +485,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_6.jpg" alt="" />
+              <img src="images/3_5_1_6.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KEV KHO MOB NCAJ NCEES</p>
                 <p>Peb txhawb kom muaj lub chaw ua hauj lwm uas sib hwm, muaj feem xyuam nrog, thiab nyab xeeb.</p>
@@ -498,10 +498,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_7.jpg" alt="" />
+              <img src="images/3_5_1_7.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>IB PUAG NCIG CHAW UA HAUJ LWM</p>
                 <p>Peb muab kev nyab xeeb thiab kev ua hauj lwm ncaj ncees tso ua ntej tshaj plaws.</p>
@@ -524,33 +524,33 @@
             <p>Abbott ua hauj lwm txhawm rau txo qis nws cov teeb meem ib puag ncig los ntawm kev txo kev siv hluav taws xob thiab kev txuag tej chaw hav zoov hav tsuag.</p>
             <p>Tsis tas li ntawd peb kuj txhawb nqa kev koom tes hauv kev nom kev tswv thiab txhawb kom zej zos muaj kev koom tes thoob plaws peb cov chaw hauj lwm nyob thoob ntiaj teb tib si.</p>
           </div>
-          <img src="images/3_6_1.jpg" alt="" />
+          <img src="images/3_6_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <img src="images/Icon_Caring Heart_Large_White.png"/>
               <p>Kev Koom Tes Los Ntawm Lub Zej Zos</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <img src="images/Icon_Reprocessing_Large_White.png"/>
               <p>Lub Luag Hauj Lwm Saib Xyuas Huab Cua Ib Puag Ncig</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Government_Large_White.png" />
+              <img src="images/Icon_Government_Large_White.png"/>
               <p>Kev Pab Txhawb Nqa Rau Fab Kas Moos</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Nias rau txhua qhov ntawm cov cim txhawm rau kawm paub ntau ntxiv.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_6_1_2.jpg" alt="" />
+              <img src="images/3_6_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KEV KOOM TES LOS NTAWM LUB ZEJ ZOS</p>
                 <p>Peb pab txhawb nqa txoj kev noj qab nyob zoo rau cheeb tsam zej zos.</p>
@@ -559,10 +559,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_6_1_3.jpg" alt="" />
+              <img src="images/3_6_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>LUB LUAG HAUJ LWM SAIB XYUAS HUAB CUA IB PUAG NCIG</p>
                 <p>Peb koom nrog kev txhim kho kom ruaj khov thiab ua hauj lwm txhawm rau txo peb qhov kev cuam tshuam rau ib cheeb tsam ib puag ncig kom muaj tsawg.</p>
@@ -571,10 +571,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_6_1_4.jpg" alt="" />
+              <img src="images/3_6_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KEV PAB TXHAWB NQA RAU FAB KAS MOOS</p>
                 <p>Peb txhawb kom muaj kev koom tes tsim nyog nyob rau hauv cov txheej txheem fab kas moos thiab txhawb nqa kev koom tes ntawm cheeb tsam zej zos.</p>
@@ -596,43 +596,43 @@
           <div>
             <p>Thaum peb daws cov teeb meem kev tsis sib haum xeeb, peb muab Abbott cov txiaj ntsig tso ua ntej peb li ntiag tug. Peb pov thaiv Abbott cov cuab tam thiab lub koob npe, khaws cov ntaub ntawv zais cia kom muaj kev nyab xeeb, thiab hwm txhua tus neeg uas qhia cov ntaub ntawv ntiag tug rau peb.</p>
           </div>
-          <img src="images/3_7_1.jpg" alt="" />
+          <img src="images/3_7_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Partnership_Large_White.png" />
+              <img src="images/Icon_Partnership_Large_White.png"/>
               <p>Kev Coj Ua Ncaj Ncees</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Speaker_Large_White.png" />
+              <img src="images/Icon_Speaker_Large_White.png"/>
               <p>Kev Zam Cov Kev Tsis Sib Haum Xeeb txog ntawm Cov Txiaj Ntsig I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Travel_Large_White.png" />
+              <img src="images/Icon_Travel_Large_White.png"/>
               <p>Kev Zam Cov Kev Tsis Sib Haum Xeeb txog ntawm Cov Txiaj Ntsig II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_CEC_Large_White.png" />
+              <img src="images/Icon_CEC_Large_White.png"/>
               <p>Kev Pov Thaiv Abbott Cov Khoom thiab Lub Koob Npe</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Chat_Large_White.png" />
+              <img src="images/Icon_Chat_Large_White.png"/>
               <p>Cov Ntaub Ntawv Khaws Ua Lus Ceev Tseg Tsis Pub Leej Twg Paub</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Nias rau txhua qhov ntawm cov cim txhawm rau kawm paub ntau ntxiv.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_7_1_2.jpg" alt="" />
+              <img src="images/3_7_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KEV COJ UA NCAJ NCEES</p>
                 <p>Peb ua lag luam nrog kev tsim muaj txhua yam thiab ua raws li peb cov kev mob siab rau nyob rau hauv txhua yam ntawm peb txoj hauj lwm</p>
@@ -640,10 +640,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_3.jpg" alt="" />
+              <img src="images/3_7_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KEV ZAM COV KEV TSIS SIB HAUM XEEB TXOG NTAWM COV TXIAJ NTSIG I</p>
                 <p>Peb txheeb xyuas thiab daws cov teeb meem kev tsis sib haum xeeb ua ntej yog yuav ua hauj lwm txuas ntxiv mus.</p>
@@ -651,10 +651,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_4.jpg" alt="" />
+              <img src="images/3_7_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KEV ZAM COV KEV TSIS SIB HAUM XEEB TXOG NTAWM COV TXIAJ NTSIG II</p>
                 <p>Thaum peb txiav txim siab txog kev ua hauj lwm, peb muab Abbott cov kev nyiam tso ua ntej tshaj plaws.</p>
@@ -662,10 +662,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_5.jpg" alt="" />
+              <img src="images/3_7_1_5.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KEV POV THAIV ABBOTT COV KHOOM THIAB LUB KOOB NPE</p>
                 <p>Peb cov neeg saib xyuas tus peb lub tuam txhab.</p>
@@ -677,10 +677,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_6.jpg" alt="" />
+              <img src="images/3_7_1_6.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>COV NTAUB NTAWV KHAWS UA LUS CEEV TSEG TSIS PUB LEEJ TWG PAUB</p>
                 <p>Peb muab siab rau kev sib hwm thiab kev pov thaiv tag nrho cov ntaub ntawv khaws ua lus ceev tseg tsis pub leej twg paub, muaj xam nrog rau cov ntaub ntawv hais txog tus kheej tib si.</p>
@@ -704,43 +704,43 @@
           <div>
             <p>Thaum peb daws cov teeb meem kev tsis sib haum xeeb, peb muab Abbott cov txiaj ntsig tso ua ntej peb li ntiag tug. Peb pov thaiv Abbott cov cuab tam thiab lub koob npe, khaws cov ntaub ntawv zais cia kom muaj kev nyab xeeb, thiab hwm txhua tus neeg uas qhia cov ntaub ntawv ntiag tug rau peb.</p>
           </div>
-          <img src="images/3_7_1.jpg" alt="" />
+          <img src="images/3_7_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <img src="images/Icon_Do Not Touch_Large_White.png"/>
               <p>Kev tawm tsam txoj kev xiab nyiaj</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Plate_Large_White.png" />
+              <img src="images/Icon_Plate_Large_White.png"/>
               <p>Khoom Plig, Cov Pluas Mov thiab Kev Lom Zem</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <img src="images/Icon_Regulatory Compliance_Large_White.png"/>
               <p>Cov Phau Ntawv thiab Cov Ntaub Ntawv Uas Raug</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_Justice_Large_White.png" />
+              <img src="images/Icon_Justice_Large_White.png"/>
               <p>Kev ua raws li Cov Cai Lij Choj</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Evalution_Large_White.png" />
+              <img src="images/Icon_Evalution_Large_White.png"/>
               <p>Kev Sib Tw Ncaj Ncees</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Nias rau txhua qhov ntawm cov cim txhawm rau kawm paub ntau ntxiv.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_7_1_7.jpg" alt="" />
+              <img src="images/3_7_1_7.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KEV TAWM TSAM TXOJ KEV XIAB NYIAJ</p>
                 <p>Peb tawm tsam kev dag txhaum cai, kev xiab nyiaj, thiab kev noj nyiaj txiag tsis raws cai yam mob siab rau. Peb ua lag luam mus raws txoj hau kev yog xwb.</p>
@@ -750,10 +750,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_7_1_8.jpg" alt="" />
+              <img src="images/3_7_1_8.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KHOOM PLIG, COV PLUAS MOV THIAB KEV LOM ZEM</p>
                 <p>Peb tsis muab los sis muab ib yam dab tsi muaj nqis los ua kom tau txiaj ntsig rau kev lag luam, ncaj qha los sis tsis ncaj qha, raws li cov ntsiab cai hais txog kev tiv thaiv kev noj nyiaj txiag tsis raws cai.</p>
@@ -761,10 +761,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_9.jpg" alt="" />
+              <img src="images/3_7_1_9.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>COV PHAU NTAWV THIAB COV NTAUB NTAWV TEEV TSEG UAS RAUG</p>
                 <p>Peb ntsuas cov kev ua tiav kom raug.</p>
@@ -773,10 +773,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_10.jpg" alt="" />
+              <img src="images/3_7_1_10.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KEV UA RAWS LI COV KEV CAI LIJ CHOJ</p>
                 <p>Peb ua raws li tag nrho cov kev cai lij choj, cov txoj cai thiab Abbott cov kev cai uas yuav tsum ua kom tau uas siv tau rau peb cov hauj lwm.</p>
@@ -785,10 +785,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_11.jpg" alt="" />
+              <img src="images/3_7_1_11.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>KEV SIB TW NCAJ NCEES</p>
                 <p>Peb xyuas kom meej tias txhua cov kev sib cuam tshuam sib tham uas peb muaj nrog cov neeg sib tw ntawd nws tsim nyog.</p>
@@ -807,14 +807,14 @@
           <p>Kuv lees paub tias kuv nkag siab txog kuv cov tes hauj lwm yuav tsum tau ua hais txog Abbott Tsab Cai Kev Coj Ua Lag Luam thiab paub tias yuav nrhiav thiab tshuaj xyuas Cov Qauv Cai thiab Cov Txheej Txheem uas siv tau nyob rau qhov twg.</p>
           <button class="qcSubmitBtn">Lees paub</button>
         </div>
-        <img src="images/confirmIcon.png" />
+        <img src="images/confirmIcon.png"/>
       </div>
     </div>
     <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
       <div class="assessIntroScreen">
         <p>Kev Kuaj Xyuas Txog Kev Txawj Ntse uas raws qab muaj li 10 cov lus nug. Koj yuav tsum tau qhab nia 80% los sis siab dua ntawd txhawm rau thiaj li kawm tiav qhov lav xuj kev kawm no.</p>
         <p>THAUM TWG KOJ NPAJ TXHIJ LAWM, NIAS RAU NTAWM LUB POB NIAS RAU KEV KUAJ XYUAS TXOG KEV TXAWJ NTSE.</p>
-        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check"/>
       </div>
     </div>
     <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
@@ -1125,9 +1125,9 @@
         <div class="hide" id="feedback2">
           <p>Thov txim, koj ua tsis tau tiav qhov Kev Kuaj Xyuas Txog Kev Txawj Ntse. Siv ob peb nas this los saib xyuas koj cov txiaj ntsig hauv qab no los ntawm kev nias rau ntawm txhua lo lus nug.</p>
           <p>Thaum twg koj ua tiav lawm, nias rau ntawm lub pob nias Retake.</p>
-          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake"/>
         </div>
-        <div class="seamless" id="fbResultsContainer" />
+        <div class="seamless" id="fbResultsContainer"/>
       </div>
     </div>
     <div id="C_199" class="screen" data-autoAudio="f_14">
@@ -1158,27 +1158,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1217,27 +1217,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1265,27 +1265,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1313,14 +1313,14 @@
     <div id="C_200" class="screen helpPage">
       <p class="resSubtitles">Qhov chaw rau mus thov Kev Pab Txhawb Nqa</p>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif"/>
         <p>Tus Thawj Tswj Xyuas Hauj Lwm</p>
         <p>Yog hais tias koj muaj lus nug txog koj cov kev sib cuam tshuam sib tham nrog rau cov uas nyob sab nraud ntawm Abbott, qhov chaw pib uas zoo tshaj plaws ces yog mus ntsib kiag koj tus thawj tswj xyuas hauj lwm</p>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif"/>
         <p>Cov Qauv Cai Sau Ua Ntaub Ntawv</p>
         <ul>
           <li>Rau peb lub tuam txhab cov kev cia siab npaj tseg ntawm feem hauv paus tseem ceeb hais txog cov kev sib cuam tshuam sib tham nrog lwm cov neeg, sab laj tawm tswv yim nrog peb <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Tsab Cai Kev Coj Ua Lag Luam</a>.</li>
@@ -1328,8 +1328,8 @@
         </ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif"/>
         <p>Lub Chaw Ua Hauj Lwm Saib Xyuas Kev Ncaj Ncees thiab Kev Ua Raws Li Txoj Cai (Office of Ethics and Compliance, OEC)</p>
         <p>OEC yog ib lub chaw muab kev pab cuam thoob ntiaj teb uas muaj los mus hais daws koj cov lus teb los sis cov kev txhawj xeeb hais txog peb lub tuam txhab cov hauv paus kev xav thiab cov qauv cai ntawm feem kev coj ua hauj lwm.</p>
         <ul>
@@ -1339,23 +1339,22 @@
         </ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif"/>
         <p>Feem Saib Xyuas Neeg Ua Hauj Lwm</p>
         <p>Rau cov teeb meem uas cuam tshuam txog tus neeg ua hauj lwm, xws li cov kev txhawj xeeb uas cuam tshuam txog kev tswj xyuas thiab/los sis lwm cov neeg ua hauj lwm, tiv tauj rau koj <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">tus neeg sawv cev ntawm Feem Saib Xyuas Neeg Ua Hauj Lwm</a>hauv zej zos.</p>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif"/>
         <p>Feem Saib Xyuas Hauj Lwm Fab Kev Cai Lij Choj</p>
         <p>Tiv tauj rau Feem Saib Xyuas Hauj Lwm Fab Kev Cai Lij Choj yog hais tias muaj cov lus nug los sis cov kev txhawj xeeb hais txog cov kev cuam tshuam fab kev cai lij choj txog ntawm kev xiab nyiaj thiab kev noj nyiaj txiag.</p>
         <ul>
-          <li>Nias rau qhov ntawm no txhawm rau nkag cuag tau rau nplooj vas sab xub thawj ntawm Feem Saib Xyuas Hauj Lwm Fab Kev Cai Lij Choj nyob rau ntawm Abbott World.</li>
-        </ul>
+          <li>Nias rau qhov <a href="https://abbott.sharepoint.com/sites/AW-Abbott-Legal" target="_blank">ntawm no</a> txhawm rau nkag cuag tau rau nplooj vas sab xub thawj ntawm Feem Saib Xyuas Hauj Lwm Fab Kev Cai Lij Choj nyob rau ntawm Abbott World.</li></ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif"/>
         <p>LWM COV CHAW MUAB KEV PAB CUAM</p>
         <p>Muaj ntau lwm cov chaw muab kev pab cuam rau koj:</p>
         <p>Nyiaj Txiag – Yog hais tias koj nqe lus nug yog hais txog kev ceev nyiaj txiag los sis nyiaj txiag, tiv tauj rau lub thawj fab saib xyuas hauj lwm fab Nyiaj Txiag hauv koj lub zej zos.</p>
@@ -1366,7 +1365,7 @@
       </div>
       <p class="resSubtitles" data-break="true">Cov Chaw Muab Kev Pab Cuam Rau Qhov Lav Xuj Kev Kawm</p>
       <div class="helpSection">
-        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif"/>
         <p>Cov ntaub ntawv teev txog qhab nias</p>
         <p>Nias rau <a href="reference/Transcript.pdf" target="_blank">ntawm no</a> rau saib cov ntaub ntawv teev txog qhab nia txhij txhua txog ntawm qhov lav xuj kev kawm</p>
       </div>

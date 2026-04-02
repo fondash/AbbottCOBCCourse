@@ -1,18 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<course framework="2"
-        helpId="C_200"
-        id="iwc"
-        noaudio="false"
-        homeId="C_4"
-        version="1"
-        alwayshowRef="C_200"
-        linearnav="true">
+<?xml version='1.0' encoding='UTF-8'?>
+<course framework="2" helpId="C_200" id="iwc" noaudio="false" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
    <toc>
-      <nav navId="A_1"
-           title="Welcome"
-           description="5 minutes"
-           timing="0"
-           required="false">
+      <nav navId="A_1" title="Welcome" description="5 minutes" timing="0" required="false">
          <nav navId="B_1" title="Code of Business Conduct">
             <nav navId="C_1" type="basic" resId="1_1_1" classType="st"/>
          </nav>
@@ -26,24 +15,15 @@
             <nav navId="C_4" type="toc" resId="1_4_1" classType="toc"/>
          </nav>
       </nav>
-      <nav navId="A_2"
-           title="The Importance of Abbott’s Code of Business Conduct "
-           description="2 minutes"
-           timing="0"
-           required="true">
+      <nav navId="A_2" title="The Importance of Abbott’s Code of Business Conduct " description="2 minutes" timing="0" required="true">
          <nav navId="B_5" title="Our Everyday Commitments">
             <nav navId="C_5" type="basic" resId="2_1_1" classType="f"/>
          </nav>
-         <nav navId="B_6"
-              title="The Importance of the Code to Our Business">
+         <nav navId="B_6" title="The Importance of the Code to Our Business">
             <nav navId="C_6" type="basic" resId="2_2_1" classType="f"/>
          </nav>
       </nav>
-      <nav navId="A_3"
-           title="Our Code"
-           description="20 minutes"
-           timing="0"
-           required="true">
+      <nav navId="A_3" title="Our Code" description="20 minutes" timing="0" required="true">
          <nav navId="B_7" title="Overview">
             <nav navId="C_7" type="basic" resId="3_1_1" classType="f"/>
          </nav>
@@ -67,20 +47,12 @@
             <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request"/>
          </nav>
       </nav>
-      <nav navId="A_4"
-           title="Your Commitment "
-           description="4 minutes"
-           timing="0"
-           required="true">
+      <nav navId="A_4" title="Your Commitment " description="4 minutes" timing="0" required="true">
          <nav navId="B_14" title="Your Commitment">
-            <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con"  mustComplete="true"/>
+            <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true"/>
          </nav>
       </nav>
-      <nav navId="A_5"
-           title="Knowledge Check"
-           description="5 minutes"
-           timing="0"
-           required="true">
+      <nav navId="A_5" title="Knowledge Check" description="5 minutes" timing="0" required="true">
          <nav navId="B_15" title="Introduction">
             <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I"/>
          </nav>
@@ -181,20 +153,8 @@
                <p>Learning Progress</p>
                <p class="pcDisplay">.</p>
                <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
-                  <circle cx="100"
-                          cy="100"
-                          r="94"
-                          fill="transparent"
-                          stroke="#fff"
-                          stroke-width="10"/>
-                  <circle transform="rotate(-90 100 100)"
-                          class="circleTop"
-                          cx="100"
-                          cy="100"
-                          r="94"
-                          fill="transparent"
-                          stroke="#fff"
-                          stroke-width="10"/>
+                  <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
+                  <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
                </svg>
             </div>
             <p class="tocUiMsg">This Topic is now available.</p>
@@ -232,7 +192,7 @@
                   <div>
                      <p>It’s a reminder that behind every decision, every innovation, and every action is a purpose: to make lives better.</p>
                   </div>            
-                  <img src="images/3_2_1.jpg" alt="" />
+                  <img src="images/3_2_1.jpg" alt=""/>
             </div>
             <div class="sliderOuterContentContainer">
                   <div class="sliderIconContainer">
@@ -285,7 +245,7 @@
                      <p>We take steps to make sure our products are safe and effective, from choosing the right materials to how we market, sell, and deliver them. At every stage, we follow high standards for quality. </p>
                      <p>We’re also committed to timely identifying, evaluating, and addressing product safety issues, as well as taking actions to prevent counterfeiting, illegal diversion, and theft of our products.</p>
                   </div>            
-                  <img src="images/3_3_1.jpg" alt="" />
+                  <img src="images/3_3_1.jpg" alt=""/>
             </div>
             <div class="sliderOuterContentContainer">
                   <div class="sliderIconContainer">
@@ -356,7 +316,7 @@
                   <div>
                      <p>We pursue innovation, recognizing the importance of anticipating and addressing risks responsibly. We honor the dignity of every study participant and uphold the highest standards of transparency and objectivity in scientific research.</p>
                   </div>            
-                  <img src="images/3_4_1.jpg" alt="" />
+                  <img src="images/3_4_1.jpg" alt=""/>
             </div>
             <div class="sliderOuterContentContainer">
                   <div class="sliderIconContainer">
@@ -429,7 +389,7 @@
             <p>We ask questions when things are unclear and speak up when something doesn’t feel right.</p>
             <p>This reinforces our commitment to equal opportunity and a secure work environment, and reminds us to understand, apply, and uphold the Code in everything we do.</p>
                   </div>            
-                  <img src="images/3_5_1.jpg" alt="" />
+                  <img src="images/3_5_1.jpg" alt=""/>
             </div>
             <div class="sliderOuterContentContainer">
                   <div class="sliderIconContainer">
@@ -564,7 +524,7 @@
             <p>Abbott works to minimize its environmental footprint by reducing energy use and conserving natural resources.</p>
             <p>We also support appropriate political engagement and encourage community involvement across our global operations.</p>
                   </div>            
-                  <img src="images/3_6_1.jpg" alt="" />
+                  <img src="images/3_6_1.jpg" alt=""/>
             </div>
             <div class="sliderOuterContentContainer">
                   <div class="sliderIconContainer">
@@ -636,7 +596,7 @@
                   <div>
                      <p>We put Abbott’s interests ahead of our own when handling conflicts of interest. We protect Abbott’s assets and reputation, keep confidential information safe, and respect the privacy of everyone who shares personal information with us.</p>
                   </div>            
-                  <img src="images/3_7_1.jpg" alt="" />
+                  <img src="images/3_7_1.jpg" alt=""/>
             </div>
             <div class="sliderOuterContentContainer">
                   <div class="sliderIconContainer">
@@ -841,26 +801,16 @@
             <img src="images/confirmIcon.png"/>
          </div>
       </div>
-      <div id="C_15"
-           class="screen"
-           data-autoAudio="f_0"
-           data-resourceId="knolCheck">
+      <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
          <div class="assessIntroScreen">
             <p>The Knowledge Check that follows consists of 10 questions. You must score 80% or higher to successfully complete this course.</p>
             <p>WHEN YOU ARE READY, CLICK THE KNOWLEDGE CHECK BUTTON.</p>
-            <input class="knolCheckBtn"
-                   id="knolCheck"
-                   type="button"
-                   value="Knowledge Check"/>
+            <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check"/>
          </div>
       </div>
       <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
          <div class="testContainer">
-            <div class="questionScreen"
-                 id="Q_1"
-                 data-correctAns="2"
-                 data-audio="0"
-                 data-break="false">
+            <div class="questionScreen" id="Q_1" data-correctAns="2" data-audio="0" data-break="false">
                <div class="qLeaf">
                   <p>1</p>
                </div>
@@ -882,11 +832,7 @@
                   </div>
                </div>
             </div>
-            <div class="questionScreen"
-                 id="Q_2"
-                 data-correctAns="4"
-                 data-audio="0"
-                 data-break="true">
+            <div class="questionScreen" id="Q_2" data-correctAns="4" data-audio="0" data-break="true">
                <div class="qLeaf">
                   <p>2</p>
                </div>
@@ -916,11 +862,7 @@
                   </div>
                </div>
             </div>
-            <div class="questionScreen"
-                 id="Q_3"
-                 data-correctAns="5"
-                 data-audio="0"
-                 data-break="true">
+            <div class="questionScreen" id="Q_3" data-correctAns="5" data-audio="0" data-break="true">
                <div class="qLeaf">
                   <p>3</p>
                </div>
@@ -954,11 +896,7 @@
                   </div>
                </div>
             </div>
-            <div class="questionScreen"
-                 id="Q_4"
-                 data-correctAns="2"
-                 data-audio="0"
-                 data-break="true">
+            <div class="questionScreen" id="Q_4" data-correctAns="2" data-audio="0" data-break="true">
                <div class="qLeaf">
                   <p>4</p>
                </div>
@@ -980,11 +918,7 @@
                   </div>
                </div>
             </div>
-            <div class="questionScreen"
-                 id="Q_5"
-                 data-correctAns="3"
-                 data-audio="0"
-                 data-break="true">
+            <div class="questionScreen" id="Q_5" data-correctAns="3" data-audio="0" data-break="true">
                <div class="qLeaf">
                   <p>5</p>
                </div>
@@ -1014,11 +948,7 @@
                   </div>
                </div>
             </div>
-            <div class="questionScreen"
-                 id="Q_6"
-                 data-correctAns="1"
-                 data-audio="0"
-                 data-break="true">
+            <div class="questionScreen" id="Q_6" data-correctAns="1" data-audio="0" data-break="true">
                <div class="qLeaf">
                   <p>6</p>
                </div>
@@ -1049,11 +979,7 @@
                   </div>
                </div>
             </div>
-            <div class="questionScreen"
-                 id="Q_7"
-                 data-correctAns="3"
-                 data-audio="0"
-                 data-break="true">
+            <div class="questionScreen" id="Q_7" data-correctAns="3" data-audio="0" data-break="true">
                <div class="qLeaf">
                   <p>7</p>
                </div>
@@ -1083,11 +1009,7 @@
                   </div>
                </div>
             </div>
-            <div class="questionScreen"
-                 id="Q_8"
-                 data-correctAns="3"
-                 data-audio="0"
-                 data-break="true">
+            <div class="questionScreen" id="Q_8" data-correctAns="3" data-audio="0" data-break="true">
                <div class="qLeaf">
                   <p>8</p>
                </div>
@@ -1118,11 +1040,7 @@
                   </div>
                </div>
             </div>
-            <div class="questionScreen"
-                 id="Q_9"
-                 data-correctAns="4"
-                 data-audio="0"
-                 data-break="true">
+            <div class="questionScreen" id="Q_9" data-correctAns="4" data-audio="0" data-break="true">
                <div class="qLeaf">
                   <p>9</p>
                </div>
@@ -1152,11 +1070,7 @@
                   </div>
                </div>
             </div>
-            <div class="questionScreen"
-                 id="Q_10"
-                 data-correctAns="1"
-                 data-audio="0"
-                 data-break="true">
+            <div class="questionScreen" id="Q_10" data-correctAns="1" data-audio="0" data-break="true">
                <div class="qLeaf">
                   <p>10</p>
                </div>
@@ -1189,11 +1103,7 @@
          </div>
          <div class="questionsProgress">.</div>
       </div>
-      <div id="C_17"
-           class="screen"
-           data-audioCorrect="f_11"
-           data-audioIncorrect="f_12"
-           data-audioNoResults="f_13">
+      <div id="C_17" class="screen" data-audioCorrect="f_11" data-audioIncorrect="f_12" data-audioNoResults="f_13">
          <div class="feedbackContainer">
             <div class="hide" id="feedback0">
                <p>No results are available, as you have not completed the Knowledge Check.</p>
@@ -1206,12 +1116,7 @@
             <div class="hide" id="feedback2">
                <p>Sorry, you did not pass the Knowledge Check. Take a few minutes to review your results below by clicking on each question. </p>
                <p>When you are done, click the Retake button.</p>
-               <input class="knolCheckBtnLeft"
-                      hidefocus="true"
-                      id="retakeBtn"
-                      name="retakeBtn"
-                      type="button"
-                      value="Retake"/>
+               <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake"/>
             </div>
             <div class="seamless" id="fbResultsContainer"/>
          </div>
@@ -1244,27 +1149,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1303,27 +1208,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1351,27 +1256,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1409,8 +1314,7 @@
             <img class="resourcesIcon" src="images/resources_icon_manager_up.gif"/>
             <p>written standards</p>
             <ul>
-               <li>For our company’s fundamental set of expectations about interactions with others, consult our <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html"
-                     target="_blank">Code of Business Conduct</a>. </li>
+               <li>For our company’s fundamental set of expectations about interactions with others, consult our <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Code of Business Conduct</a>. </li>
                <li>For our corporate policies and procedures applicable companywide, visit the <a href="https://icomply.abbott.com/Apps/DocumentLibrary/" target="_blank">Global Policy Portal.</a>
                </li>
             </ul>
@@ -1421,12 +1325,10 @@
             <p>Office of Ethics and Compliance (OEC) </p>
             <p>The OEC is a global resource available to address your questions or concerns about our company’s values and standards of conduct.</p>
          <ul>
-            <li>Visit the <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance/?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D"
-                  target="_blank">OEC webpage</a> on Abbott World.</li>
+            <li>Visit the <a href="https://abbott.sharepoint.com/sites/AW-Ethics_Compliance/?xsdata=MDV8MDJ8fDZiMGMyMjNiZWY3YjQ3OGIxYjgyMDhkYzIxMDE4ODBjfDViMjY4ZDU3MmE2ZjRlMDRiMGRlNjkzODU4M2Q1ZWJjfDB8MHw2Mzg0MjE1Mzc2NDA5NDY1NjJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalUxT1RNd09HUTBMV1kxTnpndE5EazNNQzFoWldaaUxXTmxOekV3WmpjMllXUXhabDloT1dFM1pEQTNaQzA1TW1FNUxUUXlOR1l0WVRVeFpTMWhNREpsTnprMlpqSm1OVFJBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TmpVMU5qazJNemMxTlE9PXw2NDViMmRmNzQ1OWE0NDljMWI4MjA4ZGMyMTAxODgwY3xhZjVjNWFkMmQ0MTA0MGE5OThmZjcxZWNiYTNjMDE3ZA%3D%3D&amp;sdata=eWN6c2J1d21FVkNYQUdGQ1lhRnVwcTR2d2xqdlFPeTJJTFNKeE5rZ2Fvdz0%3D&amp;ovuser=5b268d57-2a6f-4e04-b0de-6938583d5ebc%2Ckole.klement%40abbott.com&amp;OR=Teams-HL&amp;CT=1706911207381&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yMzExMzAyODcyNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" target="_blank">OEC webpage</a> on Abbott World.</li>
             <li>If you have any concerns about corrupt business activities, either within the company or in your dealings with customers or other third parties, you can report your concerns to the OEC (<a href="mailto:investigations@abbott.com" target="_blank">
                   <span class="underline">investigations@abbott.com</span>
-               </a>) or Legal, or call our multilingual <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html"
-                  target="_blank">SpeakUp</a> available globally 24/7.</li>
+               </a>) or Legal, or call our multilingual <a href="https://secure.ethicspoint.com/domain/media/en/gui/40393/index.html" target="_blank">SpeakUp</a> available globally 24/7.</li>
             <li>iComply – Visit <a href="https://icomply.abbott.com/Default.aspx" target="_blank">iComply</a>  to access compliance-related applications and resources geared towards interactions with Healthcare Professionals and Healthcare Organizations, as well as third parties.</li>
             </ul>
          </div>
@@ -1442,8 +1344,7 @@
             <p>Legal Division</p>
             <p>Contact the Legal Division with questions or concerns about legal implications of bribery and corruption.</p>
             <ul>
-               <li>Click here to access the Legal home page on Abbott World.</li>
-            </ul>
+               <li>Click <a href="https://abbott.sharepoint.com/sites/AW-Abbott-Legal" target="_blank">here</a> to access the Legal home page on Abbott World.</li></ul>
          </div>
           <div class="helpSection" data-break="true">
             <hr class="resourcesRule"/>

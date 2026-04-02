@@ -1,90 +1,90 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
   <toc>
     <nav navId="A_1" title="خوش آمدید" description="5 minutes" timing="0" required="false">
       <nav navId="B_1" title="کاروباری طریقہ کار کا ضابطہ">
-        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st"/>
       </nav>
       <nav navId="B_2" title="ہمارا فلسفہ">
-        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f"/>
       </nav>
       <nav navId="B_3" title="مقاصد">
-        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f"/>
       </nav>
       <nav navId="B_4" title="مشمولات کی فہرست">
-        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc"/>
       </nav>
     </nav>
     <nav navId="A_2" title="Abbott کے کاروباری طریقہ کار کے ضابطہ کی اہمیت" description="2 minutes" timing="0" required="true">
       <nav navId="B_5" title="ہماری روزمرہ کی وابستگیاں">
-        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f"/>
       </nav>
       <nav navId="B_6" title="ہمارے کاروبار کے ضابطہ کی اہمیت">
-        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f"/>
       </nav>
     </nav>
     <nav navId="A_3" title="ہمارا ضابطہ اخلاق" description="20 minutes" timing="0" required="true">
       <nav navId="B_7" title="عمومی جائزہ">
-        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f"/>
       </nav>
       <nav navId="B_8" title="ہمارے گاہک">
-        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request"/>
       </nav>
       <nav navId="B_9" title="ہماری مصنوعات">
-        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request"/>
       </nav>
       <nav navId="B_10" title="سائنس کو ترقی دینا">
-        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request"/>
       </nav>
       <nav navId="B_11" title="ہمارے لوگ">
-        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request"/>
       </nav>
       <nav navId="B_12" title="ہماری معاشرتیں">
-        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request"/>
       </nav>
       <nav navId="B_13" title="ہمارا طریقہ کار">
-        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
-        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request"/>
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request"/>
       </nav>
     </nav>
     <nav navId="A_4" title="آپ کا عزم" description="4 minutes" timing="0" required="true">
       <nav navId="B_14" title="آپ کا عزم">
-        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true"/>
       </nav>
     </nav>
     <nav navId="A_5" title="معلومات کی جانچ" description="5 minutes" timing="0" required="true">
       <nav navId="B_15" title="تعارف">
-        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I"/>
       </nav>
       <nav navId="B_16" title="جائزہ">
-        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T"/>
       </nav>
       <nav navId="B_17" title="تاثرات">
-        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E"/>
       </nav>
       <nav navId="B_18" title="سروے">
-        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su"/>
       </nav>
     </nav>
   </toc>
   <screens>
     <div id="C_1" class="screen" data-autoAudio="0">
-      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <img src="images/1_1_1.jpg" class="fullscreenImg"/>
       <div>
-        <img src="images/logo.svg" class="coLogo" />
+        <img src="images/logo.svg" class="coLogo"/>
         <p>کاروباری طریقہ کار کا ضابطہ</p>
       </div>
       <p class="startInstruction">آگے بڑھنے والے تیر پر کلک کریں۔</p>
     </div>
     <div id="C_2" class="screen" data-autoAudio="1_2_1">
-      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <img src="images/1_2_1.jpg" class="fullscreenImg"/>
       <div>
         <p>ایک عالمی صحت کی دیکھ بھال کے رہنما کے طور پر، ہم ہر دن جو کرتے ہیں وہ اہم ہوتا ہے۔</p>
         <p>ہمارا کاروباری طرزِ عمل کا ضابطہ ایک طاقتور قطب نما ہے جو ہمیں دیانت داری کے ساتھ عمل کرنے، مقصد کے ساتھ قیادت کرنے، اور ایسے انتخاب کرنے کا اختیار دیتا ہے جو اس کی بہترین عکاسی کریں کہ ہم کون ہیں۔ اسی طرح ہم اعتماد قائم کرتے ہیں، اپنی قدروں کو برقرار رکھتے ہیں، اور دنیا میں معنی خیز فرق پیدا کرتے رہتے ہیں۔</p>
       </div>
     </div>
     <div id="C_3" class="screen" data-autoAudio="1_3_1">
-      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <img src="images/1_3_1.jpg" class="fullscreenImg"/>
       <div>
         <p>اس کورس کی تکمیل پر، آپ:</p>
         <ul>
@@ -102,8 +102,8 @@
             <p>1</p>
             <p>خوش آمدید</p>
             <p>1 منٹ</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -112,8 +112,8 @@
             <p>2</p>
             <p>Abbott کے کاروباری طریقہ کار کے ضابطے کی اہمیت</p>
             <p>2 منٹ</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -122,8 +122,8 @@
             <p>3</p>
             <p>ہمارا ضابطہ</p>
             <p>18 منٹ</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -132,8 +132,8 @@
             <p>4</p>
             <p>آپ کا عزم</p>
             <p>1 منٹ</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -142,8 +142,8 @@
             <p>5</p>
             <p>معلوماتی جائزہ</p>
             <p>5 منٹ</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -153,29 +153,29 @@
           <p>سیکھنے کی پیش رفت</p>
           <p class="pcDisplay">.</p>
           <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
-            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
-            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
           </svg>
         </div>
         <p class="tocUiMsg">یہ موضوع اب دستیاب ہے۔</p>
       </div>
     </div>
     <div id="C_5" class="screen" data-autoAudio="2_1_1">
-      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <img src="images/2_1_1.jpg" class="fullscreenImg"/>
       <div>
         <p>ہم دیانت داری، انصاف، اور ایمانداری کے ساتھ قیادت کرتے ہیں۔ ہر کوئی۔ ہر روز۔</p>
         <p>ہمارا کاروباری طرزِ عمل کا ضابطہ ہمیں یاد دلاتا ہے کہ دیانت داری، انصاف، اور ایمانداری محض نظریات نہیں—یہ روزمرہ کے عہد ہیں۔ اگرچہ ضابطہ ہر چیلنج کی پیش گوئی نہیں کر سکتا جس کا ہم سامنا کر سکتے ہیں، لیکن یہ ہمیں رہنمائی کے لیے قدروں کی ایک مضبوط بنیاد فراہم کرتا ہے۔</p>
       </div>
     </div>
     <div id="C_6" class="screen" data-autoAudio="2_2_1">
-      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <img src="images/2_2_1.jpg" class="fullscreenImg"/>
       <div>
         <p>ہم اعلیٰ ترین معیارات کے پابند ہیں۔</p>
         <p>کاروباری طریقہ کار کا ضابطہ Abbott کی کامیابی کے لیے بنیادی حیثیت رکھتا ہے کیونکہ یہ اس معیار کو قائم کرتا ہے کہ ہم کیسے کام کرتے ہیں—دیانت داری، انصاف، اور ایمانداری کے ساتھ۔ یہ ہمیں اخلاقی فیصلے کرنے میں مدد دیتا ہے، خاص طور پر پیچیدہ حالات میں، اور اس بات کو یقینی بناتا ہے کہ ہم اپنی قدروں کے مطابق رہیں۔ ضابطے پر عمل کر کے، ہم اپنی ساکھ کا تحفظ کرتے ہیں، اُن لوگوں کے ساتھ اعتماد قائم کرتے ہیں جن کی ہم خدمت کرتے ہیں، اور ایک ایسا کام کا ماحول تشکیل دیتے ہیں جہاں درست کام کرنا اولین ترجیح ہو۔</p>
       </div>
     </div>
     <div id="C_7" class="screen" data-autoAudio="3_1_1">
-      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <img src="images/3_1_1.jpg" class="fullscreenImg"/>
       <div>
         <p>ضابطے کو سمجھنا ہر ایک کی ذمہ داری ہے۔</p>
         <p>ہم میں سے ہر فرد کا کردار ہے کہ کاروباری طرزِ عمل کے ضابطے کو اپنے روزمرہ کے کام اور فیصلہ سازی میں لاگو کرے۔ یہ صرف ایک دستاویز نہیں—یہ ایک رہنما ہے جو ہمیں چیلنجوں سے دیانت داری اور اعتماد کے ساتھ نمٹنے میں مدد دیتا ہے۔</p>
@@ -192,38 +192,38 @@
           <div>
             <p>یہ ایک یاد دہانی ہے کہ ہر فیصلے، ہر جدت، اور ہر عمل کے پیچھے ایک مقصد ہوتا ہے—زندگی کو بہتر بنانا۔</p>
           </div>
-          <img src="images/3_2_1.jpg" alt="" />
+          <img src="images/3_2_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <img src="images/Icon_Family V3 Full Body_Large_White.png"/>
               <p>مریض اور صارفین</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <img src="images/Icon_Healthcare Workers_Large_White.png"/>
               <p>نگہداشت صحت کے پیشہ ور</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>مزید جاننے کے لیے ہر آئیکن پر کلک کریں۔</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_2_1_2.jpg" alt="" />
+              <img src="images/3_2_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>مریض اور صارفین</p>
                 <p>لوگوں کی دیکھ بھال کرنا ہمارے کام کا مرکز ہے۔ ہم مریضوں اور صارفین کی صحت اور بہبود کو اولین ترجیح دیتے ہیں۔ ہر روز، ہم ایک معنی خیز فرق لا سکتے ہیں—لوگوں کو زیادہ صحت مند زندگی گزارنے میں مدد دے کر اور مضبوط، صحت مند کمیونٹیز میں تعاون کرکے۔</p>
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_2_1_3.jpg" alt="" />
+              <img src="images/3_2_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>نگہداشت صحت کے پیشہ ور</p>
                 <p>ہم بہتر صحت کے لیے نگداشت صحت کے پیشہ ور افراد (HCPs) کے ساتھ کام کرتے ہیں۔ ہم نگہداشت صحت کے پیشہ ور افراد کے علم اور آزادانہ فیصلہ سازی کا احترام کرتے ہیں—چاہے وہ ڈاکٹر ہوں، یا نرسیں، فارماسسٹ، محققین، یا لیب کا عملہ ہو۔ مریضوں کو بہتر صحت کی طرف رہنمائی کرنے میں ان کا کردار ضروری ہے۔</p>
@@ -245,33 +245,33 @@
             <p>ہم یہ یقینی بنانے کے لیے اقدامات کرتے ہیں کہ ہماری مصنوعات محفوظ اور مؤثر ہوں—درست مواد کے انتخاب سے لے کر اس بات تک کہ ہم انہیں کیسے مارکیٹ کرتے ہیں، فروخت کرتے ہیں، اور پہنچاتے ہیں۔ ہر مرحلے پر، ہم کوالٹی کے اعلیٰ معیارات پر عمل کرتے ہیں۔</p>
             <p>ہم مصنوعات کی حفاظت کے مسائل کی بروقت شناخت، جائزہ، اور حل کرنے کے بھی پابند ہیں، ساتھ ہی جعلی سازی، غیر قانونی منتقلی، اور ہماری مصنوعات کی چوری کو روکنے کے اقدامات کرنے کے بھی پابند ہیں۔</p>
           </div>
-          <img src="images/3_3_1.jpg" alt="" />
+          <img src="images/3_3_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <img src="images/Icon_Nutrition Products V2_Large_White.png"/>
               <p>مصنوع کا معیار</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Food Label_Large_White.png" />
+              <img src="images/Icon_Food Label_Large_White.png"/>
               <p>مصنوع کی تشہیر I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <img src="images/Icon_Patient Interaction_Large_White.png"/>
               <p>مصنوع کی تشہیر II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>مزید جاننے کے لیے ہر آئیکن پر کلک کریں۔</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_3_1_2.jpg" alt="" />
+              <img src="images/3_3_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>مصنوع کا معیار</p>
                 <p>محفوظ، مؤثر اور قابلِ اعتماد۔ ہماری مصنوعات فرق پیدا کرتی ہیں۔</p>
@@ -281,10 +281,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_3_1_3.jpg" alt="" />
+              <img src="images/3_3_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>مصنوع کی تشہیر I</p>
                 <p>ہم اپنی مصنوعات کو ایمانداری کے ساتھ اور اُن لوگوں کے احترام کے ساتھ فروغ دیتے اور فروخت کرتے ہیں جو ان پر انحصار کرتے ہیں۔</p>
@@ -292,10 +292,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_3_1_4.jpg" alt="" />
+              <img src="images/3_3_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>مصنوع کی تشہیر II</p>
                 <p>ہم اپنی مصنوعات کو اُن کے ارادی اور منظور شدہ استعمالات کے لیے فروغ دیتے ہیں۔</p>
@@ -316,33 +316,33 @@
           <div>
             <p>ہم جدت کا پیچھا کرتے ہیں، اس اعتراف کے ساتھ کہ خطرات کی پیش گوئی اور انہیں ذمہ داری سے حل کرنا اہم ہے۔ ہم ہر مطالعہ کے شریک کی وقار کا احترام کرتے ہیں اور سائنسی تحقیق میں شفافیت اور معروضیت کے اعلیٰ ترین معیارات کو برقرار رکھتے ہیں۔</p>
           </div>
-          <img src="images/3_4_1.jpg" alt="" />
+          <img src="images/3_4_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <img src="images/Icon_Sensor Wear_Large_White.png"/>
               <p>جدت و اختراع I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Libre View_Large_White.png" />
+              <img src="images/Icon_Libre View_Large_White.png"/>
               <p>جدت و اختراع II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Research Science_Large_White.png" />
+              <img src="images/Icon_Research Science_Large_White.png"/>
               <p>سائنس کو ترقی دینا</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>مزید جاننے کے لیے ہر آئیکن پر کلک کریں۔</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_4_1_2.jpg" alt="" />
+              <img src="images/3_4_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>جدت و اختراع I</p>
                 <p>ہم لوگوں کو زیادہ صحت مند زندگی گزارنے اور دنیا بھر میں نتائج کو بہتر بنانے میں مدد کے لیے جدید صحت کی دیکھ بھال کے حل تخلیق کرتے ہیں۔</p>
@@ -350,10 +350,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_4_1_3.jpg" alt="" />
+              <img src="images/3_4_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>جدت و اختراع II</p>
                 <p>ہم نئی امکانات کی تلاش کر کے اور ممکنہ حالات کی منصوبہ بندی کر کے جدت کی ثقافت کو پروان چڑھاتے ہیں۔</p>
@@ -361,10 +361,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_4_1_4.jpg" alt="" />
+              <img src="images/3_4_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>سائنس کو ترقی دینا</p>
                 <p>ہم تحقیق کرتے ہیں تاکہ درست، معروضی ڈیٹا تیار کریں جو جدت کو آگے بڑھاتا ہے، علاج بہتر بناتا ہے، اور صحت کی دیکھ بھال کو آگے لے جاتا ہے۔</p>
@@ -389,48 +389,48 @@
             <p>ہم سوالات پوچھتے ہیں جب چیزیں واضح نہيں ہوتی ہیں اور آواز اٹھاتے ہیں جب کچھ ٹھیک محسوس نہيں ہوتا ہے۔</p>
             <p>یہ حصہ مساوی مواقع اور محفوظ کام کے ماحول کے لیے ہمارے عہد کو مضبوط کرتا ہے، اور ہمیں یاد دلاتا ہے کہ ہم جو بھی کریں اس میں ضابطے کو سمجھیں، لاگو کریں، اور برقرار رکھیں۔</p>
           </div>
-          <img src="images/3_5_1.jpg" alt="" />
+          <img src="images/3_5_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Collaboration_Large_White.png" />
+              <img src="images/Icon_Collaboration_Large_White.png"/>
               <p>اشتراک</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <img src="images/Icon_Employee Relations_Large_White.png"/>
               <p>ایک دوسرے سے ہمارا ربط</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <img src="images/Icon_Smart Phone V1_Large_White.png"/>
               <p>تشویشات کی اطلاع دہی</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <img src="images/Icon_Active Wheelchair_Large_White.png"/>
               <p>مساوی موقع</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <img src="images/Icon_Partnership Giving_Large_White.png"/>
               <p>منصفانہ برتاؤ</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="6">
-              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png"/>
               <p>کام کی جگہ کا ماحول</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>مزید جاننے کے لیے ہر آئیکن پر کلک کریں۔</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_5_1_2.jpg" alt="" />
+              <img src="images/3_5_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>اشتراک</p>
                 <p>ہم کھلے پن اور تعاون کو قدر کی نگاہ سے دیکھتے ہیں کیونکہ متنوع خیالات بہتر حل پیدا کرتے ہیں۔</p>
@@ -438,10 +438,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_3.jpg" alt="" />
+              <img src="images/3_5_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ایک دوسرے سے ہمارا ربط</p>
                 <p>ہم سب ہر روز Abbott کی قدروں کے مطابق زندگی گزارنے کی ذمہ داری رکھتے ہیں۔</p>
@@ -450,10 +450,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_4.jpg" alt="" />
+              <img src="images/3_5_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>تشویشات کی اطلاع دہی</p>
                 <p>ہم سوالات پوچھتے ہیں جب کوئی چيز واضح نہيں ہوتی ہے یا ٹھیک محسوس نہيں ہوتی ہے۔ ہم آواز بھی اٹھاتے ہیں اور ضابطے کی کسی بھی ممکنہ خلاف ورزی کی رپورٹ کرتے ہیں۔</p>
@@ -473,10 +473,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_5.jpg" alt="" />
+              <img src="images/3_5_1_5.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>مساوی موقع</p>
                 <p>ہم سبھی ملازمین کو مساوی مواقع فراہم کرتے ہیں۔</p>
@@ -485,10 +485,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_6.jpg" alt="" />
+              <img src="images/3_5_1_6.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>منصفانہ برتاؤ</p>
                 <p>ہم ایک بااخلاق، جامع، اور محفوظ کام کی جگہ کو پروان چڑھاتے ہیں۔</p>
@@ -498,10 +498,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_7.jpg" alt="" />
+              <img src="images/3_5_1_7.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>کام کی جگہ کا ماحول</p>
                 <p>ہم حفاظت اور منصفانہ کام کرنے کے حالات کو ترجیح دیتے ہیں۔</p>
@@ -524,33 +524,33 @@
             <p>Abbott توانائی کے استعمال کو کم کر کے اور قدرتی وسائل کے تحفظ کے ذریعے اپنے ماحولیاتی اثرات کو کم کرنے کے لیے کام کرتا ہے۔</p>
             <p>ہم مناسب سیاسی شمولیت کی بھی حمایت کرتے ہیں اور اپنی عالمی سرگرمیوں میں کمیونٹی کی شمولیت کی حوصلہ افزائی کرتے ہیں۔</p>
           </div>
-          <img src="images/3_6_1.jpg" alt="" />
+          <img src="images/3_6_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <img src="images/Icon_Caring Heart_Large_White.png"/>
               <p>کمیونٹی کی شمولیت</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <img src="images/Icon_Reprocessing_Large_White.png"/>
               <p>ماحولیاتی ذمہ داری</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Government_Large_White.png" />
+              <img src="images/Icon_Government_Large_White.png"/>
               <p>سیاسی تعاون</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>مزید جاننے کے لیے ہر آئیکن پر کلک کریں۔</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_6_1_2.jpg" alt="" />
+              <img src="images/3_6_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>کمیونٹی کی شمولیت</p>
                 <p>ہم کمیونٹی کی فلاح و بہبود کی حمایت کرتے ہیں۔</p>
@@ -559,10 +559,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_6_1_3.jpg" alt="" />
+              <img src="images/3_6_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ماحولیاتی ذمہ داری</p>
                 <p>ہم پائیدار ترقی میں حصہ لیتے ہیں اور ماحول پر اپنے اثر کو کم کرنے کے لیے کام کرتے ہیں۔</p>
@@ -571,10 +571,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_6_1_4.jpg" alt="" />
+              <img src="images/3_6_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>سیاسی تعاون</p>
                 <p>ہم سیاسی عمل میں مناسب شمولیت کی حوصلہ افزائی کرتے ہیں اور کمیونیٹی کی شمولیت کی حمایت کرتے ہیں۔</p>
@@ -596,43 +596,43 @@
           <div>
             <p>ہم مفادات کے ٹکراؤ کو سنبھالتے وقت Abbott کے مفادات کو اپنے مفادات پر ترجیح دیتے ہیں۔ ہم Abbott کے اثاثوں اور ساکھ کا تحفظ کرتے ہیں، خفیہ معلومات کو محفوظ رکھتے ہیں، اور ہر اس شخص کی رازداری کا احترام کرتے ہیں جو ہمارے ساتھ ذاتی معلومات شیئر کرتا ہے۔</p>
           </div>
-          <img src="images/3_7_1.jpg" alt="" />
+          <img src="images/3_7_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Partnership_Large_White.png" />
+              <img src="images/Icon_Partnership_Large_White.png"/>
               <p>منصفانہ لین دین</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Speaker_Large_White.png" />
+              <img src="images/Icon_Speaker_Large_White.png"/>
               <p>مفادات کے تصادم سے گریز کرنا I</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Travel_Large_White.png" />
+              <img src="images/Icon_Travel_Large_White.png"/>
               <p>مفادات کے تصادم سے گریز کرنا II</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_CEC_Large_White.png" />
+              <img src="images/Icon_CEC_Large_White.png"/>
               <p>Abbott کی املاک اور وقار کا تحفظ</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Chat_Large_White.png" />
+              <img src="images/Icon_Chat_Large_White.png"/>
               <p>رازدارانہ معلومات</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>مزید جاننے کے لیے ہر آئیکن پر کلک کریں۔</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_7_1_2.jpg" alt="" />
+              <img src="images/3_7_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>منصفانہ لین دین</p>
                 <p>ہم اپنے کاروبار کی ساری سرگرمیوں میں دیانت داری کے ساتھ کاروبار کرتے ہیں اور اپنے وعدوں کو پورا کرتے ہیں۔</p>
@@ -640,10 +640,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_3.jpg" alt="" />
+              <img src="images/3_7_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>مفادات کے تصادم سے گریز کرنا I</p>
                 <p>آگے بڑھنے سے پہلے ہم کسی بھی مفاد کے تصادم کی شناخت کرتے ہیں اور اسے حل کرتے ہیں۔</p>
@@ -651,10 +651,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_4.jpg" alt="" />
+              <img src="images/3_7_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>مفادات کے تصادم سے گریز کرنا II</p>
                 <p>ہم کام سے متعلق فیصلے کرتے وقت Abbott کے مفادات کو پہلے رکھتے ہیں۔</p>
@@ -662,10 +662,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_5.jpg" alt="" />
+              <img src="images/3_7_1_5.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>Abbott کی املاک اور وقار کا تحفظ</p>
                 <p>ہم اپنی کمپنی کے نگہباں ہیں۔</p>
@@ -677,10 +677,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_6.jpg" alt="" />
+              <img src="images/3_7_1_6.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>رازدارانہ معلومات</p>
                 <p>ہم تمام خفیہ معلومات، بشمول ذاتی ڈیٹا، کا احترام اور تحفظ کرنے کے پابند ہیں۔</p>
@@ -704,43 +704,43 @@
           <div>
             <p>ہم مفادات کے ٹکراؤ کو سنبھالتے وقت Abbott کے مفادات کو اپنے مفادات پر ترجیح دیتے ہیں۔ ہم Abbott کے اثاثوں اور ساکھ کا تحفظ کرتے ہیں، خفیہ معلومات کو محفوظ رکھتے ہیں، اور ہر اس شخص کی رازداری کا احترام کرتے ہیں جو ہمارے ساتھ ذاتی معلومات شیئر کرتا ہے۔</p>
           </div>
-          <img src="images/3_7_1.jpg" alt="" />
+          <img src="images/3_7_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <img src="images/Icon_Do Not Touch_Large_White.png"/>
               <p>انسداد رشوت</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Plate_Large_White.png" />
+              <img src="images/Icon_Plate_Large_White.png"/>
               <p>تحائف، کھانے اور تفریح</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <img src="images/Icon_Regulatory Compliance_Large_White.png"/>
               <p>درست بہی کھاتے اور ریکارڈز</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_Justice_Large_White.png" />
+              <img src="images/Icon_Justice_Large_White.png"/>
               <p>قوانین کی تعمیل</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Evalution_Large_White.png" />
+              <img src="images/Icon_Evalution_Large_White.png"/>
               <p>منصفانہ مسابقت</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>مزید جاننے کے لیے ہر آئیکن پر کلک کریں۔</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_7_1_7.jpg" alt="" />
+              <img src="images/3_7_1_7.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>انسداد رشوت</p>
                 <p>ہم دھوکہ دہی، رشوت خوری اور بدعنوانی کی سرگرمیوں کی سختی سے مخالفت کرتے ہیں۔ ہم درست طریقہ پر کاروبار کرتے ہیں۔</p>
@@ -750,10 +750,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_7_1_8.jpg" alt="" />
+              <img src="images/3_7_1_8.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>تحائف، کھانے اور تفریح</p>
                 <p>ہم انسداد رشوت ستانی کے اصولوں کے مطابق کاروباری فائدہ حاصل کرنے کے لیے، براہ راست یا بالواسطہ، کسی بھی قیمتی چیز کی پیشکش یا فراہمی نہیں کرتے ۔</p>
@@ -761,10 +761,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_9.jpg" alt="" />
+              <img src="images/3_7_1_9.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>درست بہی کھاتے اور ریکارڈز</p>
                 <p>ہم درستگی کے ساتھ حصولیابیوں کی پیمائش کرتے ہیں۔</p>
@@ -773,10 +773,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_10.jpg" alt="" />
+              <img src="images/3_7_1_10.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>قوانین کی تعمیل</p>
                 <p>ہم ان سبھی قوانین، ضوابط اور Abbott کے تقاضوں پر عمل کرتے ہیں جن کا اطلاق ہمارے کام پر ہوتا ہے۔</p>
@@ -785,10 +785,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_11.jpg" alt="" />
+              <img src="images/3_7_1_11.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>منصفانہ مسابقت</p>
                 <p>ہم اس بات کو یقینی بناتے ہیں کہ حریفوں کے ساتھ ہمارا کوئی بھی معاملہ مناسب ہو۔</p>
@@ -807,14 +807,14 @@
           <p>میں تصدیق کرتا/کرتی ہوں کہ میں Abbott کے ضابطۂ اخلاقِ کاروبار سے متعلق اپنی ذمہ داریوں کو سمجھتا/سمجھتی ہوں اور جانتا/جانتی ہوں کہ متعلقہ پالیسیوں اور طریقہ کار کو کہاں تلاش کرنا اور جائزہ لینا ہے۔</p>
           <button class="qcSubmitBtn">تصدیق کریں</button>
         </div>
-        <img src="images/confirmIcon.png" />
+        <img src="images/confirmIcon.png"/>
       </div>
     </div>
     <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
       <div class="assessIntroScreen">
         <p>مندرجہ ذیل معلومات کی جانچ 10 سوالات پر مشتمل ہے۔ اس کورس کو کامیابی کے ساتھ مکمل کرنے کے لیے آپ کا 80 فیصد یا اس سے زیادہ اسکور حاصل کرنا ضروری ہے۔</p>
         <p>جب آپ تیار ہوں تو معلومات کی جانچ والے بٹن پر کلک کریں۔</p>
-        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check"/>
       </div>
     </div>
     <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
@@ -1125,9 +1125,9 @@
         <div class="hide" id="feedback2">
           <p>معذرت، آپ معلومات کی جانچ میں کامیاب نہیں ہوئے۔ کچھ وقت نکال کر ہر سوال پر کلک کرکے نیچے اپنے نتائج کا جائزہ لیں۔</p>
           <p>جب آپ مکمل کرلیں تو دوبارہ کریں بٹن پر کلک کریں۔</p>
-          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake"/>
         </div>
-        <div class="seamless" id="fbResultsContainer" />
+        <div class="seamless" id="fbResultsContainer"/>
       </div>
     </div>
     <div id="C_199" class="screen" data-autoAudio="f_14">
@@ -1158,27 +1158,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1217,27 +1217,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1265,27 +1265,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1313,14 +1313,14 @@
     <div id="C_200" class="screen helpPage">
       <p class="resSubtitles">معاونت کے لیے کہاں جائیں</p>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif"/>
         <p>مینیجر</p>
         <p>اگر آپ کے پاس Abbott سے باہر دیگر لوگوں کے ساتھ اپنے میل جول کے بارے میں سوالات ہوں تو سب سے پہلے اپنے مینیجر سے پوچھیں۔</p>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif"/>
         <p>تحریری معیارات</p>
         <ul>
           <li>دوسروں کے ساتھ میل جول کے بارے میں ہماری کمپنی کی بنیادی توقعات کے لیے، ہمارے <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">کاروباری ضابطہ اخلاق</a>ملاحظہ فرمائیں۔</li>
@@ -1328,8 +1328,8 @@
         </ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif"/>
         <p>اخلاقیات اور تعمیل کا دفتر (او ای سی)</p>
         <p>او ای سی ایک عالمی ذریعہ ہے جو ہماری کمپنی کی اقدار اور کنڈکٹ کے معیار کے بارے میں آپ کے سوالات کا جواب دینے کے لیے دستیاب ہے۔</p>
         <ul>
@@ -1339,23 +1339,22 @@
         </ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif"/>
         <p>انسانی وسائل</p>
         <p>ملازم سے متعلق مسائل کے لیے جیسے کہ مینجمنٹ اور/یا دیگر ملازمین سے متعلق مسائل کے لیے، اپنے مقامی <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">انسانی وسائل کے نمائندے</a> سے رابطہ کریں۔</p>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif"/>
         <p>قانونی شعبہ</p>
         <p>رشوت خوری اور بدعنوانی کے قانونی مضمرات کے بارے میں سوالات اور مسائل کے لیے قانونی شعبے سے رابطہ کریں۔</p>
         <ul>
-          <li>Abbott World میں قانونی ہوم پیج تک رسائی کے لیے یہاں کلک کریں۔</li>
-        </ul>
+          <li>Abbott World میں قانونی ہوم پیج تک رسائی کے لیے <a href="https://abbott.sharepoint.com/sites/AW-Abbott-Legal" target="_blank">یہاں</a> کلک کریں۔</li></ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif"/>
         <p>دیگر وسائل</p>
         <p>آپ کے لئے دیگر بہت سے وسائل دستیاب ہیں:</p>
         <p>مالیات – اگر آپ کا سوال حساب یا مالیات کے بارے میں ہے تو اپنے مقامی مالیات محکمہ سے رابطہ کریں۔</p>
@@ -1366,7 +1365,7 @@
       </div>
       <p class="resSubtitles" data-break="true">کورس کے وسائل</p>
       <div class="helpSection">
-        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif"/>
         <p>ٹرانسکرپٹ</p>
         <p>کورس کی ایک مکمل تحریری نقل کے لیے <a href="reference/Transcript.pdf" target="_blank">یہاں</a> کلک کریں</p>
       </div>

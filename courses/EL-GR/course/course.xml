@@ -1,90 +1,90 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <course framework="2" helpId="C_200" id="iwc" noaudio="true" homeId="C_4" version="1" alwayshowRef="C_200" linearnav="true">
   <toc>
     <nav navId="A_1" title="Καλώς ορίσατε" description="5 minutes" timing="0" required="false">
       <nav navId="B_1" title="Κώδικας Επιχειρηματικής Συμπεριφοράς">
-        <nav navId="C_1" type="basic" resId="1_1_1" classType="st" />
+        <nav navId="C_1" type="basic" resId="1_1_1" classType="st"/>
       </nav>
       <nav navId="B_2" title="Η φιλοσοφία μας">
-        <nav navId="C_2" type="basic" resId="1_2_1" classType="f" />
+        <nav navId="C_2" type="basic" resId="1_2_1" classType="f"/>
       </nav>
       <nav navId="B_3" title="Στόχοι">
-        <nav navId="C_3" type="basic" resId="1_3_1" classType="f" />
+        <nav navId="C_3" type="basic" resId="1_3_1" classType="f"/>
       </nav>
       <nav navId="B_4" title="Πίνακας περιεχομένων">
-        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc" />
+        <nav navId="C_4" type="toc" resId="1_4_1" classType="toc"/>
       </nav>
     </nav>
     <nav navId="A_2" title="Η σημασία του Κώδικα Επιχειρηματικής Συμπεριφοράς της Abbott" description="2 minutes" timing="0" required="true">
       <nav navId="B_5" title="Οι καθημερινές μας δεσμεύσεις">
-        <nav navId="C_5" type="basic" resId="2_1_1" classType="f" />
+        <nav navId="C_5" type="basic" resId="2_1_1" classType="f"/>
       </nav>
       <nav navId="B_6" title="Η σημασία του Κώδικα στην επιχειρηματική μας δραστηριότητα">
-        <nav navId="C_6" type="basic" resId="2_2_1" classType="f" />
+        <nav navId="C_6" type="basic" resId="2_2_1" classType="f"/>
       </nav>
     </nav>
     <nav navId="A_3" title="Ο Κώδικάς μας" description="20 minutes" timing="0" required="true">
       <nav navId="B_7" title="Επισκόπηση">
-        <nav navId="C_7" type="basic" resId="3_1_1" classType="f" />
+        <nav navId="C_7" type="basic" resId="3_1_1" classType="f"/>
       </nav>
       <nav navId="B_8" title="Οι πελάτες μας">
-        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request" />
+        <nav navId="C_8" type="sliderIcons" resId="3_2_1" mustComplete="request"/>
       </nav>
       <nav navId="B_9" title="Τα προϊόντα μας">
-        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request" />
+        <nav navId="C_9" type="sliderIcons" resId="3_3_1" mustComplete="request"/>
       </nav>
       <nav navId="B_10" title="Προώθηση της επιστήμης">
-        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request" />
+        <nav navId="C_10" type="sliderIcons" resId="3_4_1" mustComplete="request"/>
       </nav>
       <nav navId="B_11" title="Οι άνθρωποί μας">
-        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request" />
+        <nav navId="C_11" type="sliderIcons" resId="3_5_1" mustComplete="request"/>
       </nav>
       <nav navId="B_12" title="Οι κοινότητές μας">
-        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request" />
+        <nav navId="C_12" type="sliderIcons" resId="3_6_1" mustComplete="request"/>
       </nav>
       <nav navId="B_13" title="Πώς λειτουργούμε">
-        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request" />
-        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request" />
+        <nav navId="C_13" type="sliderIcons" resId="3_7_1" mustComplete="request"/>
+        <nav navId="C_13b" type="sliderIcons" subType="single" resId="3_7_1b" mustComplete="request"/>
       </nav>
     </nav>
     <nav navId="A_4" title="Η δέσμευσή σας" description="4 minutes" timing="0" required="true">
       <nav navId="B_14" title="Η δέσμευσή σας">
-        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true" />
+        <nav navId="C_14" type="confirmation" resId="4_1_1" classType="con" mustComplete="true"/>
       </nav>
     </nav>
     <nav navId="A_5" title="Έλεγχος γνώσεων" description="5 minutes" timing="0" required="true">
       <nav navId="B_15" title="Εισαγωγή">
-        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I" />
+        <nav navId="C_15" type="testIntro" resId="5_1_1" classType="I"/>
       </nav>
       <nav navId="B_16" title="Αξιολόγηση">
-        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T" />
+        <nav navId="Q_1" targetId="C_16" type="assessment" resId="5_2_1" classType="T"/>
       </nav>
       <nav navId="B_17" title="Σχόλια">
-        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E" />
+        <nav navId="C_17" type="feedback" resId="5_3_1" classType="E"/>
       </nav>
       <nav navId="B_18" title="Έρευνα">
-        <nav navId="C_199" type="survey" resId="5_4_1" classType="su" />
+        <nav navId="C_199" type="survey" resId="5_4_1" classType="su"/>
       </nav>
     </nav>
   </toc>
   <screens>
     <div id="C_1" class="screen" data-autoAudio="0">
-      <img src="images/1_1_1.jpg" class="fullscreenImg" />
+      <img src="images/1_1_1.jpg" class="fullscreenImg"/>
       <div>
-        <img src="images/logo.svg" class="coLogo" />
+        <img src="images/logo.svg" class="coLogo"/>
         <p>Κώδικας Επιχειρηματικής Συμπεριφοράς</p>
       </div>
       <p class="startInstruction">Κάντε κλικ στο εμπρός βέλος.</p>
     </div>
     <div id="C_2" class="screen" data-autoAudio="1_2_1">
-      <img src="images/1_2_1.jpg" class="fullscreenImg" />
+      <img src="images/1_2_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Ως παγκόσμιος ηγέτης στον τομέα της υγειονομικής περίθαλψης, οτιδήποτε κάνουμε κάθε μέρα έχει σημασία.</p>
         <p>Ο Κώδικας Επιχειρηματικής Συμπεριφοράς μας είναι μία ισχυρή πυξίδα που μας επιτρέπει να ενεργούμε με ακεραιότητα, να ηγούμαστε με σκοπό και να κάνουμε επιλογές που αντικατοπτρίζουν τον καλύτερο εαυτό μας. Με αυτόν τον τρόπο δημιουργούμε εμπιστοσύνη, υποστηρίζουμε τις αξίες μας και συνεχίζουμε να κάνουμε μια σημαντική διαφορά στον κόσμο.</p>
       </div>
     </div>
     <div id="C_3" class="screen" data-autoAudio="1_3_1">
-      <img src="images/1_3_1.jpg" class="fullscreenImg" />
+      <img src="images/1_3_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Μετά την ολοκλήρωση αυτού του μαθήματος:</p>
         <ul>
@@ -102,8 +102,8 @@
             <p>1</p>
             <p>Καλώς ορίσατε</p>
             <p>1 λεπτό</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -112,8 +112,8 @@
             <p>2</p>
             <p>Η σημασία του Κώδικα Επιχειρηματικής Συμπεριφοράς της Abbott</p>
             <p>2 λεπτά</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -122,8 +122,8 @@
             <p>3</p>
             <p>Ο Κώδικάς μας</p>
             <p>18 λεπτά</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -132,8 +132,8 @@
             <p>4</p>
             <p>Η δέσμευσή σας</p>
             <p>1 λεπτό</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -142,8 +142,8 @@
             <p>5</p>
             <p>Έλεγχος γνώσεων</p>
             <p>5 λεπτά</p>
-            <hr />
-            <hr class="greenProgLine" />
+            <hr/>
+            <hr class="greenProgLine"/>
             <div class="toc2ImgCon">
               <span>.</span>
             </div>
@@ -153,29 +153,29 @@
           <p>Μαθησιακή πρόοδος</p>
           <p class="pcDisplay">.</p>
           <svg class="circProgAnim" x="0" y="0" viewBox="0 0 200 200">
-            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
-            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10" />
+            <circle cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
+            <circle transform="rotate(-90 100 100)" class="circleTop" cx="100" cy="100" r="94" fill="transparent" stroke="#fff" stroke-width="10"/>
           </svg>
         </div>
         <p class="tocUiMsg">Αυτό το θέμα είναι τώρα διαθέσιμο.</p>
       </div>
     </div>
     <div id="C_5" class="screen" data-autoAudio="2_1_1">
-      <img src="images/2_1_1.jpg" class="fullscreenImg" />
+      <img src="images/2_1_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Ηγούμαστε με ακεραιότητα, δικαιοσύνη και ειλικρίνεια. Όλοι. Κάθε μέρα.</p>
         <p>Ο Κώδικας Επιχειρηματικής Συμπεριφοράς μας υπενθυμίζει ότι η ακεραιότητα, η δικαιοσύνη και η ειλικρίνεια δεν είναι απλώς ιδανικά, αλλά καθημερινές δεσμεύσεις. Αν και ο Κώδικας δεν μπορεί να προβλέψει κάθε πρόκληση που ενδέχεται να αντιμετωπίσουμε, προσφέρει μια ισχυρή βάση αξιών που θα μας καθοδηγεί στην πορεία.</p>
       </div>
     </div>
     <div id="C_6" class="screen" data-autoAudio="2_2_1">
-      <img src="images/2_2_1.jpg" class="fullscreenImg" />
+      <img src="images/2_2_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Δεσμευόμαστε να τηρούμε τα υψηλότερα πρότυπα.</p>
         <p>Ο Κώδικας Επιχειρηματικής Συμπεριφοράς είναι ζωτικής σημασίας για την επιτυχία της Abbott, επειδή θέτει τα πρότυπα του τρόπου που εργαζόμαστε – με ακεραιότητα, δικαιοσύνη και ειλικρίνεια. Μας βοηθά να λαμβάνουμε δεοντολογικές αποφάσεις, ειδικά σε περίπλοκες καταστάσεις, και εξασφαλίζει ότι παραμένουμε πιστοί στις αξίες μας. Ακολουθώντας τον Κώδικα, προστατεύουμε τη φήμη μας, δημιουργούμε σχέσεις εμπιστοσύνης με αυτούς που εξυπηρετούμε και δημιουργούμε μια κουλτούρα στον χώρο εργασίας όπου το να κάνουμε το σωστό είναι εξαιρετικά σημαντικό.</p>
       </div>
     </div>
     <div id="C_7" class="screen" data-autoAudio="3_1_1">
-      <img src="images/3_1_1.jpg" class="fullscreenImg" />
+      <img src="images/3_1_1.jpg" class="fullscreenImg"/>
       <div>
         <p>Η κατανόηση του Κώδικα είναι ευθύνη όλων.</p>
         <p>Κάθε ένας από εμάς έχει έναν ρόλο στην εφαρμογή του Κώδικα Επιχειρηματικής Συμπεριφοράς στην καθημερινή μας εργασία και στη λήψη αποφάσεων. Δεν είναι απλά ένα έγγραφο, είναι ένας οδηγός που μας βοηθά να αντιμετωπίζουμε τις προκλήσεις με ακεραιότητα και αυτοπεποίθηση.</p>
@@ -192,38 +192,38 @@
           <div>
             <p>Είναι μια υπενθύμιση ότι πίσω από κάθε απόφαση, κάθε καινοτομία και κάθε ενέργεια υπάρχει ένας σκοπός: να βελτιώσουμε τη ζωή των ανθρώπων.</p>
           </div>
-          <img src="images/3_2_1.jpg" alt="" />
+          <img src="images/3_2_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Family V3 Full Body_Large_White.png" />
+              <img src="images/Icon_Family V3 Full Body_Large_White.png"/>
               <p>Ασθενείς και καταναλωτές</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Healthcare Workers_Large_White.png" />
+              <img src="images/Icon_Healthcare Workers_Large_White.png"/>
               <p>Επαγγελματίες Υγείας</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Κάντε κλικ σε κάθε εικονίδιο για να μάθετε περισσότερα.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_2_1_2.jpg" alt="" />
+              <img src="images/3_2_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΑΣΘΕΝΕΙΣ ΚΑΙ ΚΑΤΑΝΑΛΩΤΕΣ</p>
                 <p>Η φροντίδα των ανθρώπων βρίσκεται στο επίκεντρο των στόχων μας. Δίνουμε προτεραιότητα στην υγεία και την ευεξία των ασθενών και των καταναλωτών. Κάθε μέρα, μπορούμε να κάνουμε ουσιαστική διαφορά, βοηθώντας τους ανθρώπους να ζήσουν μια πιο υγιεινή ζωή και συμβάλλοντας στη δημιουργία ισχυρότερων και υγιέστερων κοινοτήτων.</p>
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_2_1_3.jpg" alt="" />
+              <img src="images/3_2_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΕΠΑΓΓΕΛΜΑΤΙΕΣ ΥΓΕΙΑΣ</p>
                 <p>Συνεργαζόμαστε με ΕΥ για την υποστήριξη της καλύτερης υγείας. Σεβόμαστε τις γνώσεις και την ανεξάρτητη κρίση των επαγγελματιών υγείας, είτε πρόκειται για γιατρούς, νοσηλευτές, φαρμακοποιούς, ερευνητές ή προσωπικό εργαστηρίων. Ο ρόλος τους στην καθοδήγηση των ασθενών για καλύτερη υγεία είναι ουσιαστικός.</p>
@@ -245,33 +245,33 @@
             <p>Λαμβάνουμε μέτρα για να εξασφαλίσουμε ότι τα προϊόντα μας είναι ασφαλή και αποτελεσματικά – από την επιλογή των κατάλληλων υλικών έως τον τρόπο προώθησης, πώλησης και παράδοσης τους. Σε κάθε στάδιο, ακολουθούμε τα υψηλότερα πρότυπα ποιότητας.</p>
             <p>Δεσμευόμαστε επίσης για έγκαιρο εντοπισμό, αξιολόγηση και αντιμετώπιση των ζητημάτων ασφάλειας των προϊόντων, καθώς και τη λήψη μέτρων για την πρόληψη της παραχάραξης, της παράνομης εκτροπής και της κλοπής των προϊόντων μας.</p>
           </div>
-          <img src="images/3_3_1.jpg" alt="" />
+          <img src="images/3_3_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Nutrition Products V2_Large_White.png" />
+              <img src="images/Icon_Nutrition Products V2_Large_White.png"/>
               <p>Ποιότητα Προϊόντος</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Food Label_Large_White.png" />
+              <img src="images/Icon_Food Label_Large_White.png"/>
               <p>Προώθηση Προϊόντος Ι</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Patient Interaction_Large_White.png" />
+              <img src="images/Icon_Patient Interaction_Large_White.png"/>
               <p>Προώθηση Προϊόντος ΙΙ</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Κάντε κλικ σε κάθε εικονίδιο για να μάθετε περισσότερα.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_3_1_2.jpg" alt="" />
+              <img src="images/3_3_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΠΟΙΟΤΗΤΑ ΠΡΟΪΟΝΤΟΣ</p>
                 <p>Ασφαλές, αποτελεσματικό και αξιόπιστο. Τα προϊόντα μας κάνουν τη διαφορά.</p>
@@ -281,10 +281,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_3_1_3.jpg" alt="" />
+              <img src="images/3_3_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΠΡΟΩΘΗΣΗ ΠΡΟΪΟΝΤΟΣ Ι</p>
                 <p>Προωθούμε και πωλούμε τα προϊόντα μας με ειλικρίνεια και σεβασμό προς όσους βασίζονται σε αυτά.</p>
@@ -292,10 +292,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_3_1_4.jpg" alt="" />
+              <img src="images/3_3_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΠΡΟΩΘΗΣΗ ΠΡΟΪΟΝΤΟΣ ΙΙ</p>
                 <p>Προωθούμε τα προϊόντα μας για τις προβλεπόμενες και εγκεκριμένες χρήσεις τους.</p>
@@ -316,33 +316,33 @@
           <div>
             <p>Προωθούμε την καινοτομία, αναγνωρίζοντας τη σημασία της πρόβλεψης και της υπεύθυνης αντιμετώπισης των κινδύνων. Τιμούμε την αξιοπρέπεια κάθε συμμετέχοντα στη μελέτη και τηρούμε τα υψηλότερα πρότυπα διαφάνειας και αντικειμενικότητας στην επιστημονική έρευνα.</p>
           </div>
-          <img src="images/3_4_1.jpg" alt="" />
+          <img src="images/3_4_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Sensor Wear_Large_White.png" />
+              <img src="images/Icon_Sensor Wear_Large_White.png"/>
               <p>Καινοτομία Ι</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Libre View_Large_White.png" />
+              <img src="images/Icon_Libre View_Large_White.png"/>
               <p>Καινοτομία ΙΙ</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Research Science_Large_White.png" />
+              <img src="images/Icon_Research Science_Large_White.png"/>
               <p>Προώθηση της επιστήμης</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Κάντε κλικ σε κάθε εικονίδιο για να μάθετε περισσότερα.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_4_1_2.jpg" alt="" />
+              <img src="images/3_4_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΚΑΙΝΟΤΟΜΙΑ Ι</p>
                 <p>Δημιουργούμε καινοτόμες λύσεις υγειονομικής περίθαλψης για να βοηθήσουμε τους ανθρώπους να ζήσουν πιο υγιεινή ζωή και να βελτιώσουμε τα κλινικά αποτελέσματα σε όλο τον κόσμο.</p>
@@ -350,10 +350,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_4_1_3.jpg" alt="" />
+              <img src="images/3_4_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΚΑΙΝΟΤΟΜΙΑ ΙΙ</p>
                 <p>Καλλιεργούμε μια κουλτούρα καινοτομίας, εξερευνώντας νέες δυνατότητες και σχεδιάζοντας για περιπτώσεις έκτακτων αναγκών.</p>
@@ -361,10 +361,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_4_1_4.jpg" alt="" />
+              <img src="images/3_4_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΠΡΟΩΘΗΣΗ ΤΗΣ ΕΠΙΣΤΗΜΗΣ</p>
                 <p>Διεξάγουμε έρευνες για τη δημιουργία ακριβών, αντικειμενικών δεδομένων που προωθούν την καινοτομία, βελτιώνουν τις θεραπείες και προάγουν την υγειονομική περίθαλψη.</p>
@@ -389,48 +389,48 @@
             <p>Κάνουμε ερωτήσεις όταν τα πράγματα δεν είναι σαφή και εκφράζουμε την άποψή μας όταν κάτι δεν μας φαίνεται σωστό.</p>
             <p>Αυτή η ενότητα ενισχύει τη δέσμευσή μας για ίσες ευκαιρίες και ένα ασφαλές εργασιακό περιβάλλον και μας υπενθυμίζει να κατανοούμε, να εφαρμόζουμε και να τηρούμε τον Κώδικα σε οτιδήποτε κάνουμε.</p>
           </div>
-          <img src="images/3_5_1.jpg" alt="" />
+          <img src="images/3_5_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Collaboration_Large_White.png" />
+              <img src="images/Icon_Collaboration_Large_White.png"/>
               <p>Συνεργασία</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Employee Relations_Large_White.png" />
+              <img src="images/Icon_Employee Relations_Large_White.png"/>
               <p>Η σύνδεση μεταξύ μας</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Smart Phone V1_Large_White.png" />
+              <img src="images/Icon_Smart Phone V1_Large_White.png"/>
               <p>Αναφορά ζητημάτων</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_Active Wheelchair_Large_White.png" />
+              <img src="images/Icon_Active Wheelchair_Large_White.png"/>
               <p>Ισότιμες Ευκαιρίες</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Partnership Giving_Large_White.png" />
+              <img src="images/Icon_Partnership Giving_Large_White.png"/>
               <p>Δίκαιη Μεταχείριση</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="6">
-              <img src="images/Icon_In Person Meeting_Large_White_v2.png" />
+              <img src="images/Icon_In Person Meeting_Large_White_v2.png"/>
               <p>Εργασιακό περιβάλλον</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Κάντε κλικ σε κάθε εικονίδιο για να μάθετε περισσότερα.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_5_1_2.jpg" alt="" />
+              <img src="images/3_5_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΣΥΝΕΡΓΑΣΙΑ</p>
                 <p>Εκτιμούμε τη διαφάνεια και τη συνεργασία, επειδή οι διαφορετικές ιδέες οδηγούν σε καλύτερες λύσεις.</p>
@@ -438,10 +438,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_3.jpg" alt="" />
+              <img src="images/3_5_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>Η ΣΥΝΔΕΣΗ ΜΕΤΑΞΥ ΜΑΣ</p>
                 <p>Μοιραζόμαστε όλοι μας την ευθύνη να εφαρμόζουμε τις αξίες της Abbott στην πράξη, κάθε μέρα.</p>
@@ -450,10 +450,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_4.jpg" alt="" />
+              <img src="images/3_5_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΑΝΑΦΟΡΑ ΖΗΤΗΜΑΤΩΝ</p>
                 <p>Κάνουμε ερωτήσεις όταν κάτι δεν είναι σαφές ή δεν μας φαίνεται σωστό. Επίσης, εκφράζουμε την άποψή μας και αναφέρουμε πιθανές παραβάσεις του Κώδικα.</p>
@@ -473,10 +473,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_5.jpg" alt="" />
+              <img src="images/3_5_1_5.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΙΣΟΤΙΜΕΣ ΕΥΚΑΙΡΙΕΣ</p>
                 <p>Παρέχουμε ισότιμες ευκαιρίες για όλους τους υπαλλήλους.</p>
@@ -485,10 +485,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_6.jpg" alt="" />
+              <img src="images/3_5_1_6.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΔΙΚΑΙΗ ΜΕΤΑΧΕΙΡΙΣΗ</p>
                 <p>Προωθούμε ένα εργασιακό περιβάλλον με σεβασμό, ασφάλεια και χωρίς αποκλεισμούς.</p>
@@ -498,10 +498,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_5_1_7.jpg" alt="" />
+              <img src="images/3_5_1_7.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΕΡΓΑΣΙΑΚΟ ΠΕΡΙΒΑΛΛΟΝ</p>
                 <p>Δίνουμε προτεραιότητα στην ασφάλεια και στις δίκαιες συνθήκες εργασίας.</p>
@@ -524,33 +524,33 @@
             <p>Η Abbott προσπαθεί να περιορίσει το περιβαλλοντικό της αποτύπωμα μειώνοντας την κατανάλωση ενέργειας και προστατεύοντας τους φυσικούς πόρους.</p>
             <p>Υποστηρίζουμε επίσης την κατάλληλη πολιτική δέσμευση και ενθαρρύνουμε τη συμμετοχή της κοινότητας σε όλες τις παγκόσμιες δραστηριότητές μας.</p>
           </div>
-          <img src="images/3_6_1.jpg" alt="" />
+          <img src="images/3_6_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Caring Heart_Large_White.png" />
+              <img src="images/Icon_Caring Heart_Large_White.png"/>
               <p>Συμμετοχή στην κοινότητα</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Reprocessing_Large_White.png" />
+              <img src="images/Icon_Reprocessing_Large_White.png"/>
               <p>Περιβαλλοντική ευθύνη</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Government_Large_White.png" />
+              <img src="images/Icon_Government_Large_White.png"/>
               <p>Πολιτικές συνεισφορές</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Κάντε κλικ σε κάθε εικονίδιο για να μάθετε περισσότερα.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_6_1_2.jpg" alt="" />
+              <img src="images/3_6_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΣΥΜΜΕΤΟΧΗ ΣΤΗΝ ΚΟΙΝΟΤΗΤΑ</p>
                 <p>Υποστηρίζουμε την ευημερία της κοινότητας.</p>
@@ -559,10 +559,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_6_1_3.jpg" alt="" />
+              <img src="images/3_6_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΠΕΡΙΒΑΛΛΟΝΤΙΚΗ ΕΥΘΥΝΗ</p>
                 <p>Συμμετέχουμε στη βιώσιμη ανάπτυξη και εργαζόμαστε για να μειώσουμε τον αντίκτυπό μας στο περιβάλλον.</p>
@@ -571,10 +571,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_6_1_4.jpg" alt="" />
+              <img src="images/3_6_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΠΟΛΙΤΙΚΕΣ ΣΥΝΕΙΣΦΟΡΕΣ</p>
                 <p>Ενθαρρύνουμε την κατάλληλη συμμετοχή στην πολιτική διαδικασία και υποστηρίζουμε τη συμμετοχή στα ζητήματα της κοινότητας.</p>
@@ -596,43 +596,43 @@
           <div>
             <p>Θέτουμε τα συμφέροντα της Abbott πάνω από τα δικά μας, σε περιπτώσεις διαχείρισης σύγκρουσης συμφερόντων. Προστατεύουμε τα περιουσιακά στοιχεία και τη φήμη της Abbott, διαφυλάσσουμε τις εμπιστευτικές πληροφορίες και σεβόμαστε το ιδιωτικό απόρρητο όσων μοιράζονται τις προσωπικές πληροφορίες τους μαζί μας.</p>
           </div>
-          <img src="images/3_7_1.jpg" alt="" />
+          <img src="images/3_7_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Partnership_Large_White.png" />
+              <img src="images/Icon_Partnership_Large_White.png"/>
               <p>Θεμιτές συναλλαγές</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Speaker_Large_White.png" />
+              <img src="images/Icon_Speaker_Large_White.png"/>
               <p>Αποφυγή σύγκρουσης συμφερόντων Ι</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Travel_Large_White.png" />
+              <img src="images/Icon_Travel_Large_White.png"/>
               <p>Αποφυγή σύγκρουσης συμφερόντων ΙΙ</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_CEC_Large_White.png" />
+              <img src="images/Icon_CEC_Large_White.png"/>
               <p>Προστασία των περιουσιακών στοιχείων και της φήμης της Abbott</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Chat_Large_White.png" />
+              <img src="images/Icon_Chat_Large_White.png"/>
               <p>Εμπιστευτικές πληροφορίες</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Κάντε κλικ σε κάθε εικονίδιο για να μάθετε περισσότερα.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent slLeft">
-              <img src="images/3_7_1_2.jpg" alt="" />
+              <img src="images/3_7_1_2.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΘΕΜΙΤΕΣ ΣΥΝΑΛΛΑΓΕΣ</p>
                 <p>Διεξάγουμε τις επιχειρηματικές μας δραστηριότητες με ακεραιότητα και τηρούμε τις δεσμεύσεις μας σε κάθε πτυχή της εργασίας μας.</p>
@@ -640,10 +640,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_3.jpg" alt="" />
+              <img src="images/3_7_1_3.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΑΠΟΦΥΓΗ ΣΥΓΚΡΟΥΣΗΣ ΣΥΜΦΕΡΟΝΤΩΝ Ι</p>
                 <p>Αναγνωρίζουμε και αντιμετωπίζουμε οποιεσδήποτε συγκρούσεις συμφερόντων πριν προχωρήσουμε.</p>
@@ -651,10 +651,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_4.jpg" alt="" />
+              <img src="images/3_7_1_4.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΑΠΟΦΥΓΗ ΣΥΓΚΡΟΥΣΗΣ ΣΥΜΦΕΡΟΝΤΩΝ ΙΙ</p>
                 <p>Κατά τη λήψη αποφάσεων που σχετίζονται με την εργασία, δίνουμε προτεραιότητα στα συμφέροντα της Abbott.</p>
@@ -662,10 +662,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_5.jpg" alt="" />
+              <img src="images/3_7_1_5.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΠΡΟΣΤΑΣΙΑ ΤΩΝ ΠΕΡΙΟΥΣΙΑΚΩΝ ΣΤΟΙΧΕΙΩΝ ΚΑΙ ΤΗΣ ΦΗΜΗΣ ΤΗΣ ABBOTT</p>
                 <p>Είμαστε οι προστάτες της εταιρείας μας.</p>
@@ -677,10 +677,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_6.jpg" alt="" />
+              <img src="images/3_7_1_6.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΕΜΠΙΣΤΕΥΤΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ</p>
                 <p>Δεσμευόμαστε να σεβόμαστε και να προστατεύουμε όλες τις εμπιστευτικές πληροφορίες, συμπεριλαμβανομένων των προσωπικών δεδομένων.</p>
@@ -704,43 +704,43 @@
           <div>
             <p>Θέτουμε τα συμφέροντα της Abbott πάνω από τα δικά μας, σε περιπτώσεις διαχείρισης σύγκρουσης συμφερόντων. Προστατεύουμε τα περιουσιακά στοιχεία και τη φήμη της Abbott, διαφυλάσσουμε τις εμπιστευτικές πληροφορίες και σεβόμαστε το ιδιωτικό απόρρητο όσων μοιράζονται τις προσωπικές πληροφορίες τους μαζί μας.</p>
           </div>
-          <img src="images/3_7_1.jpg" alt="" />
+          <img src="images/3_7_1.jpg" alt=""/>
         </div>
         <div class="sliderOuterContentContainer">
           <div class="sliderIconContainer">
             <div class="sliderIcon" data-target="1">
-              <img src="images/Icon_Do Not Touch_Large_White.png" />
+              <img src="images/Icon_Do Not Touch_Large_White.png"/>
               <p>Καταπολέμηση της δωροδοκίας</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="2">
-              <img src="images/Icon_Plate_Large_White.png" />
+              <img src="images/Icon_Plate_Large_White.png"/>
               <p>Δώρα, Γεύματα και Ψυχαγωγία</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="3">
-              <img src="images/Icon_Regulatory Compliance_Large_White.png" />
+              <img src="images/Icon_Regulatory Compliance_Large_White.png"/>
               <p>Ακριβή βιβλία και στοιχεία</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="4">
-              <img src="images/Icon_Justice_Large_White.png" />
+              <img src="images/Icon_Justice_Large_White.png"/>
               <p>Συμμόρφωση με τους νόμους</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <div class="sliderIcon" data-target="5">
-              <img src="images/Icon_Evalution_Large_White.png" />
+              <img src="images/Icon_Evalution_Large_White.png"/>
               <p>Θεμιτός ανταγωνισμός</p>
-              <img src="images/whiteComplete.svg" />
+              <img src="images/whiteComplete.svg"/>
             </div>
             <p>Κάντε κλικ σε κάθε εικονίδιο για να μάθετε περισσότερα.</p>
           </div>
           <div class="sliderInnerContentContainer">
             <div class="sliderContent">
-              <img src="images/3_7_1_7.jpg" alt="" />
+              <img src="images/3_7_1_7.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΚΑΤΑΠΟΛΕΜΗΣΗ ΤΗΣ ΔΩΡΟΔΟΚΙΑΣ</p>
                 <p>Είμαστε ενεργά αντίθετοι με την απάτη, τη δωροδοκία και τη διαφθορά. Αποκτούμε επιχειρηματικές δραστηριότητες με τον σωστό τρόπο.</p>
@@ -750,10 +750,10 @@
               </div>
             </div>
             <div class="sliderContent slLeft">
-              <img src="images/3_7_1_8.jpg" alt="" />
+              <img src="images/3_7_1_8.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΔΩΡΑ, ΓΕΥΜΑΤΑ ΚΑΙ ΨΥΧΑΓΩΓΙΑ</p>
                 <p>Δεν προσφέρουμε ούτε παρέχουμε οτιδήποτε αξίας για να αποκτήσουμε επιχειρηματικό πλεονέκτημα, άμεσα ή έμμεσα, σε συμμόρφωση με τις αρχές κατά της δωροδοκίας.</p>
@@ -761,10 +761,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_9.jpg" alt="" />
+              <img src="images/3_7_1_9.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΑΚΡΙΒΗ ΒΙΒΛΙΑ ΚΑΙ ΣΤΟΙΧΕΙΑ</p>
                 <p>Μετράμε τα επιτεύγματα με ακρίβεια.</p>
@@ -773,10 +773,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_10.jpg" alt="" />
+              <img src="images/3_7_1_10.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΣΥΜΜΟΡΦΩΣΗ ΜΕ ΤΟΥΣ ΝΟΜΟΥΣ</p>
                 <p>Τηρούμε όλους τους νόμους, τους κανονισμούς και τις απαιτήσεις της Abbott που ισχύουν για την εργασία μας.</p>
@@ -785,10 +785,10 @@
               </div>
             </div>
             <div class="sliderContent">
-              <img src="images/3_7_1_11.jpg" alt="" />
+              <img src="images/3_7_1_11.jpg" alt=""/>
               <div class="sliderRoundShape">.</div>
               <div class="sliderVerticalBar">.</div>
-              <img class="slClose" src="images/close.svg" />
+              <img class="slClose" src="images/close.svg"/>
               <div class="sliderTextContainer" data-break="true">
                 <p>ΘΕΜΙΤΟΣ ΑΝΤΑΓΩΝΙΣΜΟΣ</p>
                 <p>Εξασφαλίζουμε ότι όλες οι αλληλεπιδράσεις που έχουμε με τους ανταγωνιστές είναι θεμιτές.</p>
@@ -807,14 +807,14 @@
           <p>Επιβεβαιώνω ότι κατανοώ τις ευθύνες μου σχετικά με τον Κώδικα Επιχειρηματικής Συμπεριφοράς της Abbott και γνωρίζω πού να εντοπίσω και να ελέγξω τις εφαρμοστέες Πολιτικές και Διαδικασίες.</p>
           <button class="qcSubmitBtn">Επιβεβαίωση</button>
         </div>
-        <img src="images/confirmIcon.png" />
+        <img src="images/confirmIcon.png"/>
       </div>
     </div>
     <div id="C_15" class="screen" data-autoAudio="f_0" data-resourceId="knolCheck">
       <div class="assessIntroScreen">
         <p>Ο έλεγχος γνώσεων που ακολουθεί, αποτελείται από 10 ερωτήσεις. Θα πρέπει να πετύχετε βαθμολογία 80% ή υψηλότερη για να ολοκληρωθεί με επιτυχία αυτό το μάθημα.</p>
         <p>ΟΤΑΝ ΕΙΣΤΕ ΕΤΟΙΜΟΙ, ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ ΚΟΥΜΠΙ «ΕΛΕΓΧΟΣ ΓΝΩΣΕΩΝ».</p>
-        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check" />
+        <input class="knolCheckBtn" id="knolCheck" type="button" value="Knowledge Check"/>
       </div>
     </div>
     <div id="C_16" class="screen" data-passScore="8" data-retakeId="Q_1">
@@ -1125,9 +1125,9 @@
         <div class="hide" id="feedback2">
           <p>Δυστυχώς δεν περάσατε τον έλεγχο γνώσεων. Αφιερώστε λίγα λεπτά για να εξετάσετε τα αποτελέσματά σας παρακάτω, κάνοντας κλικ σε κάθε ερώτηση.</p>
           <p>Όταν τελειώσετε, κάντε κλικ στο κουμπί «Επανάληψη».</p>
-          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake" />
+          <input class="knolCheckBtnLeft" hidefocus="true" id="retakeBtn" name="retakeBtn" type="button" value="Retake"/>
         </div>
-        <div class="seamless" id="fbResultsContainer" />
+        <div class="seamless" id="fbResultsContainer"/>
       </div>
     </div>
     <div id="C_199" class="screen" data-autoAudio="f_14">
@@ -1158,27 +1158,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1217,27 +1217,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1265,27 +1265,27 @@
             <div class="starContainer">
               <div class="dStar dStar_1">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_2">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_3">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_4">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
               <div class="dStar dStar_5">
                 <svg viewBox="0 0 33 32.28">
-                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62" />
+                  <polygon class="svStar" points="16.97 1.62 20.61 12.83 32.4 12.83 22.86 19.76 26.51 30.97 16.97 24.04 7.43 30.97 11.08 19.76 1.54 12.83 13.33 12.83 16.97 1.62"/>
                 </svg>
               </div>
             </div>
@@ -1313,14 +1313,14 @@
     <div id="C_200" class="screen helpPage">
       <p class="resSubtitles">Πού να απευθυνθείτε για υποστήριξη</p>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif"/>
         <p>Διευθυντής</p>
         <p>Εάν έχετε ερωτήσεις σχετικά με τις αλληλεπιδράσεις σας με άτομα εκτός της Abbott, το καλύτερο μέρος για να ξεκινήσετε είναι με τον διευθυντή σας</p>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_manager_up.gif"/>
         <p>Γραπτά πρότυπα</p>
         <ul>
           <li>Για το σύνολο των θεμελιωδών προσδοκιών της εταιρείας μας σχετικά με τις αλληλεπιδράσεις με άλλους, συμβουλευτείτε τον <a href="http://www.abbott.com/investors/governance/code-of-business-conduct.html" target="_blank">Κώδικα Επιχειρηματικής Συμπεριφοράς</a>.</li>
@@ -1328,8 +1328,8 @@
         </ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_phone_up.gif"/>
         <p>Γραφείο Δεοντολογίας και Συμμόρφωσης (OEC)</p>
         <p>Το OEC είναι ένας παγκόσμιος πόρος που σας διατίθεται ώστε να απευθύνετε ερωτήσεις ή ζητήματα που σας απασχολούν σχετικά με τις αξίες και τα πρότυπα συμπεριφοράς της εταιρείας μας.</p>
         <ul>
@@ -1339,23 +1339,22 @@
         </ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif"/>
         <p>Τμήμα Ανθρώπινου Δυναμικού</p>
         <p>Για ζητήματα που αφορούν στο προσωπικό, όπως ζητήματα που αφορούν στη διεύθυνση ή/και άλλους υπαλλήλους, επικοινωνήστε με τον τοπικό σας εκπρόσωπο <a href="https://abbott.sharepoint.com/sites/myhr" target="_blank">Ανθρώπινου Δυναμικού</a>.</p>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif"/>
         <p>Νομικό Τμήμα</p>
         <p>Επικοινωνήστε με το Νομικό Τμήμα για τυχόν ερωτήσεις ή ανησυχίες σχετικά με τις νομικές επιπτώσεις της δωροδοκίας και της διαφθοράς.</p>
         <ul>
-          <li>Κάντε κλικ εδώ για να αποκτήσετε πρόσβαση στην αρχική σελίδα του Νομικού Τμήματος στο Abbott World.</li>
-        </ul>
+          <li>Κάντε κλικ <a href="https://abbott.sharepoint.com/sites/AW-Abbott-Legal" target="_blank">εδώ</a> για να αποκτήσετε πρόσβαση στην αρχική σελίδα του Νομικού Τμήματος στο Abbott World.</li></ul>
       </div>
       <div class="helpSection" data-break="true">
-        <hr class="resourcesRule" />
-        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif" />
+        <hr class="resourcesRule"/>
+        <img class="resourcesIcon" src="images/resources_icon_legal_up.gif"/>
         <p>ΑΛΛΟΙ ΠΟΡΟΙ</p>
         <p>Υπάρχουν πολλές άλλες διαθέσιμες πηγές για σας:</p>
         <p>Οικονομικά - Εάν η ερώτησή σας σχετίζεται με τη λογιστική ή τα οικονομικά, επικοινωνήστε με το Οικονομικό Τμήμα.</p>
@@ -1366,7 +1365,7 @@
       </div>
       <p class="resSubtitles" data-break="true">Πόροι μαθήματος</p>
       <div class="helpSection">
-        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif" />
+        <img class="resourcesIcon" src="images/resources_icon_pdf_up.gif"/>
         <p>Μετάγραφο</p>
         <p>Κάντε κλικ <a href="reference/Transcript.pdf" target="_blank">εδώ</a> για ένα πλήρες μετάγραφο του μαθήματος</p>
       </div>
