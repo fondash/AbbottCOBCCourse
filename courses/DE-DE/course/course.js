@@ -10475,7 +10475,7 @@ lnx.sliderIcons = {
                 slContent = screenElm.querySelectorAll('.sliderContent')[num-1];
                 let bcr1 = slContent.parentNode.getBoundingClientRect();
                 
-                let outer = 1400;
+                let outer = 100;
                 let bcr = tg.getBoundingClientRect();
                 let r = bcr.width/2;
                 let x = (bcr.x + bcr.width /2) - bcr1.x;
@@ -10483,7 +10483,7 @@ lnx.sliderIcons = {
 
                 tl = gsap.timeline();
                 tl.set(slContent, {autoAlpha: 1});
-                tl.fromTo(slContent, {display: "block", clipPath: `circle(${r}px at ${x}px ${y}px)`, filter: "grayscale(1)" }, {clipPath: `circle(${outer}px at ${x}px ${y}px)`, filter: "grayscale(0)", duration: 1.5, ease: "power3.in", onComplete: onComplete, onReverseComplete: onReverseComplete});
+                tl.fromTo(slContent, {display: "block", clipPath: `circle(${r}px at ${x}px ${y}px)`, filter: "grayscale(1)" }, {clipPath: `circle(${outer}% at ${x}px ${y}px)`, filter: "grayscale(0)", duration: 1.5, ease: "power3.in", onComplete: onComplete, onReverseComplete: onReverseComplete});
 
                 let rs = slContent.querySelector('.sliderRoundShape');
                 let tx = slContent.querySelector('.sliderTextContainer');
