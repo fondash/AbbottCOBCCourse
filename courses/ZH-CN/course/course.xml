@@ -863,7 +863,7 @@
             </div>
             <div class="qOption" data-optNum="4" data-break="true">
               <p>4</p>
-              <p>为开展一项教育项目而聘请 HCP，感谢其适用雅培产品。</p>
+              <p>为开展一项教育项目而聘请 HCP，感谢其使用雅培产品。</p>
             </div>
             <button class="qButton" type="button" data-btnVal="next">下一页</button>
             <div data-fb="true" class="feedback" data-break="true">
